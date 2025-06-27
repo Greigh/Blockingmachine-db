@@ -1,9 +1,15 @@
 # Blockingmachine Database
 
-[![Auto Update](https://github.com/danielhipskind/blockingmachine/actions/workflows/update-filters.yml/badge.svg)](https://github.com/danielhipskind/blockingmachine/actions/workflows/update-filters.yml)
+[![Auto Update](https://github.com/greigh/blockingmachine-db/actions/workflows/update-filters.yml/badge.svg)](https://github.com/greigh/blockingmachine-db/actions/workflows/update-filters.yml)
 [![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](LICENSE)
 
-Automatically updated collection of filter lists for ad-blocking, privacy protection, and security, powered by [Blockingmachine CLI](https://github.com/greigh/Blockingmachine).
+Automatically updated collection of filter lists for ad-blocking, privacy protection, and security, powered by [Blockingmachine CLI](https://github.com/greigh/blockingmachine-cli).
+
+## 🔗 Related Projects
+
+- **[Blockingmachine CLI](https://github.com/greigh/blockingmachine-cli)** - Command-line tool for filter list management
+- **[Blockingmachine App](https://github.com/greigh/blockingmachine)** - Desktop application with GUI
+- **[Blockingmachine Core](https://github.com/greigh/blockingmachine-core)** - Core library and rule processing engine
 
 **Last updated:** 2025-06-27 | **Next update:** Daily at 2:00 PM EST
 
@@ -19,14 +25,14 @@ Use these raw GitHub URLs in your ad blocker:
 
 | Format | Use Case | Subscribe URL |
 |--------|----------|---------------|
-| **AdGuard Browser** | Browser extensions (uBlock Origin, AdGuard) | [`adguardBrowser.txt`](https://raw.githubusercontent.com/danielhipskind/blockingmachine/main/packages/database/filters/adguardBrowser.txt) |
-| **AdGuard DNS** | AdGuard Home, AdGuard DNS | [`adguardDns.txt`](https://raw.githubusercontent.com/danielhipskind/blockingmachine/main/packages/database/filters/adguardDns.txt) |
-| **Hosts** | Pi-hole, system hosts file | [`hosts.txt`](https://raw.githubusercontent.com/danielhipskind/blockingmachine/main/packages/database/filters/hosts.txt) |
-| **DNSMasq** | DNSMasq DNS server | [`dnsmasq.conf`](https://raw.githubusercontent.com/danielhipskind/blockingmachine/main/packages/database/filters/dnsmasq.conf) |
-| **Unbound** | Unbound DNS resolver | [`unbound.conf`](https://raw.githubusercontent.com/danielhipskind/blockingmachine/main/packages/database/filters/unbound.conf) |
-| **BIND** | BIND DNS server | [`named.conf`](https://raw.githubusercontent.com/danielhipskind/blockingmachine/main/packages/database/filters/named.conf) |
-| **Privoxy** | Privoxy proxy server | [`privoxy.action`](https://raw.githubusercontent.com/danielhipskind/blockingmachine/main/packages/database/filters/privoxy.action) |
-| **Shadowrocket** | Shadowrocket iOS app | [`shadowrocket.conf`](https://raw.githubusercontent.com/danielhipskind/blockingmachine/main/packages/database/filters/shadowrocket.conf) |
+| **AdGuard Browser** | Browser extensions (uBlock Origin, AdGuard) | [`adguardBrowser.txt`](https://raw.githubusercontent.com/greigh/blockingmachine-db/main/filters/adguardBrowser.txt) |
+| **AdGuard DNS** | AdGuard Home, AdGuard DNS | [`adguardDns.txt`](https://raw.githubusercontent.com/greigh/blockingmachine-db/main/filters/adguardDns.txt) |
+| **Hosts** | Pi-hole, system hosts file | [`hosts.txt`](https://raw.githubusercontent.com/greigh/blockingmachine-db/main/filters/hosts.txt) |
+| **DNSMasq** | DNSMasq DNS server | [`dnsmasq.conf`](https://raw.githubusercontent.com/greigh/blockingmachine-db/main/filters/dnsmasq.conf) |
+| **Unbound** | Unbound DNS resolver | [`unbound.conf`](https://raw.githubusercontent.com/greigh/blockingmachine-db/main/filters/unbound.conf) |
+| **BIND** | BIND DNS server | [`named.conf`](https://raw.githubusercontent.com/greigh/blockingmachine-db/main/filters/named.conf) |
+| **Privoxy** | Privoxy proxy server | [`privoxy.action`](https://raw.githubusercontent.com/greigh/blockingmachine-db/main/filters/privoxy.action) |
+| **Shadowrocket** | Shadowrocket iOS app | [`shadowrocket.conf`](https://raw.githubusercontent.com/greigh/blockingmachine-db/main/filters/shadowrocket.conf) |
 
 ## 📊 Statistics
 
@@ -99,7 +105,7 @@ Filter lists are aggregated from these trusted sources:
 
 ```bash
 # Add to Pi-hole blocklists
-echo "https://raw.githubusercontent.com/danielhipskind/blockingmachine/main/packages/database/filters/hosts.txt" | sudo tee -a /etc/pihole/adlists.list
+echo "https://raw.githubusercontent.com/greigh/blockingmachine-db/main/filters/hosts.txt" | sudo tee -a /etc/pihole/adlists.list
 
 # Update gravity
 pihole -g
@@ -110,7 +116,7 @@ pihole -g
 1. Open AdGuard Home admin panel
 2. Go to **Filters** → **DNS blocklists**  
 3. Click **Add blocklist**
-4. Enter URL: `https://raw.githubusercontent.com/danielhipskind/blockingmachine/main/packages/database/filters/adguardDns.txt`
+4. Enter URL: `https://raw.githubusercontent.com/greigh/blockingmachine-db/main/filters/adguardDns.txt`
 5. Click **Add**
 
 ### uBlock Origin
@@ -118,7 +124,7 @@ pihole -g
 1. Open uBlock Origin dashboard
 2. Go to **Filter lists** tab
 3. Scroll to **Custom** section
-4. Click **Import** and add: `https://raw.githubusercontent.com/danielhipskind/blockingmachine/main/packages/database/filters/adguardBrowser.txt`
+4. Click **Import** and add: `https://raw.githubusercontent.com/greigh/blockingmachine-db/main/filters/adguardBrowser.txt`
 
 ### System Hosts File
 
@@ -127,7 +133,7 @@ pihole -g
 sudo cp /etc/hosts /etc/hosts.backup
 
 # Download and append our hosts list
-curl -o /tmp/blocklist.txt https://raw.githubusercontent.com/danielhipskind/blockingmachine/main/packages/database/filters/hosts.txt
+curl -o /tmp/blocklist.txt https://raw.githubusercontent.com/greigh/blockingmachine-db/main/filters/hosts.txt
 sudo cat /tmp/blocklist.txt >> /etc/hosts
 ```
 
@@ -163,7 +169,7 @@ Blockingmachine includes carefully curated allowlist rules to prevent false posi
 
 ## 🤝 Contributing
 
-1. **Report Issues**: Found a false positive? [Open an issue](https://github.com/danielhipskind/blockingmachine/issues)
+1. **Report Issues**: Found a false positive? [Open an issue](https://github.com/greigh/blockingmachine-db/issues)
 2. **Suggest Sources**: Know a quality filter list? Let us know!
 3. **Improve Automation**: Submit PRs to enhance the update process
 
@@ -173,4 +179,4 @@ BSD-3-Clause License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**⚡ Powered by [Blockingmachine CLI](https://github.com/greigh/Blockingmachine)** | **🤖 Auto-updated daily**
+**⚡ Powered by [Blockingmachine CLI](https://github.com/greigh/blockingmachine-cli)** | **🤖 Auto-updated daily**
