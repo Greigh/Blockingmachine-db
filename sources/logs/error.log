@@ -1,8 +1,0 @@
-2025-06-27 09:30:56 [31merror[39m: [31mImport failed: Invalid configuration:[39m
-[31m  - sources.12.url: Invalid url[39m
-2025-06-27 09:34:51 [31merror[39m: [31mValidation failed:[39m
-2025-06-27 09:36:08 [31merror[39m: [31m✗ Error processing AdGuard DNS Filter: Maximum call stack size exceeded[39m
-2025-06-27 09:36:08 [31merror[39m: [31mENOENT: no such file or directory, open '/Users/hipskind/Coding/Blockingmachine/packages/database/sources/filters/output/imported-rules.txt'[39m
-2025-06-27 09:37:05 [31merror[39m: [31m✗ Error processing AdGuard DNS Filter: Maximum call stack size exceeded[39m
-2025-06-27 09:40:01 [31merror[39m: [31m✗ Error processing AdGuard DNS Filter: Maximum call stack size exceeded[39m
-2025-06-27 09:45:01 [31merror[39m: [31m✗ Error processing AdGuard DNS Filter: Maximum call stack size exceeded[39m
