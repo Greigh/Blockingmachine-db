@@ -38,7 +38,7 @@ Use these raw GitHub URLs in your ad blocker:
 
 | Category | Rules | Size | Last Updated |
 |----------|-------|------|--------------|
-| **Complete** | 391,744 | 3.2MB | 2025-06-28 |
+| **Complete** | 391,738 | 3.2MB | 2025-06-28 |
 | Advertising | 68,245 | 1.7MB | 2025-06-28 |
 | Privacy | 42,183 | 1.0MB | 2025-06-28 |
 | Security | 12,762 | 308KB | 2025-04-29 |
