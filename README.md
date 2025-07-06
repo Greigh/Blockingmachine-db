@@ -11,7 +11,7 @@ Automatically updated collection of filter lists for ad-blocking, privacy protec
 - **[Blockingmachine App](https://github.com/greigh/blockingmachine)** - Desktop application with GUI
 - **[Blockingmachine Core](https://github.com/greigh/blockingmachine-core)** - Core library and rule processing engine
 
-**Last updated:** 2025-07-05 | **Next update:** Daily at 2:00 PM EST
+**Last updated:** 2025-07-06 | **Next update:** Daily at 2:00 PM EST
 
 ## 🚀 Quick Start
 
@@ -38,9 +38,9 @@ Use these raw GitHub URLs in your ad blocker:
 
 | Category | Rules | Size | Last Updated |
 |----------|-------|------|--------------|
-| **Complete** | 386,737 | 3.2MB | 2025-07-05 |
-| Advertising | 68,245 | 1.7MB | 2025-07-05 |
-| Privacy | 42,183 | 1.0MB | 2025-07-05 |
+| **Complete** | 387,530 | 3.2MB | 2025-07-06 |
+| Advertising | 68,245 | 1.7MB | 2025-07-06 |
+| Privacy | 42,183 | 1.0MB | 2025-07-06 |
 | Security | 12,762 | 308KB | 2025-04-29 |
 | Social | 8,421 | 204KB | 2025-04-29 |
 | Malware | 5,738 | 139KB | 2025-04-29 |
