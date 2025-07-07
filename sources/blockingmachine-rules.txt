@@ -1,6 +1,11 @@
+! BlockingMachine Rules
+! Filters other filters miss or shouldn't be blocked
+! This file is updated manually and is not automatically updated by the CLI.
+! Last updated: 2025-07-07
+!
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
-! US Bank Fixes
+! Bank Fixes
 @@||tracking.sp.sofi.com^$important
 @@||usbank.com.ssl.d2.sc.omtrdc.net^$important
 @@||ally.tt.omtrdc.net^$important
@@ -10,8 +15,12 @@
 @@||zn6vxkyqywaf9f1t7-usbank.siteintercept.qualtrics.com^$important
 @@||usbank.demdex.net^$important
 @@||usbank-sync.quantummetric.com^$important
+@@||omns.americanexpress.com^$important
 ! Roku Mobile App Fix
 @@||mobile.logs.roku.com^$important
+||images.sr.roku.com^$important
+||wwwimg.roku.com^$important
+||scribe.logs.roku.com^$important
 ! Affiliate Linking Fixes
 @@||click.linksynergy.com^$important
 @@||ctrk.klclick1.com^$important
@@ -73,8 +82,8 @@
 @@||*.akstat.io^$important
 @@||scripps.demdex.net^$important
 @@||receive.wmcdp.io^$important
-||s.skimresources.com^
-||cdn-magiclinks.trackonomics.net^
+||s.skimresources.com^$important
+||cdn-magiclinks.trackonomics.net^$important
 ! Paramount+ Fixes
 @@||saa.paramountplus.com^$important
 @@||saa.cbsi.com^$important
@@ -104,7 +113,7 @@
 @@||a46060.actonservice.com^$important
 ! Hulu adblock
 ||dpm.demdex.net^$important
-! Random Blocks
+! Twitch block (may not work)
 twitch.tv##+js(vaft-ublock-origin)
 ! Premium “Free” Photo Ads
 ||plus.unsplash.com^$important
@@ -119,3 +128,9 @@ twitch.tv##+js(vaft-ublock-origin)
 ! Unblock Focus Train Your Brain app
 @@||config.uca.cloud.unity3d.com^$important
 @@||cdp.cloud.unity3d.com^$important
+! Ad Companies
+||cdn-f.adsmoloco.com^$important
+||pagead2.googleadservices.com^$important
+! Government and Public Service Fixes
+@@||links-1.govdelivery.com^$important
+@@||content.govdelivery.com^$important

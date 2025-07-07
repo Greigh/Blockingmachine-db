@@ -1,9 +1,9 @@
 {
   "name": "blockingmachine-database",
-  "version": "1.0.0-beta.3",
+  "version": "1.0.0-beta.6",
   "type": "module",
   "license": "BSD-3-Clause",
-  "description": "An application to generate filter lists for Adguard Home and more.",
+  "description": "An application for GitHub to generate filter lists for Adguard Home and more.",
   "private": true,
   "workspaces": [
     "packages/*"
@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/YourGitHubUsername/Blockingmachine-database",
   "author": {
-    "name": "Daniel Hipskind",
+    "name": "Daniel Hipskind aka Greigh",
     "email": "me@danielhipskind.com",
     "url": "https://danielhipskind.com"
   },
