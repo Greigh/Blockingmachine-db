@@ -2,7 +2,7 @@
 # Blockingmachine Database
 
 <div align="center">
-  <img src="./assets/blockingmachine.png" width="120" alt="Blockingmachine Logo" />
+  <img src="./assets/Blockingmachine.png" width="120" alt="Blockingmachine Logo" />
 </div>
 
 [![Auto Update](https://github.com/greigh/blockingmachine-db/actions/workflows/update-filters.yml/badge.svg)](https://github.com/greigh/blockingmachine-db/actions/workflows/update-filters.yml)
