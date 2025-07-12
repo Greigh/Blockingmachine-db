@@ -14,34 +14,59 @@ async function updateFilters() {
     // Ensure output directory exists
     await fs.mkdir('./filters/output', { recursive: true });
     
-    // Change to sources directory where config is located
-    process.chdir('./sources');
+    // Check if we should force a fresh import (in CI or if specifically requested)
+    const forceFreshImport = process.env.NODE_ENV === 'production' || process.env.FORCE_IMPORT === 'true';
+    const filterListPath = './sources/filters/output/filter-list.txt';
     
-    // Run Blockingmachine import command
-    console.log('📥 Importing filter lists...');
-    try {
-      const { stdout, stderr } = await execAsync('blockingmachine import');
-      console.log('Import output:', stdout);
-      if (stderr) console.log('Import warnings:', stderr);
-    } catch (error) {
-      console.error(`❌ Import failed: ${error.message}`);
-      // Continue with export even if some imports failed
-      console.log('⚠️ Attempting to continue with export...');
+    let shouldImport = forceFreshImport;
+    
+    if (!forceFreshImport) {
+      try {
+        await fs.access(filterListPath);
+        console.log('✅ Using existing filter data from previous successful import');
+        shouldImport = false;
+      } catch (error) {
+        console.log('⚠️ No existing filter data found, attempting CLI import...');
+        shouldImport = true;
+      }
+    } else {
+      console.log('🔄 Force importing fresh filter data...');
     }
+    
+    if (shouldImport) {
+      
+      // Change to sources directory where config is located
+      process.chdir('./sources');
+      
+      // Run Blockingmachine import command
+      console.log('📥 Importing filter lists...');
+      try {
+        const { stdout, stderr } = await execAsync('blockingmachine import');
+        console.log('Import output:', stdout);
+        if (stderr) console.log('Import warnings:', stderr);
+        
+        // Append personal filters after successful import
+        await appendPersonalFilters();
+        
+      } catch (error) {
+        console.error(`❌ Import failed: ${error.message}`);
+        console.log('⚠️ Attempting to continue with export...');
+      }
 
-    // Run Blockingmachine export command for different formats
-    console.log('📤 Exporting filter lists...');
-    try {
-      const { stdout, stderr } = await execAsync(`blockingmachine export --output-path ./filters/output`);
-      console.log('Export output:', stdout);
-      if (stderr) console.log('Export warnings:', stderr);
-    } catch (error) {
-      console.error(`❌ Export failed: ${error.message}`);
-      throw error;
+      // Run Blockingmachine export command for different formats
+      console.log('📤 Exporting filter lists...');
+      try {
+        const { stdout, stderr } = await execAsync(`blockingmachine export --output-path ../filters/output`);
+        console.log('Export output:', stdout);
+        if (stderr) console.log('Export warnings:', stderr);
+      } catch (error) {
+        console.error(`❌ Export failed: ${error.message}`);
+        console.log('⚠️ Will continue with existing data...');
+      }
+
+      // Go back to root directory
+      process.chdir('..');
     }
-
-    // Go back to root directory
-    process.chdir('..');
 
     // Copy and rename files
     console.log('📁 Organizing output files...');
@@ -143,8 +168,8 @@ async function generateAdditionalFormats(adguardFilePath) {
     
     // Generate unbound format
     const unboundRules = [];
-    unboundRules.push('# Title: Blockingmachine AdGuard List');
-    unboundRules.push('# Description: Combined filter list optimized for AdGuard');
+    unboundRules.push('# Title: Blockingmachine unbound List');
+    unboundRules.push('# Description: Combined filter list optimized for unbound');
     unboundRules.push('# Homepage: https://github.com/greigh/blockingmachine');
     unboundRules.push('# License: BSD-3-Clause');
     unboundRules.push('# Made by: Daniel Hipskind aka Greigh');
@@ -168,8 +193,8 @@ async function generateAdditionalFormats(adguardFilePath) {
     
     // Generate BIND named.conf format
     const namedRules = [];
-    namedRules.push('# Title: Blockingmachine AdGuard List');
-    namedRules.push('# Description: Combined filter list optimized for AdGuard');
+    namedRules.push('# Title: Blockingmachine BIND List');
+    namedRules.push('# Description: Combined filter list optimized for BIND');
     namedRules.push('# Homepage: https://github.com/greigh/blockingmachine');
     namedRules.push('# License: BSD-3-Clause');
     namedRules.push('# Made by: Daniel Hipskind aka Greigh');
@@ -192,8 +217,8 @@ async function generateAdditionalFormats(adguardFilePath) {
     
     // Generate Privoxy format
     const privoxyRules = [];
-    privoxyRules.push('# Title: Blockingmachine AdGuard List');
-    privoxyRules.push('# Description: Combined filter list optimized for AdGuard');
+    privoxyRules.push('# Title: Blockingmachine Privoxy List');
+    privoxyRules.push('# Description: Combined filter list optimized for Privoxy');
     privoxyRules.push('# Homepage: https://github.com/greigh/blockingmachine');
     privoxyRules.push('# License: BSD-3-Clause');
     privoxyRules.push('# Made by: Daniel Hipskind aka Greigh');
@@ -217,8 +242,8 @@ async function generateAdditionalFormats(adguardFilePath) {
     
     // Generate Shadowrocket format
     const shadowrocketRules = [];
-    shadowrocketRules.push('# Title: Blockingmachine AdGuard List');
-    shadowrocketRules.push('# Description: Combined filter list optimized for AdGuard');
+    shadowrocketRules.push('# Title: Blockingmachine Shadowrocket List');
+    shadowrocketRules.push('# Description: Combined filter list optimized for Shadowrocket');
     shadowrocketRules.push('# Homepage: https://github.com/greigh/blockingmachine');
     shadowrocketRules.push('# License: BSD-3-Clause');
     shadowrocketRules.push('# Made by: Daniel Hipskind aka Greigh');
@@ -301,14 +326,8 @@ async function updateReadme() {
       
       const formattedCount = totalRules.toLocaleString();
       readme = readme.replace(
-        /\| \*\*Complete\*\* \| [\d,]+ \|/,
-        `| **Complete** | ${formattedCount} |`
-      );
-      
-      // Also update the "Last Updated" dates in the table
-      readme = readme.replace(
-        /(\| [\w\*\* ]+\| [\d,]+ \| [\w.]+MB? \|) \d{4}-\d{2}-\d{2}/g,
-        `$1 ${today}`
+        /\| [\d,]+ \| [\d.]+MB? \| \d{4}-\d{2}-\d{2} \|/,
+        `| ${formattedCount} | 3.2MB | ${today} |`
       );
       
       console.log(`✓ Updated statistics: ${formattedCount} rules`);
@@ -321,6 +340,36 @@ async function updateReadme() {
     
   } catch (error) {
     console.log(`⚠️ Could not update README: ${error.message}`);
+  }
+}
+
+async function appendPersonalFilters() {
+  try {
+    // Determine paths based on current working directory
+    // Check if we're in sources directory or root directory
+    const isInSourcesDir = process.cwd().endsWith('/sources');
+    
+    const importedRulesPath = isInSourcesDir 
+      ? './filters/output/imported-rules.txt'
+      : './sources/filters/output/imported-rules.txt';
+    
+    const personalRulesPath = isInSourcesDir
+      ? './blockingmachine-rules.txt' 
+      : './sources/blockingmachine-rules.txt';
+    
+    // Read both files
+    const importedContent = await fs.readFile(importedRulesPath, 'utf-8');
+    const personalContent = await fs.readFile(personalRulesPath, 'utf-8');
+    
+    // Append personal rules to imported rules
+    const combinedContent = importedContent + '\n! Personal Filters\n' + personalContent;
+    
+    // Write back to imported rules file
+    await fs.writeFile(importedRulesPath, combinedContent);
+    console.log('✓ Appended personal filters to imported rules');
+    
+  } catch (error) {
+    console.log(`⚠️ Could not append personal filters: ${error.message}`);
   }
 }
 

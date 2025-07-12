@@ -7,12 +7,6 @@
   },
   "sources": [
     {
-      "name": "Personal Filters",
-      "url": "./sources/blockingmachine-rules.txt",
-      "category": "personal",
-      "enabled": true
-    },
-    {
       "name": "EasyList",
       "url": "https://easylist.to/easylist/easylist.txt",
       "category": "advertising",
