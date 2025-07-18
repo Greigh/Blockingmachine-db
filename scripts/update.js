@@ -101,8 +101,30 @@ async function copyAndRenameFiles() {
   
   try {
     await fs.access(adguardSrcPath);
-    await fs.copyFile(adguardSrcPath, adguardDestPath);
-    console.log(`✓ Copied filter-list.txt → adguardBrowser.txt`);
+    
+    // Read the source file and update headers
+    const content = await fs.readFile(adguardSrcPath, 'utf-8');
+    const lines = content.split('\n');
+    
+    // Count actual blocking rules (excluding metadata)
+    const ruleCount = lines.filter(line => 
+      line.trim() && !line.startsWith('!') && !line.startsWith('#') && !line.startsWith('[')
+    ).length;
+    
+    // Update headers with current timestamp and rule count
+    const updatedLines = lines.map(line => {
+      if (line.startsWith('! Last updated:')) {
+        return `! Last updated: ${new Date().toISOString()}`;
+      }
+      if (line.startsWith('! Rules count:')) {
+        return `! Rules count: ${ruleCount}`;
+      }
+      return line;
+    });
+    
+    // Write the updated content to the destination
+    await fs.writeFile(adguardDestPath, updatedLines.join('\n'));
+    console.log(`✓ Copied filter-list.txt → adguardBrowser.txt (${ruleCount.toLocaleString()} rules)`);
     
     // Generate other formats from the AdGuard format
     console.log('🔄 Generating additional formats from AdGuard list...');
@@ -298,11 +320,26 @@ async function generateDNSAdGuardList() {
         
         // Remove browser-specific rules with modifiers
         return false;
-      })
-      .join('\n');
+      });
     
-    await fs.writeFile(dnsListPath, dnsRules);
-    console.log('✓ Generated DNS-optimized AdGuard list');
+    // Count actual blocking rules (excluding metadata)
+    const ruleCount = dnsRules.filter(line => 
+      line.trim() && !line.startsWith('!') && !line.startsWith('#') && !line.startsWith('[')
+    ).length;
+    
+    // Update the headers with current timestamp and DNS rule count
+    const updatedDnsRules = dnsRules.map(line => {
+      if (line.startsWith('! Last updated:')) {
+        return `! Last updated: ${new Date().toISOString()}`;
+      }
+      if (line.startsWith('! Rules count:')) {
+        return `! Rules count: ${ruleCount}`;
+      }
+      return line;
+    });
+    
+    await fs.writeFile(dnsListPath, updatedDnsRules.join('\n'));
+    console.log(`✓ Generated DNS-optimized AdGuard list (${ruleCount.toLocaleString()} rules)`);
     
   } catch (error) {
     console.log(`⚠️ Could not generate DNS AdGuard list: ${error.message}`);
