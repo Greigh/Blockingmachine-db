@@ -1,7 +1,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-07-07
+! Last updated: 2025-07-20
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
@@ -94,6 +94,8 @@
 @@||thumbnails.cbsig.net^$important
 @@||cbsi.com.ssl.sc.omtrdc.net^$important
 @@||vod-gcs-cedexis.cbsaavideo.com^$important
+@@||*.api.kochava.com^$important
+@@||*.cws.conviva.com^$important
 ! VS Code Fix
 @@||dc.services.visualstudio.com^$important
 ! Random fixes on the Internet
@@ -134,3 +136,5 @@ twitch.tv##+js(vaft-ublock-origin)
 ! Government and Public Service Fixes
 @@||links-1.govdelivery.com^$important
 @@||content.govdelivery.com^$important
+! Tunecore Fix
+@@||tunecore.publishingdashboard.com^$important
