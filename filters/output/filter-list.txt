@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-08-18T18:34:18.562Z
-! Rules count: 288323
+! Last updated: 2025-08-18T19:10:46.806Z
+! Rules count: 288342
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -7224,6 +7224,7 @@ browsershots.org#@#.advert_area
 ||cfixtvimbuixvh.com^
 ||cfoevzalcgvcc.space^
 ||cfqzcuasbvwva.website^
+||cfujuojondtht.website^
 ||cfuonmexmmewy.fun^
 ||cfusionsys.com^
 ||cfvcjyksaerua.fun^
@@ -20615,6 +20616,7 @@ browsershots.org#@#.advert_area
 ||ogvaqxjzfm-n.top^
 ||ogvwbovkgwyy.top^
 ||ogxntutl.fun^
+||ogyzawzjoqwaw.top^
 ||ogz4n3ke.xyz^
 ||ohadbonafz.com^
 ||ohejbszpvhswi.online^
@@ -21108,12 +21110,14 @@ browsershots.org#@#.advert_area
 ||oskiwood.com^
 ||oslghcqiljltb.com^
 ||oslmxqvvugdeh.site^
+||osmesisgrogs.qpon^
 ||osmiumaziola.qpon^
 ||osmolalcamphor.rest^
 ||osmosedshrined.top^
 ||osmqxgri.xyz^
 ||ospartners.xyz^
 ||ospuhdigocaxw.website^
+||osrfihqucg.com^
 ||osseinsdomini.help^
 ||osseousvips.digital^
 ||ossetboudin.digital^
@@ -30594,6 +30598,7 @@ browsershots.org#@#.advert_area
 ||vyoning.cfd^
 ||vypddqizgpkpo.store^
 ||vyppqxtwjo.com^
+||vyqwljwberjlj.top^
 ||vyrlajoxfyljj.online^
 ||vyuaolnqfgoas.store^
 ||vyudlnwcwwkdl.space^
@@ -31819,6 +31824,7 @@ browsershots.org#@#.advert_area
 ||xjsx.lol^
 ||xjupqyny.com^
 ||xjwedttmwu.com^
+||xjxspiec.com^
 ||xkacs5av.xyz^
 ||xkihevzkxjtdq.website^
 ||xklejvczdbknm.space^
@@ -151456,6 +151462,7 @@ ironsaga-msoku.xyz#@#.ad.widget
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#@#a[href^="/aclk?"]
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=sonyliv.com
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=sonyliv.com
+@@||player.sonyliv.com/assets/web/*/lib/admanager/*/spnadmanager.js$domain=sonyliv.com
 scarymommy.com#@#.sponsor_image
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvid.in
 @@||aff.bstatic.com^$image,domain=tonkosti.ru
@@ -156838,6 +156845,7 @@ browsershots.org#@#.advert_area
 ||ajgsadialtyzq.store^
 ||ajhcxism.xyz^
 ||ajillionmax.com^
+||ajiranef.com^
 ||ajjac.club^
 ||ajjkmozrrmow.top^
 ||ajjwutdytigzg.rocks^
@@ -160204,6 +160212,7 @@ browsershots.org#@#.advert_area
 ||cavebummer.com^
 ||cavelarverni.click^
 ||cavewrap.care^
+||caveyconduit.world^
 ||cavuledgier.cfd^
 ||caxooziwheeg.net^
 ||cayoslutist.rest^
@@ -165932,6 +165941,7 @@ browsershots.org#@#.advert_area
 ||geommaltase.qpon^
 ||georgianamortalemployed.com^
 ||geotrkclknow.com^
+||gepheeleexauz.net^
 ||gepoltkbkf.com^
 ||geraflows.com^
 ||germinappropriateengine.com^
@@ -177351,6 +177361,7 @@ browsershots.org#@#.advert_area
 ||redirectingat.com^
 ||redistedi.com^
 ||redlinesacs.rest^
+||redowascolunar.world^
 ||redri.net^
 ||redrootacuter.com^
 ||redrotou.net^
@@ -179133,6 +179144,7 @@ browsershots.org#@#.advert_area
 ||shitucka.net^
 ||shivermarchingchance.com^
 ||shiveyhoers.cfd^
+||shivolvell.help^
 ||shlyapapodplesk.site^
 ||shnlucsrtly.com^
 ||shoadessuglouz.net^
@@ -179936,6 +179948,7 @@ browsershots.org#@#.advert_area
 ||sponsorpay.com^
 ||spookstropin.qpon^
 ||spookyascentfranchise.com^
+||spoolcoypu.digital^
 ||spoonedsirple.qpon^
 ||spoorgurus.world^
 ||spoornwrimple.life^
@@ -180412,6 +180425,7 @@ browsershots.org#@#.advert_area
 ||styluspentice.shop^
 ||stzfabvufeamx.website^
 ||suatabolures.com^
+||suaverplenish.cfd^
 ||sub.xxx-porn-tube.com^
 ||sub2.avgle.com^
 ||subashifouth.life^
@@ -181408,6 +181422,7 @@ browsershots.org#@#.advert_area
 ||tingecauyuksehin.com^
 ||tingefifortwaukth.org^
 ||tingentuncram.digital^
+||tinglerembalms.click^
 ||tinkersreddens.rest^
 ||tinkerwidth.com^
 ||tinklespender.click^
@@ -183977,6 +183992,7 @@ browsershots.org#@#.advert_area
 ||wboux.com^
 ||wbozjnwyzzvol.top^
 ||wbpiaqaqnqlmc.space^
+||wbqchkfvqmu.com^
 ||wbtoefoxxjtdf.com^
 ||wbygrybvjjksf.site^
 ||wcbxugtfk.com^
@@ -184830,6 +184846,7 @@ browsershots.org#@#.advert_area
 ||wzlzgwdtasjfs.online^
 ||wzogvlbvqbqkq.top^
 ||wzplcddnvdodh.xyz^
+||wzuarqzexkjiy.website^
 ||x-jmezfjpjt.today^
 ||x-zjxfhysb.love^
 ||x011bt.com^
@@ -185645,6 +185662,7 @@ browsershots.org#@#.advert_area
 ||yyvxcmhpkmaxd.website^
 ||yzdkhftbkynua.site^
 ||yzefjcmmcvsvi.website^
+||yzmdeyppejxld.store^
 ||yzqvxnvfxwqup.site^
 ||yzswlkwqkkndh.space^
 ||yzszxhoyboc.com^
@@ -243683,6 +243701,7 @@ lighterusa.com#@##shopify-section-age-gate
 ||boostcpm.su^
 ||booster-vax.com^
 ||bootingunpickedusable.com^
+||bootpreload.uve.weibo.com^
 ||bootstrap-framework.org^
 ||bootstraplugin.com^
 ||bootvolleyball.com^
