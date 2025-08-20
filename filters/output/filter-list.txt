@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-08-20T18:32:22.827Z
-! Rules count: 290065
+! Last updated: 2025-08-20T19:08:51.052Z
+! Rules count: 290086
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -5352,6 +5352,7 @@ browsershots.org#@#.advert_area
 ||bauptost.net^
 ||bauzoanu.com^
 ||bawatklitj.com^
+||bawhoafeemsik.net^
 ||bawixi.xyz^
 ||bawlpunce.help^
 ||baxebejoaglumoa.net^
@@ -6686,6 +6687,7 @@ browsershots.org#@#.advert_area
 ||burialattentivestrawberry.com^
 ||burialhotter.com^
 ||burialsquinze.life^
+||buriedinadequateinset.com^
 ||burleskspoiler.com^
 ||burleysnath.shop^
 ||burlilydrabs.click^
@@ -10727,6 +10729,7 @@ browsershots.org#@#.advert_area
 ||eikegolehem.com^
 ||eimjmspwvjwll.com^
 ||einfmxudckhxd.xyz^
+||eiohjvvxbbxsxa.xyz^
 ||eirbrightscarletcl.com^
 ||eisasbeautifulas.com^
 ||eiteribesshaints.com^
@@ -11892,6 +11895,7 @@ browsershots.org#@#.advert_area
 ||fiannasallee.cyou^
 ||fiatgrabbed.com^
 ||fibbingtsardom.click^
+||fibpwuontdid.com^
 ||fibrefilamentherself.com^
 ||fickle-brush.com^
 ||fickle-dream.com^
@@ -13889,6 +13893,7 @@ browsershots.org#@#.advert_area
 ||gyronsamal.cyou^
 ||gyspsffbmfefx.space^
 ||gystqpfwfxqno.global^
+||gytzabzfljgcy.com^
 ||gyystcoippcmf.store^
 ||gzaghpuljkqxb.space^
 ||gzaqwebtipm.com^
@@ -19959,6 +19964,7 @@ browsershots.org#@#.advert_area
 ||nceneverdreamsofc.org^
 ||ncgwdkbi.com^
 ||ncipledeclinerybel.org^
+||nckfmubgtjtpw.website^
 ||ncqhgmxnpywal.website^
 ||ncz3u7cj2.com^
 ||ndandinter.hair^
@@ -20425,6 +20431,7 @@ browsershots.org#@#.advert_area
 ||notionsshrivelcustomer.com^
 ||notix-tag.com^
 ||notix.io^
+||notmil.com^
 ||notonthebedsheets.com^
 ||notorietycheerypositively.com^
 ||notoriouscolumnistdead.com^
@@ -20912,6 +20919,7 @@ browsershots.org#@#.advert_area
 ||oenhpacsdtt.xyz^
 ||oeoyerdysxsrc.space^
 ||oepahvkqvihnh.space^
+||oesdfsbxggkavm.com^
 ||oestpq.com^
 ||oeu3it2m.xyz^
 ||oevll.com^
@@ -21518,6 +21526,7 @@ browsershots.org#@#.advert_area
 ||osmqxgri.xyz^
 ||ospartners.xyz^
 ||ospuhdigocaxw.website^
+||osqspmgmldiof.website^
 ||osrfihqucg.com^
 ||osseinsdomini.help^
 ||osseousvips.digital^
@@ -25983,6 +25992,7 @@ browsershots.org#@#.advert_area
 ||scornfultrain.pro^
 ||scorserbitting.shop^
 ||scotomaejectee.click^
+||scovyautarky.digital^
 ||scowpoppanasals.com^
 ||scptp1.com^
 ||scptpx.com^
@@ -33372,6 +33382,7 @@ browsershots.org#@#.advert_area
 ||zoeaegyral.com^
 ||zoebcykgrrfar.space^
 ||zog.link^
+||zognoaderoubse.net^
 ||zogrepsili.com^
 ||zohakwennier.cyou^
 ||zohoptortibsi.net^
@@ -37827,6 +37838,7 @@ browsershots.org#@#.advert_area
 ||northrtbads.top^$popup
 ||nossairt.net^$popup
 ||notifpushnext.net^$popup
+||notmil.com^$popup
 ||nougacoush.com^$popup
 ||noughttrustthreshold.com^$popup
 ||novelslopeoppressive.com^$popup
@@ -130107,7 +130119,7 @@ pornhoarder.net,streambtw.com,streamingnow.mov,mp4upload.com,x1337x.*,1stream.eu
 payskip.org,hentai2read.com,bluedownload.*,pelisflix20.biz,safefileku.com,dopebox.to,isekaibrasil.com,pornhoarder.tv,torrentdownloads.pro,cyberfile.me,playkrx18.site,zpaste.net,severeporn.com,readcomiconline.li,vdbtm.shop,urlbluemedia.*,get-to.link,zoro.se,bluemediadownload.*,coolrea.link,limetorrents.lol,updown.ninja,urlcut.ninja,moviesjoyhd.to,f2movies.to,kissasian.*,1l1l.to,fireload.com,kissanimefree.cc,cineb.rs,anichin.top,himovies.sx,tuktukcinema.*,truyengihotnhat.com,123-movies.zone,mangago.me,dlpanda.com,oxtorrent.sk,bluemediafile.*,exee.app,exep.app,exe.app,bluemediafiles.*,igg-games.co,javhd.*,ziperto.com,1337xx.to,dropgalaxy.com,pelisplushd.net,coinsurl.com,torrentmac.net,cuevana3.*,igg-games.com##+js(abort-current-script, globalThis, break;case)
 cyberfile.me##+js(noeval-if, /globalThis[\s\S]*?break;case/)
 sitenable.*,filesdownloader.com,siteget.net,freeproxy.io,glodls.to##+js(abort-current-script, fetch, IS_POP_COIN)
-1337x.*##+js(abort-on-property-write, LAST_CORRECT_EVENT_TIME)
+hugomovies.com,1337x.*##+js(abort-on-property-write, LAST_CORRECT_EVENT_TIME)
 sitenable.*,filesdownloader.com,siteget.net,freeproxy.io,glodls.to##+js(abort-on-stack-trace, navigator, Object.isFlashEnabled)
 mirrored.to,skidrowreloaded.com##+js(abort-current-script, Promise, FingerprintJS)
 worldsports.st,cutynow.com,exnion.com,vikingf1le.us.to,exe-urls.com,evernia.site,worldsports.me,vidsrc2.*,viprow.nu,ijvam.com,olympicstreams.*,uploadhaven.com,arcjav.com,mc-hacks.net,mycivillinks.com,wonderapk.com,megaup.net,exeo.app,vidsrc.*,cricstreams.re,vipleague.*,socceronline.me,igg-games.co,crackstreams.*,torrentmac.net,vipboxtv.*,vipbox.*,userscloud.com,game3rb.com,soap2day.*,soccerworldcup.me,igg-games.com,miraculous.to,coloredmanga.com,hentaispark.com,send.cm##+js(abort-current-script, navigator, FingerprintJS)
@@ -133291,9 +133303,9 @@ abcnews.go.com##.ScrollSpy_container > div[data-container="band"]:has(> div[clas
 abcnews.go.com##.ScrollSpy_container > div[data-container="band"]:has(> div[class] > div[data-box-type^="fitt-adbox-thinbanner"])
 abcnews.go.com##.navigation__hulu
 tecadmin.net##.a-wrap:has(> .adsbygoogle)
-||movies-2015.com/assets/script
-movies-2015.com###mdl-register
-movies-2015.com##+js(no-setTimeout-if, -register)
+/assets/script|$~third-party,domain=movies-2015.com|hugomovies.com
+hugomovies.com,movies-2015.com###mdl-register
+hugomovies.com,movies-2015.com##+js(no-setTimeout-if, -register)
 society19.com##div[style*="margin:"][style*="text-align:"][style*="display:"]:has(> div[id^="div-gpt-"])
 healthline.com##div[data-testid="tabbed-article-section"] > div[class]:has(> aside[data-testid="sticky-inline-ad"])
 popsci.com###pw-iab-leaderboard
@@ -161992,6 +162004,7 @@ browsershots.org#@#.advert_area
 ||comelysouthbuilds.com^
 ||comemunicatet.com^
 ||comerhurlentertain.com^
+||comersvowelly.cfd^
 ||comfortablepossibilitycarlos.com^
 ||comfortclick.co.uk^
 ||comicespotsie.help^
@@ -163254,6 +163267,7 @@ browsershots.org#@#.advert_area
 ||demandedrucksackprivate.com^
 ||demanding-juice.pro^
 ||demandingoverdriveunthread.com^
+||demencydisrate.qpon^
 ||demidogrudloff.click^
 ||demiseskill.com^
 ||demitsrevomit.qpon^
@@ -164881,6 +164895,7 @@ browsershots.org#@#.advert_area
 ||ensignpancreasrun.com^
 ||ensilesdoated.rest^
 ||ensosignal.com^
+||enspellclothed.cfd^
 ||ensuantnougats.digital^
 ||entaildault.world^
 ||entangleversatile.com^
@@ -164966,6 +164981,7 @@ browsershots.org#@#.advert_area
 ||eptwm.com^
 ||epu.sh^
 ||eputysolomon.com^
+||epwbtoqakgixx.site^
 ||epwmnrpoqjut.xyz^
 ||eqads.com^
 ||eqbjnkjrgfgh.com^
@@ -165735,6 +165751,7 @@ browsershots.org#@#.advert_area
 ||fgaefokzdcuez.website^
 ||fgbnnholonge.info^
 ||fgcurevocpkmh.space^
+||fgeepbuxl.com^
 ||fgeivosgjk.com^
 ||fgjaelzvzxtdq.rocks^
 ||fgk-jheepn.site^
@@ -167753,6 +167770,7 @@ browsershots.org#@#.advert_area
 ||gypsyimpel.com^
 ||gypsyproducing.com^
 ||gypsysidearm.click^
+||gyretantrik.cfd^
 ||gyronsamal.cyou^
 ||gyspsffbmfefx.space^
 ||gystqpfwfxqno.global^
@@ -168882,6 +168900,7 @@ browsershots.org#@#.advert_area
 ||ibtvqmmhgohef.site^
 ||ibuitslqcmpael.com^
 ||ibutheptesitrew.com^
+||ibvbljkpgfjke.online^
 ||ibvfzddfxqwqg.love^
 ||icafzttxirztu.space^
 ||icalnormaticalacyc.info^
@@ -175862,6 +175881,7 @@ browsershots.org#@#.advert_area
 ||parsimoniousinvincible.net^
 ||parsoninfatuatedcondole.com^
 ||parteinroll.xyz^
+||partelordy.world^
 ||parteonroll.xyz^
 ||partial-pair.pro^
 ||participationfinessemachinery.com^
@@ -186563,6 +186583,7 @@ browsershots.org#@#.advert_area
 ||yapzoa.xyz^
 ||yardaflower.rest^
 ||yardangatrypa.rest^
+||yardfulpreciso.digital^
 ||yardr.net^
 ||yarlnk.com^
 ||yasesumedadele.com^
