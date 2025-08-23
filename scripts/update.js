@@ -16,8 +16,15 @@ async function updateFilters() {
     
     // Check if we should force a fresh import (in CI or if specifically requested)
     const forceFreshImport = process.env.NODE_ENV === 'production' || process.env.FORCE_IMPORT === 'true';
-    const filterListPath = './sources/filters/output/filter-list.txt';
-    
+    // Prefer the export path used by the CLI (root ./filters/output), fall back to the old sources path
+    let filterListPath = path.join('./filters/output', 'filter-list.txt');
+    try {
+      await fs.access(filterListPath);
+    } catch (err) {
+      // fallback
+      filterListPath = path.join('./sources/filters/output', 'filter-list.txt');
+    }
+
     let shouldImport = forceFreshImport;
     
     if (!forceFreshImport) {
@@ -95,8 +102,14 @@ async function updateFilters() {
 }
 
 async function copyAndRenameFiles() {
-  // First, copy the main filter file
-  const adguardSrcPath = path.join('./sources/filters/output', 'filter-list.txt');
+  // First, copy the main filter file. Prefer the root export path (where the CLI writes),
+  // but fall back to the sources path if necessary.
+  let adguardSrcPath = path.join('./filters/output', 'filter-list.txt');
+  try {
+    await fs.access(adguardSrcPath);
+  } catch (err) {
+    adguardSrcPath = path.join('./sources/filters/output', 'filter-list.txt');
+  }
   const adguardDestPath = path.join('./filters', 'adguardBrowser.txt');
   
   try {
@@ -149,18 +162,25 @@ async function generateAdditionalFormats(adguardFilePath) {
     hostsRules.push('# Made by: Daniel Hipskind aka Greigh');
     hostsRules.push('# Version: 3.0.0');
     hostsRules.push(`# Last Updated: ${new Date().toISOString()}`);
+    // placeholder for rules count (will be replaced after generation)
+    const hostsCountIndex = hostsRules.length;
+    hostsRules.push(`# Rules count: 0`);
     hostsRules.push('# Expires: 1 day');
     hostsRules.push('');
-    
+    let hostsCount = 0;
+
     lines.forEach(line => {
       if (line.match(/^\|\|([^\/\^$]+)\^$/)) {
         const domain = line.replace(/^\|\|/, '').replace(/\^$/, '');
         if (domain && !domain.includes('*') && !domain.includes('$')) {
           hostsRules.push(`0.0.0.0 ${domain}`);
+          hostsCount++;
         }
       }
     });
-    
+    // update rules count header
+    hostsRules[hostsCountIndex] = `# Rules count: ${hostsCount}`;
+
     await fs.writeFile('./filters/hosts.txt', hostsRules.join('\n'));
     console.log('✓ Generated hosts.txt format');
     
@@ -175,16 +195,21 @@ async function generateAdditionalFormats(adguardFilePath) {
     dnsmasqRules.push(`# Last Updated: ${new Date().toISOString()}`);
     dnsmasqRules.push('# Expires: 1 day');
     dnsmasqRules.push('');
-    
+    const dnsmasqCountIndex = dnsmasqRules.length - 2; // position of rules count will be inserted earlier
+    let dnsmasqCount = 0;
+
     lines.forEach(line => {
       if (line.match(/^\|\|([^\/\^$]+)\^$/)) {
         const domain = line.replace(/^\|\|/, '').replace(/\^$/, '');
         if (domain && !domain.includes('*') && !domain.includes('$')) {
           dnsmasqRules.push(`address=/${domain}/0.0.0.0`);
+          dnsmasqCount++;
         }
       }
     });
-    
+    // insert rules count after Last Updated (which is at index 6)
+    dnsmasqRules.splice(7, 0, `# Rules count: ${dnsmasqCount}`);
+
     await fs.writeFile('./filters/dnsmasq.conf', dnsmasqRules.join('\n'));
     console.log('✓ Generated dnsmasq.conf format');
     
@@ -199,17 +224,20 @@ async function generateAdditionalFormats(adguardFilePath) {
     unboundRules.push(`# Last Updated: ${new Date().toISOString()}`);
     unboundRules.push('# Expires: 1 day');
     unboundRules.push('');
-    
+    let unboundCount = 0;
+
     lines.forEach(line => {
       if (line.match(/^\|\|([^\/\^$]+)\^$/)) {
         const domain = line.replace(/^\|\|/, '').replace(/\^$/, '');
         if (domain && !domain.includes('*') && !domain.includes('$')) {
           unboundRules.push(`local-zone: "${domain}" redirect`);
           unboundRules.push(`local-data: "${domain} A 0.0.0.0"`);
+          unboundCount++;
         }
       }
     });
-    
+    unboundRules.splice(7, 0, `# Rules count: ${unboundCount}`);
+
     await fs.writeFile('./filters/unbound.conf', unboundRules.join('\n'));
     console.log('✓ Generated unbound.conf format');
     
@@ -224,16 +252,19 @@ async function generateAdditionalFormats(adguardFilePath) {
     namedRules.push(`# Last Updated: ${new Date().toISOString()}`);
     namedRules.push('# Expires: 1 day');
     namedRules.push('');
-    
+    let namedCount = 0;
+
     lines.forEach(line => {
       if (line.match(/^\|\|([^\/\^$]+)\^$/)) {
         const domain = line.replace(/^\|\|/, '').replace(/\^$/, '');
         if (domain && !domain.includes('*') && !domain.includes('$')) {
           namedRules.push(`zone "${domain}" { type master; file "/dev/null"; };`);
+          namedCount++;
         }
       }
     });
-    
+    namedRules.splice(7, 0, `# Rules count: ${namedCount}`);
+
     await fs.writeFile('./filters/named.conf', namedRules.join('\n'));
     console.log('✓ Generated named.conf format');
     
@@ -246,19 +277,25 @@ async function generateAdditionalFormats(adguardFilePath) {
     privoxyRules.push('# Made by: Daniel Hipskind aka Greigh');
     privoxyRules.push('# Version: 3.0.0');
     privoxyRules.push(`# Last Updated: ${new Date().toISOString()}`);
+    // privoxy header and placeholder for rules count
     privoxyRules.push('# Expires: 1 day');
+    const privoxyCountIndex = privoxyRules.length;
+    privoxyRules.push(`# Rules count: 0`);
     privoxyRules.push('');
     privoxyRules.push('{+block{Blockingmachine Blocklist}}');
-    
+    let privoxyCount = 0;
+
     lines.forEach(line => {
       if (line.match(/^\|\|([^\/\^$]+)\^$/)) {
         const domain = line.replace(/^\|\|/, '').replace(/\^$/, '');
         if (domain && !domain.includes('*') && !domain.includes('$')) {
           privoxyRules.push(`.${domain}`);
+          privoxyCount++;
         }
       }
     });
-    
+    privoxyRules[privoxyCountIndex] = `# Rules count: ${privoxyCount}`;
+
     await fs.writeFile('./filters/privoxy.action', privoxyRules.join('\n'));
     console.log('✓ Generated privoxy.action format');
     
@@ -272,18 +309,23 @@ async function generateAdditionalFormats(adguardFilePath) {
     shadowrocketRules.push('# Version: 3.0.0');
     shadowrocketRules.push(`# Last Updated: ${new Date().toISOString()}`);
     shadowrocketRules.push('# Expires: 1 day');
+    const shadowCountIndex = shadowrocketRules.length;
+    shadowrocketRules.push(`# Rules count: 0`);
     shadowrocketRules.push('');
     shadowrocketRules.push('[Rule]');
-    
+    let shadowCount = 0;
+
     lines.forEach(line => {
       if (line.match(/^\|\|([^\/\^$]+)\^$/)) {
         const domain = line.replace(/^\|\|/, '').replace(/\^$/, '');
         if (domain && !domain.includes('*') && !domain.includes('$')) {
           shadowrocketRules.push(`DOMAIN-SUFFIX,${domain},REJECT`);
+          shadowCount++;
         }
       }
     });
-    
+    shadowrocketRules[shadowCountIndex] = `# Rules count: ${shadowCount}`;
+
     await fs.writeFile('./filters/shadowrocket.conf', shadowrocketRules.join('\n'));
     console.log('✓ Generated shadowrocket.conf format');
     
