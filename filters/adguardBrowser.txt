@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-08-27T18:29:49.252Z
-! Rules count: 292696
+! Last updated: 2025-08-27T19:08:50.001Z
+! Rules count: 292699
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -19721,6 +19721,7 @@ browsershots.org#@#.advert_area
 ||mckbbaaatyhfm.fun^
 ||mckensecuryr.info^
 ||mcocayxlebnuv.space^
+||mcoitoqc.xyz^
 ||mcoxwaajhri.com^
 ||mcppsh.com^
 ||mcpuwpsh.com^
@@ -22286,6 +22287,7 @@ browsershots.org#@#.advert_area
 ||onameketathar.com^
 ||onatallcolumn.com^
 ||onaugan.com^
+||onbfqhjqgifas.website^
 ||oncavst.com^
 ||oncesets.com^
 ||onclarck.com^
@@ -26544,6 +26546,7 @@ browsershots.org#@#.advert_area
 ||rkomf.com^
 ||rlcdn.com^
 ||rldwideorgan.org^
+||rlffkhoxxwucy.website^
 ||rlgybjefafbjp.online^
 ||rliuumrtkzzpg.space^
 ||rlogcejfsgtar.site^
@@ -292580,7 +292583,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-08-27T18:29:49.259Z
+! Last updated: 2025-08-27T19:08:50.008Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
