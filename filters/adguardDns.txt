@@ -2,7 +2,7 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-09-02T18:28:23.224Z
+! Last updated: 2025-09-02T19:08:37.829Z
 ! Rules count: 175520
 ||0019x.com^
 ||00f8c4bb25.com^
@@ -175528,7 +175528,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-09-02T18:28:23.229Z
+! Last updated: 2025-09-02T19:08:37.834Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
