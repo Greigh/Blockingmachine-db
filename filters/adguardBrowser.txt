@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-09-10T18:30:23.722Z
-! Rules count: 301341
+! Last updated: 2025-09-10T19:08:27.505Z
+! Rules count: 301329
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -259576,7 +259576,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||cuevastrck.com^
 ||cueweliqubbvh.space^
 ||cuffymurkily.shop^
-||cughidroulrauno.net^
 ||cugnerteens.net^
 ||cuiejosparry.cyou^
 ||cuisineenvoyadvertise.com^
@@ -266281,7 +266280,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||geotg.jp^
 ||geotrkclknow.com^
 ||geovisite.com^
-||gepheeleexauz.net^
 ||geqzt6tkg.top^
 ||gerbil.buf.build^
 ||gerbil.clapsaddleart.com^
@@ -268373,7 +268371,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||hreso.site^
 ||hrmdw8da.net^
 ||hrogrpee.de^
-||hrqxinwvlaxxt.com^
 ||hrsubwzcikzrf.site^
 ||hruch.site^
 ||hruk.afguk.top^
@@ -268787,7 +268784,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||idreamed.com^
 ||idregie.com^
 ||idsrscpzgpgzw.rocks^
-||idtftadck.xyz^
 ||ie8eamus.com^
 ||iedtothema.org^
 ||ieecjjfzmbhgs.site^
@@ -274218,7 +274214,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||mountedblueberrytall.com^
 ||mouphouglug.net^
 ||mournedcarpid.world^
-||mouroogripese.net^
 ||mouse.anthony-noel.com^
 ||mouse.botreach.co^
 ||mouse.seekingtv.com^
@@ -274704,7 +274699,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||nabauxou.net^
 ||nabbr.com^
 ||nablabee.com^
-||nabungaigabi.net^
 ||nachodusking.com^
 ||nachoomto.net^
 ||nachophobiaunengaged.com^
@@ -280926,7 +280920,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||rookishbirde.com^
 ||rookstashrif.shop^
 ||rooloacooboad.net^
-||roomeetaugouthe.net^
 ||roomierhisis.com^
 ||roommateskinner.com^
 ||roommatewon.com^
@@ -283150,7 +283143,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||slabjav12.fun^
 ||slabmanresh.digital^
 ||slabshookwasted.com^
-||slacdn.com^
 ||slackensuddeneat.com^
 ||slahpxqb6wto.com^
 ||slaitottawa.com^
@@ -289261,7 +289253,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||views.cancan.ro^
 ||views.hulu.com^
 ||views.romaniatv.net^
-||viewyentreat.guru^
 ||vigilant-cat.pro^
 ||vigilant-entry.pro^
 ||vigilantsurround.com^
@@ -290782,7 +290773,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||wreathabble.com^
 ||wreckbargaininghers.com^
 ||wreckcentigradecleared.com^
-||wreckerthirst.rest^
 ||wren.camdenmecc.org.uk^
 ||wren.femi.io^
 ||wrenchannel.xyz^
@@ -292423,7 +292413,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||zbs.etodomendlyareklamy.ru^
 ||zbuztpvgfghmu.space^
 ||zbvbmifryccxd.website^
-||zbykhvhni.com^
 ||zcnmjb.icu^
 ||zcode11.me^
 ||zcode17.com^
@@ -292774,7 +292763,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||zxenwgfnhknxs.click^
 ||zxfqtqmtlldld.world^
 ||zxgjrlpmaqyek.website^
-||zxhzhiaogwjknf.com^
 ||zxid-m.mobileservice.cn^
 ||zxinihfgkdpfb.space^
 ||zxiws.cn^
@@ -301225,7 +301213,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-09-10T18:30:23.729Z
+! Last updated: 2025-09-10T19:08:27.514Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
