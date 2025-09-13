@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-09-13T18:25:35.604Z
-! Rules count: 300532
+! Last updated: 2025-09-13T19:07:15.327Z
+! Rules count: 300538
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -9334,6 +9334,7 @@ browsershots.org#@#.advert_area
 ||corylusspignut.com^
 ||corymbtidal.cfd^
 ||corymburubu.cfd^
+||cosedeyehole.shop^
 ||coseierbegrave.digital^
 ||cosetengarb.com^
 ||coseyselsa.help^
@@ -13024,6 +13025,7 @@ browsershots.org#@#.advert_area
 ||eyrerhugelia.shop^
 ||eyrybuiltin.shop^
 ||eysheik.com^
+||eysltgmwdejxnj.net^
 ||eytthwyiszpyd.site^
 ||eywtnqttlqiti.com^
 ||eyxyoxahkr.com^
@@ -22793,6 +22795,7 @@ browsershots.org#@#.advert_area
 ||mufflelengthen.com^
 ||mufpamrilrdfr.site^
 ||mufrjyufslkcp.space^
+||muggarstarkly.help^
 ||muggilyenties.rest^
 ||mugpothop.com^
 ||muguetsidion.shop^
@@ -27677,6 +27680,7 @@ browsershots.org#@#.advert_area
 ||pyerwcvjxnmmrgb.xyz^
 ||pyettfmtppkg.com^
 ||pyghwgyjuuaht.space^
+||pygirfcitczab.store^
 ||pyjamasweated.com^
 ||pykije.com^
 ||pyknrhm5c.com^
@@ -33424,6 +33428,7 @@ browsershots.org#@#.advert_area
 ||tumblebit.org^
 ||tumblepoet.com^
 ||tumblerengagement.com^
+||tumbreltedder.digital^
 ||tummingpulex.com^
 ||tumorskyar.com^
 ||tumri.net^
@@ -37839,6 +37844,7 @@ browsershots.org#@#.advert_area
 ||yqp-oxzxjecq.world^
 ||yqrpbzgfbkwom.store^
 ||yqtabvyhvroxj.website^
+||yquzkkmaqwkpr.online^
 ||yqvnmluzxjqmp.site^
 ||yqwzdmgfbeva.com^
 ||yqzhnflmllffi.com^
@@ -300416,7 +300422,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-09-13T18:25:35.612Z
+! Last updated: 2025-09-13T19:07:15.334Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
