@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-09-20T18:26:32.385Z
-! Rules count: 179898
+! Last updated: 2025-09-20T19:07:13.079Z
+! Rules count: 179902
 ||0019x.com^
 ||00f8c4bb25.com^
 ||01955ad1f7.com^
@@ -10810,6 +10810,7 @@
 ||egusgcddjph.com^
 ||egvjbxyvmcjxbf.com^
 ||egvmppvtammxw.site^
+||egxuyvgdhwrzv.space^
 ||egyptbullsavoury.com^
 ||ehasnoconversat.org^
 ||ehcdtcvzycdcy.website^
@@ -22740,6 +22741,7 @@
 ||nfjfyyam.com^
 ||nfliiqxnaadkx.online^
 ||nfnvqfghrmnfk.space^
+||nfphebmbosuq.com^
 ||nftjgafb.com^
 ||nftognhkculllrx.com^
 ||nfvetkycvdkaw.life^
@@ -34784,6 +34786,7 @@
 ||vymybkyrzjlkw.top^
 ||vymybkyrzjlym.top^
 ||vymybkyrzvwky.top^
+||vyomkbmowzojq.top^
 ||vyoning.cfd^
 ||vypddqizgpkpo.store^
 ||vyqwljwberjay.top^
@@ -36158,6 +36161,7 @@
 ||xvlpksjchavbe.store^
 ||xvmtflyptiyjis.net^
 ||xvmyvbwgqnk.com^
+||xvoqhsefm.net^
 ||xvpqmcgf.com^
 ||xvsypuik.com^
 ||xvu19.com^
@@ -179906,7 +179910,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-09-20T18:26:32.389Z
+! Last updated: 2025-09-20T19:07:13.084Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
