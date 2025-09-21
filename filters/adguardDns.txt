@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-09-21T18:27:44.491Z
-! Rules count: 179057
+! Last updated: 2025-09-21T19:07:52.847Z
+! Rules count: 179063
 ||0019x.com^
 ||00f8c4bb25.com^
 ||01955ad1f7.com^
@@ -16648,6 +16648,7 @@
 ||iybasewlsdppj.online^
 ||iybgsvdqqrtxp.online^
 ||iybwitllknbmq.site^
+||iyclfhofnwbqvlm.net^
 ||iyfbodn.com^
 ||iyfnz.com^
 ||iyfnzgb.com^
@@ -17490,6 +17491,7 @@
 ||jwraxixytrvwm.site^
 ||jwrlbydakxy.com^
 ||jwskgkxnwdivg.online^
+||jwuikmwpwrvae.site^
 ||jwuoxhjuq.com^
 ||jwvvyowahqpeu.com^
 ||jwxlupfcsmlkb.online^
@@ -17727,6 +17729,7 @@
 ||kdtvypanutrdh.xyz^
 ||kdtypmnl.net^
 ||kdwgubgjlcvzm.space^
+||kdwiwfiuxbmfk.space^
 ||kdwwbxeiguptq.net^
 ||kdyduxcrwqaft.online^
 ||keajs.com^
@@ -24884,6 +24887,7 @@
 ||petplqmfpnwwjbu.com^
 ||petrifacius.com^
 ||petrolgraphcredibility.com^
+||petrosaley.click^
 ||petsoadepsoa.net^
 ||petulanthamsterunless.com^
 ||peukasrsihavele.org^
@@ -25479,6 +25483,7 @@
 ||pohamqqueodzt.online^
 ||pohgrfoogvfvl.store^
 ||pohnapriscan.help^
+||poifusus.world^
 ||poindsborax.digital^
 ||pointcontinentrtb.com^
 ||pointedmanahe.com^
@@ -36162,6 +36167,7 @@
 ||yvcpcerfetgoc.space^
 ||yvdxhbuupndqo.love^
 ||yvhomukdvgpqb.com^
+||yvldhgyrhumqp.com^
 ||yvmads.com^
 ||yvoria.com^
 ||yvpswmiipjhni.life^
@@ -179065,7 +179071,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-09-21T18:27:44.496Z
+! Last updated: 2025-09-21T19:07:52.851Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
