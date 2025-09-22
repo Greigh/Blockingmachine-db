@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-09-22T18:29:23.344Z
-! Rules count: 301603
+! Last updated: 2025-09-22T19:08:25.282Z
+! Rules count: 301610
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -3604,6 +3604,7 @@ browsershots.org#@#.advert_area
 ||ahxqqfgmfumpo.website^
 ||ahyjsrlslitla.online^
 ||ahziobgktobyn.website^
+||aiaskjqrimnol.website^
 ||aiawongday.world^
 ||aibseensoo.net^
 ||aibsgc.com^
@@ -4469,6 +4470,7 @@ browsershots.org#@#.advert_area
 ||arnedtolethi.com^
 ||arnimalconeer.com^
 ||arointtishiya.qpon^
+||aromaticdiscount.pro^
 ||aroselibrarian.com^
 ||aroundcommoditysway.com^
 ||arousedimitateplane.com^
@@ -20051,6 +20053,7 @@ browsershots.org#@#.advert_area
 ||krmnk.com^
 ||krmsqcfoluzxj.space^
 ||krnvcwvvggttq.space^
+||krofqawozfnma.website^
 ||kromerefinds.cyou^
 ||kronengorsier.world^
 ||kroonioctofid.click^
@@ -34914,6 +34917,7 @@ browsershots.org#@#.advert_area
 ||uncleffaan.com^
 ||unclesnewspaper.com^
 ||uncolylirella.top^
+||uncomfortableintroduction.pro^
 ||uncomfortablevacation.com^
 ||uncomfortablewanted.com^
 ||uncommon-rope.com^
@@ -38104,6 +38108,7 @@ browsershots.org#@#.advert_area
 ||zaktucdkuvw.com^
 ||zaltaumi.net^
 ||zamioculcas2.org^
+||zamutsausauy.com^
 ||zangocash.com^
 ||zanvpkmdslnvg.vip^
 ||zanyestablishment.pro^
@@ -295067,18 +295072,20 @@ marathi.indiatimes.com##[href^="https://marathi.indiatimes.com/amazon-best-deals
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=m.economictimes.com
 ||dealspakki.com^$frame,domain=eisamay.com|iamgujarat.com|indiatimes.com|maharashtratimes.com|samayam.com|vijaykarnataka.com
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=maharashtratimes.com,important
-eisamay.com,indiatimes.com,samayam.com,vijaykarnataka.com##.wdt-taboola
+eisamay.com,iamgujarat.com,indiatimes.com,maharashtratimes.com,samayam.com,vijaykarnataka.com##.wdt-taboola
 eisamay.com,indiatimes.com,samayam.com,vijaykarnataka.com##.pwa-deals.wdt_amz
 eisamay.com,indiatimes.com,samayam.com,vijaykarnataka.com##div[class="news-card col4"]
-eisamay.com,indiatimes.com,samayam.com,vijaykarnataka.com##.advertorialwrapper
+eisamay.com,iamgujarat.com,indiatimes.com,samayam.com,vijaykarnataka.com##.advertorialwrapper
 eisamay.com,indiatimes.com,samayam.com,vijaykarnataka.com##.atf-wrapper
 eisamay.com,indiatimes.com,samayam.com,vijaykarnataka.com##.top-atf-enabled-wrapper
 health.economictimes.indiatimes.com##.layer-overlay
 health.economictimes.indiatimes.com##.article-detail-ad-slot
-economictimes.com,eisamay.com,indiatimes.com,samayam.com,vijaykarnataka.com##.fbnad
+economictimes.com,eisamay.com,iamgujarat.com,indiatimes.com,maharashtratimes.com,samayam.com,vijaykarnataka.com##.fbnad
 economictimes.com,eisamay.com,indiatimes.com,samayam.com,vijaykarnataka.com##.ad1
 economictimes.com,eisamay.com,indiatimes.com,samayam.com,vijaykarnataka.com##div > .ad-wrapper-625
 economictimes.com,eisamay.com,indiatimes.com,samayam.com,vijaykarnataka.com##.ads-between-story.story-content
+indiatimes.com,maharashtratimes.com,samayam.com,vijaykarnataka.com##[href^="https://apnabazaar.indiatimes.com/"]
+eisamay.com###holderContainer
 educationtimes.com##div[class]:has(> div[class] > div[id^="div-gpt-ad"])
 ||svonm.com/hd-main.js$script,redirect=hd-main.js,domain=kicker.de|myspass.de|spielaffe.de|tele5.de
 aranzulla.it##+js(aopr, navigator.userAgent)
@@ -301487,7 +301494,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-09-22T18:29:23.351Z
+! Last updated: 2025-09-22T19:08:25.289Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
