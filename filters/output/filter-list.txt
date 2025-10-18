@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-10-18T18:27:45.638Z
-! Rules count: 309736
+! Last updated: 2025-10-18T19:07:52.417Z
+! Rules count: 309748
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -4772,6 +4772,7 @@ browsershots.org#@#.advert_area
 ||arkharmonious.com^
 ||arkox.site^
 ||arkwglkwhnhce.store^
+||arlcumwyzkijq.site^
 ||arleavannya.com^
 ||arlftplsdxmhw.online^
 ||arlouppacing.click^
@@ -37240,6 +37241,7 @@ browsershots.org#@#.advert_area
 ||ueleensadcyxh.site^
 ||uelllwrite.com^
 ||uemrtknwjbgzp.one^
+||uenttczfge.com^
 ||ueobtcrdeefau.space^
 ||ueomdedzyvpdn.online^
 ||ueqjychtgl.net^
@@ -128487,7 +128489,6 @@ $image,third-party,denyallow=cdn77.org|globalcdn.co|others-cdn.com|rncdn7.com|sb
 @@||www.pussyspace.net/style/img/abuse.email.png#|
 @@||www.pussyspace.net/style/img/navbg.hover.png|
 imagetotext.info#@##top_ad
-upplinks.net,upfion.com,upfiles.app,upfiles-urls.com,falpus.com,fooak.com#@#.ad-element
 upplinks.net,upfion.com,upfiles.app,upfiles-urls.com,falpus.com,fooak.com#@#.ad-inner
 upplinks.net,upfion.com,upfiles.app,upfiles-urls.com,falpus.com,fooak.com##+js(no-fetch-if, pagead2.googlesyndication.com)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=falpus.com|fooak.com|upfiles-urls.com|upfiles.app|upfion.com
@@ -169228,6 +169229,7 @@ browsershots.org#@#.advert_area
 ||axvjfzbwezssw.site^
 ||axwtbmwfxmqyq.com^
 ||axxynteocvosxyv.xyz^
+||axzojogfoxoddd.com^
 ||axzrwvkfygjak.space^
 ||ay.delivery^
 ||ay267.com^
@@ -174946,6 +174948,7 @@ browsershots.org#@#.advert_area
 ||dnurxagcqddad.website^
 ||dnvofjhiqgnx.com^
 ||dnvogsqirpcfq.space^
+||dnymygyjvu.com^
 ||doaipomer.com^
 ||doajauhopi.xyz^
 ||doalaiphiwheste.net^
@@ -179185,6 +179188,7 @@ browsershots.org#@#.advert_area
 ||glassesoftruth.com^
 ||glassetchou.com^
 ||glassmilheart.com^
+||glasspressure.pro^
 ||glassvisual.pro^
 ||glaubuph.com^
 ||glaucomaspiltunmatched.com^
@@ -185750,6 +185754,7 @@ browsershots.org#@#.advert_area
 ||lv9qr0g0.xyz^
 ||lvaazvwzyljqm.top^
 ||lvaazvwzyllyy.top^
+||lvakowxfzgnoo.online^
 ||lvbbdxvfisdnw.website^
 ||lvbeybbrwlamk.top^
 ||lvbeybbrwlmkm.top^
@@ -186103,6 +186108,7 @@ browsershots.org#@#.advert_area
 ||manwcivslx.xyz^
 ||maocsjbcjljog.online^
 ||maoeoa.xyz^
+||maoistscitrean.click^
 ||mapamnni.com^
 ||mapdevelopcleverness.com^
 ||maper.info^
@@ -188111,6 +188117,7 @@ browsershots.org#@#.advert_area
 ||nettrackway.com^
 ||netund.com^
 ||networkpitched.com^
+||neuralenitro.help^
 ||neurinhajib.rest^
 ||neuroepithelium.lol^
 ||neuronparolee.digital^
@@ -190000,6 +190007,7 @@ browsershots.org#@#.advert_area
 ||ophoacit.com^
 ||ophonlexhjaai.space^
 ||ophryshoking.click^
+||opiatesbanner.help^
 ||oplaksik.online^
 ||opleshouldthink.com^
 ||opnobbohq.com^
@@ -201660,6 +201668,7 @@ browsershots.org#@#.advert_area
 ||urrzeegpcpfbs.rocks^
 ||ursvgeoaweeli.love^
 ||urtirepor.com^
+||urtzxcchcdzhw.space^
 ||uruevehood.shop^
 ||uruisgkhedas.shop^
 ||uruswan.com^
@@ -202801,6 +202810,7 @@ browsershots.org#@#.advert_area
 ||vxwmkbtkhtpru.today^
 ||vxxdhcxtcy.net^
 ||vxxpifqgqlvnh.store^
+||vxxusdcloqauy.website^
 ||vxxybwpygvjpc.online^
 ||vyabxutgyiidb.site^
 ||vyargtzwkkasg.website^
@@ -205254,6 +205264,7 @@ browsershots.org#@#.advert_area
 ||yxnitldzfbuun.space^
 ||yxouetwlvpli.com^
 ||yxpmkgzsqcxyu.site^
+||yxpzhmmwjsojv.store^
 ||yxtwurrbxqifz.website^
 ||yxunqfhyuwrxt.online^
 ||yxuytpfe-t.icu^
@@ -205776,6 +205787,7 @@ browsershots.org#@#.advert_area
 ||zurgnkluzowya.store^
 ||zuwufag.com^
 ||zuxbysnundhbl.com^
+||zuzajdvinaz.com^
 ||zvbqvqbrwbqyb.top^
 ||zvbqvqbrwbvww.top^
 ||zvdkxhzpaslxe.online^
