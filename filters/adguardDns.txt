@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-10-24T18:30:12.431Z
-! Rules count: 187208
+! Last updated: 2025-10-24T19:09:00.725Z
+! Rules count: 187211
 ||0014b04291.com^
 ||0019x.com^
 ||00609c257b.com^
@@ -36995,6 +36995,7 @@
 ||wanderingbloke.com^
 ||wandlbbeuwauj.store^
 ||wandleumlaut.cfd^
+||wandykw.com^
 ||wangerstabile.com^
 ||wangfenxi.com^
 ||wangledreactor.world^
@@ -38929,6 +38930,7 @@
 ||ybjiqlvlviepch.com^
 ||yblvoxyjzuqrh.space^
 ||yblxmkwldzbnw.website^
+||ybmeywfkhzctf.online^
 ||ybmgftpcwhhfz.site^
 ||ybmhowqhutghd.store^
 ||yboczurjhdyry.online^
@@ -38958,6 +38960,7 @@
 ||ycmksqoykzgyf.website^
 ||ycntdtbqabtnm.online^
 ||ycoecgqypbqtv.space^
+||ycorwegybrwrx.space^
 ||ycovrlbeetvmq.online^
 ||ycqsozlszqmdr.website^
 ||ycvlvgcuaxtem.website^
@@ -187216,7 +187219,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-10-24T18:30:12.436Z
+! Last updated: 2025-10-24T19:09:00.730Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
