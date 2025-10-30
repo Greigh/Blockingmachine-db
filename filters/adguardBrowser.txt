@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-10-30T18:32:38.581Z
-! Rules count: 312912
+! Last updated: 2025-10-30T19:09:44.713Z
+! Rules count: 312927
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -6781,6 +6781,7 @@ browsershots.org#@#.advert_area
 ||blastedolfacty.world^
 ||blati.site^
 ||blauuamgfbuyg.site^
+||blaysubhall.help^
 ||blaze-media.com^
 ||blazeteamlow.com^
 ||blazyunc.shop^
@@ -25985,6 +25986,7 @@ browsershots.org#@#.advert_area
 ||noblemanhandicraftpot.com^
 ||noblestweesh.com^
 ||nobonfthelnzj.online^
+||nocccxnarymvl.store^
 ||nocencesher.click^
 ||nockanusxesoc.store^
 ||noclef.com^
@@ -31531,6 +31533,7 @@ browsershots.org#@#.advert_area
 ||rdrtrk.com^
 ||rdsclick.com^
 ||rdtk.io^
+||rdtppfckuxzmo.website^
 ||rdtracer.com^
 ||rdtrck2.com^
 ||rduaqffjahmxj.online^
@@ -171329,6 +171332,7 @@ browsershots.org#@#.advert_area
 ||bedodrioon.com^
 ||bedont.xyz^
 ||bedrapiona.com^
+||bedroulsustingi.com^
 ||bedsungoak.net^
 ||bedviojcrllpi.space^
 ||bedwaysunstoic.help^
@@ -183005,6 +183009,7 @@ browsershots.org#@#.advert_area
 ||hibids10.com^
 ||hidcolouredclink.com^
 ||hidden-fortune.pro^
+||hidden-paper.com^
 ||hiddengolf.pro^
 ||hiddenmilk.com^
 ||hiddenseet.com^
@@ -183657,6 +183662,7 @@ browsershots.org#@#.advert_area
 ||humoristshamrockzap.com^
 ||humpasylum.com^
 ||humpdecompose.com^
+||humpingunplain.shop^
 ||humro.site^
 ||humsoolt.net^
 ||humwatson.click^
@@ -184195,6 +184201,7 @@ browsershots.org#@#.advert_area
 ||ilumtoux.net^
 ||ilvumbonf.net^
 ||ilvumysnmlrvr.space^
+||ilxylgyphi.com^
 ||ilyaoipntdyol.space^
 ||ilyf4amifh.com^
 ||imageadvantage.net^
@@ -186811,6 +186818,7 @@ browsershots.org#@#.advert_area
 ||kragreparel.top^
 ||kraitbauld.cyou^
 ||krankenwagenmotor.com^
+||kraonwbi.com^
 ||krenkzfiuzryw.store^
 ||kreomfoq.com^
 ||kreps.xyz^
@@ -189216,6 +189224,7 @@ browsershots.org#@#.advert_area
 ||melodic-mess.com^
 ||melodramaticquery.com^
 ||melongatesdexterity.com^
+||melonslaid.help^
 ||melrxwyjn.com^
 ||memia.xyz^
 ||memksrjwjw.com^
@@ -190339,6 +190348,7 @@ browsershots.org#@#.advert_area
 ||mwxtdssacysl.com^
 ||mwxxgdhvhdrgt.space^
 ||mwzkkpwmq.com^
+||mxdabjrdnexwi.space^
 ||mxdcdefgbyyeb.website^
 ||mxeeslnguh.com^
 ||mxfglajkqrwsv.online^
@@ -195332,6 +195342,7 @@ browsershots.org#@#.advert_area
 ||puerjtzvnpdmp.website^
 ||puffinskauris.help^
 ||puggedshushes.cyou^
+||pugglewinkel.cyou^
 ||pugmarksquiffy.com^
 ||pugmarktagua.com^
 ||pugsgivehugs.com^
@@ -196381,6 +196392,7 @@ browsershots.org#@#.advert_area
 ||qylmbeojmzyez.top^
 ||qylyknxkeep.com^
 ||qymkbmjssadw.top^
+||qyoprobasxtbk.store^
 ||qypyleahjucze.com^
 ||qyqvxtufskevk.site^
 ||qyrkicaqiytxdml.com^
@@ -198189,6 +198201,7 @@ browsershots.org#@#.advert_area
 ||rxexiaam.guru^
 ||rxeyyesahhlyh.website^
 ||rxfjmmvjvnwxg.online^
+||rxgdrccvwuark.site^
 ||rxggkxdozyugf.space^
 ||rxgwcjrjbzzsw.website^
 ||rxiewfjyestco.website^
@@ -200685,6 +200698,7 @@ browsershots.org#@#.advert_area
 ||successesstudents.com^
 ||successorblushingplace.com^
 ||succubicocopan.cfd^
+||suchosfluxive.click^
 ||sucmahouckoo.com^
 ||sucnaegzvbrhu.site^
 ||sucocune.com^
@@ -202585,6 +202599,7 @@ browsershots.org#@#.advert_area
 ||ttributoraheadyg.org^
 ||ttrk.io^
 ||tttcraukuyqff.one^
+||ttukphqhic.com^
 ||ttusrifbdjqay.online^
 ||ttvshnuvy.net^
 ||ttwmed.com^
@@ -312796,7 +312811,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-10-30T18:32:38.589Z
+! Last updated: 2025-10-30T19:09:44.722Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
