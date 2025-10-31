@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-10-31T18:33:02.944Z
-! Rules count: 186539
+! Last updated: 2025-10-31T19:08:32.959Z
+! Rules count: 186554
 ||0014b04291.com^
 ||0019x.com^
 ||00609c257b.com^
@@ -11659,6 +11659,7 @@
 ||frostdivinityrelevant.com^
 ||frostscanty.com^
 ||frosty-anybody.pro^
+||frosty-presence.com^
 ||frothadditions.com^
 ||frottedpoddle.shop^
 ||frowngld.cyou^
@@ -22207,6 +22208,7 @@
 ||nkmsite.com^
 ||nknowledconsideu.org^
 ||nkredir.com^
+||nktiyfau.com^
 ||nkwowhhnlaibe.site^
 ||nkwuqowtoshbc.com^
 ||nkxlgoxtbxg.com^
@@ -31185,6 +31187,7 @@
 ||soybeanteskere.cyou^
 ||soyipaio.com^
 ||soyotstroud.rest^
+||soznlghtktitc.website^
 ||sozzlypeavies.com^
 ||space-pulsar.com^
 ||spacecatholicpalmful.com^
@@ -35802,6 +35805,7 @@
 ||vmecbdkpvugpj.website^
 ||vmetqeikgx.com^
 ||vmgvazjmjmojw.top^
+||vmhrqjvddhnwp.site^
 ||vmicdkmpvgbqt.online^
 ||vmjanoicaljna.online^
 ||vmjdbcwl.com^
@@ -95548,6 +95552,7 @@
 ||anxiousequal.com^
 ||anyadx.live^
 ||anybodyroutinefickle.com^
+||anyefficiency.com^
 ||anyinadeditiont.com^
 ||anymind360.com^
 ||anyonegoal.com^
@@ -97635,6 +97640,7 @@
 ||borrowjavgg124.fun^
 ||borrowpreviewcardinal.com^
 ||borshtselemis.top^
+||borucadowse.cyou^
 ||borvens.com^
 ||borwortdumose.cyou^
 ||borzjournal.ru^
@@ -98578,6 +98584,7 @@
 ||ccgateway.net^
 ||cchkvtejdnqov.space^
 ||ccjfxvnyiqcfv.space^
+||ccjgqoqlj.com^
 ||ccjzuavqrh.com^
 ||cckltgdhvmrux.site^
 ||ccluukrajdnyj.space^
@@ -100223,6 +100230,7 @@
 ||csvjnjtkc.com^
 ||csvqbewoubmu.com^
 ||cswjpyurbaiap.online^
+||csxbezadpeazu.site^
 ||ct11.biz^
 ||ctasnet.com^
 ||ctbatevkkhn.net^
@@ -107194,6 +107202,7 @@
 ||hmkbciwrfwole.online^
 ||hmkwhhnflgg.space^
 ||hmkyodbbpxket.space^
+||hmljlcruaqv.com^
 ||hmmcvksygqcqx.com^
 ||hmntf.com^
 ||hmomfsjxxpwkuq.net^
@@ -110347,6 +110356,7 @@
 ||kezesarijvytg.world^
 ||kezissltuijog.online^
 ||kezoaphemto.net^
+||kezsfgrilmbwi.store^
 ||kfaktmfqtbw.xyz^
 ||kfbjqsqbvnmrj.site^
 ||kfdgdobcvm.com^
@@ -111393,6 +111403,7 @@
 ||learningcontractionpolling.com^
 ||learnsakti.top^
 ||learoydonoclea.qpon^
+||learsharaya.shop^
 ||leathbarb.click^
 ||leavenmuntjak.cyou^
 ||leaveoverwork.com^
@@ -111613,6 +111624,7 @@
 ||li.blogtrottr.com^
 ||liablematches.com^
 ||liableyardcripple.com^
+||liablezonelet.rest^
 ||liadm.com^
 ||liaisonmonumentbreeding.com^
 ||liambafaying.com^
@@ -118344,6 +118356,7 @@
 ||plyerglebes.click^
 ||plyfoni.ru^
 ||plywoodmergenewspaper.com^
+||pmahcualf.com^
 ||pmbwvvhzrccxm.com^
 ||pmc1201.com^
 ||pmcfsdkxejfgd.store^
@@ -124696,6 +124709,7 @@
 ||studdydermal.shop^
 ||studdyputtied.world^
 ||studioarcheal.click^
+||studiosdivider.shop^
 ||studious-make.com^
 ||studmought.life^
 ||studyunharmedupscale.com^
@@ -129725,6 +129739,7 @@
 ||wicdn.cloud^
 ||wickedhumankindbarrel.com^
 ||wickedsetup.com^
+||wickingjesu.com^
 ||wickyuprestudy.com^
 ||wicory.com^
 ||widdleaflame.world^
@@ -186547,7 +186562,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-10-31T18:33:02.949Z
+! Last updated: 2025-10-31T19:08:32.964Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
