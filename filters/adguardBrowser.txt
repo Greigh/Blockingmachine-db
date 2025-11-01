@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-11-01T18:27:48.427Z
-! Rules count: 310094
+! Last updated: 2025-11-01T19:07:27.645Z
+! Rules count: 310109
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -6241,6 +6241,7 @@ browsershots.org#@#.advert_area
 ||boajowhutupoo.net^
 ||boaloakothauchi.net^
 ||boannre.com^
+||boapteebaida.net^
 ||boardhisisa.org^
 ||boardpress-b.online^
 ||boarshrubforemost.com^
@@ -7203,6 +7204,7 @@ browsershots.org#@#.advert_area
 ||carefree-complex.pro^
 ||carefreefootball.pro^
 ||carefulbleatdish.com^
+||careless-benefit.com^
 ||caresseashoreunrest.com^
 ||caressfinancialdodge.com^
 ||caressleazy.com^
@@ -36690,6 +36692,7 @@ browsershots.org#@#.advert_area
 ||urldelivery.com^
 ||urlgone.com^
 ||urlhausa.com^
+||urlmkktpnfc.com^
 ||urnfulsbacin.life^
 ||urnismsoroses.rest^
 ||urnwhereabouts.com^
@@ -169652,6 +169655,7 @@ browsershots.org#@#.advert_area
 ||blspqefzfmazg.site^
 ||bltwuvetubnqt.space^
 ||blu5fdclr.com^
+||blubbae.shop^
 ||blubberrowan.com^
 ||blubberspoiled.com^
 ||bludgeentraps.com^
@@ -169715,6 +169719,7 @@ browsershots.org#@#.advert_area
 ||bngwlt.com^
 ||bnhkwgjr.com^
 ||bnhtml.com^
+||bnjpcnply.com^
 ||bnmkl.com^
 ||bnmqtggqjoqic.buzz^
 ||bnofjtuewcnca.site^
@@ -172442,6 +172447,7 @@ browsershots.org#@#.advert_area
 ||cruncherpatiencestoreroom.com^
 ||crunchysheathstruck.com^
 ||crupkokum.rest^
+||crusetbaffy.click^
 ||crushedshakechasing.com^
 ||crushingaspect.pro^
 ||crushingaspirin.com^
@@ -173771,6 +173777,7 @@ browsershots.org#@#.advert_area
 ||dmadehimalowb.com^
 ||dmatzeelpqsqr.space^
 ||dmavtliwh.global^
+||dmdhvynfbh.com^
 ||dmfletnofbgay.site^
 ||dmfnwurs.xyz^
 ||dmgfqmltttogq.space^
@@ -179672,6 +179679,7 @@ browsershots.org#@#.advert_area
 ||horrifychamma.qpon^
 ||horselyyauper.cfd^
 ||hortestoz.com^
+||hoselsoyapock.cfd^
 ||hosierypressed.com^
 ||hospicaladapto.org^
 ||hospitable-effort.pro^
@@ -179802,6 +179810,7 @@ browsershots.org#@#.advert_area
 ||hrahdmon.com^
 ||hrahpnhrlf.com^
 ||hramb.site^
+||hrauspaeyoul.com^
 ||hrbaal0z.xyz^
 ||hrcqvcyf.com^
 ||hrdartsdtrmqu.site^
@@ -183115,6 +183124,7 @@ browsershots.org#@#.advert_area
 ||kqhi97lf.de^
 ||kqimbdcogx.net^
 ||kqiuernncywj.xyz^
+||kqjctnfolquejs.com^
 ||kqjfsebp.com^
 ||kqlpkabisdvslqa.net^
 ||kqmmlqbuwmksm.store^
@@ -188474,6 +188484,7 @@ browsershots.org#@#.advert_area
 ||ohgcvhcbhe.com^
 ||ohgriforkvan.com^
 ||ohiaschavel.world^
+||ohjmhuoknq.com^
 ||ohkdsplu.com^
 ||ohldsplu.com^
 ||ohmcasting.com^
@@ -190242,6 +190253,7 @@ browsershots.org#@#.advert_area
 ||phauthunourto.net^
 ||phauzoochim.com^
 ||phburwtzjusbh.site^
+||phecdacushier.qpon^
 ||pheegopt.xyz^
 ||pheelsouptathoo.net^
 ||pheergokraiz.net^
@@ -193336,6 +193348,7 @@ browsershots.org#@#.advert_area
 ||reeptuthaithe.com^
 ||reeqqkeamaaay.top^
 ||reeqqkeamaomk.top^
+||reestale.help^
 ||refacedpearlet.qpon^
 ||refbanners.com^
 ||refbanners.website^
@@ -195639,6 +195652,7 @@ browsershots.org#@#.advert_area
 ||shoodfarand.digital^
 ||shoofabhalu.com^
 ||shoofatartish.life^
+||shoofosteltutch.com^
 ||shoogleckorgoat.net^
 ||shooltuca.net^
 ||shoordaird.com^
@@ -198252,6 +198266,7 @@ browsershots.org#@#.advert_area
 ||tilaghwpas.com^
 ||tillinextricable.com^
 ||tillstayhereab.org^
+||tillysices.rest^
 ||tiltgardenheadlight.com^
 ||tilthsaustere.shop^
 ||tilttrk.com^
@@ -309978,7 +309993,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-11-01T18:27:48.437Z
+! Last updated: 2025-11-01T19:07:27.655Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
