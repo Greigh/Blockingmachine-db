@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-11-02T18:27:37.535Z
-! Rules count: 187809
+! Last updated: 2025-11-02T19:07:42.719Z
+! Rules count: 187814
 ||0014b04291.com^
 ||0019x.com^
 ||00609c257b.com^
@@ -4753,6 +4753,7 @@
 ||boomads.com^
 ||booneeptou.net^
 ||booseed.com^
+||boosheewetie.com^
 ||boost-next.co.jp^
 ||boostaubeehy.net^
 ||boostcdn.net^
@@ -5749,6 +5750,7 @@
 ||cchkvtejdnqov.space^
 ||ccjfxvnyiqcfv.space^
 ||ccjgqoqlj.com^
+||ccjlyeghbdppq.website^
 ||ccjzuavqrh.com^
 ||cckltgdhvmrux.site^
 ||ccluukrajdnyj.space^
@@ -8363,6 +8365,7 @@
 ||dhruqpiaftxwk.online^
 ||dhwanbtq.com^
 ||dhyrlpxupgjcj.site^
+||dhzqlqrfwjqgv.website^
 ||di7stero.com^
 ||diagnosiscontractortrophy.com^
 ||diagnosisintriguingorganizer.com^
@@ -21680,6 +21683,7 @@
 ||mwalgainwmbaxb.com^
 ||mwamvuusmhjmu.online^
 ||mwaqupjdcvkxq.store^
+||mwbdbxinfaatl.site^
 ||mwbzdzmuviwtf.website^
 ||mweujqszechsw.site^
 ||mwgiiuzcmkfdg.com^
@@ -35416,6 +35420,7 @@
 ||uxnrnsfybjmxgw.com^
 ||uxpprdoqvkxma.space^
 ||uxqudtzzbkhfq.website^
+||uxrnxlccqbjjn.com^
 ||uxtzpzxryhbvh.online^
 ||uxvlnjwkovapk.store^
 ||uxwinyafloqfy.store^
@@ -187817,7 +187822,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-11-02T18:27:37.540Z
+! Last updated: 2025-11-02T19:07:42.725Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes

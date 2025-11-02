@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-11-02T18:27:36.106Z
-! Rules count: 310533
+! Last updated: 2025-11-02T19:07:41.170Z
+! Rules count: 310538
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -6390,6 +6390,7 @@ browsershots.org#@#.advert_area
 ||boomads.com^
 ||booneeptou.net^
 ||booseed.com^
+||boosheewetie.com^
 ||boost-next.co.jp^
 ||boostaubeehy.net^
 ||boostcdn.net^
@@ -7386,6 +7387,7 @@ browsershots.org#@#.advert_area
 ||cchkvtejdnqov.space^
 ||ccjfxvnyiqcfv.space^
 ||ccjgqoqlj.com^
+||ccjlyeghbdppq.website^
 ||ccjzuavqrh.com^
 ||cckltgdhvmrux.site^
 ||ccluukrajdnyj.space^
@@ -10001,6 +10003,7 @@ browsershots.org#@#.advert_area
 ||dhruqpiaftxwk.online^
 ||dhwanbtq.com^
 ||dhyrlpxupgjcj.site^
+||dhzqlqrfwjqgv.website^
 ||di7stero.com^
 ||diagnosiscontractortrophy.com^
 ||diagnosisintriguingorganizer.com^
@@ -23319,6 +23322,7 @@ browsershots.org#@#.advert_area
 ||mwalgainwmbaxb.com^
 ||mwamvuusmhjmu.online^
 ||mwaqupjdcvkxq.store^
+||mwbdbxinfaatl.site^
 ||mwbzdzmuviwtf.website^
 ||mweujqszechsw.site^
 ||mwgiiuzcmkfdg.com^
@@ -37055,6 +37059,7 @@ browsershots.org#@#.advert_area
 ||uxnrnsfybjmxgw.com^
 ||uxpprdoqvkxma.space^
 ||uxqudtzzbkhfq.website^
+||uxrnxlccqbjjn.com^
 ||uxtzpzxryhbvh.online^
 ||uxvlnjwkovapk.store^
 ||uxwinyafloqfy.store^
@@ -310417,7 +310422,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-11-02T18:27:36.117Z
+! Last updated: 2025-11-02T19:07:41.180Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
