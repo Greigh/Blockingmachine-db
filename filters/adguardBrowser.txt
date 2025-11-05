@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-11-05T18:32:53.552Z
-! Rules count: 312059
+! Last updated: 2025-11-05T19:09:52.175Z
+! Rules count: 312051
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -263564,7 +263564,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||bee.shelveholidays.co.uk^
 ||bee.tc.easebar.com^
 ||beegrenugoz.com^
-||beekwhipcat.cyou^
 ||beelinehindu.com^
 ||beemolgator.com^
 ||beencaroche.shop^
@@ -277287,7 +277286,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||hrogrpee.de^
 ||hrryumrafhzjs.site^
 ||hrsubwzcikzrf.site^
-||hrtnmhkzhpfpnqvchoe7lyb9wy.cfd^
 ||hruch.site^
 ||hruk.afguk.top^
 ||hruk.gumasi.top^
@@ -281108,7 +281106,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||lmvrjajerrozv.top^
 ||lmvrjajerrrzq.top^
 ||lmwwbrgjj.com^
-||lmxjnuysjbyea.space^
 ||lmzhpzoycxjfn.top^
 ||lnabew.com^
 ||lnddkooitabnj.online^
@@ -286747,7 +286744,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||peer39.com^
 ||peer39.net^
 ||peerlesshallucinate.com^
-||peewhouheeku.net^
 ||pefftzbjtapkv.online^
 ||pegasidjeez.com^
 ||pegoxylphillip.com^
@@ -288999,7 +288995,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||qnjcoqqwvfgei.online^
 ||qnp16tstw.com^
 ||qnpyggpouxysw.online^
-||qnqqwnarzhwsub.com^
 ||qnravllmrkpdo.space^
 ||qnsr.com^
 ||qnsxtvhfnajnw.global^
@@ -301241,7 +301236,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||xdrelbgbndfnl.site^
 ||xdrig.com^
 ||xdrlthfhikvgm.club^
-||xdyxzdkconsev.site^
 ||xeajyphfvmxpc.store^
 ||xebetp.icu^
 ||xebfomhenqxin.online^
@@ -301288,7 +301282,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||xgdata.xoyo.games^
 ||xghklnjmyljlc.site^
 ||xgiiioziwwayu.store^
-||xgnrtinmuczbe.website^
 ||xgolyqyfjuuwn.online^
 ||xgozhrjmwwgxf.site^
 ||xgr5.com^
@@ -302602,7 +302595,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||ysesials.net^
 ||yshfyhfhzvcik.club^
 ||yslsymovnkkjl.site^
-||ysnlkyfjswepg.online^
 ||ystationalhed.com^
 ||yswpcoftefaes.site^
 ||ysxyrcojiqvwj.store^
@@ -311943,7 +311935,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-11-05T18:32:53.561Z
+! Last updated: 2025-11-05T19:09:52.184Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
