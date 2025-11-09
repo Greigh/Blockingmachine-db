@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-11-09T18:28:23.810Z
-! Rules count: 314124
+! Last updated: 2025-11-09T19:07:38.934Z
+! Rules count: 314132
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -5604,6 +5604,7 @@ browsershots.org#@#.advert_area
 ||batcrack.icu^
 ||batebalmy.com^
 ||batelltrog.cyou^
+||batemanalgarde.click^
 ||bathepoliteness.com^
 ||bathershucked.cyou^
 ||batheunits.com^
@@ -26065,6 +26066,7 @@ browsershots.org#@#.advert_area
 ||ofljjrxtflpva.space^
 ||ofluyplnfaqhi.site^
 ||ofmdohtxiotxm.site^
+||ofmeivlmqjxqc.store^
 ||ofoejohepntintt.com^
 ||ofphanpytor.com^
 ||ofpodconnmtyd.space^
@@ -30173,6 +30175,7 @@ browsershots.org#@#.advert_area
 ||qjjqhcqxcyfex.tech^
 ||qjldydelwreqn.click^
 ||qjlyfestjozoo.site^
+||qjmklfeamrpjgw.com^
 ||qjoauekeqgysdub.com^
 ||qjpiosbrbh.net^
 ||qjrvummavqjtr.website^
@@ -31867,6 +31870,7 @@ browsershots.org#@#.advert_area
 ||riwxnjegf.xyz^
 ||riwzzbhovpdzt.space^
 ||rixaka.com^
+||rixezmpshxviy.space^
 ||rixibe.xyz^
 ||rixoanoophouboo.net^
 ||rixyceruses.world^
@@ -40399,6 +40403,7 @@ browsershots.org#@#.advert_area
 ||whizzerrapiner.com^
 ||whizzertattie.cyou^
 ||whkbqnkscmnwo.global^
+||whldthsafmpam.online^
 ||whlsxwhq.com^
 ||whoaksoopoordo.net^
 ||whoalinseed.shop^
@@ -70641,6 +70646,7 @@ omni.soundestlink.com$image
 ||coinsyouneed.com^
 ||coldbalance.com^
 ||coloradoserves.com^
+||colorfulpet.com^
 ||coloringisland.com^
 ||colossalclouds.com^
 ||colossalcoat.com^
@@ -71389,6 +71395,7 @@ omni.soundestlink.com$image
 ||needyneedle.com^
 ||neighborlywatch.com^
 ||nervoussummer.com^
+||networklast.com^
 ||newarkdriving.com^
 ||newartreview.com^
 ||niftygraphs.com^
@@ -71956,6 +71963,7 @@ omni.soundestlink.com$image
 ||stomachscience.com^
 ||stonechin.com^
 ||stopstomach.com^
+||stormyflower.com^
 ||straightnest.com^
 ||straindrinks.com^
 ||strangeclocks.com^
