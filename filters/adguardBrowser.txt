@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-11-10T18:32:41.113Z
-! Rules count: 314874
+! Last updated: 2025-11-10T19:09:31.670Z
+! Rules count: 314896
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -6768,6 +6768,7 @@ browsershots.org#@#.advert_area
 ||bqrueuxqvhjhc.online^
 ||bqsnmpwxwd.buzz^
 ||bqszugpxadzlg.store^
+||bqtqvxmihnpil.store^
 ||bqvarftvrigcn.online^
 ||bqvzsxadeajio.global^
 ||bqwfemjlhxpia.online^
@@ -30552,6 +30553,7 @@ browsershots.org#@#.advert_area
 ||qr-captcha.com^
 ||qr-player-new.com^
 ||qrcvbzqlsbshx.space^
+||qrczjokpskryu.online^
 ||qrddvulqu.com^
 ||qrealqeorqorj.top^
 ||qrealqezjvarv.top^
@@ -41672,6 +41674,7 @@ browsershots.org#@#.advert_area
 ||xg8qofeylie14y8h5qnrb.cfd^
 ||xgbetzbmmdqbv.space^
 ||xgbzhyoeitomd.website^
+||xgcsuiebbavok.com^
 ||xghklnjmyljlc.site^
 ||xgiiioziwwayu.store^
 ||xgnrtinmuczbe.website^
@@ -136464,6 +136467,8 @@ wardhanime.net###kiri
 dm5.com##.cp_adct
 movie76.com,wardhanime.net##div[id^="teaser"]
 movie76.com##img[alt="ads"]
+tecnoandroid.it##.aawp
+tecnoandroid.it##.code-block
 tp24.it###Adv-div
 ||banner.tp24.it^
 hdblog.it##.pubtech-adv-container
@@ -144171,6 +144176,7 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 $subdocument,third-party,denyallow=disqus.com,domain=love4u.net
 ||linksconsole.com/ad-system/
 techarmor.xyz##.my-ad-container
+embed.acast.com##+js(json-prune-xhr-response, ads result.timeline.[-].payload.parts.*.payload.adId, , /media\.json|play-api\.acast\.com\/livestitch\//)
 dafreeporn.com##div[id$="-im-container"]
 xvideos.com,xv-ru.com##.top-top
 omnicalculator.com##div[data-testid="leaderboard-row"]:empty
@@ -171345,6 +171351,7 @@ browsershots.org#@#.advert_area
 ||awxdlwbxqjnoi.online^
 ||awxeumltonpwpec.net^
 ||awxeumltonpwpec.xyz^
+||awxymatkud.com^
 ||awyeldtpesn.com^
 ||awzlzznavglap.space^
 ||axeldivision.com^
@@ -183370,6 +183377,7 @@ browsershots.org#@#.advert_area
 ||humpingunplain.shop^
 ||humro.site^
 ||humsoolt.net^
+||humusfeuding.cfd^
 ||humwatson.click^
 ||hunchbackconebelfry.com^
 ||hunchcaw.com^
@@ -185327,6 +185335,7 @@ browsershots.org#@#.advert_area
 ||jiuwert.online^
 ||jiuyic.top^
 ||jivoyypvjddcb.website^
+||jiwbtaab.com^
 ||jiwire.com^
 ||jiwtwaogh.com^
 ||jixdwtlveqhrl.online^
@@ -187024,6 +187033,7 @@ browsershots.org#@#.advert_area
 ||kzlmbgololmqm.top^
 ||kzoixqlmnwtjg.space^
 ||kzoqgoylezurqz.com^
+||kzprzseknkpmb.website^
 ||kzqjctpvdjmwc.store^
 ||kzsdfaglllxit.store^
 ||kzt2afc1rp52.com^
@@ -188698,6 +188708,7 @@ browsershots.org#@#.advert_area
 ||lzsjauqvbc.com^
 ||lzucubrffoc59x.rest^
 ||lzulehztkwopr.website^
+||lzvrotofovlfn.website^
 ||lzvwybvvyroav.top^
 ||lzvwybvvyroqj.top^
 ||lzvwybvvyrqyk.top^
@@ -189353,6 +189364,7 @@ browsershots.org#@#.advert_area
 ||mepuyu.xyz^
 ||merchantequationresponse.com^
 ||merchenta.com^
+||mercifypartley.shop^
 ||mercuryilluminatedprunes.com^
 ||merelsuvrou.qpon^
 ||merelybarbeau.qpon^
@@ -189684,6 +189696,7 @@ browsershots.org#@#.advert_area
 ||mistfulfute.qpon^
 ||mistletoeethicleak.com^
 ||mistletoejobless.com^
+||mistolddropt.shop^
 ||mistresscoat.com^
 ||misty-discussion.com^
 ||misty-eyed.boats^
@@ -190068,6 +190081,7 @@ browsershots.org#@#.advert_area
 ||mopy.cloud^
 ||moqsmyaakoxkxe.com^
 ||morallyfitful.com^
+||morapope.shop^
 ||mordeegroo.net^
 ||mordoops.com^
 ||mordoorsie.net^
@@ -192380,6 +192394,7 @@ browsershots.org#@#.advert_area
 ||ohmmspkzzxgjq.life^
 ||ohndsplu.com^
 ||ohooftaux.net^
+||ohqyvfinftokk.space^
 ||ohrdsplu.com^
 ||ohtctjiuow.com^
 ||ohubyyrzoilxur.com^
@@ -193367,6 +193382,7 @@ browsershots.org#@#.advert_area
 ||ovulitegaen.cfd^
 ||ovvpwkalipjts.online^
 ||ovvypliv.com^
+||ovwazqtuqo.com^
 ||ovwydeewg.xyz^
 ||ovyjtsnaqgfue.com^
 ||ovyyszfod.fun^
@@ -195497,6 +195513,7 @@ browsershots.org#@#.advert_area
 ||pryqzoejbfxro.store^
 ||psadaumturti.net^
 ||psaiboargamti.com^
+||psaicevugne.net^
 ||psaignoukofurd.com^
 ||psailaukro.net^
 ||psaiselraw.net^
@@ -204510,6 +204527,7 @@ browsershots.org#@#.advert_area
 ||unybpmnswkywk.space^
 ||unyjmeoaltkrz.space^
 ||unylgxxmrsbb.com^
+||unyokederects.click^
 ||unzidmjojmoye.com^
 ||uobbpdvwnebf.com^
 ||uoceijctt.net^
@@ -207257,6 +207275,7 @@ browsershots.org#@#.advert_area
 ||wpclrjoalwzvj.com^
 ||wpdieifpq.net^
 ||wpefeqebvmdzz.website^
+||wpfbxwmic.com^
 ||wpfehhdmgnblxo.com^
 ||wpfersriorfns.store^
 ||wpfly-sbpkrd.icu^
@@ -207778,6 +207797,7 @@ browsershots.org#@#.advert_area
 ||xhulabvlf.com^
 ||xhwkporzfjpr.com^
 ||xiailvhqrdoml.website^
+||xicoxzjf.com^
 ||xidykpkqsib.com^
 ||xieaoxvbgxppytx.com^
 ||xieoyqqked.com^
@@ -267038,6 +267058,8 @@ lighterusa.com#@##shopify-section-age-gate
 ||boostclic.com^
 ||boostcpm.su^
 ||booster-vax.com^
+||bootcdn.net^
+||bootcss.com^
 ||bootingunpickedusable.com^
 ||bootpreload.uve.weibo.com^
 ||bootscritp.com^
@@ -272872,7 +272894,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||deporttideevenings.com^
 ||depreciatorybollocksupkitchen.com^
 ||deprivationperkcorrectly.com^
-||depsidcurare.shop^
 ||depucelsurcoat.com^
 ||deputizeeverydayexorcist.com^
 ||deputizepacifistwipe.com^
@@ -278943,7 +278964,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||gutockeewhargo.net^
 ||gutphewlittleoddly.com^
 ||guvmmaolnk.com^
-||guvpzoacpki.com^
 ||guwupmxscowhp.online^
 ||guxiezhuang.top^
 ||guyjrraidsrlk.store^
@@ -281900,7 +281920,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||jmt7mbwce.com^
 ||jmvwstrsvtna.com^
 ||jmwscbzgcqlaq.space^
-||jmxgwesrte.com^
 ||jmxqqlgsrkkrl.online^
 ||jncx1s.michaellindahl.com^
 ||jndcdxcoqjroj.store^
@@ -284434,7 +284453,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||louse.sigle.io^
 ||lousyfastened.com^
 ||louxoxo.com^
-||louzevewhee.com^
 ||lovable-scale.com^
 ||lovableerror.com^
 ||lovablephilosophy.pro^
@@ -284833,6 +284851,7 @@ lighterusa.com#@##shopify-section-age-gate
 ||mackeeperapp.mackeeper.com^
 ||mackerel.passiveincome.io^
 ||macomaindex.click^
+||macoms.la^
 ||maculaknabble.qpon^
 ||mad-consist.com^
 ||mad-size.com^
@@ -286573,7 +286592,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
 ||mvdnfedblekcc.store^
 ||mveayeitwnuzh.online^
-||mvfmdfsvoq.com^
 ||mvglxjpardncb.site^
 ||mvijuifysyjrz.rocks^
 ||mvjigogkqlgxo.icu^
@@ -287078,6 +287096,7 @@ lighterusa.com#@##shopify-section-age-gate
 ||newbluetrue.xyz^
 ||newcomerapart.com^
 ||newcomerfacultative.com^
+||newcrbpc.com^
 ||newdisplayformats.com^
 ||newfeatureview.perfectionholic.com^
 ||newfollow.info^
@@ -297111,6 +297130,8 @@ lighterusa.com#@##shopify-section-age-gate
 ||static.yrelationsan.org^
 ||static1.andbeyond.media^
 ||staticads.btopenworld.com^
+||staticfile.net^
+||staticfile.org^
 ||staticgalaksion.com^
 ||staticrtb.trackifyy.com^
 ||statics.woozooo.com^
@@ -301221,6 +301242,7 @@ lighterusa.com#@##shopify-section-age-gate
 ||union.baidu.cn^
 ||union.baidu.com^
 ||union.china.com.cn^
+||unionadjs.com^
 ||uniowarvvdsto.website^
 ||unique-memory.com^
 ||uniqueproceedingincurable.com^
@@ -304133,6 +304155,7 @@ lighterusa.com#@##shopify-section-age-gate
 ||xhmeoqeoeurjk.store^
 ||xhmyevcqcasdf.site^
 ||xhrhamnlzddyk.space^
+||xhsbpza.com^
 ||xhskoszdinatr.space^
 ||xhstfdnhkcgec.online^
 ||xiailvhqrdoml.website^
@@ -305604,7 +305627,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||zap.cdn.zynga.com^
 ||zapfgyqcktakq.site^
 ||zapmlugpzaufk.website^
-||zapmxmdlflprdy.com^
 ||zapogentasofh.site^
 ||zapotezincky.com^
 ||zarosnap.com^
@@ -314759,7 +314781,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-11-10T18:32:41.120Z
+! Last updated: 2025-11-10T19:09:31.678Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
