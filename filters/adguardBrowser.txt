@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-12-01T18:38:36.727Z
-! Rules count: 435750
+! Last updated: 2025-12-01T19:14:46.187Z
+! Rules count: 435772
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -14796,6 +14796,7 @@ browsershots.org#@#.advert_area
 ||frayedpizza.pro^
 ||frayhalfyear.com^
 ||freakedaani.digital^
+||freaksgallus.qpon^
 ||freaksgreed.com^
 ||freckledoutsiderundaunted.com^
 ||frecklessfrecklesssuction.com^
@@ -16784,6 +16785,7 @@ browsershots.org#@#.advert_area
 ||gwallet.com^
 ||gwblqdisk.com^
 ||gwbone-cpw.today^
+||gwctedbrpoyfqio.com^
 ||gwdhbowgiiuww.site^
 ||gwfwopvvtqmfh.space^
 ||gwgisftc.com^
@@ -39619,6 +39621,7 @@ browsershots.org#@#.advert_area
 ||warmerscarlet.com^
 ||warmheartedengine.com^
 ||warmlyparliamentscroll.com^
+||warmupposaune.com^
 ||warped-bus.com^
 ||warpedbrother.pro^
 ||warrtykirbies.cyou^
@@ -42172,6 +42175,7 @@ browsershots.org#@#.advert_area
 ||zctyxvnokstqs.website^
 ||zcumbriaxpjbl.site^
 ||zcuwwsophlhpm.online^
+||zcvfenomcowjp.site^
 ||zcymvyglyjyxu.online^
 ||zczdlauinkihf.store^
 ||zdaptrksg.com^
@@ -166137,8 +166141,11 @@ _prebid.js$script
 &sadbl=1&abtg=$3p
 &sadbl=1&chu=$3p
 /webservices/jsparselinks.aspx?$script
+/chronos?dune=*&token=$~3p,xhr
 /page/bouncy.php?$document
 /r.php?u=https$document
+/zclkredirect?$document
+/zclkvisitor/*$document
 /zcredirect?$document
 /jquery.peelback.$script
 /ad-blocking-advisor/*$script,stylesheet
@@ -170305,6 +170312,7 @@ browsershots.org#@#.advert_area
 ||ateeterfouled.help^
 ||ateleneguniter.shop^
 ||atelicmens.help^
+||atelierkapeika.rest^
 ||aterhouseoyope.com^
 ||atetsuthskcft.website^
 ||ateyfathertold.org^
@@ -173679,6 +173687,7 @@ browsershots.org#@#.advert_area
 ||childishbombgodless.com^
 ||childishlispbarely.com^
 ||childlessporcupinevaluables.com^
+||chiliessouped.help^
 ||chiliessupport.cyou^
 ||chilihandshakewing.com^
 ||chilimonoxidesalary.com^
@@ -176395,6 +176404,7 @@ browsershots.org#@#.advert_area
 ||disrespectpreceding.com^
 ||disrespectsuffer.com^
 ||dissatisfactionpublicity.com^
+||dissavepreve.cfd^
 ||dissertanitos.com^
 ||dissipatecombinedcolon.com^
 ||dissitemanger.com^
@@ -176765,6 +176775,7 @@ browsershots.org#@#.advert_area
 ||douwhaiwupe.net^
 ||douzvrswnkxzv.icu^
 ||dovecyton.com^
+||dovekieergs.cfd^
 ||dovoeqhym.xyz^
 ||doweredsots.cyou^
 ||dowerlesssightseehow.com^
@@ -176967,6 +176978,7 @@ browsershots.org#@#.advert_area
 ||drxdbjkowgmgyx.xyz^
 ||drybid.pro^
 ||dryerhalfmoon.com^
+||dryqsjk.com^
 ||dryrlsebjzcvb.site^
 ||dryzxafwqiyfy.site^
 ||drzqijno6u91u832r91yqzou1jvd5pn2mt2s.com^
@@ -177417,6 +177429,7 @@ browsershots.org#@#.advert_area
 ||ebgqxduqbbfke.website^
 ||ebhcankfg.com^
 ||ebjzywqbpkbbi.online^
+||ebkiplbqvn.com^
 ||eblastengine.com^
 ||ebonizerebake.com^
 ||ebovfigjrw.xyz^
@@ -184008,6 +184021,7 @@ browsershots.org#@#.advert_area
 ||impugkpbilveh.website^
 ||impugnspapio.qpon^
 ||impukwweipyin.website^
+||impure-disk.pro^
 ||impureleg.com^
 ||impurepath.com^
 ||imrmrwtq.com^
@@ -188143,6 +188157,7 @@ browsershots.org#@#.advert_area
 ||lyartresees.rest^
 ||lybktpmhkskgh.website^
 ||lycuhejheahrr.store^
+||lycus-nom.com^
 ||lycykqrnprxjc.site^
 ||lydiacorneredreflect.com^
 ||lydkuzntnhxim.website^
@@ -191837,6 +191852,7 @@ browsershots.org#@#.advert_area
 ||ogrynmirdcxxk.store^
 ||ogscumkte.com^
 ||ogsgslxcrwydl.store^
+||ogsxhebkyx.com^
 ||ogtcggtsbulfs.online^
 ||ogtsesfvshtsk.website^
 ||oguaumtdjyqoe.online^
@@ -194837,6 +194853,7 @@ browsershots.org#@#.advert_area
 ||pseudoenarbor.com^
 ||psfpoe.shop^
 ||psgddusxwtmgj.online^
+||psgtmjbcngxdv.website^
 ||pshb.me^
 ||pshmetrk.com^
 ||pshvpyilxuow.net^
@@ -196254,6 +196271,7 @@ browsershots.org#@#.advert_area
 ||raigleephi.net^
 ||raihanovoureew.net^
 ||railingperformance.com^
+||railoosacoovo.net^
 ||railroadignorant.com^
 ||railroadunofficial.com^
 ||raineyeshadowguilty.com^
@@ -196388,6 +196406,7 @@ browsershots.org#@#.advert_area
 ||ravedrizzle.com^
 ||ravenouspetition.com^
 ||ravenperspective.com^
+||ravin-hbs.com^
 ||ravizo.online^
 ||ravm.tv^
 ||ravoompaimpe.com^
@@ -202593,6 +202612,7 @@ browsershots.org#@#.advert_area
 ||twtypnyspenqb.store^
 ||twvgoaewdmluf.online^
 ||twvsgpryygplmcw.com^
+||twxeylaimubks.space^
 ||twznryfmalwge.site^
 ||txbwpztu-oh.site^
 ||txcslpvgwxeao.website^
@@ -203886,6 +203906,7 @@ browsershots.org#@#.advert_area
 ||vefwoycijwbkr.store^
 ||vegetablebleachdeprive.com^
 ||vegetarianrotperpetrator.com^
+||veglake.cyou^
 ||vegrultaucoa.net^
 ||vehosw.com^
 ||veideasandcome.org^
@@ -216832,6 +216853,7 @@ browsershots.org#@#.advert_area
 ||megaup.net/sw.js
 ||mictests.com/myshowroom/view.php$subdocument
 ||mobilesyrup.com/RgPSN0siEWzj.js
+||moflix-stream.click/ad?
 ||moviegalleri.net/wp-content/uploads/2025/09/576799e93c.jpg
 ||moviekhhd.biz/ads/
 ||moviekhhd.biz/images/DownloadAds
@@ -435630,7 +435652,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-12-01T18:38:36.738Z
+! Last updated: 2025-12-01T19:14:46.199Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
