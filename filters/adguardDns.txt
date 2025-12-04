@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-12-04T18:37:45.857Z
-! Rules count: 315055
+! Last updated: 2025-12-04T19:12:05.114Z
+! Rules count: 315059
 ||0014b04291.com^
 ||0019x.com^
 ||00609c257b.com^
@@ -4970,6 +4970,7 @@
 ||bjpnhroqdkexx.website^
 ||bjquhxvicujcc.online^
 ||bjridjaxaqmoc.website^
+||bjrlkxrlamocc.website^
 ||bjsvp35.space^
 ||bjtvacwkzetxc.store^
 ||bjvhcjulwwnmk.space^
@@ -10777,6 +10778,7 @@
 ||ecrilwzjkwqul.space^
 ||ecrvysupbqcnb.top^
 ||ecrwqu.com^
+||ecsbpxqjji.com^
 ||ecsmoceoxjdzv.site^
 ||ecstasycluttergnat.com^
 ||ecstatic-lead.pro^
@@ -18030,6 +18032,7 @@
 ||itbyppgzzuamb.store^
 ||itcameruptr.com^
 ||itchinglikely.com^
+||itchingunethical.com^
 ||itchvainly.rest^
 ||itchybattle.pro^
 ||itchyframe.pro^
@@ -18123,6 +18126,7 @@
 ||ivqkhhsnuhgiu.site^
 ||ivstracker.net^
 ||ivvmkcwxvifeb.website^
+||ivwigsvcogagh.website^
 ||ivynjtsidwnqh.online^
 ||ivyojrzhlczzr.online^
 ||iwaknuqssc.net^
@@ -315063,7 +315067,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-12-04T18:37:45.865Z
+! Last updated: 2025-12-04T19:12:05.121Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
