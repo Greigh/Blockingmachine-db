@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/danielhipskind/blockingmachine
 ! Version: 1.0.0
-! Last updated: 2025-12-05T18:32:16.747Z
-! Rules count: 438612
+! Last updated: 2025-12-05T19:09:30.652Z
+! Rules count: 438614
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -5019,6 +5019,7 @@ browsershots.org#@#.advert_area
 ||asafesite.com^
 ||asagazsfxlgvx.space^
 ||asalsalsocmee.net^
+||asayfwihbwkii.space^
 ||asbfala.com^
 ||asbulbasaura.com^
 ||asccdn.com^
@@ -13370,6 +13371,7 @@ browsershots.org#@#.advert_area
 ||erobilpbxvnf.xyz^
 ||erodiumvodums.com^
 ||eroidere.com^
+||eromkfzhemkeo.space^
 ||erovation.com^
 ||erperfsxtafoh.store^
 ||erpupydeklzyp.space^
