@@ -3,8 +3,13 @@ import { exec } from 'child_process';
 import { promisify } from 'util';
 import fs from 'fs/promises';
 import path from 'path';
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
 
 const execAsync = promisify(exec);
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+const databaseRoot = path.dirname(__dirname);
 const today = new Date().toISOString().split('T')[0];
 
 async function updateFilters() {
@@ -12,17 +17,20 @@ async function updateFilters() {
     console.log('🚀 Starting Blockingmachine filter update...');
     
     // Ensure output directory exists
-    await fs.mkdir('./filters/output', { recursive: true });
+    await fs.mkdir(path.join(databaseRoot, 'filters', 'output'), { recursive: true });
+    
+    // Copy config to root for CLI
+    await fs.copyFile(path.join(databaseRoot, 'sources', '.blockingmachinerc.json'), path.join(databaseRoot, '.blockingmachinerc.json'));
     
     // Check if we should force a fresh import (in CI or if specifically requested)
     const forceFreshImport = process.env.NODE_ENV === 'production' || process.env.FORCE_IMPORT === 'true';
     // Prefer the export path used by the CLI (root ./filters/output), fall back to the old sources path
-    let filterListPath = path.join('./filters/output', 'filter-list.txt');
+    let filterListPath = path.join(databaseRoot, 'filters', 'output', 'filter-list.txt');
     try {
       await fs.access(filterListPath);
     } catch (err) {
       // fallback
-      filterListPath = path.join('./sources/filters/output', 'filter-list.txt');
+      filterListPath = path.join(databaseRoot, 'sources', 'filters', 'output', 'filter-list.txt');
     }
 
     let shouldImport = forceFreshImport;
@@ -42,13 +50,10 @@ async function updateFilters() {
     
     if (shouldImport) {
       
-      // Change to sources directory where config is located
-      process.chdir('./sources');
-      
-      // Run Blockingmachine import command
+      // Run Blockingmachine import command from database root
       console.log('📥 Importing filter lists...');
       try {
-        const { stdout, stderr } = await execAsync('blockingmachine import');
+        const { stdout, stderr } = await execAsync('npx blockingmachine import');
         console.log('Import output:', stdout);
         if (stderr) console.log('Import warnings:', stderr);
         
@@ -60,19 +65,16 @@ async function updateFilters() {
         console.log('⚠️ Attempting to continue with export...');
       }
 
-      // Run Blockingmachine export command for different formats
+      // Run Blockingmachine export command from database root
       console.log('📤 Exporting filter lists...');
       try {
-        const { stdout, stderr } = await execAsync(`blockingmachine export --output-path ../filters/output`);
+        const { stdout, stderr } = await execAsync(`npx blockingmachine export --output-path filters/output`);
         console.log('Export output:', stdout);
         if (stderr) console.log('Export warnings:', stderr);
       } catch (error) {
         console.error(`❌ Export failed: ${error.message}`);
         console.log('⚠️ Will continue with existing data...');
       }
-
-      // Go back to root directory
-      process.chdir('..');
     }
 
     // Copy and rename files
@@ -98,19 +100,26 @@ async function updateFilters() {
   } catch (error) {
     console.error('💥 Error updating filters:', error);
     throw error;
+  } finally {
+    // Clean up config
+    try {
+      await fs.unlink(path.join(databaseRoot, '.blockingmachinerc.json'));
+    } catch (e) {
+      // ignore
+    }
   }
 }
 
 async function copyAndRenameFiles() {
   // First, copy the main filter file. Prefer the root export path (where the CLI writes),
   // but fall back to the sources path if necessary.
-  let adguardSrcPath = path.join('./filters/output', 'filter-list.txt');
+  let adguardSrcPath = path.join(databaseRoot, 'filters', 'output', 'filter-list.txt');
   try {
     await fs.access(adguardSrcPath);
   } catch (err) {
-    adguardSrcPath = path.join('./sources/filters/output', 'filter-list.txt');
+    adguardSrcPath = path.join(databaseRoot, 'sources', 'filters', 'output', 'filter-list.txt');
   }
-  const adguardDestPath = path.join('./filters', 'adguardBrowser.txt');
+  const adguardDestPath = path.join(databaseRoot, 'filters', 'adguardBrowser.txt');
   
   try {
     await fs.access(adguardSrcPath);
@@ -153,6 +162,14 @@ async function generateAdditionalFormats(adguardFilePath) {
     const content = await fs.readFile(adguardFilePath, 'utf-8');
     const lines = content.split('\n');
     
+    // Collect rules skipped due to modifiers (single pass audit)
+    const skippedModifierRules = [];
+    lines.forEach((line) => {
+      if (line && line.includes('$') && !line.trim().startsWith('!')) {
+        if (!skippedModifierRules.includes(line)) skippedModifierRules.push(line);
+      }
+    });
+
     // Generate hosts format
     const hostsRules = [];
     hostsRules.push('# Title: Blockingmachine AdGuard List');
@@ -169,7 +186,19 @@ async function generateAdditionalFormats(adguardFilePath) {
     hostsRules.push('');
     let hostsCount = 0;
 
-    lines.forEach(line => {
+    lines.forEach((line) => {
+      // Preserve exception (allowlist) rules as comments so everything stays in one list
+      if (line.match(/^@@\|\|([^\/\^$]+)\^$/)) {
+        const domain = line.replace(/^@@\|\|/, '').replace(/\^$/, '');
+        if (domain) {
+          hostsRules.push(`# EXCEPTION: @@||${domain}^`);
+        }
+        return;
+      }
+      // Skip rules containing modifiers/options (they cannot be safely converted to hosts)
+      if (line.includes('$')) return;
+
+      // Normal blocking domain rules (AdGuard/uBO format)
       if (line.match(/^\|\|([^\/\^$]+)\^$/)) {
         const domain = line.replace(/^\|\|/, '').replace(/\^$/, '');
         if (domain && !domain.includes('*') && !domain.includes('$')) {
@@ -181,7 +210,7 @@ async function generateAdditionalFormats(adguardFilePath) {
     // update rules count header
     hostsRules[hostsCountIndex] = `# Rules count: ${hostsCount}`;
 
-    await fs.writeFile('./filters/hosts.txt', hostsRules.join('\n'));
+    await fs.writeFile(path.join(databaseRoot, 'filters', 'hosts.txt'), hostsRules.join('\n'));
     console.log('✓ Generated hosts.txt format');
     
     // Generate basic dnsmasq format
@@ -198,7 +227,16 @@ async function generateAdditionalFormats(adguardFilePath) {
     const dnsmasqCountIndex = dnsmasqRules.length - 2; // position of rules count will be inserted earlier
     let dnsmasqCount = 0;
 
-    lines.forEach(line => {
+    lines.forEach((line) => {
+      if (line.match(/^@@\|\|([^\/\^$]+)\^$/)) {
+        const domain = line.replace(/^@@\|\|/, '').replace(/\^$/, '');
+        if (domain) dnsmasqRules.push(`# EXCEPTION: @@||${domain}^`);
+        return;
+      }
+
+      // Skip rules with modifiers/options
+      if (line.includes('$')) return;
+
       if (line.match(/^\|\|([^\/\^$]+)\^$/)) {
         const domain = line.replace(/^\|\|/, '').replace(/\^$/, '');
         if (domain && !domain.includes('*') && !domain.includes('$')) {
@@ -210,7 +248,7 @@ async function generateAdditionalFormats(adguardFilePath) {
     // insert rules count after Last Updated (which is at index 6)
     dnsmasqRules.splice(7, 0, `# Rules count: ${dnsmasqCount}`);
 
-    await fs.writeFile('./filters/dnsmasq.conf', dnsmasqRules.join('\n'));
+    await fs.writeFile(path.join(databaseRoot, 'filters', 'dnsmasq.conf'), dnsmasqRules.join('\n'));
     console.log('✓ Generated dnsmasq.conf format');
     
     // Generate unbound format
@@ -226,7 +264,18 @@ async function generateAdditionalFormats(adguardFilePath) {
     unboundRules.push('');
     let unboundCount = 0;
 
-    lines.forEach(line => {
+    lines.forEach((line) => {
+      if (line.match(/^@@\|\|([^\/\^$]+)\^$/)) {
+        const domain = line.replace(/^@@\|\|/, '').replace(/\^$/, '');
+        if (domain) {
+          unboundRules.push(`# EXCEPTION: @@||${domain}^`);
+        }
+        return;
+      }
+
+      // Skip rules with modifiers/options
+      if (line.includes('$')) return;
+
       if (line.match(/^\|\|([^\/\^$]+)\^$/)) {
         const domain = line.replace(/^\|\|/, '').replace(/\^$/, '');
         if (domain && !domain.includes('*') && !domain.includes('$')) {
@@ -238,7 +287,7 @@ async function generateAdditionalFormats(adguardFilePath) {
     });
     unboundRules.splice(7, 0, `# Rules count: ${unboundCount}`);
 
-    await fs.writeFile('./filters/unbound.conf', unboundRules.join('\n'));
+    await fs.writeFile(path.join(databaseRoot, 'filters', 'unbound.conf'), unboundRules.join('\n'));
     console.log('✓ Generated unbound.conf format');
     
     // Generate BIND named.conf format
@@ -254,7 +303,16 @@ async function generateAdditionalFormats(adguardFilePath) {
     namedRules.push('');
     let namedCount = 0;
 
-    lines.forEach(line => {
+    lines.forEach((line) => {
+      if (line.match(/^@@\|\|([^\/\^$]+)\^$/)) {
+        const domain = line.replace(/^@@\|\|/, '').replace(/\^$/, '');
+        if (domain) namedRules.push(`# EXCEPTION: @@||${domain}^`);
+        return;
+      }
+
+      // Skip rules with modifiers/options
+      if (line.includes('$')) return;
+
       if (line.match(/^\|\|([^\/\^$]+)\^$/)) {
         const domain = line.replace(/^\|\|/, '').replace(/\^$/, '');
         if (domain && !domain.includes('*') && !domain.includes('$')) {
@@ -265,7 +323,7 @@ async function generateAdditionalFormats(adguardFilePath) {
     });
     namedRules.splice(7, 0, `# Rules count: ${namedCount}`);
 
-    await fs.writeFile('./filters/named.conf', namedRules.join('\n'));
+    await fs.writeFile(path.join(databaseRoot, 'filters', 'named.conf'), namedRules.join('\n'));
     console.log('✓ Generated named.conf format');
     
     // Generate Privoxy format
@@ -285,7 +343,16 @@ async function generateAdditionalFormats(adguardFilePath) {
     privoxyRules.push('{+block{Blockingmachine Blocklist}}');
     let privoxyCount = 0;
 
-    lines.forEach(line => {
+    lines.forEach((line) => {
+      if (line.match(/^@@\|\|([^\/\^$]+)\^$/)) {
+        const domain = line.replace(/^@@\|\|/, '').replace(/\^$/, '');
+        if (domain) privoxyRules.push(`# EXCEPTION: @@||${domain}^`);
+        return;
+      }
+
+      // Skip rules with modifiers/options
+      if (line.includes('$')) return;
+
       if (line.match(/^\|\|([^\/\^$]+)\^$/)) {
         const domain = line.replace(/^\|\|/, '').replace(/\^$/, '');
         if (domain && !domain.includes('*') && !domain.includes('$')) {
@@ -296,7 +363,7 @@ async function generateAdditionalFormats(adguardFilePath) {
     });
     privoxyRules[privoxyCountIndex] = `# Rules count: ${privoxyCount}`;
 
-    await fs.writeFile('./filters/privoxy.action', privoxyRules.join('\n'));
+    await fs.writeFile(path.join(databaseRoot, 'filters', 'privoxy.action'), privoxyRules.join('\n'));
     console.log('✓ Generated privoxy.action format');
     
     // Generate Shadowrocket format
@@ -315,7 +382,16 @@ async function generateAdditionalFormats(adguardFilePath) {
     shadowrocketRules.push('[Rule]');
     let shadowCount = 0;
 
-    lines.forEach(line => {
+    lines.forEach((line) => {
+      if (line.match(/^@@\|\|([^\/\^$]+)\^$/)) {
+        const domain = line.replace(/^@@\|\|/, '').replace(/\^$/, '');
+        if (domain) shadowrocketRules.push(`# EXCEPTION: @@||${domain}^`);
+        return;
+      }
+
+      // Skip rules with modifiers/options
+      if (line.includes('$')) return;
+
       if (line.match(/^\|\|([^\/\^$]+)\^$/)) {
         const domain = line.replace(/^\|\|/, '').replace(/\^$/, '');
         if (domain && !domain.includes('*') && !domain.includes('$')) {
@@ -326,8 +402,23 @@ async function generateAdditionalFormats(adguardFilePath) {
     });
     shadowrocketRules[shadowCountIndex] = `# Rules count: ${shadowCount}`;
 
-    await fs.writeFile('./filters/shadowrocket.conf', shadowrocketRules.join('\n'));
+    await fs.writeFile(path.join(databaseRoot, 'filters', 'shadowrocket.conf'), shadowrocketRules.join('\n'));
     console.log('✓ Generated shadowrocket.conf format');
+
+    // Write audit of skipped modifier-bearing rules for transparency
+    try {
+      const auditHeader = [];
+      auditHeader.push('# Skipped modifier-bearing rules');
+      auditHeader.push('# These rules contain `$` modifiers and were not converted to host-style formats');
+      auditHeader.push(`# Generated: ${new Date().toISOString()}`);
+      auditHeader.push(`# Count: ${skippedModifierRules.length}`);
+      auditHeader.push('');
+      const auditContent = auditHeader.concat(skippedModifierRules).join('\n');
+      await fs.writeFile(path.join(databaseRoot, 'filters', 'skipped-modifier-rules.txt'), auditContent);
+      console.log(`✓ Wrote skipped-modifier-rules.txt (${skippedModifierRules.length} rules)`);
+    } catch (err) {
+      console.log(`⚠️ Could not write skipped-modifier-rules.txt: ${err.message}`);
+    }
     
   } catch (error) {
     console.log(`⚠️ Could not generate additional formats: ${error.message}`);
@@ -336,8 +427,8 @@ async function generateAdditionalFormats(adguardFilePath) {
 
 async function generateDNSAdGuardList() {
   try {
-    const browserListPath = './filters/adguardBrowser.txt';
-    const dnsListPath = './filters/adguardDns.txt';
+    const browserListPath = path.join(databaseRoot, 'filters', 'adguardBrowser.txt');
+    const dnsListPath = path.join(databaseRoot, 'filters', 'adguardDns.txt');
     
     const content = await fs.readFile(browserListPath, 'utf-8');
     
@@ -390,31 +481,33 @@ async function generateDNSAdGuardList() {
 
 async function updateReadme() {
   try {
-    let readme = await fs.readFile('./README.md', 'utf-8');
+    let readme = await fs.readFile(path.join(databaseRoot, 'README.md'), 'utf-8');
     
     // Update last updated date
     readme = readme.replace(/\*\*Last updated:\*\* \d{4}-\d{2}-\d{2}/, `**Last updated:** ${today}`);
     
     // Update statistics if files exist
     try {
-      const adguardPath = './filters/adguardBrowser.txt';
+      const adguardPath = path.join(databaseRoot, 'filters', 'adguardBrowser.txt');
       const adguardContent = await fs.readFile(adguardPath, 'utf-8');
       const totalRules = adguardContent.split('\n').filter(line => 
         line.trim() && !line.startsWith('!') && !line.startsWith('#') && !line.startsWith('[')
       ).length;
       
+      const stats = await fs.stat(adguardPath);
+      const sizeMB = (stats.size / (1024 * 1024)).toFixed(1) + 'MB';
       const formattedCount = totalRules.toLocaleString();
       readme = readme.replace(
         /\| [\d,]+ \| [\d.]+MB? \| \d{4}-\d{2}-\d{2} \|/,
-        `| ${formattedCount} | 3.2MB | ${today} |`
+        `| ${formattedCount} | ${sizeMB} | ${today} |`
       );
       
-      console.log(`✓ Updated statistics: ${formattedCount} rules`);
+      console.log(`✓ Updated statistics: ${formattedCount} rules, ${sizeMB}`);
     } catch (error) {
       console.log(`⚠️ Could not update statistics: ${error.message}`);
     }
     
-    await fs.writeFile('./README.md', readme);
+    await fs.writeFile(path.join(databaseRoot, 'README.md'), readme);
     console.log('✓ Updated README.md');
     
   } catch (error) {
@@ -424,17 +517,9 @@ async function updateReadme() {
 
 async function appendPersonalFilters() {
   try {
-    // Determine paths based on current working directory
-    // Check if we're in sources directory or root directory
-    const isInSourcesDir = process.cwd().endsWith('/sources');
-    
-    const importedRulesPath = isInSourcesDir 
-      ? './filters/output/imported-rules.txt'
-      : './sources/filters/output/imported-rules.txt';
-    
-    const personalRulesPath = isInSourcesDir
-      ? './blockingmachine-rules.txt' 
-      : './sources/blockingmachine-rules.txt';
+    // Use absolute paths
+    const importedRulesPath = path.join(databaseRoot, 'filters', 'output', 'imported-rules.txt');
+    const personalRulesPath = path.join(databaseRoot, 'sources', 'blockingmachine-rules.txt');
     
     // Read both files
     const importedContent = await fs.readFile(importedRulesPath, 'utf-8');
