@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2025-12-06T19:08:52.616Z
-# Count: 26569
+# Generated: 2025-12-07T18:30:51.029Z
+# Count: 26573
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -684,6 +684,14 @@ _reklama_$domain=~youtube.com
 /_meetups/r.php?click_id=$document
 .com/players/*/-1/70/*?hash=-$script,third-party
 /ad-shield/e/*$script,third-party
+/bGFwb3N0ZS5uZXQ.js$third-party
+/bXlmb3JlY2FzdC5jb20.js$third-party
+/cGlja3MubXk.js$third-party
+/d3d3Lm5ld3Nlci5jb20.js$third-party
+/d3d3LmRlY2tzaG9wLnBybw.js$third-party
+/d3d3LnNtaXRoc29uaWFubWFnLmNvbQ.js$third-party
+/d3d3Lnplcm9ncHQuY29t.js$third-party
+/dGhlZnJlZWJpZWd1eS5jb20.js$third-party
 ://0.www.*/player/*/a/$third-party,xmlhttprequest
 ://0.www.*/player/*/m/$script,third-party
 ://0.www.*/players/*/-1/$script,third-party,xmlhttprequest
@@ -1313,7 +1321,6 @@ _468_60-$~script
 ||nersionitsumpute.com^$document
 ||net.geo.opera.com^*utm_source=OFT$document
 ||newmytrp.com^$document
-||newoffertops.info^$document
 ||next-lust.cfd^$document
 ||nextpointkaynersave.com^$document
 ||nexusbloom.xyz^$document
@@ -1336,11 +1343,11 @@ _468_60-$~script
 ||nylonnickel.xyz^$document
 ||oamsedsaiph.net^$document
 ||obtaintrout.com^$document
+||occasional-flow.com^$document
 ||offergate-ecommerce-cdn5.com^$document
 ||offergate-software11.com^$document
 ||offergate-software20.com^$document
 ||offergate-software6.com^$document
-||offertops.info^$document
 ||oglalavoodoo.world^$document
 ||ojrq.net^$document
 ||olopruy.com^$document
@@ -1408,7 +1415,6 @@ _468_60-$~script
 ||pubtrky.com^$document
 ||pulsivecerebra.top^$document
 ||pupspu.com^$document
-||push-news.click^$document
 ||push-sense.com^$document
 ||push1000.top^$document
 ||push1005.com^$document
@@ -1423,7 +1429,6 @@ _468_60-$~script
 ||racunn.com^$document
 ||rbtfit.com^$document
 ||rcdn-web.com^$document
-||reallyzills.top^$document
 ||realsh.xyz^$document
 ||realtime-bid.com^$document
 ||recesstransport.icu^$document
@@ -1612,7 +1617,6 @@ _468_60-$~script
 ||wheceelt.net^$document
 ||where-to.shop^$document
 ||wintrck.com^$document
-||woevr.com^$document
 ||wuujae.com^$document
 ||x2tsa.com^$document
 ||x3os.com^$document
@@ -2319,7 +2323,6 @@ _468_60-$~script
 ||indofad.com^$third-party
 ||indoleads.com^$third-party
 ||industrybrains.com^$third-party
-||inetinteractive.com^$third-party
 ||infectiousmedia.com^$third-party
 ||infinite-ads.com^$third-party
 ||infinityads.com^$third-party
@@ -2507,7 +2510,6 @@ _468_60-$~script
 ||opt-intelligence.com^$third-party
 ||optable.co^$third-party
 ||optiads.org^$third-party
-||optimads.info^$third-party
 ||optinmonster.com^$third-party
 ||oriel.io^$third-party
 ||osiaffiliate.com^$third-party
@@ -8329,6 +8331,7 @@ _view_pixel&$image
 /email-link.adtidy.org/open/*$image
 /email.t.*/o/*$image
 /email/open/?pd=$image
+/emailopen?q=$image
 /emimp/*$image
 /engage.indeed.com/*$image
 /eo?_t=$image
@@ -16704,11 +16707,11 @@ http://www.ads.$3p
 /?&subid=*&pid=$redirect=noop.txt,important,image,media,subdocument,stylesheet,script,xhr,other
 /^https:\/\/[a-z]{3,4}\.[a-z]{8,16}\.com\/loader\.min\.js$/$script,3p,match-case,header=etag:/^W\/"[0-9a-f]{32}-\d{13}"$/
 /^https:\/\/d[0-9a-z]{12,13}\.cloudfront\.net\/loader\.min\.js$/$script,3p,match-case,header=etag:/^W\/"[0-9a-f]{32}"$/
-/^https:\/\/www\.[0-9a-z-]{6,}\.com\/script\/(?=[0-9a-z]{0,29}[A-Z])[0-9A-Za-z]{10,30}\.js$/$script,3p,match-case
+/^https:\/\/[a-z]{3,4}\.[0-9a-z-]{6,}\.com\/script\/(?=[0-9a-z]{0,29}[A-Z])[0-9A-Za-z]{10,30}\.js$/$script,3p,match-case
 /^https:\/\/www\.[0-9a-z-]{6,}\.xyz\/script\/[-.0-9A-Za-z]+\.[A-Za-z-]{2,30}\.js$/$script,3p,match-case
 ||html-load.com/loader.min.js$domain=nikkansports.com|j-cast.com|picksandparlays.net|ranking.net|minkou.jp|aucfree.com|motor-talk.de|373news.com
-://www.*.com/script/$script,3p,domain=jmty.jp|dolldivine.com|knowt.com|thefreebieguy.com|blogmura.com|gruene-zitate.de|myforecast.com|jawapos.com|picks.my|gamewith.jp|motor-talk.de|worldhistory.org|kr-weathernews.com|nikkan-gendai.com|newser.com|zerogpt.com|smithsonianmag.com|slickdeals.net|signupgenius.com|saabcentral.com|reneweconomy.com.au|newser.com|laposte.net|deckshop.pro|auone.jp
-://www.*.xyz/script/$script,3p,domain=jmty.jp|dolldivine.com|knowt.com|thefreebieguy.com|blogmura.com|gruene-zitate.de|myforecast.com|jawapos.com|picks.my|gamewith.jp|motor-talk.de|worldhistory.org|kr-weathernews.com|nikkan-gendai.com|newser.com|zerogpt.com|smithsonianmag.com|slickdeals.net|signupgenius.com|saabcentral.com|reneweconomy.com.au|newser.com|laposte.net|deckshop.pro|auone.jp
+.com/script/*.js|$script,3p,domain=jmty.jp|dolldivine.com|knowt.com|thefreebieguy.com|blogmura.com|gruene-zitate.de|myforecast.com|jawapos.com|picks.my|gamewith.jp|motor-talk.de|worldhistory.org|kr-weathernews.com|nikkan-gendai.com|newser.com|zerogpt.com|smithsonianmag.com|slickdeals.net|signupgenius.com|saabcentral.com|reneweconomy.com.au|newser.com|laposte.net|deckshop.pro|auone.jp|emojipedia.org
+://www.*.xyz/script/$script,3p,domain=jmty.jp|dolldivine.com|knowt.com|thefreebieguy.com|blogmura.com|gruene-zitate.de|myforecast.com|jawapos.com|picks.my|gamewith.jp|motor-talk.de|worldhistory.org|kr-weathernews.com|nikkan-gendai.com|newser.com|zerogpt.com|smithsonianmag.com|slickdeals.net|signupgenius.com|saabcentral.com|reneweconomy.com.au|newser.com|laposte.net|deckshop.pro|auone.jp|emojipedia.org
 ||19706903.xyz^$domain=pravda.com.ua|jutarnji.hr|sporx.com|ap7am.com
 ||asloader.tz.de^$script,redirect=noop.js
 .com/players/*/-1/$script,3p
@@ -19744,6 +19747,14 @@ gotvach.bg##div[class$="-content"] > .text .giwrp
 _advertisment.$~xhr
 .com/players/*/-1/70/*?hash=-$script,3p
 /ad-shield/e/*$script,3p
+/bGFwb3N0ZS5uZXQ.js$3p
+/bXlmb3JlY2FzdC5jb20.js$3p
+/cGlja3MubXk.js$3p
+/d3d3Lm5ld3Nlci5jb20.js$3p
+/d3d3LmRlY2tzaG9wLnBybw.js$3p
+/d3d3LnNtaXRoc29uaWFubWFnLmNvbQ.js$3p
+/d3d3Lnplcm9ncHQuY29t.js$3p
+/dGhlZnJlZWJpZWd1eS5jb20.js$3p
 ://0.www.*/player/*/a/$3p,xhr
 ://0.www.*/player/*/m/$script,3p
 ://0.www.*/players/*/-1/$script,3p,xhr
@@ -20475,7 +20486,6 @@ wss://www.*.xyz/ws^$3p
 ||indofad.com^$3p
 ||indoleads.com^$3p
 ||industrybrains.com^$3p
-||inetinteractive.com^$3p
 ||infectiousmedia.com^$3p
 ||infinite-ads.com^$3p
 ||infinityads.com^$3p
@@ -20662,7 +20672,6 @@ wss://www.*.xyz/ws^$3p
 ||opt-intelligence.com^$3p
 ||optable.co^$3p
 ||optiads.org^$3p
-||optimads.info^$3p
 ||optinmonster.com^$3p
 ||oriel.io^$3p
 ||osiaffiliate.com^$3p
@@ -23942,7 +23951,6 @@ app.famitsu.com##div[style^="position: absolute; z-index: 1000; width: 100%;"][s
 ||nbo-protect.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||nersionitsumpute.com^$dnsrewrite=ad-block.dns.adguard.com
 ||newmytrp.com^$dnsrewrite=ad-block.dns.adguard.com
-||newoffertops.info^$dnsrewrite=ad-block.dns.adguard.com
 ||next-lust.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||nextpointkaynersave.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nexusbloom.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -23969,7 +23977,6 @@ app.famitsu.com##div[style^="position: absolute; z-index: 1000; width: 100%;"][s
 ||offergate-software11.com^$dnsrewrite=ad-block.dns.adguard.com
 ||offergate-software20.com^$dnsrewrite=ad-block.dns.adguard.com
 ||offergate-software6.com^$dnsrewrite=ad-block.dns.adguard.com
-||offertops.info^$dnsrewrite=ad-block.dns.adguard.com
 ||oglalavoodoo.world^$dnsrewrite=ad-block.dns.adguard.com
 ||olopruy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||omegaadblock.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -24034,7 +24041,6 @@ app.famitsu.com##div[style^="position: absolute; z-index: 1000; width: 100%;"][s
 ||pubtrky.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pulsivecerebra.top^$dnsrewrite=ad-block.dns.adguard.com
 ||pupspu.com^$dnsrewrite=ad-block.dns.adguard.com
-||push-news.click^$dnsrewrite=ad-block.dns.adguard.com
 ||push-sense.com^$dnsrewrite=ad-block.dns.adguard.com
 ||push1000.top^$dnsrewrite=ad-block.dns.adguard.com
 ||push1005.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -24049,7 +24055,6 @@ app.famitsu.com##div[style^="position: absolute; z-index: 1000; width: 100%;"][s
 ||racunn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rbtfit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rcdn-web.com^$dnsrewrite=ad-block.dns.adguard.com
-||reallyzills.top^$dnsrewrite=ad-block.dns.adguard.com
 ||realsh.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||realtime-bid.com^$dnsrewrite=ad-block.dns.adguard.com
 ||recesstransport.icu^$dnsrewrite=ad-block.dns.adguard.com
@@ -24234,7 +24239,6 @@ app.famitsu.com##div[style^="position: absolute; z-index: 1000; width: 100%;"][s
 ||wheceelt.net^$dnsrewrite=ad-block.dns.adguard.com
 ||where-to.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||wintrck.com^$dnsrewrite=ad-block.dns.adguard.com
-||woevr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wuujae.com^$dnsrewrite=ad-block.dns.adguard.com
 ||x2tsa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||x3os.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -25038,7 +25042,7 @@ dewimg.*,imgtown.*,imgviu.*,mazpic.*,outletpic.*,picrok.*##div[style^="z-index: 
 ||ariva.de/js/fcm-sw.js$script,1p
 @@||bittube.me/*/js/ads2.js$xhr,1p
 ||waybig.com/*.gif$image
-*$script,3p,denyallow=cloudflare.com|cloudflare.net|cloudfront.net|disqus.com|disquscdn.com|facebook.net|fastly.net|fastlylb.net|fbcdn.net|google.com|googleapis.com|gstatic.com|hcaptcha.com|hwcdn.net|jquery.com|jsdelivr.net|mega.nz|recaptcha.net|somoskudasai.com,domain=animeflv.*
+*$script,3p,denyallow=0gomovies.com.tr|cloudflare.com|cloudflare.net|cloudfront.net|disqus.com|disquscdn.com|facebook.net|fastly.net|fastlylb.net|fbcdn.net|google.com|googleapis.com|gstatic.com|hcaptcha.com|hwcdn.net|jquery.com|jsdelivr.net|mega.nz|recaptcha.net|somoskudasai.com,domain=animeflv.*
 @@||animeflv.*/assets/vast/videojs$script,1p
 @@||hyperdebrid.*^$ghide
 @@||visitweb.com^$script,domain=pronpic.org
