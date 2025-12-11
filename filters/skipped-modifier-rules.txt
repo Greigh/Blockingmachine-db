@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2025-12-10T19:11:23.867Z
-# Count: 26577
+# Generated: 2025-12-11T18:35:25.158Z
+# Count: 26580
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -673,6 +673,7 @@
 ?key=*&uuid=$subdocument,third-party
 ?service=ad&$script
 ?wppaszoneid=$subdocument
+?z=*&rb=$third-party,xmlhttprequest
 _ad_250.$image
 _ad_300.$image
 _advertise-$domain=~linkedin.com
@@ -18102,6 +18103,7 @@ $popup,3p,domain=fembed-hd.com,badfilter
 $popup,3p,domain=sbplay2.com,badfilter
 $popup,3p,domain=dood.ws,badfilter
 @@||safebk.shop/?utm_data=$xhr,domain=sterham.net
+@@/?utm_data=*&_=$xhr,domain=sterham.net|casthill.net
 @@||sendtonews.com/player*/$domain=fortune.com
 @@||mmvideocdn.com/mini-player/$domain=fortune.com
 @@||vms-videos.minutemediaservices.com^$xhr,domain=fortune.com
@@ -19745,6 +19747,7 @@ gotvach.bg##div[class$="-content"] > .text .giwrp
 ?cs=*&abt=0&red=1&sm=$3p
 ?id=3&adl=3$subdocument,~3p
 ?key=*&uuid=$subdocument,3p
+?z=*&rb=$3p,xhr
 _advertisment.$~xhr
 .com/players/*/-1/70/*?hash=-$script,3p
 /ad-shield/e/*$script,3p
