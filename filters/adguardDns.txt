@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2025-12-12T18:37:09.187Z
-! Rules count: 313969
+! Last updated: 2025-12-12T19:11:03.242Z
+! Rules count: 313973
 ||0014b04291.com^
 ||0019x.com^
 ||00609c257b.com^
@@ -15321,6 +15321,7 @@
 ||gwrwqihtybzms.online^
 ||gwsmvqwyvkzfg.website^
 ||gwynorxqqcqxg.site^
+||gwypqtmamicep.site^
 ||gwzpjzqxzbbwv.site^
 ||gx101.com^
 ||gxaswlbqotagx.online^
@@ -17821,6 +17822,7 @@
 ||iptaumoati.net^
 ||iptautoariroa.net^
 ||iptautup.com^
+||ipvaqxfgypulc.website^
 ||ipwfxgwjrlrfa.site^
 ||ipyolmutfxlsv.website^
 ||iqcepsaxayjgu.com^
@@ -18742,6 +18744,7 @@
 ||jormxqxclqwmea.com^
 ||jorvzkfgalohg.space^
 ||joryvztqojsig.space^
+||josheddourah.click^
 ||jotfmxlmbkgwb.online^
 ||joudauhee.com^
 ||jougroumaiwoo.net^
@@ -23038,6 +23041,7 @@
 ||mqcmkgikss.net^
 ||mqdownload.com^
 ||mqedledjjjdad.website^
+||mqfuxwpzkevtv.site^
 ||mqgtyctqcgpx.com^
 ||mqimqhvpnepnt.space^
 ||mqjwnassyrvlf.website^
@@ -313977,7 +313981,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-12-12T18:37:09.194Z
+! Last updated: 2025-12-12T19:11:03.249Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
