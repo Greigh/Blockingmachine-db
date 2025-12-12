@@ -1,6 +1,6 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2025-12-11T19:14:07.889Z
+# Generated: 2025-12-12T18:37:09.034Z
 # Count: 26580
 
 &rb=&uuid=$third-party
@@ -682,7 +682,7 @@ _images/ad.$image
 _reklama_$domain=~youtube.com
 /?usid=*&utid=$document
 /_meetups/r.php?click_id=$document
-.com/players/*/-1/70/*?hash=-$script,third-party
+.com/players/*/-1/70/$script,third-party
 /ad-shield/e/*$script,third-party
 /bGFwb3N0ZS5uZXQ.js$third-party
 /bXlmb3JlY2FzdC5jb20.js$third-party
@@ -22145,7 +22145,7 @@ reddxxx.com##[role="gridcell"]:contains(/^AD$/)
 ||repost.us^$third-party
 ||research.net^$third-party
 ||reviewability.com^$third-party
-||riddle.com/embed/$domain=evoke.ie
+||riddle.com/embed/$domain=evoke.ie|mentalfloss.com
 ||rightmessage.com^$third-party
 ||rokt.com^$third-party
 ||royapp.com^$third-party
