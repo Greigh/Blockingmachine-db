@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2025-12-16T18:37:24.568Z
-! Rules count: 314164
+! Last updated: 2025-12-16T19:13:41.551Z
+! Rules count: 314180
 ||0014b04291.com^
 ||0019x.com^
 ||00609c257b.com^
@@ -18446,6 +18446,7 @@
 ||iubhvfjsykuvm.online^
 ||iubxgprgzqzfv.space^
 ||iucjylgndrri.com^
+||iucujrzslaqpo.com^
 ||iudvqjzmimtlp.website^
 ||iufbmwczokffc.click^
 ||iufmhnbxvkzcy.store^
@@ -21685,6 +21686,7 @@
 ||louverurnism.shop^
 ||louwhoriroud.net^
 ||louxoxo.com^
+||lovable-foot.pro^
 ||lovable-scale.com^
 ||lovableerror.com^
 ||lovableprofile.com^
@@ -37423,6 +37425,7 @@
 ||uolzpczobcxmn.online^
 ||uommyhvsmzozp.website^
 ||uooumilwtodnh.website^
+||uopehulpomctj.com^
 ||uopvpepvmrepe.website^
 ||uorksewkwesln.space^
 ||uoutube.com^
@@ -40692,6 +40695,7 @@
 ||xsrbatihgyayg.site^
 ||xsrs.com^
 ||xssqagquifueb.space^
+||xssqdlcguplkd.space^
 ||xstjammrjbseq.site^
 ||xsvirldugvltc.net^
 ||xsyqbdylnfpo.world^
@@ -40739,6 +40743,7 @@
 ||xukxbsbanmxsq.com^
 ||xulixnionnxrs.website^
 ||xulnvruig.net^
+||xulryfwligvot.site^
 ||xuodxvwao.com^
 ||xupmzrflnoedu.website^
 ||xurkvrrdbevqc.website^
@@ -99965,6 +99970,7 @@
 ||barakashucked.rest^
 ||baranipiquets.cfd^
 ||barattegothic.click^
+||barattespleen.click^
 ||barbagnarred.qpon^
 ||barbalchateus.rest^
 ||barbarasacredassort.com^
@@ -100005,6 +100011,7 @@
 ||bartererfaxtingling.com^
 ||bartonpriority.com^
 ||bartramagynous.com^
+||barvelobstant.rest^
 ||baseballletters.com^
 ||basehardily.com^
 ||basementyachtendorsement.com^
@@ -104047,6 +104054,7 @@
 ||crescentstocky.com^
 ||cresfpho2ntesepapillo3.com^
 ||cresiveoverhie.cfd^
+||cressonunciae.help^
 ||cretgate.com^
 ||crevicebhar.digital^
 ||crevicedepressingpumpkin.com^
@@ -109329,6 +109337,7 @@
 ||friendlyraise.com^
 ||friendsfrozen.com^
 ||frierpiles.click^
+||friggawicca.rest^
 ||frightenedcraft.com^
 ||frighteningrelative.com^
 ||frighteningship.com^
@@ -112507,6 +112516,7 @@
 ||hotbvhsxr.com^
 ||hotbxocajo.today^
 ||hotbyahewi.com^
+||hotcherineum.click^
 ||hotdatehaven.com^
 ||hotdatingparadise.com^
 ||hotegotisticalturbulent.com^
@@ -117923,6 +117933,7 @@
 ||maintopkurku.qpon^
 ||maiphoapaique.net^
 ||maistryprairie.cyou^
+||maithepheepsi.com^
 ||maithigloab.net^
 ||maithuhojaiptib.net^
 ||maiwbisqgsdzn.website^
@@ -118252,6 +118263,7 @@
 ||mddbdmylgchjx.space^
 ||mddbhpwxbwneo.space^
 ||mddsp.info^
+||mdeizzxxobqkk.website^
 ||mdhldqpicqfgg.online^
 ||mdiegydcuekvkjf.net^
 ||mdienajibvwdc.space^
@@ -121700,6 +121712,7 @@
 ||onlyyourbiglove.com^
 ||onmanectrictor.com^
 ||onmdamaxkcz.com^
+||onpathbihc.com^
 ||onpetropica.com^
 ||onpluslean.com^
 ||onsandindeedth.com^
@@ -122901,6 +122914,7 @@
 ||pdqzrlfcyihsc.store^
 ||pdrearjakugya.store^
 ||pdvacde.com^
+||pdvsgnrsfcejrov.com^
 ||pdvujswprsne.com^
 ||pdwdbsfgkxltg.world^
 ||pdzxeaxlqnvac.site^
@@ -127431,6 +127445,7 @@
 ||rtmvxpsxocoeq.online^
 ||rtmwmbyjszayx.site^
 ||rtnews.pro^
+||rtpegecgoafvn.website^
 ||rtpmaotsw.xyz^
 ||rtrhit.com^
 ||rtrqqfssgypjj.site^
@@ -129347,6 +129362,7 @@
 ||sonnyadvertise.com^
 ||sonshipmbori.life^
 ||soocaips.com^
+||soodledchase.qpon^
 ||soodleenami.cfd^
 ||soogigopapsaru.net^
 ||soojiglooz.net^
@@ -314172,7 +314188,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-12-16T18:37:24.575Z
+! Last updated: 2025-12-16T19:13:41.558Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes

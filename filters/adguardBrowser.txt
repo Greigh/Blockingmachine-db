@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2025-12-16T18:37:21.674Z
-! Rules count: 437012
+! Last updated: 2025-12-16T19:13:38.354Z
+! Rules count: 437032
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -20109,6 +20109,7 @@ browsershots.org#@#.advert_area
 ||iubhvfjsykuvm.online^
 ||iubxgprgzqzfv.space^
 ||iucjylgndrri.com^
+||iucujrzslaqpo.com^
 ||iudvqjzmimtlp.website^
 ||iufbmwczokffc.click^
 ||iufmhnbxvkzcy.store^
@@ -23348,6 +23349,7 @@ browsershots.org#@#.advert_area
 ||louverurnism.shop^
 ||louwhoriroud.net^
 ||louxoxo.com^
+||lovable-foot.pro^
 ||lovable-scale.com^
 ||lovableerror.com^
 ||lovableprofile.com^
@@ -39086,6 +39088,7 @@ browsershots.org#@#.advert_area
 ||uolzpczobcxmn.online^
 ||uommyhvsmzozp.website^
 ||uooumilwtodnh.website^
+||uopehulpomctj.com^
 ||uopvpepvmrepe.website^
 ||uorksewkwesln.space^
 ||uoutube.com^
@@ -42355,6 +42358,7 @@ browsershots.org#@#.advert_area
 ||xsrbatihgyayg.site^
 ||xsrs.com^
 ||xssqagquifueb.space^
+||xssqdlcguplkd.space^
 ||xstjammrjbseq.site^
 ||xsvirldugvltc.net^
 ||xsyqbdylnfpo.world^
@@ -42402,6 +42406,7 @@ browsershots.org#@#.advert_area
 ||xukxbsbanmxsq.com^
 ||xulixnionnxrs.website^
 ||xulnvruig.net^
+||xulryfwligvot.site^
 ||xuodxvwao.com^
 ||xupmzrflnoedu.website^
 ||xurkvrrdbevqc.website^
@@ -144232,6 +144237,10 @@ $xhr,3p,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|dood
 $subdocument,3p,denyallow=disqus.com,domain=love4u.net
 ||linksconsole.com/ad-system/
 techarmor.xyz##.my-ad-container
+psu.com###desktop-takeover:empty
+psu.com##.double-mpu
+psu.com##.leaderboard
+space4games.com##.elementor-widget-container > div[class*="-view"]:has(> .ad-notice:first-child + .ad-container:last-child)
 nanoreview.net###the-app > div[data-nap-disclaimer="exist"]
 ||nanostatistics.net/static/npw2.js
 raenonx.cc##.h-banner
@@ -172345,6 +172354,7 @@ browsershots.org#@#.advert_area
 ||barakashucked.rest^
 ||baranipiquets.cfd^
 ||barattegothic.click^
+||barattespleen.click^
 ||barbagnarred.qpon^
 ||barbalchateus.rest^
 ||barbarasacredassort.com^
@@ -172385,6 +172395,7 @@ browsershots.org#@#.advert_area
 ||bartererfaxtingling.com^
 ||bartonpriority.com^
 ||bartramagynous.com^
+||barvelobstant.rest^
 ||baseballletters.com^
 ||basehardily.com^
 ||basementyachtendorsement.com^
@@ -176427,6 +176438,7 @@ browsershots.org#@#.advert_area
 ||crescentstocky.com^
 ||cresfpho2ntesepapillo3.com^
 ||cresiveoverhie.cfd^
+||cressonunciae.help^
 ||cretgate.com^
 ||crevicebhar.digital^
 ||crevicedepressingpumpkin.com^
@@ -181710,6 +181722,7 @@ browsershots.org#@#.advert_area
 ||friendlyraise.com^
 ||friendsfrozen.com^
 ||frierpiles.click^
+||friggawicca.rest^
 ||frightenedcraft.com^
 ||frighteningrelative.com^
 ||frighteningship.com^
@@ -184889,6 +184902,7 @@ browsershots.org#@#.advert_area
 ||hotbvhsxr.com^
 ||hotbxocajo.today^
 ||hotbyahewi.com^
+||hotcherineum.click^
 ||hotdatehaven.com^
 ||hotdatingparadise.com^
 ||hotegotisticalturbulent.com^
@@ -190305,6 +190319,7 @@ browsershots.org#@#.advert_area
 ||maintopkurku.qpon^
 ||maiphoapaique.net^
 ||maistryprairie.cyou^
+||maithepheepsi.com^
 ||maithigloab.net^
 ||maithuhojaiptib.net^
 ||maiwbisqgsdzn.website^
@@ -190634,6 +190649,7 @@ browsershots.org#@#.advert_area
 ||mddbdmylgchjx.space^
 ||mddbhpwxbwneo.space^
 ||mddsp.info^
+||mdeizzxxobqkk.website^
 ||mdhldqpicqfgg.online^
 ||mdiegydcuekvkjf.net^
 ||mdienajibvwdc.space^
@@ -194082,6 +194098,7 @@ browsershots.org#@#.advert_area
 ||onlyyourbiglove.com^
 ||onmanectrictor.com^
 ||onmdamaxkcz.com^
+||onpathbihc.com^
 ||onpetropica.com^
 ||onpluslean.com^
 ||onsandindeedth.com^
@@ -195283,6 +195300,7 @@ browsershots.org#@#.advert_area
 ||pdqzrlfcyihsc.store^
 ||pdrearjakugya.store^
 ||pdvacde.com^
+||pdvsgnrsfcejrov.com^
 ||pdvujswprsne.com^
 ||pdwdbsfgkxltg.world^
 ||pdzxeaxlqnvac.site^
@@ -199813,6 +199831,7 @@ browsershots.org#@#.advert_area
 ||rtmvxpsxocoeq.online^
 ||rtmwmbyjszayx.site^
 ||rtnews.pro^
+||rtpegecgoafvn.website^
 ||rtpmaotsw.xyz^
 ||rtrhit.com^
 ||rtrqqfssgypjj.site^
@@ -201729,6 +201748,7 @@ browsershots.org#@#.advert_area
 ||sonnyadvertise.com^
 ||sonshipmbori.life^
 ||soocaips.com^
+||soodledchase.qpon^
 ||soodleenami.cfd^
 ||soogigopapsaru.net^
 ||soojiglooz.net^
@@ -436892,7 +436912,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2025-12-16T18:37:21.687Z
+! Last updated: 2025-12-16T19:13:38.367Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
