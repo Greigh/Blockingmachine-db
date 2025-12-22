@@ -19,7 +19,7 @@
 - [Blockingmachine App](https://github.com/greigh/blockingmachine): Desktop GUI for easy management
 - [Blockingmachine Core](https://github.com/greigh/blockingmachine-core): Core engine and rule processing
 
-**Last updated:** 2025-12-21<br>**Next update:** Daily at 2:00 PM EST
+**Last updated:** 2025-12-22<br>**Next update:** Daily at 2:00 PM EST
 
 ---
 
@@ -48,7 +48,7 @@ Use these raw GitHub URLs in your ad blocker or DNS tool:
 
 | Rules | Size | Last Updated |
 |----------|-------|------|--------------|
-| 439,641 | 13.0MB | 2025-12-21 |
+| 440,600 | 13.1MB | 2025-12-22 |
 
 > Statistics automatically updated daily
 
