@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2025-12-26T19:09:31.307Z
-# Count: 26684
+# Generated: 2025-12-27T18:33:16.294Z
+# Count: 26681
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -12364,6 +12364,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trueanthem.com^$third-party
 ||uadblocker.com/pixel1.php?$third-party
 ||uhit.eu/id/$third-party
+||umami.*/script.js|$script
 ||unibet.de/stan/campaign.do?*&affiliateId=$subdocument,third-party
 ||uptime.com/static/rum/$third-party
 ||uriports.com/reports/$third-party
@@ -22930,6 +22931,7 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 @@||alicdn.com/js/*/cookie-info.js$script
 @@||alicdn.com/js/*/ws-cookie.js$script
 @@||ampproject.org^*/amp-consent-$domain=9to5google.com|9to5mac.com|amp-lasexta-com.cdn.ampproject.org|connectthewatts.com|dronedj.com|electrek.co|lelum.pl|martdroid.de|spaceexplored.com|www-history-com.cdn.ampproject.org
+@@||api.consentframework.com/api/$xmlhttprequest,domain=gizmodo.com
 @@||api.mercari.jp/experiments/get_running_experiments_by_name$xmlhttprequest,domain=jp.mercari.com
 @@||api.transcend.io/privacy/graphql$xmlhttprequest
 @@||apikeys.civiccomputing.com^$xmlhttprequest,domain=insights.com|videogameschronicle.com
@@ -25835,8 +25837,6 @@ sendvid.com##+js(nowoif, !/^https:\/\/sendvid\.com\/[0-9a-z]+$/)
 ||descargaloaca.com^$3p
 ||fc.lc^$3p,script
 @@||online-courses.club^$ghide
-@@||turbogvideos.com^$ghide
-@@||syndication.exosrv.com/instream-tag.php$script,domain=turbogvideos.com
 @@||ad.71i.de/somtag/loader/loader.js$script,domain=puls4.com
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs:10,domain=firm-ware27.blogspot.com|flash-reset.blogspot.com
 @@||magiclen.org^$ghide
@@ -25874,7 +25874,6 @@ sendvid.com##+js(nowoif, !/^https:\/\/sendvid\.com\/[0-9a-z]+$/)
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs:10,domain=windowcleaningforums.co.uk
 @@||beatricedailysun.com^$ghide
 @@||googletagmanager.com/gtm.js$script,domain=raiplayradio.it
-@@||freebcc.org^$ghide
 ||redcdn.pl/file/*/vstatic/*.mp4$media,redirect=noopmp3-0.1s,domain=cda.pl
 @@||maalaimalar.com^$ghide
 @@||neko-sama.fr^$ghide
@@ -25891,8 +25890,6 @@ sendvid.com##+js(nowoif, !/^https:\/\/sendvid\.com\/[0-9a-z]+$/)
 @@||tmohentai.com^$ghide
 @@||sme.sk^$ghide
 @@||janjua.*^$ghide
-*$script,3p,denyallow=bigwarp.io|bootstrapcdn.com|cloudflare.net|fontawesome.com|gstatic.com|jsdelivr.net|fastly.net,from=bgwp.cc
-*$script,3p,denyallow=c0.wp.com,domain=xopenload.me
 @@||jbzdy.com.pl^$ghide
 @@||senpa.io^$ghide
 @@||getfreecourses.*^$ghide
