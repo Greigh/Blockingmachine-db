@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2025-12-27T19:09:14.073Z
-# Count: 26681
+# Generated: 2025-12-28T18:34:13.532Z
+# Count: 26685
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -1015,6 +1015,7 @@ _468_60-$~script
 ||auroraveil.bid^$document
 ||auto-ads6.site^$document
 ||avlmy.com^$document
+||avogex.com^$document
 ||awalesglower.com^$document
 ||awecrptjmp.com^$document
 ||basicflownetowork.co.in^$document
@@ -8405,6 +8406,7 @@ _view_pixel&$image
 /open?token=$image
 /opens.jscrambler.com/*$image
 /p/rp/*?mi_u=*=&sap_id=$image
+/parceldns.com/t/*$image
 /post.pinterest.com/q/*$image
 /pqt.email/o/*$image
 /prod-puc-all/*/open^$image
@@ -8845,6 +8847,7 @@ omni.soundestlink.com$image
 ||capturemedia.network^$third-party
 ||capturly.com^$third-party
 ||caramel.press^$third-party
+||carts.guru^$third-party
 ||cartstack.com^$third-party
 ||cashburners.com^$third-party
 ||cashcount.com^$third-party
@@ -10200,6 +10203,7 @@ omni.soundestlink.com$image
 ||redistats.com^$third-party
 ||redstatcounter.com^$third-party
 ||reedbusiness.net^$third-party
+||reelup.io^$third-party
 ||referer.org^$third-party
 ||referforex.com^$third-party
 ||referralrock.com^$third-party
@@ -10634,6 +10638,7 @@ omni.soundestlink.com$image
 ||track-web.net^$third-party
 ||trackadshub.com^$third-party
 ||trackalyzer.com^$third-party
+||trackbee.ai^$third-party
 ||trackcb.com^$third-party
 ||trackcmp.net^$third-party
 ||trackconsole.com^$third-party
@@ -11445,7 +11450,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||antvoice.com^$third-party
 ||atraxio.com^$third-party
 ||audiencesquare.com^$third-party
-||carts.guru^$third-party
 ||casualstat.com^$third-party
 ||compteur-fr.com^$third-party
 ||compteur-gratuit.org^$third-party
@@ -12674,6 +12678,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||nakanohito.jp^*/bi.js$important,domain=nexon.com
 @@||google-analytics.com/analytics.js$redirect-rule,script,domain=mond.how
 ||curos.ca/res/*/resources/scripts/lib/fingerprint.js$important,redirect=fingerprint2.js,script
+||metrics.streaks.jp^$redirect=noop.txt,xmlhttprequest
 ||youtube.com/api/stats/qoe?*page&ns=yt&fexp=v1%*&event=streamingstats&$badfilter
 ||youtube.com/ptracking?html5=1&video_id=*&cpn=*&ei=*&ptk=youtube_*&pltype=content$badfilter
 ||youtube.com/api/stats/qoe?*page&ns=yt&fexp=v1%*&event=streamingstats&$method=post,xmlhttprequest
@@ -16623,7 +16628,7 @@ pornhub.com,pornhub.org,pornhub.net##.video-wrapper > div#player~div[class$=" hd
 /page/bouncy.php?&bpae=*&redirectType=js&inIframe=$all
 &siteid=*&adid=$removeparam
 /mellowpresence.com^$script
-/^https:\/\/[-a-z]{8,}\.com\/[f-j](?=[a-z]*[0-9A-Z_-])[0-9A-Z_a-z-]{3,}\/[0-9A-Za-z][-\/0-9A-Z_a-z]{118,132}$/$script,xhr,match-case,3p
+/^https:\/\/[-a-z]{8,}\.com\/[f-j](?=[a-z]*[0-9A-Z_-])[0-9A-Z_a-z-]{3,}\/[0-9A-Za-z][-\/0-9A-Z_a-z]{115,132}$/$script,xhr,match-case,3p
 /^https?:\/\/(?:www\.|[a-z0-9]{7,10}\.)?[a-z0-9-]{5,}\.com\/\/?(?:[a-z0-9]{2}\/){2,3}[a-f0-9]{32}\.js/$script,xhr,3p
 /^https?:\/\/(?:www\.|[a-z0-9]{7,10}\.)?[a-z0-9-]{5,}\.com\/\/?(?:[a-z0-9]{2}\/){2,3}[a-f0-9]{32}\.js/$script,3p,redirect=noop.js
 /^https?:\/\/(?:www\.|[a-z0-9]{7,10}\.)?[a-z0-9-]{5,}\.com\/(?:[a-z0-9]{2}\/){2,3}[a-f0-9]{32}\.js/$script,xhr,3p
@@ -22422,6 +22427,7 @@ bedstyle.jp##.code-mc-container-panel:has(a[href$="/ranking.html"])
 @@||nutrija.com/js/*_backtotop.js$script,~third-party
 @@||popup.wisepops.com/my-wisepop$domain=bluecinema.ch
 @@||powerequipment.honda.com/assets/js/components/hs.go-to.js$~third-party
+@@||repack.me/engine/classes/min/index.php*/PureSnow.js$script,~third-party
 @@||rest.contextly.com/pagewidgets/$domain=inc-aus.com
 @@||s.swiftypecdn.com/install/$script,domain=docs.ansible.com
 @@||s.swiftypecdn.com^$stylesheet,xmlhttprequest,domain=docs.ansible.com
@@ -23736,6 +23742,7 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||auroraveil.bid^$dnsrewrite=ad-block.dns.adguard.com
 ||auto-ads6.site^$dnsrewrite=ad-block.dns.adguard.com
 ||avlmy.com^$dnsrewrite=ad-block.dns.adguard.com
+||avogex.com^$dnsrewrite=ad-block.dns.adguard.com
 ||awalesglower.com^$dnsrewrite=ad-block.dns.adguard.com
 ||awecrptjmp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||basicflownetowork.co.in^$dnsrewrite=ad-block.dns.adguard.com
@@ -25758,8 +25765,6 @@ zpaste.net##+js(acs, $, open)
 *$script,3p,denyallow=cloudflare.net|fastly.net|google.com|googleapis.com|gstatic.com|jwpcdn.com|jsdelivr.net|eastream.net|youtube.com|ytimg.com,domain=vidfast.co
 *$script,3p,denyallow=bootstrapcdn.com|cloudflare.net|google.com|gstatic.com|hwcdn.net|jquery.com|jsdelivr.net|tawk.to,domain=okstream.*
 @@||catracalivre.com.br^$ghide
-@@||7r6.com^$ghide
-*$script,3p,denyallow=cloudfront.net|google.com|gstatic.com|recaptcha.net,domain=7r6.com
 ||aruble.net^$3p
 ||qik.cc^$3p
 @@||upvid.*^$ghide
@@ -26023,7 +26028,7 @@ reverso.net##+js(acs, $, adblock)
 ||mairdumont.com^$script,redirect-rule=noopjs,domain=kachelmannwetter.com
 ||md-nx.com^$script,redirect-rule=noopjs,domain=meteologix.com|weather.us
 ||bitcoinsports.org^$3p
-/sw.js$script,1p,domain=eio.io|exe.app|exee.io
+/sw.js$script,1p,domain=eio.io|exe.app
 @@||exe.app^$ghide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=exey.io
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=exey.io
@@ -26366,7 +26371,6 @@ dloady.com##+js(acs, $, show)
 ||googlesyndication.com^$domain=pccomponentes.com,important
 ||googletagservices.com^$domain=pccomponentes.com,important
 ||omtrdc.net^$xhr,domain=pccomponentes.com,important
-modebaca.com##+js(acs, $, click)
 @@||mabzicle.com^$ghide
 *$popunder,domain=convert2mp3.tv,3p
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=lexigram.gr
