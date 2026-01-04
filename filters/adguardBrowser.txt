@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-01-04T18:33:46.708Z
-! Rules count: 437718
+! Last updated: 2026-01-04T19:09:26.788Z
+! Rules count: 437732
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -14256,6 +14256,7 @@ browsershots.org#@#.advert_area
 ||fatallybering.help^
 ||fatallydecresc.cfd^
 ||fatalshould.com^
+||fatanger.pro^
 ||fatchilli.media^
 ||fatconstant.com^
 ||fatessilvia.com^
@@ -33474,6 +33475,7 @@ browsershots.org#@#.advert_area
 ||rscyoaposqeay.space^
 ||rseducationinin.com^
 ||rsgdtlpixkack.site^
+||rshktvhqypddjs.com^
 ||rshmauyblkmymau.net^
 ||rsihudniulpvr.online^
 ||rsityexcellojapanelm.org^
@@ -175611,6 +175613,7 @@ browsershots.org#@#.advert_area
 ||chaiwnaoytjig.site^
 ||chakighuglou.net^
 ||chalaips.com^
+||chaletrobber.qpon^
 ||chaliceguzzlerlandlord.com^
 ||chalkedretrieval.com^
 ||chalkleash.com^
@@ -178430,6 +178433,7 @@ browsershots.org#@#.advert_area
 ||dimpsychology.pro^
 ||dimufywhy.com^
 ||dindeedtheriver.com^
+||dindleapargia.cyou^
 ||dinejav11.fun^
 ||dineproteinhamlet.com^
 ||dineticfulfill.cyou^
@@ -179307,6 +179311,7 @@ browsershots.org#@#.advert_area
 ||duiunmaigiqiy.space^
 ||dukerationpecial.com^
 ||dukingdraon.com^
+||dukkucpuqaq.com^
 ||dukmcubsuhawh.site^
 ||dulatkinic.cfd^
 ||duleonon.com^
@@ -181666,6 +181671,7 @@ browsershots.org#@#.advert_area
 ||finallyswirly.cfd^
 ||financialwagerepel.com^
 ||finanvideos.com^
+||fincaseva.shop^
 ||fincashastler.qpon^
 ||finchoiluntainted.com^
 ||findandate.com^
@@ -185376,6 +185382,7 @@ browsershots.org#@#.advert_area
 ||hmrellyanupalong.cfd^
 ||hmsuxcnrcyzmn.today^
 ||hmthcqphqwppf.online^
+||hmunuouvv.com^
 ||hmxg5mhyx.com^
 ||hmxoufchteecf.world^
 ||hmxtqllaxspck.site^
@@ -186614,6 +186621,7 @@ browsershots.org#@#.advert_area
 ||incherprofuse.qpon^
 ||inchesray.com^
 ||inchesrecognize.com^
+||inchestannule.qpon^
 ||incidenttrumpremittance.com^
 ||inclinedallusionnearby.com^
 ||inclinedenemiesastray.com^
@@ -195653,6 +195661,7 @@ browsershots.org#@#.advert_area
 ||padskis.com^
 ||padslims.com^
 ||padspms.com^
+||padwtijus.com^
 ||paeastei.net^
 ||paehakooyuygo.website^
 ||paehceman.com^
@@ -203513,6 +203522,7 @@ browsershots.org#@#.advert_area
 ||surdenthackman.cyou^
 ||surecheapermoisture.com^
 ||surechieflyrepulse.com^
+||surefooted-use.pro^
 ||surfaceunvest.help^
 ||surfacyjudos.qpon^
 ||surge.systems^
@@ -203774,6 +203784,7 @@ browsershots.org#@#.advert_area
 ||tablhtwrkoo.xyz^
 ||tabloidincapable.com^
 ||taborhexeris.cyou^
+||tabulevau.cfd^
 ||tacanaleaked.cyou^
 ||tacanalucky.shop^
 ||tachitalent.help^
@@ -205976,6 +205987,7 @@ browsershots.org#@#.advert_area
 ||umzkjponcxpvn.online^
 ||umzwmufdxrcrf.site^
 ||unaces.com^
+||unactkiosk.com^
 ||unakinloggin.com^
 ||unanimousinflammableboxing.com^
 ||unanimouslytackytraumatize.com^
@@ -206541,6 +206553,7 @@ browsershots.org#@#.advert_area
 ||utamsiikjkl.com^
 ||utarget.co.uk^
 ||utatbgkyq.xyz^
+||utbilati.cfd^
 ||utbxvmsgpcznb.fun^
 ||uteassewer.qpon^
 ||utecxhdkdnlrjk.xyz^
@@ -210988,6 +211001,7 @@ browsershots.org#@#.advert_area
 ||zomdufobhmfmm.space^
 ||zomhfzodazcnz.space^
 ||zonaamowt.cyou^
+||zondasicskeps.cfd^
 ||zoneacrid.qpon^
 ||zonealta.com^
 ||zonedustertractor.com^
@@ -437598,7 +437612,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-01-04T18:33:46.723Z
+! Last updated: 2026-01-04T19:09:26.800Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
