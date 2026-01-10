@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-01-09T19:14:22.226Z
-# Count: 26659
+# Generated: 2026-01-10T18:33:50.138Z
+# Count: 26662
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -8612,6 +8612,7 @@ omni.soundestlink.com$image
 ||anametrix.net^$third-party
 ||angelfishstats.com^$third-party
 ||angorch-cdr7.com^$third-party
+||anonm.io^$third-party
 ||anonymised.io^$third-party
 ||anrdoezrs.net^$third-party
 ||answerbook.com^$third-party
@@ -9776,6 +9777,7 @@ omni.soundestlink.com$image
 ||metricsdirect.com^$third-party
 ||metricswave.com^$third-party
 ||mezzobit.com^$third-party
+||mgaru.dev^$third-party
 ||mgln.ai^$~media,third-party
 ||miadates.com^$third-party
 ||mialbj6.com^$third-party
@@ -10795,6 +10797,7 @@ omni.soundestlink.com$image
 ||vtracker.net^$third-party
 ||w3counter.com^$third-party
 ||walmeric.com^$third-party
+||wandzcdn.com^$third-party
 ||waplog.net^$third-party
 ||waudit.cz^$third-party
 ||wbdx.fr^$third-party
@@ -12043,7 +12046,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||eresmas.net^$third-party
 ||estadisticasgratis.com^$third-party
 ||flags.es^$third-party
-||indigitall.com^$third-party
 ||intrastats.com^$third-party
 ||mabaya.com^$third-party
 ||micodigo.com^$third-party
@@ -22060,6 +22062,7 @@ reddxxx.com##[role="gridcell"]:contains(/^AD$/)
 ||download.skype.com/share/$third-party
 ||ecomsend.com^$third-party
 ||eff.org/bloggers/badges/$third-party
+||embed.polymarket.com^$third-party
 ||emsecure.net^$subdocument,third-party
 ||engage.im^$third-party
 ||enquoted.com^$third-party
@@ -22406,6 +22409,7 @@ bedstyle.jp##.code-mc-container-panel:has(a[href$="/ranking.html"])
 ||top100.rambler.ru^$third-party
 ||espreso.rs/widget?$third-party
 ||ilan.gov.tr/widgets/$third-party
+@@||alp440.activehosted.com/f/embed.php$script,domain=openpeople.university
 @@||bibblio.org^*/bib-related-content.min.js$script,domain=hindawi.com
 @@||cdn.wisepops.com/shared/wisepops/$script,domain=bluecinema.ch
 @@||csm.cxpublic.com/Shueisha.js$domain=wpb.shueisha.co.jp
@@ -22978,9 +22982,9 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 @@||cloudfront.net^*/lib.f-cookie-banner.$script,domain=just-eat.co.uk|just-eat.es|just-eat.ie|justeat.it|menulog.com.au
 @@||cmp.datasign.co^$script,domain=info.yomiuri.co.jp
 @@||cmp.inmobi.com/geoip$domain=ilgiornale.it
-@@||cmp.inmobi.com/GVL-v3/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it
-@@||cmp.inmobi.com/tcfv2/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it
-@@||cmp.inmobi.com^*/choice.js$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it
+@@||cmp.inmobi.com/GVL-v3/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it|video.milanofinanza.it
+@@||cmp.inmobi.com/tcfv2/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it|video.milanofinanza.it
+@@||cmp.inmobi.com^*/choice.js$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it|video.milanofinanza.it
 @@||cmp.osano.com^$script,domain=account.bhvr.com|everand.com|guidepoint.com|lucidchart.com|midnight.gd|scribd.com|sonesta.com
 @@||cmp.osano.com^*/osano.js$domain=stltoday.com
 @@||cmp.sibbo.net^$domain=tivify.tv
@@ -23180,7 +23184,6 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 @@||xe.com/themes/xe/js/react/cookie-consent.$script,~third-party
 @@||xfolio.jp/lu_assets/cookie-popup.$~third-party
 @@||zappo.fr/assets/plugins/bwp-minify/min/$script,~third-party
-@@||ziffstatic.com^*/zdconsent.js$domain=allestoringen.be|allestoringen.nl|downdetector.ae|downdetector.ca|downdetector.cl|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.ph|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.ru|downdetector.se|downdetector.sg|downdetector.sk|downdetector.tw|downdetector.web.tr|humblebundle.com|ign.com|nintendolife.com|purexbox.com|pushsquare.com|speedtest.net|timeextension.com|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de
 @@||zoo-frankfurt.de/bundles/chcookieconsent/js/cookie_consent.js$~third-party
 @@||zoominfo.com/_next/*/privacy-policy.json$~third-party
 @@||akilliphone.com/views/kuteshop/assets/js/cookies-message.min.js$script,~third-party
