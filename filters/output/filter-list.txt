@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-01-11T18:34:18.096Z
-! Rules count: 320368
+! Last updated: 2026-01-11T19:09:27.577Z
+! Rules count: 320312
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -5806,6 +5806,7 @@ browsershots.org#@#.advert_area
 ||ayqdjausppwxom.com^
 ||ayrlywwdnrf.xyz^
 ||ayujucfsngjvl.space^
+||ayxpceoogsuey.site^
 ||ayzylwqryaovm.top^
 ||azandeunsolid.help^
 ||azazyjjovmmwa.top^
@@ -12066,6 +12067,7 @@ browsershots.org#@#.advert_area
 ||dnavexch.com^
 ||dnbkjfihvakfb.store^
 ||dnbuqgtdeduip.site^
+||dncnhfnfruxlc.site^
 ||dnczgaipwlbap.website^
 ||dnemkhkbsdbl.com^
 ||dnfs24.com^
@@ -15798,6 +15800,7 @@ browsershots.org#@#.advert_area
 ||freshideasflow.com^
 ||freshpops.net^
 ||fresnelraggery.cyou^
+||fresserhops.qpon^
 ||fretizerede.cfd^
 ||frfqbhmmxrele.space^
 ||frgojcnjcphxjq.net^
@@ -30909,6 +30912,7 @@ browsershots.org#@#.advert_area
 ||pnisytwkqieri.site^
 ||pnjojchlotf.com^
 ||pnlgtgdkpyvdy.space^
+||pnnnxfknnbcc.com^
 ||pnperf.com^
 ||pnqosszvpkysq.website^
 ||pnrbvdqxrqlfp.club^
@@ -40257,6 +40261,7 @@ browsershots.org#@#.advert_area
 ||uhsmmaq4l2n5.com^
 ||uhtqrghdgtgvp.website^
 ||uhvsefglyttww.fun^
+||uhvsqmhvi.com^
 ||uhyuspdyothna.online^
 ||uhyybqukhhmue.site^
 ||ui02.com^
@@ -146540,6 +146545,7 @@ $xhr,3p,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|dood
 $subdocument,3p,denyallow=disqus.com,domain=love4u.net
 ||linksconsole.com/ad-system/
 techarmor.xyz##.my-ad-container
+hide.cx##.min-h-\[670px\]._min-h-\[274px\]
 genshin-center.com##div[class^="units_lb1Wrapper_"]
 genshin-center.com##div[class^="units_mpuWrapper_"]
 pcgamesn.com,wargamer.com##body .sn-placement:not(#style_important)
@@ -172789,6 +172795,7 @@ browsershots.org#@#.advert_area
 ||afmrmyacgrvqq.store^
 ||afmuaatkgvhtq.website^
 ||afnkhlcpleyog.space^
+||afoamptereal.cfd^
 ||afodreet.net^
 ||afooexolgcutk.space^
 ||afpjlcctwwoxn.online^
@@ -182024,6 +182031,7 @@ browsershots.org#@#.advert_area
 ||eelbcwcirsskl.space^
 ||eeldamage.com^
 ||eelingunamply.cfd^
+||eelpoutbolling.cyou^
 ||eelribouksi.net^
 ||eelsawheedi.net^
 ||eelsooptaft.net^
@@ -186314,6 +186322,7 @@ browsershots.org#@#.advert_area
 ||gragroogrig.net^
 ||graicmoawabs.net^
 ||graidsefortie.net^
+||grairdulourde.net^
 ||grairseethids.net^
 ||graissiftapsou.net^
 ||graistocas.net^
@@ -194881,6 +194890,7 @@ browsershots.org#@#.advert_area
 ||moksoxos.com^
 ||molarmodern.cfd^
 ||molciyjhyuhhh.online^
+||molderyobtrect.cfd^
 ||molebjeivsqwq.online^
 ||moleconcern.com^
 ||molesthyrst.cyou^
@@ -199161,6 +199171,7 @@ browsershots.org#@#.advert_area
 ||pfmmzmdba.com^
 ||pfosuclihgjxi.space^
 ||pfpmdbyighkrn.online^
+||pfrnbduw.com^
 ||pfsrjzffspqoh.online^
 ||pftselngpwaxt.vip^
 ||pftufoszjdneq.online^
@@ -200475,6 +200486,7 @@ browsershots.org#@#.advert_area
 ||propertyswordmuttering.com^
 ||propgoservice.com^
 ||proplamplit.cyou^
+||proponsdablet.qpon^
 ||proposalkeptstaff.com^
 ||propositionpower.com^
 ||proprietaryabbey.com^
@@ -208928,6 +208940,7 @@ browsershots.org#@#.advert_area
 ||uapkagxacexij.online^
 ||uapps.click^
 ||uaqjsohhkyppq.net^
+||uarlonjzgxvlb.site^
 ||uauswagtehnwg.online^
 ||uavefhtrbkbhq.online^
 ||uaxezwpfaghym.store^
@@ -214729,6 +214742,7 @@ browsershots.org#@#.advert_area
 ||zuwufag.com^
 ||zuwzbpyfhspqt.website^
 ||zuzezsdafjupl.online^
+||zuzqimlzioj.com^
 ||zuzu5bkrgc8zm25f.cfd^
 ||zvbqvqbrwbale.top^
 ||zvdkxhzpaslxe.online^
@@ -264419,7 +264433,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||5hu7hee0pt.com^
 ||5i8xkqjmqubv.top^
 ||5icim50.de^
-||5iewmxrnm7r3ckpcyfk.rest^
 ||5ivy3ikkt.com^
 ||5j45n3f6r.com^
 ||5k71-k-t51u8q91otp3.xyz^
@@ -264962,7 +264975,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||96e7bee058.com^
 ||96ed2s9r.xyz^
 ||96f31a396f.d29776df3a.com^
-||96nqqugq67pox5k9mmpvmz1ex91hh.cfd^
 ||976caebe7b.com^
 ||97ce98c219.com^
 ||97fn1ej0.myutilitydomain.com^
@@ -264988,7 +265000,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||99count.com^
 ||99d5318452.com^
 ||99ef859a06.com^
-||99fkw4w8.com^
 ||9a4f937e0f.com^
 ||9a4v0clpi.com^
 ||9a8f641701.com^
@@ -265793,7 +265804,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||actressfootball.com^
 ||actrkn.com^
 ||actscattydecode.com^
-||actthrilled.com^
 ||actualdeals.com^
 ||actuallypartsspiral.com^
 ||actuallysheep.com^
@@ -266934,7 +266944,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||ads.krawall.de^
 ||ads.lamchame.vn^
 ||ads.laodongnghean.vn^
-||ads.lemmatechnologies.com^
 ||ads.lesbianpersonals.com^
 ||ads.linkedin.com^
 ||ads.livenation.com^
@@ -267053,7 +267062,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||ads.tmcs.net^
 ||ads.townhall.com^
 ||ads.travelaudience.com^
-||ads.tripod.lycos.co.uk^
 ||ads.tripod.lycos.it^
 ||ads.tso.dennisnet.co.uk^
 ||ads.tvb.com^
@@ -268234,7 +268242,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
 ||alexa-sitestats.s3.amazonaws.com^
 ||alexabyte.site^
-||alexajstrack.com^
 ||alexandria-locksmithservice.com^
 ||alexandria.marfeelcdn.com^
 ||alexatracker.com^
@@ -270294,7 +270301,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||aukroaze.xyz^
 ||aulahmuuniglx.space^
 ||aulrertogo.xyz^
-||aumozestakoogh.com^
 ||aunehofyojgfq.space^
 ||aunnnuvegyzfm.website^
 ||aunsaick.com^
@@ -270451,7 +270457,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||awistats.com^
 ||awkbkkqkqeqkr.top^
 ||awkbkkqkqmmva.top^
-||awkbkkqkqmvrb.top^
 ||awkbkkqmeerlr.top^
 ||awkward-body.pro^
 ||awkward-clue.com^
@@ -271911,7 +271916,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||boiqzsgnywkuv.today^
 ||bojel.com^
 ||bokepindo13.name^
-||boklfngmcflps.website^
 ||bolayaros.com^
 ||bold-potential.com^
 ||bollyocean.com^
@@ -273109,7 +273113,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||cb260f4651.com^
 ||cba-fed-igh.com^
 ||cba.cda-hd.co^
-||cbamsrtseccdh.com^
 ||cbanners.virtuagirlhd.com^
 ||cbaokk.icu^
 ||cbbvi.com^
@@ -273672,7 +273675,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||chestionar.ro^
 ||chethgentman.live^
 ||chezoams.com^
-||chhvjvkmlnmu.click^
 ||chiamfxz.com^
 ||chiantiriem.com^
 ||chibchamudbank.click^
@@ -274235,7 +274237,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||clknrtrg.pro^
 ||clkrev.com^
 ||clksite.com^
-||clktds.org^
 ||clladss.com^
 ||cllctr.any.run^
 ||cllctr.roistat.com^
@@ -277190,7 +277191,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||daintynotice.com^
 ||daivendtzsbws.space^
 ||dal9hkyfi0m0n.cloudfront.net^
-||daldk.com^
 ||dalecta.com^
 ||daleelerah.info^
 ||daleriki.com^
@@ -277937,7 +277937,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||dheheagbmhdfk.space^
 ||dhertouchingthe.org^
 ||dhobeynandi.com^
-||dhobiewoodsia.qpon^
 ||dhojmirptkwfy.website^
 ||dhootiepawed.com^
 ||dhpfdaufroers.online^
@@ -278809,7 +278808,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||drkness.net^
 ||drlzlc.top^
 ||drnniuaxhvpgz.website^
-||dromonmilkilymts.cfd^
 ||droopingskilful.com^
 ||droopy-management.com^
 ||dropalcoholnarrow.com^
@@ -279679,7 +279677,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||eijqgjhcmjsfm.website^
 ||eiledstevermotorie.org^
 ||eilloupnjlzoj.site^
-||eilz3l8wmmhvfnle2xm.cfd^
 ||eimesthanzogt.space^
 ||eiotqjelvrceb.online^
 ||eirackazimine.click^
@@ -281287,7 +281284,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||ffjevt.icu^
 ||ffjrpdfduteic.website^
 ||ffpmlheychmat.store^
-||ffqumyjlunpga.online^
 ||ffrfkhcxeypbe.website^
 ||ffskgnxhhnqaf.website^
 ||ffswithabras.com^
@@ -282236,7 +282232,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||ftiswpgasqepa.site^
 ||ftm.fluencyinc.co^
 ||ftnqjmzmboydf.online^
-||ftogfaqznak.com^
 ||ftoihsukifuqw.website^
 ||ftrbzcbufgrgt.website^
 ||ftrem.site^
@@ -282357,7 +282352,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||fwnezrrjmbjjl.space^
 ||fwqasyuebarqa.space^
 ||fwryekxyta.com^
-||fwshrqbwcqafj.site^
 ||fwsigpacfqznc.site^
 ||fwtrck.com^
 ||fwunymlwmsebu.site^
@@ -282393,7 +282387,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||fybzuyvspginc.website^
 ||fycdnhwmaitdg.online^
 ||fycoknyfpxcej.store^
-||fyctawppbwk.com^
 ||fyewrocgieeog.site^
 ||fygel9rtc.com^
 ||fyglovilo.pro^
@@ -282723,7 +282716,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||gentent.stre4mplay.one^
 ||gentle-report.com^
 ||gentle-wheel.pro^
-||gentledaminegyms.cfd^
 ||gentlemanknittingpredict.com^
 ||gentlyimpoliteprize.com^
 ||genuine-crash.com^
@@ -283166,7 +283158,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||gmdztiffhihsf.online^
 ||gmhpjreadalkb.site^
 ||gmhzabvldunlu.space^
-||gmjhatjianmgv.com^
 ||gmjzmwcxhonly.rocks^
 ||gmkbgpjflkxvm.space^
 ||gml-grp.com^
@@ -283973,7 +283964,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||gyxhwdysotvbj.store^
 ||gyybyitnnqitf.online^
 ||gz.apigw.tencentcs.com^
-||gzb96bgqryl7gl.rest^
 ||gzclatfhwvpsk.space^
 ||gzefeydgsckbj.online^
 ||gzewqaxbkwijp.website^
@@ -285849,7 +285839,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||imydreamsauknd.com^
 ||in-appadvertising.com^
 ||in-bdcvlj.love^
-||in-group.xyz^
 ||in-page-push.com^
 ||in-page-push.net^
 ||in.cuebiq.com^
@@ -286343,7 +286332,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||iqizfdgzqigjo.website^
 ||iqjijcxxohzcc.space^
 ||iqkaecaulzcqm.website^
-||iqkhzpxy.com^
 ||iqsswq.icu^
 ||iqtest365.online^
 ||iqtvvevbydoat.online^
@@ -286597,12 +286585,10 @@ lighterusa.com#@##shopify-section-age-gate
 ||izopsg.icu^
 ||izrnvo.com^
 ||izsbrnugzqrqq.online^
-||izt7j7594m8emuypvhjkoo42p8.cfd^
 ||izumicaninus.click^
 ||izwhgqdebwqmq.site^
 ||izwypazcocjxj.store^
 ||izzdenxdxrbdc.space^
-||izzpiauileavu.space^
 ||izzzpesohjh.com^
 ||j-mxponyz.love^
 ||j.baminw.cn^
@@ -286953,7 +286939,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||jlzbnl.com^
 ||jmebwpbpvofcx.online^
 ||jmhrmhgjkdgvd.store^
-||jmjdifcw.com^
 ||jmjslz.icu^
 ||jmlp.app^
 ||jmnktmmkiitir.site^
@@ -287378,7 +287363,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||jzhkmgdeesljp.online^
 ||jziweafbssqyj.store^
 ||jzleekzkrwveb.top^
-||jzqbyykqebelw.top^
 ||jzqscvqlgasxh.buzz^
 ||jzrmxnvcniwmj.online^
 ||jzwghlxfjnwks.website^
@@ -287903,7 +287887,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||koukoku.red^
 ||koushauwhie.xyz^
 ||koutobey.net^
-||kouzaanility.cfd^
 ||koytnkgoywyhe.site^
 ||koyyppqoesnvh.website^
 ||kpaadrha.com^
@@ -288617,7 +288600,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||lhxmrcyaqsvze.site^
 ||lhxsrndtegeuo.online^
 ||lhyfewqwlxbil.online^
-||lhyxoipzyzkuz.website^
 ||lhzntghorkktf.website^
 ||lhzsoiridsumh.space^
 ||lhzxdptexntmf.space^
@@ -288690,7 +288672,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||likenewvids.online^
 ||likevertising.com^
 ||liklojigctaog.space^
-||limiestbrosot.shop^
 ||limited-bird.pro^
 ||limited-final.pro^
 ||limitesrifer.com^
@@ -289510,7 +289491,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||logwoodtairn.shop^
 ||logz.tekiusa.com^
 ||logzh.dantocmiennui.vn^
-||lohanaproclei.cfd^
 ||lohockdock.com^
 ||loijtoottuleringv.info^
 ||loinpriestinfected.com^
@@ -289918,7 +289898,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||lzoqokmoormkm.top^
 ||lzpiozkcngklw.site^
 ||lzqmjakbblvlq.top^
-||lzqmjakozlolv.top^
 ||lzulehztkwopr.website^
 ||lzvwybvvyrqyk.top^
 ||lzwpvxulwwjgl.com^
@@ -291650,7 +291629,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||mum.alibabachengdun.com^
 ||mumagdojs.com^
 ||mummifiedpatienceunknowing.com^
-||munbxmuopacqbmg.com^
 ||munchkin.marketo.net^
 ||mundane-gear.pro^
 ||mundanesilly.com^
@@ -292889,7 +292867,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||nuskt.directory^
 ||nusmkkrrxsjgj.site^
 ||nusxvpootryrz.site^
-||nut.cc^
 ||nutatedtriol.com^
 ||nutateshazanim.com^
 ||nutchaungong.com^
@@ -293294,7 +293271,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||official-permit.com^
 ||officialkmspico.com^
 ||officialworker.pro^
-||offinfernaper.com^
 ||offmantiner.com^
 ||offmyqnpxiqgb.space^
 ||offoonguser.com^
@@ -293367,7 +293343,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||ohdorkhi.com^
 ||oheyffpqepntj.store^
 ||ohffs.com^
-||ohfyntjrbcgik.space^
 ||ohgbefqegvejj.store^
 ||ohgriforkvan.com^
 ||ohiaschavel.world^
@@ -293380,7 +293355,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||ohrdsplu.com^
 ||ohrmuqzr.com^
 ||ohtctjiuow.com^
-||ohufbtzfdzbhz.website^
 ||ohwcfznerxhjk.website^
 ||ohyqrurmhguhy.store^
 ||oi.429men.com^
@@ -293585,7 +293559,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||onfluencer.net^
 ||ongffzbvekahn.site^
 ||ongmansuchc.com^
-||onialconde.qpon^
 ||oniyyrgezoanj.website^
 ||onlidex.com^
 ||online-adnetwork.com^
@@ -294791,7 +294764,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||perpetratoralimony.com^
 ||perr.l-agent.me^
 ||perr.l-err.biz^
-||persaehapunovalia.cyou^
 ||persecess.qpon^
 ||persecutionpunishlegally.com^
 ||perseus-productanalytics.deliveryhero.net^
@@ -294830,7 +294802,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||petrolgraphcredibility.com^
 ||pets.channeladvisor.com^
 ||pettledmollugo.shop^
-||petulanthamsterunless.com^
 ||petuneaffrap.click^
 ||peugyiwmgvadr.space^
 ||peukasrsihavele.org^
@@ -294940,7 +294911,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||phsism.com^
 ||phtpy.love^
 ||phudsumipakr.net^
-||phuftooltin.com^
 ||phukienthoitranggiare.com^
 ||phultems.net^
 ||phutosseous.qpon^
@@ -295528,7 +295498,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||pontiflex.com^
 ||pontxukybocim.icu^
 ||poodlefairly.com^
-||pooftahuncaked.cfd^
 ||pookatimbale.shop^
 ||poolgmsd.com^
 ||poolpeephole.com^
@@ -296659,7 +296628,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||pxwqvvumecpsd.world^
 ||pycnictouchup.click^
 ||pydtwiqutiusg.online^
-||pydymphqitklb.website^
 ||pyebouezyhhxd.online^
 ||pyecyiqatdboi.site^
 ||pyghwgyjuuaht.space^
@@ -296833,7 +296801,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||qeuvhpxmqzson.space^
 ||qevseeymcpxby.click^
 ||qevtpxxejuemh.website^
-||qewwklybkamw.top^
 ||qewylqmaqevzo.top^
 ||qeyeaglxcfpvi.space^
 ||qezkdby1jj.com^
@@ -297040,7 +297007,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||qsbfglhmfunlq.store^
 ||qsblvjjutcbhh.buzz^
 ||qsearch-a.akamaihd.net^
-||qservz.com^
 ||qskrbykjjatuk.store^
 ||qslhdidxkazlzuuelsz.top^
 ||qsrdqwujtvxcf.vip^
@@ -297565,7 +297531,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||rdtrck2.com^
 ||rdv.naruto-base.tv^
 ||rdwmct.com^
-||rdxguxcfmjnrk.website^
 ||rdzjxlizigryv.online^
 ||rdzretjctqkcn.site^
 ||re41qiitb1.com^
@@ -297949,7 +297914,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||renteostend.com^
 ||rentingimmoderatereflecting.com^
 ||rentorshal.com^
-||reobakvmyqoj.top^
 ||reoccureucalyn.qpon^
 ||reople.co.kr^
 ||reorganizeache.com^
@@ -298471,7 +298435,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||rodrgyfrgbyim.online^
 ||roeduchess.com^
 ||roefcldengayg.site^
-||roeiizzphjacy.online^
 ||roemoss.com^
 ||rofant.com^
 ||rofcdcdciveur.site^
@@ -298531,7 +298494,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||roquisttossing.life^
 ||roredi.com^
 ||rose.ixbt.com^
-||rose2919.com^
 ||rosebudboileverything.com^
 ||rosebudedinburgh.com^
 ||rosenberg.appmetrica.webvisor.com^
@@ -298626,7 +298588,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||rqtsvdclifjqy.site^
 ||rqwdkzycggpqt.website^
 ||rqwel.com^
-||rqyebobmjazzv.top^
 ||rqyjlkojuohpv.online^
 ||rqykyzjfwyjbu.online^
 ||rqzcuqeexmjgh.site^
@@ -299903,7 +299864,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||scurrilidylian.shop^
 ||scurrypaleron.click^
 ||scutesneatest.com^
-||scutsmeated.cfd^
 ||scveilwglczse.online^
 ||scvmljhzcdfyj.store^
 ||scwmllkshdfug.website^
@@ -300183,7 +300143,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||serenitymareaffection.com^
 ||serestelian.com^
 ||serfismaryls.help^
-||serfstrommelsorcer.cyou^
 ||serinuswelling.com^
 ||serious-sample.com^
 ||seriousdates.net^
@@ -300213,7 +300172,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||servedby.cincinnatimagazine.com^
 ||servedby.cricketworld.com^
 ||servedby.engineeringnews.co.za^
-||servedby.everythingcolorado.com^
 ||servedby.everythingnevada.com^
 ||servedby.geminipub.com^
 ||servedby.greenspring.com^
@@ -301293,7 +301251,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||soucvnbylfpxu.online^
 ||soulful-contact.com^
 ||soulsdeliriousnoise.com^
-||soulxatte.cyou^
 ||soumehoo.net^
 ||soundcloud-pax.pandora.com^
 ||souocvjmfccpx.store^
@@ -302654,7 +302611,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||stiffswimming.com^
 ||stighoazon.com^
 ||stighunge.net^
-||stikineturma.cfd^
 ||stillawokeathwart.com^
 ||stimtavy.net^
 ||stimulateartificial.com^
@@ -302726,7 +302682,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||stostecmause.com^
 ||stouthran.shop^
 ||stoutlyik.rest^
-||stovearmpitagreeable.com^
 ||stowbilateral.com^
 ||stowhiwhothu.com^
 ||stpd.cloud^
@@ -303209,7 +303164,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||syh-imp.cdnjtzy.com^
 ||syh.zybang.com^
 ||syhhlxnyzltmu.site^
-||syimwfacvwtqp.online^
 ||syinga.com^
 ||syjkcdmwgqwrm.top^
 ||sylfaczvioejj.site^
@@ -304391,7 +304345,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||tmfsdk.m.qq.com^
 ||tmfsdktcpv4.m.qq.com^
 ||tmjrmpkkgatjh.website^
-||tmjuwtbhvodzk.online^
 ||tmlyhh.icu^
 ||tmmjwelxryxod.site^
 ||tmmunzeyobwst.online^
@@ -305883,7 +305836,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||tweelessatic.co.in^
 ||twelfthdistasteful.com^
 ||twentydowrylocate.com^
-||twezugabvd.com^
 ||twgtgpovwbqdy.website^
 ||twhyhf.icu^
 ||twieriofyxkqe.space^
@@ -305929,7 +305881,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||twstat.lifenewsjr.com^
 ||twvgoaewdmluf.online^
 ||twxftd.icu^
-||twxoutedslfywpw.com^
 ||twznryfmalwge.site^
 ||twzui6.com^
 ||tx-ad.a.yximgs.com^
@@ -307025,7 +306976,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||vaimucuvikuwu.net^
 ||vainanalyst.com^
 ||vainfulkmole.com^
-||vajwbkkmklorl.top^
 ||vak345.com^
 ||valeenjoy.com^
 ||valemedia.net^
@@ -307647,13 +307597,12 @@ lighterusa.com#@##shopify-section-age-gate
 ||vmwoxqroobncg.online^
 ||vmxckyomhbtcz.space^
 ||vmxneqttwxhcv.site^
-||vmywoqhq.com^
+||vn.alexajstrack.com^
 ||vnaeqsorsffzh.online^
 ||vnbbfvgbeklnf.store^
 ||vnbrcfmdndguz.life^
 ||vndrosaaypjvu.website^
 ||vnhmdeyzvmgho.love^
-||vnhmwqviy.com^
 ||vnn-tracking.vnncdn.net^
 ||vnrbjvbwbqfob.click^
 ||vnrqehggyydf.xyz^
@@ -308248,7 +308197,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||weatherplllatform.com^
 ||weavekidnapfreaky.com^
 ||weaveradrenaline.com^
-||weayrvvjaomlv.top^
 ||web-ads.10sq.net^
 ||web-analytic.ghtk.vn^
 ||web-analytics.lastpass.com^
@@ -308538,7 +308486,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||whichmeu.com^
 ||whickerkarates.com^
 ||whilsttypewriter.com^
-||whimchawle.cyou^
 ||whimperhomelessillumination.com^
 ||whimrjrilyixu.site^
 ||whimsical-desire.pro^
@@ -310226,7 +310173,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||xovbjzdbfomoo.site^
 ||xovlsjegbpwqs.site^
 ||xovzgcoovh.club^
-||xown4no73rreqce5ouo1j8htmu.cfd^
 ||xownbkkhgzywg.website^
 ||xoxdxaxzcczof.site^
 ||xoxnetwork.com^
@@ -311085,7 +311031,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||zatnoh.com^
 ||zauphozaucou.net^
 ||zautfqxtmfvjr.buzz^
-||zavbelxgugyml.space^
 ||zavgrj.icu^
 ||zavirand.com^
 ||zavnnfijuylnu.site^
@@ -311414,7 +311359,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||zpgetworker11.com^
 ||zpgnipitynywq.space^
 ||zpguxkvsnjobx.website^
-||zpi15fhktc6pmt8phieqc21v7h4uhtuq1fw.cfd^
 ||zpifugiaprqwn.store^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
