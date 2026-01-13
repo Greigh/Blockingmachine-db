@@ -1,6 +1,6 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-01-12T19:14:55.803Z
+# Generated: 2026-01-13T18:36:25.625Z
 # Count: 26668
 
 &rb=&uuid=$third-party
@@ -18182,6 +18182,7 @@ $script,3p,domain=wecima.show,badfilter
 $popup,3p,domain=fembed-hd.com,badfilter
 $popup,3p,domain=sbplay2.com,badfilter
 $popup,3p,domain=dood.ws,badfilter
+@@||cdn.jsdelivr.net/gh/itspro-dev/project_files@master/publicearn2.js$domain=bhadohimusic.in.net|usanowday.com|fullformsmarathi.in
 @@||camspacelive.com/widgets/$domain=lemoncams.com
 @@||safebk.shop/?utm_data=$xhr,domain=sterham.net
 @@/?utm_data=*&_=$xhr,domain=sterham.net|casthill.net
@@ -21986,7 +21987,6 @@ reddxxx.com##[role="gridcell"]:contains(/^AD$/)
 ||31.14.252.148^$third-party
 ||ad.admitad.com^$third-party
 ||applift.com^$redirect=nooptext
-||applovin.com^$third-party
 ||brokerbabe.com^$third-party
 ||keydot.net^$third-party
 ||ma-code.ru^$third-party
