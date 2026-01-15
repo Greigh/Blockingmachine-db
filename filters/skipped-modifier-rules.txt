@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-01-14T19:12:54.800Z
-# Count: 26672
+# Generated: 2026-01-15T18:41:45.731Z
+# Count: 26680
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -7108,6 +7108,7 @@ _468_60-$~script
 ||illicium.web.money^$subdocument
 ||illicium.wmtransfer.com^$subdocument
 ||imdbtv.amazon.dev/2021-01-01/ads?$domain=imdb.com
+||img.medscapestatic.com/pi/scripts/ads/build-ad-tag.js$domain=medscape.com
 ||imgur.com^$domain=ghostbin.me|up-load.io
 ||intersc.igaming-service.io^$domain=hltv.org
 ||islandecho.co.uk/uploads/*/vipupgradebackground.jpg$image
@@ -12792,6 +12793,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.sprig.com/sdk/1/environments/$xmlhttprequest,domain=developer.salesforce.com
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
+@@||api.twitter.com/1.1/onboarding/referrer.json$~third-party
 @@||api.useinsider.com/api/web/$xmlhttprequest
 @@||api.vk.com/method/statEvents.$~third-party
 @@||api.zeeg.me/api/analytics/events/$~third-party
@@ -13499,6 +13501,8 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||uaprom.net/image/blank.gif?$image
 @@||netcoresmartech.com/smartechclient.js$domain=cgv.vn
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
+||goodsstor.vip^$all
+||heartlessanthemantiquity.com^$all
 ||smartcastaddon.com^$subdocument,3p
 ||bqstreamer.com^$3p
 ||figureraisinupper.com^$all
@@ -18186,6 +18190,7 @@ $script,3p,domain=wecima.show,badfilter
 $popup,3p,domain=fembed-hd.com,badfilter
 $popup,3p,domain=sbplay2.com,badfilter
 $popup,3p,domain=dood.ws,badfilter
+@@||googletagmanager.com/gtm.js$domain=lp.empire.goodgamestudios.com
 @@||cdn.jsdelivr.net/gh/itspro-dev/project_files@master/publicearn2.js$domain=bhadohimusic.in.net|usanowday.com|fullformsmarathi.in
 @@||camspacelive.com/widgets/$domain=lemoncams.com
 @@||safebk.shop/?utm_data=$xhr,domain=sterham.net
@@ -23022,7 +23027,7 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 @@||cookie-consent.ingatlancdn.com^$script,domain=immobilienungarn.net|ingatlan.com|realestatehungary.hu
 @@||cookie-script.com^$domain=lr-shop-direkt.de|swiss-sport.tv
 @@||cookiebot.com/uc.js$domain=asket.com|bakingmad.com|cordaid.org|cosmohairshop.de|developer.opencv.fr|flughafen-zuerich.ch|gls-info.nl|lidl.gr|otto.fi|stock3.com|zuiderzeemuseum.nl
-@@||cookiebot.com^$domain=apetro.pt|apoteket.se|asambeauty.com|bankia.es|bergbauernmilch.de|berlingske.dk|biomarkt.de|bondekompaniet.no|bt.dk|caisse-epargne.fr|cajamar.es|cineplex.de|coinshares.com|dailybreak.com|danbolig.dk|dasinvestment.com|derivate.bnpparibas.com|digimon.kochfilms.de|digitaltrends.com|dimensione.com|dr.dk|egmont.com|ekstrabladet.dk|elmzell.se|euroatla.pt|fidelityhouse.eu|finanzmarktwelt.de|fof.se|formule1.nl|golf.nl|harzwasserwerke.de|hoyavision.com|kino.dk|login.nos.pt|mein-grundeinkommen.de|mineralstech.com|neue.at|nngroup.com|nordiskfilm.com|plaion.com|portofoonwinkel.nl|quandoo.it|refinery29.com|rhein-ruhr.stadtmobil.de|rmg.co.uk|robertsspaceindustries.com|scubadiving.com|sportdiver.com|stern.de|storyhouseegmont.dk|storyhouseegmont.no|storyhouseegmont.se|swspremberg.de|tfl.gov.uk|tme.com|toyota-forklifts.se|vikingline.com|vn.at|volunteer.digitalboost.org.uk|warscrap.io|web.ub.edu|wells.pt|werder.de|werkenbijlidl.nl|wero-wallet.eu|woo.pt|wwf.fi|xn--myeblttle-z2a.de|zugspitze.de
+@@||cookiebot.com^$domain=apetro.pt|apoteket.se|asambeauty.com|bankia.es|bergbauernmilch.de|berlingske.dk|biomarkt.de|bondekompaniet.no|bt.dk|caisse-epargne.fr|cajamar.es|cineplex.de|coinshares.com|dailybreak.com|danbolig.dk|dasinvestment.com|derivate.bnpparibas.com|digimon.kochfilms.de|digitaltrends.com|dimensione.com|dr.dk|egmont.com|ekstrabladet.dk|elmzell.se|euroatla.pt|fidelityhouse.eu|finanzmarktwelt.de|fof.se|formule1.nl|golf.nl|harzwasserwerke.de|hoyavision.com|kino.dk|login.nos.pt|mein-grundeinkommen.de|mineralstech.com|neue.at|nngroup.com|nordiskfilm.com|plaion.com|portofoonwinkel.nl|quandoo.it|refinery29.com|rhein-ruhr.stadtmobil.de|rmg.co.uk|robertsspaceindustries.com|scubadiving.com|sportdiver.com|stern.de|storyhouseegmont.dk|storyhouseegmont.no|storyhouseegmont.se|swspremberg.de|tfl.gov.uk|tme.com|toyota-forklifts.se|vcg.de|vikingline.com|vn.at|volunteer.digitalboost.org.uk|warscrap.io|web.ub.edu|wells.pt|werder.de|werkenbijlidl.nl|wero-wallet.eu|woo.pt|wwf.fi|xn--myeblttle-z2a.de|zugspitze.de
 @@||cookielawinfo.com^$~third-party
 @@||cookiemanager.onm.de^$domain=eurobaustoff.com
 @@||cookiemonsterteam.github.io/CookieMonster/dist/CookieMonster.js$domain=orteil.dashnet.org
@@ -23490,6 +23495,8 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||ageverif.com^$third-party
 ||lifteragecheck.com^$third-party
 ||editmysite.com/app/marketing/js/dist/lead$script,domain=blueandwhitebottleshop.com|weebly.com
+||goodsstor.vip^$dnsrewrite=ad-block.dns.adguard.com
+||heartlessanthemantiquity.com^$dnsrewrite=ad-block.dns.adguard.com
 ||figureraisinupper.com^$dnsrewrite=ad-block.dns.adguard.com
 ||motorshook.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viidedss.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -25126,6 +25133,7 @@ dewimg.*,imgtown.*,imgviu.*,mazpic.*,outletpic.*,picrok.*##div[style^="z-index: 
 ||imageweb.ws/*.gif$image
 ||stream2watch.*/sw.js$script,1p
 ||cnnamador.com/sw.js$script,1p
+@@||cnnamador.com/player/stats.php$image,1p
 *$image,redirect-rule=1x1.gif,domain=freeopenvpn.org
 @@||diariosur.es^$ghide
 @@||diariovasco.com^$ghide
