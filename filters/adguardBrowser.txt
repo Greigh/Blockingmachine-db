@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-01-16T18:38:22.395Z
-! Rules count: 323178
+! Last updated: 2026-01-16T19:13:50.007Z
+! Rules count: 323194
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -15778,6 +15778,7 @@ browsershots.org#@#.advert_area
 ||fnqbituexyaxm.online^
 ||fnqhgazwgznjq.site^
 ||fnrmxmfphbdjy.online^
+||fntznbifsojnn.site^
 ||fnusclbdlbrcm.website^
 ||fnwhcgtuvfusn.site^
 ||fnyfiexpectth.org^
@@ -43838,6 +43839,7 @@ browsershots.org#@#.advert_area
 ||wefezokroukr.net^
 ||wegetpaid.net^
 ||wegnpzpsgjpzx.space^
+||wegoomtiltootie.net^
 ||wehdflzsphxij.website^
 ||weigherrejolt.com^
 ||weightfeathersoffhand.com^
@@ -180465,6 +180467,7 @@ browsershots.org#@#.advert_area
 ||corny-swing.pro^
 ||cornychicken.pro^
 ||corollkippy.qpon^
+||corollsith.shop^
 ||coronafly.ru^
 ||coronalpeopler.cfd^
 ||coronerpunny.cyou^
@@ -182617,6 +182620,7 @@ browsershots.org#@#.advert_area
 ||doggycrucis.shop^
 ||doghalf.com^
 ||dogheegnaunim.net^
+||dogholeghatwal.shop^
 ||dogieskerana.help^
 ||doglessstooth.cfd^
 ||dogrotleer.com^
@@ -187019,6 +187023,7 @@ browsershots.org#@#.advert_area
 ||gauotyfrryrtl.website^
 ||gauphaujoagoaje.net^
 ||gaupingeyewink.com^
+||gaupinggruys.cyou^
 ||gaupsaur.xyz^
 ||gaupsewhaiky.net^
 ||gaupsootoagrauk.net^
@@ -190403,6 +190408,7 @@ browsershots.org#@#.advert_area
 ||iclickcdn.com^
 ||iclmewjplvaru.space^
 ||icmbpfsctdglu.com^
+||icmxegxymusftcm.com^
 ||icnejxkehslub.online^
 ||iconianscolog.qpon^
 ||icouwxyvxifwx.online^
@@ -194046,6 +194052,7 @@ browsershots.org#@#.advert_area
 ||lapillitigre.qpon^
 ||lapishexisswifty.cyou^
 ||laplandnervierblasia.cfd^
+||lappedspicier.qpon^
 ||lappedstanged.qpon^
 ||lappingcalamus.cfd^
 ||lapqigwuzasp.com^
@@ -198682,6 +198689,7 @@ browsershots.org#@#.advert_area
 ||nriceukwater.org^
 ||nrimadag.com^
 ||nriqlylnauefl.online^
+||nrivkotu.com^
 ||nrmrmjgbbwhqw.com^
 ||nrnma.com^
 ||nrnmbyjsyxgr.xyz^
@@ -199532,6 +199540,7 @@ browsershots.org#@#.advert_area
 ||ojheaitunlker.online^
 ||ojhu34vtryki9m5ojn8n2lqtejnuh4ruml.cfd^
 ||ojhyviykx.net^
+||ojibwaymorena.cfd^
 ||ojjbpxsbkxhmp.xyz^
 ||ojkandwaza.com^
 ||ojldhncdcnrok.online^
@@ -199659,6 +199668,7 @@ browsershots.org#@#.advert_area
 ||omjpipkakagk.com^
 ||omlahpewing.com^
 ||omlkfwhnqdiekxy.net^
+||omlpwfwbozwmf.site^
 ||ommcrywbemojn.space^
 ||omneityflo.help^
 ||omni-ads.com^
@@ -201136,6 +201146,7 @@ browsershots.org#@#.advert_area
 ||pensterpotions.com^
 ||penstersibling.cyou^
 ||pentalime.com^
+||pentunknit.qpon^
 ||peonagefoliary.cyou^
 ||peonescrumps.cyou^
 ||peonjvqpddddp.online^
@@ -202148,6 +202159,7 @@ browsershots.org#@#.advert_area
 ||portswaving.com^
 ||portunitytostar.org^
 ||porzhbcbxgdsu.space^
+||posedcasebox.cfd^
 ||poseunprofessionalspecific.com^
 ||posewardenreligious.com^
 ||posf.xyz^
@@ -203465,6 +203477,7 @@ browsershots.org#@#.advert_area
 ||qeaaogshjobfk.site^
 ||qecapwnpthdzf.site^
 ||qeefxyltwpruv.website^
+||qeezpmzrkjxwk.space^
 ||qefbgiqnhpbdb.site^
 ||qehcierotgrrk.site^
 ||qehlpxpuhbxon.space^
@@ -203577,6 +203590,7 @@ browsershots.org#@#.advert_area
 ||qhnbqrpobwplq.online^
 ||qhnojvbyxfgcf.click^
 ||qhobqacumluoe.space^
+||qhojziwmoav.com^
 ||qhqthxofmcdxl.site^
 ||qhrgkzpfvrtzm.online^
 ||qhupphmzchsdo.space^
@@ -208343,6 +208357,7 @@ browsershots.org#@#.advert_area
 ||squalornitrian.qpon^
 ||square-direction.com^
 ||squaremagician.com^
+||squaremarbler.com^
 ||squarypockety.qpon^
 ||squaryscurfs.cyou^
 ||squarysmog.rest^
@@ -210774,6 +210789,7 @@ browsershots.org#@#.advert_area
 ||tricklewatchingtypist.com^
 ||trickyscrew.pro^
 ||triczjnzuktsh.website^
+||triduamswarmerungrip.cfd^
 ||triersreprune.cfd^
 ||trifling-profession.pro^
 ||triflinghandicapped.com^
@@ -323058,7 +323074,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-01-16T18:38:22.402Z
+! Last updated: 2026-01-16T19:13:50.016Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important

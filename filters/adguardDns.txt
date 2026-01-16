@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-01-16T18:38:24.927Z
-! Rules count: 199776
+! Last updated: 2026-01-16T19:13:52.513Z
+! Rules count: 199792
 ||0014b04291.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -14108,6 +14108,7 @@
 ||fnqbituexyaxm.online^
 ||fnqhgazwgznjq.site^
 ||fnrmxmfphbdjy.online^
+||fntznbifsojnn.site^
 ||fnusclbdlbrcm.website^
 ||fnwhcgtuvfusn.site^
 ||fnyfiexpectth.org^
@@ -42167,6 +42168,7 @@
 ||wefezokroukr.net^
 ||wegetpaid.net^
 ||wegnpzpsgjpzx.space^
+||wegoomtiltootie.net^
 ||wehdflzsphxij.website^
 ||weigherrejolt.com^
 ||weightfeathersoffhand.com^
@@ -107497,6 +107499,7 @@
 ||corny-swing.pro^
 ||cornychicken.pro^
 ||corollkippy.qpon^
+||corollsith.shop^
 ||coronafly.ru^
 ||coronalpeopler.cfd^
 ||coronerpunny.cyou^
@@ -109648,6 +109651,7 @@
 ||doggycrucis.shop^
 ||doghalf.com^
 ||dogheegnaunim.net^
+||dogholeghatwal.shop^
 ||dogieskerana.help^
 ||doglessstooth.cfd^
 ||dogrotleer.com^
@@ -114050,6 +114054,7 @@
 ||gauotyfrryrtl.website^
 ||gauphaujoagoaje.net^
 ||gaupingeyewink.com^
+||gaupinggruys.cyou^
 ||gaupsaur.xyz^
 ||gaupsewhaiky.net^
 ||gaupsootoagrauk.net^
@@ -117433,6 +117438,7 @@
 ||iclickcdn.com^
 ||iclmewjplvaru.space^
 ||icmbpfsctdglu.com^
+||icmxegxymusftcm.com^
 ||icnejxkehslub.online^
 ||iconianscolog.qpon^
 ||icouwxyvxifwx.online^
@@ -121076,6 +121082,7 @@
 ||lapillitigre.qpon^
 ||lapishexisswifty.cyou^
 ||laplandnervierblasia.cfd^
+||lappedspicier.qpon^
 ||lappedstanged.qpon^
 ||lappingcalamus.cfd^
 ||lapqigwuzasp.com^
@@ -125712,6 +125719,7 @@
 ||nriceukwater.org^
 ||nrimadag.com^
 ||nriqlylnauefl.online^
+||nrivkotu.com^
 ||nrmrmjgbbwhqw.com^
 ||nrnma.com^
 ||nrnmbyjsyxgr.xyz^
@@ -126562,6 +126570,7 @@
 ||ojheaitunlker.online^
 ||ojhu34vtryki9m5ojn8n2lqtejnuh4ruml.cfd^
 ||ojhyviykx.net^
+||ojibwaymorena.cfd^
 ||ojjbpxsbkxhmp.xyz^
 ||ojkandwaza.com^
 ||ojldhncdcnrok.online^
@@ -126689,6 +126698,7 @@
 ||omjpipkakagk.com^
 ||omlahpewing.com^
 ||omlkfwhnqdiekxy.net^
+||omlpwfwbozwmf.site^
 ||ommcrywbemojn.space^
 ||omneityflo.help^
 ||omni-ads.com^
@@ -128166,6 +128176,7 @@
 ||pensterpotions.com^
 ||penstersibling.cyou^
 ||pentalime.com^
+||pentunknit.qpon^
 ||peonagefoliary.cyou^
 ||peonescrumps.cyou^
 ||peonjvqpddddp.online^
@@ -129178,6 +129189,7 @@
 ||portswaving.com^
 ||portunitytostar.org^
 ||porzhbcbxgdsu.space^
+||posedcasebox.cfd^
 ||poseunprofessionalspecific.com^
 ||posewardenreligious.com^
 ||posf.xyz^
@@ -130495,6 +130507,7 @@
 ||qeaaogshjobfk.site^
 ||qecapwnpthdzf.site^
 ||qeefxyltwpruv.website^
+||qeezpmzrkjxwk.space^
 ||qefbgiqnhpbdb.site^
 ||qehcierotgrrk.site^
 ||qehlpxpuhbxon.space^
@@ -130607,6 +130620,7 @@
 ||qhnbqrpobwplq.online^
 ||qhnojvbyxfgcf.click^
 ||qhobqacumluoe.space^
+||qhojziwmoav.com^
 ||qhqthxofmcdxl.site^
 ||qhrgkzpfvrtzm.online^
 ||qhupphmzchsdo.space^
@@ -135373,6 +135387,7 @@
 ||squalornitrian.qpon^
 ||square-direction.com^
 ||squaremagician.com^
+||squaremarbler.com^
 ||squarypockety.qpon^
 ||squaryscurfs.cyou^
 ||squarysmog.rest^
@@ -137804,6 +137819,7 @@
 ||tricklewatchingtypist.com^
 ||trickyscrew.pro^
 ||triczjnzuktsh.website^
+||triduamswarmerungrip.cfd^
 ||triersreprune.cfd^
 ||trifling-profession.pro^
 ||triflinghandicapped.com^
@@ -199784,7 +199800,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-01-16T18:38:24.932Z
+! Last updated: 2026-01-16T19:13:52.520Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
