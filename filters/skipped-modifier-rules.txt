@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-01-24T19:10:29.003Z
-# Count: 26684
+# Generated: 2026-01-25T18:35:16.223Z
+# Count: 26691
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -1284,6 +1284,7 @@ _468_60-$~script
 ||maquiags.com^$document
 ||maredpt.com^$document
 ||marketingthing.click^$document
+||masterreviews.org^$document
 ||maxconvtrk.com^$document
 ||maxickedpantents.com^$document
 ||maxidefender.xyz^$document
@@ -6684,6 +6685,7 @@ _468_60-$~script
 ||alarmsportsnetwork.com^$third-party
 ||allprivatekeys.com/static/banners/$third-party
 ||an.yandex.ru^$domain=~e.mail.ru
+||anigo.to^$third-party
 ||api-player.globalsun.io/api/publishers/player/content?category_id=*&adserver_id=$xmlhttprequest
 ||app.clickfunnels.com^$~stylesheet
 ||assets.sheetmusicplus.com^$third-party
@@ -6794,6 +6796,7 @@ _468_60-$~script
 ||siteground.com/static/affiliate/$third-party
 ||skimresources.com^$script,subdocument,third-party
 ||snacktools.net/bannersnack/$domain=~bannersnack.dev
+||solarcdn.me^$third-party
 ||squaremouth.com/affiliates/$third-party
 ||static.tradetracker.net^$third-party
 ||swarthid.github.io/*/invoke.js$third-party
@@ -8403,6 +8406,7 @@ _view_pixel&$image
 /t.paypal.com/*$image
 /t.yesware.com/t/*$image
 /T/OFC4/*$image
+/tlinks.nordaccount.com/q/*$image
 /tp.mkt.vorwerk.com/r/*$image
 /track.email.$image
 /track.octanemail.in/sapi/*$image
@@ -13531,7 +13535,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||galiysana.vip^$all
 ||k-words.io^$3p
 ||44x.io^$script
-||adopsboost.com^$3p
 ||hostk.cfd^$all
 ||dipperflightrecommend.com^$all
 ||leadstar.com.pl^$3p
@@ -13611,7 +13614,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||my.toruftuiov.com^$all
 ||esvpnjdntgr.com^$all
 ||obtaintrout.com^$all
-||comicad.net^$3p
 ||countabledawdlerunaudited.com^$all
 ||cfusion-internet.com^$3p
 ||js.trendmd.com^$3p
@@ -16808,7 +16810,7 @@ http://www.ads.$3p
 ||html-load.com^$script,redirect=noop.js,domain=endfield.gg|expedition33.gg|cookierun.gg|dcworldscollide.gg|destiny2zone.com|digimonzone.com|dotgg.gg|dragonball.gg|fabtcg.gg|fplzone.com|lorcana.gg|lostsword.gg|marvelrivals.gg|marvelsnapzone.com|moco.gg|onepiece.gg|pathofexile.gg|playingmtg.com|ptcgpocket.gg|riftbound.gg|shadowverse.gg|snowbreak.gg|thebazaarzone.com|tokon.gg|umamusume.gg|wutheringwaves.gg|ygozone.gg|zenless.gg
 ||asloader.tz.de^$script,redirect=noop.js
 .html-load.com/*/a/$font,domain=~dogdrip.net|~smsonline.cloud
-.html-load.com/*/n/$domain=~dogdrip.net|~smsonline.cloud
+.html-load.com/*/d/$domain=~dogdrip.net|~smsonline.cloud
 .fb2.html-load.com/player/$domain=~dogdrip.net|~smsonline.cloud
 ||html-load.com^$image,~3p,domain=html-load.com,important
 ~dogdrip.net,~smsonline.cloud##div[id^="img_"][style$="2147483647; justify-content: center;"]
@@ -20082,6 +20084,7 @@ wss://www.*.xyz/ws^$3p
 ||adomik.com^$3p
 ||adonnews.com^$3p
 ||adoperator.com^$3p
+||adopsboost.com^$3p
 ||adoptim.com^$3p
 ||adorika.com^$3p
 ||adosia.com^$3p
@@ -20426,6 +20429,7 @@ wss://www.*.xyz/ws^$3p
 ||coinmedia.co^$3p
 ||cointraffic.io^$3p
 ||coinzilla.io^$3p
+||comicad.net^$3p
 ||commissionfactory.com.au^$3p
 ||commissionmonster.com^$3p
 ||comscore.com^$3p
@@ -21499,6 +21503,7 @@ wss://www.*.xyz/ws^$3p
 ||affiliate-cdn.raptive.com^$3p
 ||alarmsportsnetwork.com^$3p
 ||allprivatekeys.com/static/banners/$3p
+||anigo.to^$3p
 ||api-player.globalsun.io/api/publishers/player/content?category_id=*&adserver_id=$xhr
 ||assets.sheetmusicplus.com^$3p
 ||autoembed.cc/vast/$xhr
@@ -21584,6 +21589,7 @@ wss://www.*.xyz/ws^$3p
 ||shopmyshelf.us^$3p
 ||siteground.com/static/affiliate/$3p
 ||skimresources.com^$script,subdocument,3p
+||solarcdn.me^$3p
 ||squaremouth.com/affiliates/$3p
 ||static.tradetracker.net^$3p
 ||swarthid.github.io/*/invoke.js$3p
@@ -23308,7 +23314,7 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 @@||travelodge.co.uk/nw/assets/dist/js/modules/cookieCompliance.js$~third-party
 @@||truendo.com^$script,xmlhttprequest,domain=laola1.at
 @@||ukc2.com/assets/bootstrap/js/cookie_consent.min.js$script,domain=ukclimbing.com
-@@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=alternate.de|andrewgriffith.cpa|atv.at|bayer04.de|bsr.de|cambio-carsharing.de|dfbplay.tv|douglas.de|dr-beckmann.com|falke.com|festool.at|festool.be|festool.bg|festool.ch|festool.cn|festool.co.kr|festool.co.uk|festool.co.za|festool.com|festool.cz|festool.de|festool.dk|festool.es|festool.fi|festool.fr|festool.hu|festool.ie|festool.it|festool.lt|festool.nl|festool.no|festool.pl|festool.pt|festool.ro|festool.ru|festool.se|festool.sk|festool.ua|festoolcanada.com|festoolusa.com|flaschenpost.de|hamburg-business.com|highsnobiety.com|hornbach.nl|hypofriend.de|immowelt.de|joyn.at|joyn.de|kicker.de|mbusa.com|meubelo.nl|meubles.fr|moebel.de|moebel24.at|moebel24.ch|morenutrition.de|oeamtc.at|paketshop.myhermes.de|personio.com|poco.de|post.ch|postbank.de|prosieben.at|puls4.com|radiobob.de|ran.de|rts.ch|s-pankki.fi|salzburg.info|sat1.at|schlager.radio|sportdeutschland.tv|srf.ch|verivox.de|wetter.com|zalando.*
+@@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=alternate.de|andrewgriffith.cpa|atv.at|bayer04.de|bsr.de|cambio-carsharing.de|casino.psk.hr|dfbplay.tv|douglas.de|dr-beckmann.com|falke.com|festool.at|festool.be|festool.bg|festool.ch|festool.cn|festool.co.kr|festool.co.uk|festool.co.za|festool.com|festool.cz|festool.de|festool.dk|festool.es|festool.fi|festool.fr|festool.hu|festool.ie|festool.it|festool.lt|festool.nl|festool.no|festool.pl|festool.pt|festool.ro|festool.ru|festool.se|festool.sk|festool.ua|festoolcanada.com|festoolusa.com|flaschenpost.de|hamburg-business.com|highsnobiety.com|hornbach.nl|hypofriend.de|immowelt.de|joyn.at|joyn.de|kicker.de|mbusa.com|meubelo.nl|meubles.fr|moebel.de|moebel24.at|moebel24.ch|morenutrition.de|oeamtc.at|paketshop.myhermes.de|personio.com|poco.de|post.ch|postbank.de|prosieben.at|puls4.com|radiobob.de|ran.de|rts.ch|s-pankki.fi|salzburg.info|sat1.at|schlager.radio|sportdeutschland.tv|srf.ch|verivox.de|wetter.com|zalando.*
 @@||velostreet.com/vendor/orestbida/cookieconsent/dist/cookieconsent.umd.js$~third-party
 @@||vendorlist.consensu.org/vendorlist.json$xmlhttprequest,domain=telegraph.co.uk|tf1.fr
 @@||vesmir.cz/components/eu_cookie/$script
@@ -24050,6 +24056,7 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||maquiags.com^$dnsrewrite=ad-block.dns.adguard.com
 ||maredpt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||marketingthing.click^$dnsrewrite=ad-block.dns.adguard.com
+||masterreviews.org^$dnsrewrite=ad-block.dns.adguard.com
 ||maxconvtrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||maxickedpantents.com^$dnsrewrite=ad-block.dns.adguard.com
 ||maxidefender.xyz^$dnsrewrite=ad-block.dns.adguard.com
