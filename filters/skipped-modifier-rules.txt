@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-01-26T19:17:41.094Z
-# Count: 26697
+# Generated: 2026-01-27T18:44:29.840Z
+# Count: 26705
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -10721,6 +10721,7 @@ omni.soundestlink.com$image
 ||umami.is^$third-party
 ||umbel.com^$third-party
 ||unalytics.top^$third-party
+||unidays.world^$third-party,domain=~myunidays.com
 ||uniqodo.com^$third-party
 ||united-infos.net^$third-party
 ||unusual.ai^$third-party
@@ -12989,6 +12990,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||mbe.modelica.university/_next/static/*/pages/pageview.js$~third-party
 @@||mclo.gs/js/logview.js$~third-party
 @@||metrics.bangbros.com/tk.js$~third-party
+@@||mixpanel.com/public/$subdocument,domain=iframely.net
 @@||mlbstatic.com/mlb.com/adobe-analytics/$script,domain=mlb.com
 @@||mmstat.com/eg.js$script,domain=aliexpress.com
 @@||mopar.com/moparsvc/mopar-analytics-state$~third-party
@@ -13102,6 +13104,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
 @@||static.knowledgehub.com/global/images/ping.gif?$~third-party
 @@||static.myfinance.com/widget/$domain=savingspro.org
+@@||static.pinpoll.com^$subdocument,domain=iframely.net
 @@||stats.gleague.nba.com/templates/angular/tables/events/shots.html$~third-party
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
 @@||stats.sports.bellmedia.ca^$domain=rds.ca|tsn.ca
@@ -13126,6 +13129,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||tms.oracle.com/main/prod/utag.sync.js$~third-party
 @@||tntdrama.com/modules/custom/ten_video/js/analytics_v2.js$~third-party
 @@||tokbox.com/prod/logging/ClientEvent$domain=examroom.ai
+@@||tools.pinpoll.com^$script,subdocument,domain=iframely.net
 @@||toyota.com/recall/static/js/custom/facebookPixel.js$~third-party
 @@||traceparts.com/lib/piano-analytics/piano-analytics.js$script,~third-party
 @@||track.shipstation.com/collections/trackingEvents.js$~third-party
@@ -14113,6 +14117,8 @@ afasiaarchzine.com,forexrw7.com,gold-24.net##+js(addEventListener-defuser, /^DOM
 fcportables.com,ps2-bios.com##div[id$="____equal"]:not(.ad)
 ||npttech.com/advertising.js$important,script,redirect=noop.js,domain=~vijesti.me
 @@/libs/advertisement.js$domain=getfreebit.xyz|getfree.co.in|bagi.co.in|starfaucet.net|aztecafaucet.space|multifaucet.org|dogestar.website|claimbits.io|i-bits.io|gobits.io|faucet.shorterall.com|simplyfaucet.xyz|tv3.lv
+@@||kissjav.com^$generichide
+@@||asianporn.li^$generichide
 @@favicon.ico$domain=indexsubtitle.cc
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=hexanaut.io,important
 ||newsofx2.com/wp-content/litespeed/js/$script
@@ -15815,6 +15821,7 @@ odishatv.in##div[class^="otv-"][class$="-ad"]
 /vqa^$domain=pagalguy.com
 @@||bombaytimes.com/*ads$script,other,~3p
 @@||anandabazar.com/*ad$script
+||komikcast05.com/wp-content/uploads/*gif$image
 ||blogger.googleusercontent.com/img/*.gif^$image,domain=idlixku.com
 ||down-id.img.susercontent.com/file/*.webp$domain=lk21.am.in
 anichin.co.id##+js(abort-current-script, $, window.open()
@@ -16917,7 +16924,6 @@ tribuna.com##div[class$="__main-layout__empty-block"]
 hotukdeals.com##div[id$="AdSlotPortal"]
 /loader?$subdocument,domain=shooshtime.com
 /assets/jquery/*.js?type=adult^$script
-kio.ac##main > div:not([class], [id]) > .w-full > .min-h-4 > div[style^="height:"][style*="width:"][style$="overflow: hidden;"]:has(> script:only-child)
 ||limeiptv.to/static/*.gif$domain=1337x.to
 ||api.poki.com/ads/houseads/video/vast$xhr,redirect=noopvast-3.0
 f95zone.to##:matches-path(/^/$/) .node:not(.node--forum):has(a[data-xf-init])
@@ -16952,7 +16958,7 @@ scmp.com##div[data-qa$="Ads"]
 zzup.com##iframe[src^="/ad"][src$=".php"]
 /asyncjs.php$script,redirect=noop.js,domain=pics-x.com
 ||xd.wayin.com/embed/$domain=todays-golfer.com
-||img.doppiocdn.com^$domain=tumblrgallery.xyz
+||img.doppiocdn.com^$domain=tumblrgallery.xyz|camsmut.com
 ||i.ibb.co/*.gif|$domain=ultrahqporn.com
 ||constellation.networknmedia.com^$domain=pcgamesn.com
 ||hdtube.porn/*/?zone=$subdocument
@@ -18219,6 +18225,8 @@ $script,3p,domain=wecima.show,badfilter
 $popup,3p,domain=fembed-hd.com,badfilter
 $popup,3p,domain=sbplay2.com,badfilter
 $popup,3p,domain=dood.ws,badfilter
+@@||player.ex.co^$domain=standard.co.uk
+@@||cdn.ex.co^$domain=standard.co.uk
 @@||googletagmanager.com/gtm.js$domain=lp.empire.goodgamestudios.com
 @@||cdn.jsdelivr.net/gh/itspro-dev/project_files@master/publicearn2.js$domain=bhadohimusic.in.net|usanowday.com|fullformsmarathi.in
 @@||camspacelive.com/widgets/$domain=lemoncams.com
