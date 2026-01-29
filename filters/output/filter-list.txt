@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-01-29T18:54:05.605Z
-! Rules count: 331654
+! Last updated: 2026-01-29T19:24:03.732Z
+! Rules count: 331656
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -23957,7 +23957,6 @@ browsershots.org#@#.advert_area
 ||jwhintmzfv.com^
 ||jwjcpzdprksgg.online^
 ||jwp4th9kj1i89ce.cfd^
-||jwpltx.com^
 ||jwqmdmojuzeex.online^
 ||jwqvnbzxwiibj.one^
 ||jwraxixytrvwm.site^
@@ -27899,6 +27898,7 @@ browsershots.org#@#.advert_area
 ||mgkaxqzmwainx.space^
 ||mgladthereisso.com^
 ||mglhbqvqmjqcq.space^
+||mglixifedisqs.site^
 ||mgmaringpoli.org^
 ||mgmcyupu.com^
 ||mgpsxcge.com^
@@ -37626,6 +37626,7 @@ browsershots.org#@#.advert_area
 ||rjzbvmbybvkwq.top^
 ||rjzbvmbybvokw.top^
 ||rjzkulworyqil.space^
+||rkbmsqqdmxcz.com^
 ||rkcmtcu6p4rxivyojj65hwpniyhwu.cfd^
 ||rkcuxnnaoscefxq.xyz^
 ||rkdpzcdehop.fun^
@@ -38199,6 +38200,7 @@ browsershots.org#@#.advert_area
 ||rubiconproject.com^
 ||rubyblu.com^
 ||rucecnegkrxul.site^
+||ruchingtooled.cyou^
 ||ruckleyawping.help^
 ||rucstpoymfnpp.site^
 ||ruddy-bite.pro^
@@ -48658,6 +48660,7 @@ browsershots.org#@#.advert_area
 ||xnlokghdybvho.online^
 ||xnoztzcdyawlx.love^
 ||xnperqlgiwvpp.website^
+||xnqcpopewx.com^
 ||xnqmulxivdgaa.online^
 ||xnqzisqoxmbwb.space^
 ||xnrhqmdsluqld.tech^
@@ -49635,6 +49638,7 @@ browsershots.org#@#.advert_area
 ||yrfitmobjkskj.space^
 ||yrflgsqpywsmh.website^
 ||yrhnw7h63.com^
+||yrhxicouoe.com^
 ||yrhzytcrqnbtj.site^
 ||yriyzhxgkgthm.com^
 ||yrkpvtbpyrcxf.global^
@@ -298874,7 +298878,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||latchfateverybody.com^
 ||late-anxiety.com^
 ||late-luck.pro^
-||latedcavishunrolls.cfd^
 ||latelyninetyfeelings.com^
 ||latentdesert.com^
 ||latherprofanecognizance.com^
@@ -322218,7 +322221,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||ypmrjyxltcrra.space^
 ||ypnsqbosjtbpv.space^
 ||yptqys.tianqistatic.com^
-||ypulmrwnpxwkz.space^
 ||ypwcttlciuuzu.online^
 ||ypxdakreabzhk.website^
 ||yqeaelhqycxcp.website^
