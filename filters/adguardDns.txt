@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-02-04T18:56:49.863Z
-! Rules count: 205950
+! Last updated: 2026-02-04T19:33:15.387Z
+! Rules count: 205953
 ||0014b04291.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -15007,6 +15007,7 @@
 ||frequentjam.com^
 ||frequentlyadulatory.com^
 ||frequentlycharmsincomplete.com^
+||frequentlyvaried.com^
 ||frequentrequirement.com^
 ||frequentwhite.pro^
 ||frescozoilean.cfd^
@@ -39536,6 +39537,7 @@
 ||telegraphfamouscucumbers.com^
 ||teleiafleshes.qpon^
 ||teleishlocks.qpon^
+||telesiskhakhamboonies.cyou^
 ||telesmdhal.help^
 ||televisiongrownupcrowd.com^
 ||telfordlula.rest^
@@ -44423,6 +44425,7 @@
 ||wheyishbuckoes.cyou^
 ||whgcbgdsrqixx.rocks^
 ||whgugqkhydhg.net^
+||whhwcardntdge.com^
 ||whiboujaix.net^
 ||which-impact.pro^
 ||whichmeu.com^
@@ -205958,7 +205961,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-02-04T18:56:49.868Z
+! Last updated: 2026-02-04T19:33:15.393Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
