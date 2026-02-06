@@ -1,6 +1,6 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-02-06T18:56:41.251Z
+# Generated: 2026-02-06T19:32:04.365Z
 # Count: 26672
 
 &rb=&uuid=$third-party
