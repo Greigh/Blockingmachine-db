@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-02-12T19:08:29.181Z
-! Rules count: 210864
+! Last updated: 2026-02-12T19:44:05.204Z
+! Rules count: 210871
 ||0014b04291.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -1470,6 +1470,7 @@
 ||abpicsrc.com^
 ||abpjs23.com^
 ||abpnow.xyz^
+||abqnmgbyxyias.site^
 ||abrahamwiddie.cyou^
 ||abraxascutties.cfd^
 ||abres.xyz^
@@ -13456,6 +13457,7 @@
 ||eqizpgutcgers.online^
 ||eqjhdqbauguem.website^
 ||eqkltgnbbygnv.website^
+||eqltzvmp.com^
 ||eqlzbrictopyi.space^
 ||eqnpqrodsmaxw.space^
 ||eqnxsgwyenvfy.space^
@@ -16875,6 +16877,7 @@
 ||gkbbiahqabipz.online^
 ||gkbpmrtixkzui.one^
 ||gkddyrrlgaepmr.com^
+||gkeaaauospljg.site^
 ||gkhkmodocwnzu.site^
 ||gkihrlitlfndl.space^
 ||gkijdvpfpcjy.xyz^
@@ -21235,6 +21238,7 @@
 ||isoporagonal.cfd^
 ||isosterrockier.cyou^
 ||isotopetaxers.cfd^
+||isotrondumbedwithtee.cfd^
 ||isoualkcjushz.website^
 ||isozvtdtzqefl.website^
 ||isquitehappymut.org^
@@ -33013,6 +33017,7 @@
 ||powferads.com^
 ||powitchinkshed.qpon^
 ||poxcffegnvybhn.xyz^
+||poxorfdldbzdr.online^
 ||pozbkfbosjncr.space^
 ||pozkbycypzgty.site^
 ||pozreowvotgky.site^
@@ -47084,6 +47089,7 @@
 ||wrestforsake.com^
 ||wrestgrandfather.com^
 ||wretched-confusion.com^
+||wretched-plate.pro^
 ||wretchedadvantage.com^
 ||wretchnavelpotent.com^
 ||wretchonto.com^
@@ -48171,6 +48177,7 @@
 ||yakmakhond.top^
 ||yakutpyrite.qpon^
 ||yaldfyyfjuftv.website^
+||yalhmhkorlxb.com^
 ||yalqxkqmcjsal.website^
 ||yamanaisleepry.com^
 ||yamrqukvphsxu.website^
@@ -210872,7 +210879,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-02-12T19:08:29.187Z
+! Last updated: 2026-02-12T19:44:05.211Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
