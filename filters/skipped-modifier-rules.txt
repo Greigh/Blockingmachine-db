@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-02-12T19:44:05.089Z
-# Count: 26694
+# Generated: 2026-02-13T18:56:29.506Z
+# Count: 26693
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -12589,6 +12589,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||msg-intl.qy.net^$image
 ||neowin.net/ws/$websocket
 ||nyt.com/ads/tpc-check.html$domain=nytimes.com
+||pb.ytmp3tube.com/js/script.js$domain=yt1s.com.co
 ||pog.com^$ping
 ||reddit.com/static/pixel.png$image
 ||run.app/events$domain=imgur.com|worldstar.com|worldstarhiphop.com
@@ -14082,7 +14083,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 /blockadblock-$script,redirect=nofab.js
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mshares.co|gayvidsclub.com|1069boys.net
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noop.js,domain=mshares.co|gayvidsclub.com|1069boys.net,important
-/i10c@p1/client/latest/abd/instart.js$domain=ranker.com
 /wp-content/embeded-adtional-content/*$redirect=noop.txt,important,image,media,subdocument,stylesheet,script,xhr,other
 /wp-content/plugins/kill-adblock/*$domain=ceplik.com|udemycoursedownloader.com|techno360.in|mocasoft.ro|articlesjar.com
 @@||pons.com/p/files/*$image
@@ -14121,7 +14121,7 @@ afasiaarchzine.com,forexrw7.com,gold-24.net##+js(addEventListener-defuser, /^DOM
 /js/detector.js$domain=bestsimsmods.com|dtbps3games.com|passionategeekz.com
 fcportables.com,ps2-bios.com##div[id$="____equal"]:not(.ad)
 ||npttech.com/advertising.js$important,script,redirect=noop.js,domain=~vijesti.me
-@@/libs/advertisement.js$domain=getfree.co.in|bagi.co.in|starfaucet.net|aztecafaucet.space|multifaucet.org|dogestar.website|claimbits.io|i-bits.io|gobits.io|faucet.shorterall.com|simplyfaucet.xyz|tv3.lv
+@@/libs/advertisement.js$domain=getfree.co.in|bagi.co.in|aztecafaucet.space|multifaucet.org|dogestar.website|claimbits.io|i-bits.io|gobits.io|faucet.shorterall.com|simplyfaucet.xyz|tv3.lv
 ||mynetok.com/check.json$domain=loverugbyleague.com
 @@||manhuarmtl.com^$generichide
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js,domain=simpmusic.org,important
@@ -17638,7 +17638,6 @@ stun:34.70.28.179^$domain=yts.lt
 ||grammarist.com/*/*.jpg$script
 ||chaturbate.com^$domain=zoomgirls.net,important
 ||mydirtyhobby.to/banner/$image
-||starfaucet.net/banners/$image
 loveroms.online##div[id^="freshwp-"][id$="-sidebar"] > div[id^="text-"].freshwp-side-widget
 ||vd.7vid.net/*.js$domain=vidoza.org
 ||mediausamns-a.akamaihd.net/*.mp4$redirect=noop-1s.mp4,media,domain=crackle.com
