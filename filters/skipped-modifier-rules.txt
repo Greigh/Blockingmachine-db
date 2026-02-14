@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-02-13T19:35:41.622Z
-# Count: 26693
+# Generated: 2026-02-14T18:40:35.635Z
+# Count: 26694
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -8892,6 +8892,7 @@ omni.soundestlink.com$image
 ||clickreport.com^$third-party
 ||clicksagent.com^$third-party
 ||clicksen.se^$third-party
+||clicksentry.nl^$third-party
 ||clickshift.com^$third-party
 ||clicktale.net^$third-party
 ||clicktracks.com^$third-party
@@ -17948,7 +17949,7 @@ qriv1.ucoz.com##span[style$="font-weight:bold;"]
 ||cdn.taboola.com/libtrc/needrom/loader.js$domain=needrom.com
 ||cdn.taboola.com/libtrc/ziffdavis-network15-geek/loader.js$domain=geek.com
 ||clickadu.com/apu.php$redirect=noop.txt,important,image,media,subdocument,stylesheet,script,xhr,other
-||cloudfront.net^$domain=porn00.org|milfnut.com|iir.ai|tii.ai|newepisodes.co|megaup.net|ckk.ai|streamtajm.com|yesmovies.to|thehouseofportable.com|oke.io|xrivonet.info|linkrex.net|youtubemultidownloader.com|cpygames.com|srt.am|dancingastronaut.com|gamesofpc.com|tinyical.com|itdmusic.com|prefiles.com|anime-odcinki.pl|clickndownload.*|clicknupload.*|unblocked.lol|lipstickalley.com|addic7ed.com|animeflv.net|avxhome.in|avxhome.se|baiscopelk.com|filescdn.com|javgo.me|katfile.com|multiup.org|newpct.com|newpct1.com|nhentai.net|nitroflare.com|psarips.com|sankakucomplex.com|uptostream.com|userscloud.com|tmearn.com|y2mate.com|animepahe.ru|tei.ai|mastibaaz.com|soap2day.*|igg-games.com|torrentmac.net|send.cm|bluemediafiles.*|sakurafile.com|torrentgalaxy.mx|igg-games.co|ziperto.com|bluemediafile.*|oxtorrent.sk|bluemediadownload.*|urlbluemedia.*|bluedownload.*|datanodes.to
+||cloudfront.net^$domain=porn00.org|milfnut.com|iir.ai|tii.ai|newepisodes.co|megaup.net|ckk.ai|streamtajm.com|yesmovies.to|thehouseofportable.com|oke.io|xrivonet.info|linkrex.net|youtubemultidownloader.com|cpygames.com|srt.am|dancingastronaut.com|gamesofpc.com|tinyical.com|itdmusic.com|prefiles.com|anime-odcinki.pl|clickndownload.*|clicknupload.*|unblocked.lol|lipstickalley.com|addic7ed.com|animeflv.net|avxhome.in|avxhome.se|baiscopelk.com|filescdn.com|javgo.me|katfile.com|multiup.org|newpct.com|newpct1.com|nhentai.net|nitroflare.com|psarips.com|sankakucomplex.com|uptostream.com|userscloud.com|tmearn.com|y2mate.com|animepahe.ru|tei.ai|mastibaaz.com|soap2day.*|igg-games.com|torrentmac.net|send.cm|bluemediafiles.*|sakurafile.com|torrentgalaxy.mx|igg-games.co|ziperto.com|bluemediafile.*|oxtorrent.sk|bluemediadownload.*|urlbluemedia.*|bluedownload.*|datanodes.to|pahe.ink|pahe.*
 ||elasticbeanstalk.com^$domain=footballtransfertavern.com
 ||googletagservices.com/tag/$domain=flightradar24.com
 ||newser.com/*feolite/$script
