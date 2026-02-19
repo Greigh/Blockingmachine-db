@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-02-19T18:57:13.154Z
-! Rules count: 224885
+! Last updated: 2026-02-19T19:34:08.025Z
+! Rules count: 224891
 ||0014b04291.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -23714,6 +23714,7 @@
 ||kbopnpiyhomtd.space^
 ||kbqihabjlufvf.club^
 ||kbrdynuogwuxm.site^
+||kbrxanvgdtejq.online^
 ||kbscbtjlpdkoj.space^
 ||kbtzwsrstbhvk.online^
 ||kbugxeslbjc8.com^
@@ -27567,6 +27568,7 @@
 ||mfftbblsjilnb.space^
 ||mffvrbibyvnne.site^
 ||mfgoxtdrxupes.website^
+||mfjgekte.com^
 ||mfjhkyeptwiop.site^
 ||mfkygwkhrbabn.online^
 ||mfltgzltzqvni.online^
@@ -31202,6 +31204,7 @@
 ||ojkandwaza.com^
 ||ojkuuxvlhvday.website^
 ||ojldhncdcnrok.online^
+||ojmuujxqhpqhd.site^
 ||ojnzzwsshjjqn.website^
 ||ojokavacpkcjv.space^
 ||ojonvpuqbtqul.site^
@@ -31632,6 +31635,7 @@
 ||oplaphcuz.com^
 ||oplmbxdyndadi.website^
 ||oplnuqah.com^
+||oplxpskuplfxf.site^
 ||opnobbohq.com^
 ||opnymkhgfsyuw.site^
 ||opopfwyzcsbpn.space^
@@ -38954,6 +38958,7 @@
 ||saranssimpled.qpon^
 ||sarcasmadvisor.com^
 ||sarcasticenforcement.com^
+||sarcasticinflation.pro^
 ||sarcasticnotarycontrived.com^
 ||sarcastscriptoechevin.cyou^
 ||sarclerwene.shop^
@@ -49919,6 +49924,7 @@
 ||xwreckontur.com^
 ||xwsixfdmrazgs.site^
 ||xwtpdmsgkfbrz.online^
+||xwwmfgqqifvdbh.com^
 ||xwwnlmicmcmly.website^
 ||xwxludcukzfer.rocks^
 ||xwxmasihzkjoj.online^
@@ -224893,7 +224899,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-02-19T18:57:13.160Z
+! Last updated: 2026-02-19T19:34:08.030Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
