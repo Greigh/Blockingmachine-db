@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-02-23T19:09:11.463Z
-! Rules count: 345340
+! Last updated: 2026-02-23T19:51:54.885Z
+! Rules count: 345346
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -28819,6 +28819,7 @@ browsershots.org#@#.advert_area
 ||lyvxhrsndalwx.space^
 ||lywfwxeexwcwc.online^
 ||lyxhtclsusbiv.online^
+||lyxmggmkoksgc.website^
 ||lyyyrqwnlyedjp.xyz^
 ||lyyyupftoqfoz.site^
 ||lzb3n16ymryfg5f9q8k6h3i8.cfd^
@@ -30164,6 +30165,7 @@ browsershots.org#@#.advert_area
 ||mmondi.com^
 ||mmotraffic.com^
 ||mmpawfnqgufnl.online^
+||mmpecnkesjkuq.site^
 ||mmphmzuckduyf.store^
 ||mmpwxeafyfzgl.website^
 ||mmrekqwpwofx.com^
@@ -35431,6 +35433,7 @@ browsershots.org#@#.advert_area
 ||pfokxvbijybwy.space^
 ||pfosuclihgjxi.space^
 ||pfpmdbyighkrn.online^
+||pfqybvqprp.com^
 ||pfsrjzffspqoh.online^
 ||pftselngpwaxt.vip^
 ||pftufoszjdneq.online^
@@ -40577,6 +40580,7 @@ browsershots.org#@#.advert_area
 ||rpxorephfxdvm.site^
 ||rpxthifhxwznd.space^
 ||rpyoasspbcjmr.site^
+||rpyqdzlibuemr.space^
 ||rpyztjadsbonh.store^
 ||rq3l3bhkvkgtoqxermbtf.rest^
 ||rqcuizmakyyma.online^
@@ -49058,6 +49062,7 @@ browsershots.org#@#.advert_area
 ||vguxxvwiaai.com^
 ||vgwcvklhqqkqw.online^
 ||vgwdbursxwdfx.website^
+||vgweqpihofjyl.website^
 ||vgwupwwk.com^
 ||vgxmagbsctvdf.online^
 ||vgxrylyjsaymo.online^
@@ -63042,6 +63047,7 @@ browsershots.org#@#.advert_area
 ||dirproxy.com/helper-js
 ||discover.hubpages.com/runtime/webads.js
 ||djpunjab.*/ads/
+||dlhd.link/rs4k-adbanner.html
 ||dnslytics.com/images/ads/
 ||domaintyper.com/Images/dotsitehead.png
 ||dominicantoday.com/wp-content/themes/dominicantoday/banners/
@@ -69495,7 +69501,7 @@ geoawesome.com##.single-post__extra-info
 abovethelaw.com##.single-post__sponsored-post--desktop
 policyoptions.irpp.org##.single__ad
 nypost.com##.single__outbrain
-mixonline.com##.site-ad
+dlhd.link,mixonline.com##.site-ad
 gg.deals##.site-banner-top-widget
 deshdoaba.com##.site-branding
 winaero.com##.site-content > div > p[style="margin: 22px"]
