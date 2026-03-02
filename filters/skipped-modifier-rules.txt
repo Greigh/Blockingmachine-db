@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-03-01T19:15:57.243Z
-# Count: 18240
+# Generated: 2026-03-02T18:55:07.467Z
+# Count: 18243
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -340,6 +340,7 @@
 /exoclick.$~script,~xmlhttprequest,domain=~exoclick.bamboohr.co.uk|~exoclick.kayako.com
 /exonb/*$script
 /exonob/*$script
+/exowb/froload.js$script
 /exports/tour/*$third-party
 /exports/tour_20/*$subdocument
 /external/ad.$script
@@ -6702,6 +6703,7 @@ _468_60-$~script
 ||bit.ly^$image,domain=tooxclusive.com
 ||bit.ly^$script,domain=dailyuploads.net|freeshot.live
 ||blogatus.com/images/banner/$third-party
+||blufm.de/pr/$third-party
 ||bookingdragon.com^$subdocument,third-party
 ||caffeine.tv/embed/$third-party
 ||capital.com/widgets/$third-party
@@ -12864,6 +12866,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||cdn.facil-iti.app/tags/faciliti-tag.min.js$script,domain=apec.fr|kyoto.travel
 @@||cdn.getblueshift.com/blueshift.js$script,domain=rentcafe.com
 @@||cdn.heapanalytics.com^$script,domain=libertymutual.com
+@@||cdn.intellimize.co/snippet/$script,domain=talkspace.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
 @@||cdn.matomo.cloud/tekuchi.matomo.cloud/matomo.js$domain=berkeleygroup.digital
 @@||cdn.mxpnl.com/libs/$script,domain=get.pumpkin.care
