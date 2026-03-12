@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-03-12T18:59:39.244Z
-! Rules count: 218151
+! Last updated: 2026-03-12T19:36:07.117Z
+! Rules count: 218156
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -12517,6 +12517,7 @@ browsershots.org#@#.advert_area
 ||dcgpsjmcytukn.website^
 ||dciuocgwopyla.website^
 ||dcjvnjnkhanpk.space^
+||dcjxowgfytohp.space^
 ||dcldfxcchfzem.site^
 ||dcleuevkxvzmr.site^
 ||dcmbaescepqsq.space^
@@ -15309,6 +15310,7 @@ browsershots.org#@#.advert_area
 ||eloquentgossipold.com^
 ||elozcdoizevhm.site^
 ||elpex.site^
+||elpsirftovofi.space^
 ||elqhgsxjyeouy.online^
 ||elsaidthecharit.com^
 ||elsewhereregret.com^
@@ -20803,6 +20805,7 @@ browsershots.org#@#.advert_area
 ||gzqfpkponqief.space^
 ||gzqolmizp9m128.cfd^
 ||gzrlncudpybtf.site^
+||gzsbcirpmakvd.site^
 ||gzsmzfafszuih.website^
 ||gztnnjfknixqv.website^
 ||gztwtccvfpngw.website^
@@ -35266,6 +35269,7 @@ browsershots.org#@#.advert_area
 ||payersgreking.com^
 ||payingtore.com^
 ||paymentperiodiciceberg.com^
+||payolassneakedgemses.qpon^
 ||payoutaures.shop^
 ||payrollmerchant.com^
 ||payslipspurse.com^
@@ -38372,6 +38376,7 @@ browsershots.org#@#.advert_area
 ||qjizeeyeiuggk.online^
 ||qjjckhourpvey.site^
 ||qjjqhcqxcyfex.tech^
+||qjkktxnclsjywoj.com^
 ||qjkvxdkpzvrya.site^
 ||qjldydelwreqn.click^
 ||qjlyfestjozoo.site^
@@ -218031,7 +218036,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-03-12T18:59:39.251Z
+! Last updated: 2026-03-12T19:36:07.123Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important

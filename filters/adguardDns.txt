@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-03-12T18:59:41.125Z
-! Rules count: 153148
+! Last updated: 2026-03-12T19:36:08.574Z
+! Rules count: 153153
 ||0014b04291.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -10839,6 +10839,7 @@
 ||dcgpsjmcytukn.website^
 ||dciuocgwopyla.website^
 ||dcjvnjnkhanpk.space^
+||dcjxowgfytohp.space^
 ||dcldfxcchfzem.site^
 ||dcleuevkxvzmr.site^
 ||dcmbaescepqsq.space^
@@ -13630,6 +13631,7 @@
 ||eloquentgossipold.com^
 ||elozcdoizevhm.site^
 ||elpex.site^
+||elpsirftovofi.space^
 ||elqhgsxjyeouy.online^
 ||elsaidthecharit.com^
 ||elsewhereregret.com^
@@ -19123,6 +19125,7 @@
 ||gzqfpkponqief.space^
 ||gzqolmizp9m128.cfd^
 ||gzrlncudpybtf.site^
+||gzsbcirpmakvd.site^
 ||gzsmzfafszuih.website^
 ||gztnnjfknixqv.website^
 ||gztwtccvfpngw.website^
@@ -33586,6 +33589,7 @@
 ||payersgreking.com^
 ||payingtore.com^
 ||paymentperiodiciceberg.com^
+||payolassneakedgemses.qpon^
 ||payoutaures.shop^
 ||payrollmerchant.com^
 ||payslipspurse.com^
@@ -36692,6 +36696,7 @@
 ||qjizeeyeiuggk.online^
 ||qjjckhourpvey.site^
 ||qjjqhcqxcyfex.tech^
+||qjkktxnclsjywoj.com^
 ||qjkvxdkpzvrya.site^
 ||qjldydelwreqn.click^
 ||qjlyfestjozoo.site^
@@ -153156,7 +153161,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-03-12T18:59:41.129Z
+! Last updated: 2026-03-12T19:36:08.578Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
