@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-03-13T19:25:07.257Z
-# Count: 18241
+# Generated: 2026-03-14T18:43:55.875Z
+# Count: 18239
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -17628,8 +17628,6 @@ reverso.net##+js(acs, $, adblock)
 ||googlesyndication.com/$script,redirect=noopjs,domain=gulf-up.com
 @@||fiatclub.eu^$ghide
 @@||liveadexchanger.com/a/display.php$script,domain=prem.link
-*$popunder,3p,domain=multiup.io|multiup.org|multiup.eu
-||multinews.me^$3p
 *$script,3p,denyallow=cloudflare.com|google.com|gstatic.com|recaptcha.net,domain=tmearn.*
 ||tmearn.com/*sw.js$script,1p
 @@||filedown.*^$ghide
