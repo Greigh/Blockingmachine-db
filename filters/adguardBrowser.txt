@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-03-16T19:07:52.715Z
-! Rules count: 219168
+! Last updated: 2026-03-16T19:47:40.804Z
+! Rules count: 219178
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -9815,6 +9815,7 @@ browsershots.org#@#.advert_area
 ||cerilloinverts.com^
 ||cerisemoineauhaircut.cfd^
 ||ceropopodetapnet.cyou^
+||cerosinsibylicdossier.cfd^
 ||certainwolveshonestly.com^
 ||certiechipsmiled.cyou^
 ||ceryldelaine.com^
@@ -18394,6 +18395,7 @@ browsershots.org#@#.advert_area
 ||frameaeragbags.cyou^
 ||framessemicolonought.com^
 ||francegave.com^
+||franceswaps.com^
 ||franciasyrmaeaburnt.cfd^
 ||francokerugma.cfd^
 ||franecki.net^
@@ -20668,6 +20670,7 @@ browsershots.org#@#.advert_area
 ||groinfont.com^
 ||groleegni.net^
 ||gromamacros.cfd^
+||grometpuntal.com^
 ||grookilteepsou.net^
 ||groomsepursegn.net^
 ||groorgeckoa.net^
@@ -27518,6 +27521,7 @@ browsershots.org#@#.advert_area
 ||kztziuaeopsiq.space^
 ||kzu2lzp3ylel51it.rest^
 ||kzui9jm8ynfgum925gt3it24jj7w.cfd^
+||kzuqpscnidssd.website^
 ||kzuzbangpqrwq.website^
 ||kzvfolheruocg.space^
 ||kzwdhgakfrxcv.website^
@@ -30846,6 +30850,7 @@ browsershots.org#@#.advert_area
 ||mlb8ys4v.xyz^
 ||mlbqkzrsjsyny.space^
 ||mlcvibxhsegss.online^
+||mlcwydddevumu.space^
 ||mlczxpuognpxe.store^
 ||mlfyllnkqsizp.website^
 ||mlgwhmepawefr.online^
@@ -32735,6 +32740,7 @@ browsershots.org#@#.advert_area
 ||njmfkbikilszt.space^
 ||njmhnurksjktt.buzz^
 ||njmpqalqerpmp.space^
+||njnbhqbkkthyme.com^
 ||njnmdxsovpzkk.online^
 ||njpusnyeyzljn.website^
 ||njpwzgxksptql.website^
@@ -34311,6 +34317,7 @@ browsershots.org#@#.advert_area
 ||olqhjauxeibo.xyz^
 ||olqtogxgayurn.online^
 ||olrjpynafhpoq.website^
+||olsgwowpoli.in^
 ||olskamswuxfi.com^
 ||olsmeroufuvzv.website^
 ||olvnvahpunhya.online^
@@ -39008,6 +39015,7 @@ browsershots.org#@#.advert_area
 ||qivohfjpafaft.space^
 ||qivtrggeannmy.site^
 ||qivzzjzsutlwk.site^
+||qiwxrzkzauasd.online^
 ||qixledkawgizq.space^
 ||qiyisyejvdfix.site^
 ||qiyywlruwtfga.website^
@@ -41192,6 +41200,7 @@ browsershots.org#@#.advert_area
 ||rlusaglqgblxw.website^
 ||rluxjqxjstoya.com^
 ||rlwttnzdgmirv.site^
+||rlxntgpuh.com^
 ||rlzxejmnaxkht.website^
 ||rmajfshtdeoko.space^
 ||rmaprpljhtvue.space^
@@ -48017,6 +48026,7 @@ browsershots.org#@#.advert_area
 ||turfedmarah.qpon^
 ||turflivestockdetector.com^
 ||turfquelltablets.com^
+||turkeernohow.com^
 ||turkeychoice.com^
 ||turkeysaventre.shop^
 ||turkromanicbrewery.cyou^
@@ -219048,7 +219058,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-03-16T19:07:52.722Z
+! Last updated: 2026-03-16T19:47:40.811Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
