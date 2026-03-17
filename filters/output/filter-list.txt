@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-03-17T19:07:38.135Z
-! Rules count: 219573
+! Last updated: 2026-03-17T19:50:45.526Z
+! Rules count: 219579
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -27800,6 +27800,7 @@ browsershots.org#@#.advert_area
 ||lanepartridge.com^
 ||langlezebras.qpon^
 ||langrauoz.xyz^
+||langueddubiosimagre.cfd^
 ||languishbrook.com^
 ||languishcharmingwidely.com^
 ||languishrubbish.com^
@@ -41759,6 +41760,7 @@ browsershots.org#@#.advert_area
 ||rpbzgqpanncst.website^
 ||rpdwqkqst.net^
 ||rpeqmzqgutuxv.online^
+||rpfbkyek.com^
 ||rpfcbxzcycpgz.website^
 ||rpfgqzjtyybjc.website^
 ||rpfpmvkkdaahw.online^
@@ -44886,6 +44888,7 @@ browsershots.org#@#.advert_area
 ||sqbekhpudmmbi.website^
 ||sqbjrevvtnqlz.space^
 ||sqbtwrwtuoyot.online^
+||sqbzvlttwmodm.space^
 ||sqdjorykqfqoc.icu^
 ||sqdjpgtziyczd.website^
 ||sqdtdxefkjsgn.space^
@@ -48713,6 +48716,7 @@ browsershots.org#@#.advert_area
 ||ufpcdn.com^
 ||ufrbtrzrinhgx.top^
 ||ufskfcie.cfd^
+||ufsyoynijlvgy.website^
 ||ufszurxtsc.com^
 ||ufthwfxkshxns.online^
 ||uftoxnxd.net^
@@ -51455,6 +51459,7 @@ browsershots.org#@#.advert_area
 ||vyuaolnqfgoas.store^
 ||vyufgiaesxzib.site^
 ||vyuhylzzq.com^
+||vywicefxghj.com^
 ||vywvncjascsrw.world^
 ||vyxifgsrgihgr.online^
 ||vyxsgealwarnz.website^
@@ -73404,6 +73409,7 @@ autoscout24.*##img[referrerpolicy="unsafe-url"]
 sameday.costco.*##li:has([aria-label="Product"]):has([data-fp-eligible]):not(:has(h2))
 yandex.*##li[class*="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
 leroymerlin.*##li[data-product-list-id*="sponsored"]
+walmart.*##section[data-dca-type="module"]:has(img[src^="https://i5.walmartimages.ca/dfw/8822aef6-854b/k2-_cb5cd2e8-b2ce-4ab7-b954-e86bea1e7648.v1.jpg"])
 etherscan.io###ContentPlaceHolder1_maintable > .card > .row:has(a[href="/contactusadvertise"])
 windowscentral.com###article-body > .hawk-nest[data-widget-id]:has(a[class^="hawk-affiliate-link-"][class$="-button"])
 cars.com###branded-canvas-click-wrapper:has(> #native-ad-html)

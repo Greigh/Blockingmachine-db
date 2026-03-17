@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-03-17T19:07:40.115Z
-! Rules count: 154411
+! Last updated: 2026-03-17T19:50:47.518Z
+! Rules count: 154416
 ||000491b06a.com^
 ||0014b04291.com^
 ||0019x.com^
@@ -26117,6 +26117,7 @@
 ||lanepartridge.com^
 ||langlezebras.qpon^
 ||langrauoz.xyz^
+||langueddubiosimagre.cfd^
 ||languishbrook.com^
 ||languishcharmingwidely.com^
 ||languishrubbish.com^
@@ -40076,6 +40077,7 @@
 ||rpbzgqpanncst.website^
 ||rpdwqkqst.net^
 ||rpeqmzqgutuxv.online^
+||rpfbkyek.com^
 ||rpfcbxzcycpgz.website^
 ||rpfgqzjtyybjc.website^
 ||rpfpmvkkdaahw.online^
@@ -43203,6 +43205,7 @@
 ||sqbekhpudmmbi.website^
 ||sqbjrevvtnqlz.space^
 ||sqbtwrwtuoyot.online^
+||sqbzvlttwmodm.space^
 ||sqdjorykqfqoc.icu^
 ||sqdjpgtziyczd.website^
 ||sqdtdxefkjsgn.space^
@@ -47030,6 +47033,7 @@
 ||ufpcdn.com^
 ||ufrbtrzrinhgx.top^
 ||ufskfcie.cfd^
+||ufsyoynijlvgy.website^
 ||ufszurxtsc.com^
 ||ufthwfxkshxns.online^
 ||uftoxnxd.net^
@@ -49772,6 +49776,7 @@
 ||vyuaolnqfgoas.store^
 ||vyufgiaesxzib.site^
 ||vyuhylzzq.com^
+||vywicefxghj.com^
 ||vywvncjascsrw.world^
 ||vyxifgsrgihgr.online^
 ||vyxsgealwarnz.website^
@@ -154419,7 +154424,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-03-17T19:07:40.119Z
+! Last updated: 2026-03-17T19:50:47.523Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
