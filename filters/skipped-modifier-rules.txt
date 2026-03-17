@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-03-16T19:47:42.387Z
-# Count: 18227
+# Generated: 2026-03-17T19:07:40.036Z
+# Count: 18232
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -341,6 +341,7 @@
 /exonb/*$script
 /exonob/*$script
 /exowb/froload.js$script
+/exowb/fronload.js$script
 /exowb/frontload.js$script
 /exports/tour/*$third-party
 /exports/tour_20/*$subdocument
@@ -8343,6 +8344,7 @@ _view_pixel&$image
 /beaconimages.netflix.net/*$image
 /c.vialoops.com/*$image
 /ck.m.honto.jp/c/*$image
+/cl.animate.co.jp/c/*$image
 /cl.mos.jp/q/*$image
 /click.*/q/*$image
 /click.comicomi-studio.com/mail/u/*$image
@@ -8369,6 +8371,7 @@ _view_pixel&$image
 /go.news.fly.io/e/o/*$image
 /gp/r.html?$image
 /i?aid=*&se_ac=open&$image
+/image.info.jr-odekake.net/lib/*$image
 /inbox.*/imp?$image
 /klicks.nebenan.de/q/*$image
 /line.my.salesforce.com/servlet/servlet.ImageServer?oid=*&esid=$image
@@ -12597,9 +12600,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mixproxy.epoch.cloud^$domain=theepochtimes.com
 ||mps.nbcuni.com/request/page/json/params/*&adunits=$xmlhttprequest
 ||msg-intl.qy.net^$image
+||musescore.com/components/log/$ping
 ||neowin.net/ws/$websocket
 ||nyt.com/ads/tpc-check.html$domain=nytimes.com
 ||pb.ytmp3tube.com/js/script.js$domain=yt1s.com.co
+||pc-optimum.ada.support/api/business_events/track$domain=pcoptimum.ca
 ||pog.com^$ping
 ||posthog.com/*/?ip=$xmlhttprequest
 ||posthog.com/*/logs?$xmlhttprequest
@@ -14598,7 +14603,7 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 @@||consilium.europa.eu/assets/chunk/cookie-banner.js$~third-party
 @@||cookie-consent.ingatlancdn.com^$script,domain=immobilienungarn.net|ingatlan.com|realestatehungary.hu
 @@||cookie-script.com^$domain=lr-shop-direkt.de|swiss-sport.tv
-@@||cookiebot.com/uc.js$domain=asket.com|bakingmad.com|cordaid.org|cosmohairshop.de|developer.opencv.fr|flughafen-zuerich.ch|gls-info.nl|lidl.gr|otto.fi|stock3.com|zuiderzeemuseum.nl
+@@||cookiebot.com/uc.js$domain=asket.com|bakingmad.com|cordaid.org|cosmohairshop.de|developer.opencv.fr|flughafen-zuerich.ch|gls-info.nl|lidl.gr|otto.fi|politiken.dk|stock3.com|zuiderzeemuseum.nl
 @@||cookiebot.com^$domain=apetro.pt|apoteket.se|asambeauty.com|bankia.es|bergbauernmilch.de|berlingske.dk|biomarkt.de|bondekompaniet.no|bt.dk|caisse-epargne.fr|cajamar.es|cineplex.de|coinshares.com|dailybreak.com|danbolig.dk|dasinvestment.com|derivate.bnpparibas.com|digimon.kochfilms.de|digitaltrends.com|dimensione.com|dr.dk|egmont.com|ekstrabladet.dk|elmzell.se|euroatla.pt|fidelityhouse.eu|finanzmarktwelt.de|fof.se|formule1.nl|golf.nl|harzwasserwerke.de|hoyavision.com|kino.dk|login.nos.pt|mein-grundeinkommen.de|mineralstech.com|neue.at|nngroup.com|nordiskfilm.com|plaion.com|portofoonwinkel.nl|quandoo.it|refinery29.com|rhein-ruhr.stadtmobil.de|rmg.co.uk|robertsspaceindustries.com|scubadiving.com|sportdiver.com|stern.de|storyhouseegmont.dk|storyhouseegmont.no|storyhouseegmont.se|swspremberg.de|tfl.gov.uk|tme.com|toyota-forklifts.se|vcg.de|vikingline.com|vn.at|volunteer.digitalboost.org.uk|warscrap.io|web.ub.edu|wells.pt|werder.de|werkenbijlidl.nl|wero-wallet.eu|woo.pt|wwf.fi|xn--myeblttle-z2a.de|zugspitze.de
 @@||cookielawinfo.com^$~third-party
 @@||cookiemanager.onm.de^$domain=eurobaustoff.com
