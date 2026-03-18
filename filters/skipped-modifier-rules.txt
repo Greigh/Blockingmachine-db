@@ -1,6 +1,6 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-03-17T19:50:47.444Z
+# Generated: 2026-03-18T19:05:59.591Z
 # Count: 18232
 
 &rb=&uuid=$third-party
@@ -7393,9 +7393,9 @@ bing.com##div[aria-label$="ProductAds"]
 checkfelix.com,kayak.*,swoodoo.com##.ev1_-results-list > div > div > div > div[data-resultid$="-sponsored"]
 checkfelix.com,kayak.*,swoodoo.com##.resultsList > div > div > div > div[data-resultid$="-sponsored"]
 checkfelix.com,kayak.*,swoodoo.com##div[class$="-adWrapper"]
-aliexpress.com#?##card-list > .search-item-card-wrapper-gallery:-abp-has(a.search-card-item[href*="&aem_p4p_detail="] div[class*="cards--image--"] > div[class*="multi--ax--"]:-abp-contains(/^(?:AD|An[uú]ncio|광고|広告)$/)):-abp-has(+ .search-item-card-wrapper-gallery a.search-card-item:not([href*="&aem_p4p_detail="]))
+aliexpress.com#?##card-list > .search-item-card-wrapper-gallery:has(a.search-card-item[href*="&aem_p4p_detail="] div[class*="cards--image--"] > div[class*="multi--ax--"]:has-text(/^(?:AD|An[uú]ncio|광고|広告)$/)):has(+ .search-item-card-wrapper-gallery a.search-card-item:not([href*="&aem_p4p_detail="]))
 thingiverse.com#?#.item-card-container:has-text(/^Ad$/)
-bing.com#?#li.b_algo:has(.rms_img[src*="id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F"]):has(.tptt:-abp-contains(/^([Aa]mazon(\.[acdefinps][aeglnorst]m?\.?[abjmtu]?[kprux]?)?|Best Buy|Booking\.com|eBay|eDreams|Lenovo US|Trip\.com|Tripadvisor|Walmart)$/))
+bing.com#?#li.b_algo:has(.rms_img[src*="id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F"]):has(.tptt:has-text(/^([Aa]mazon(\.[acdefinps][aeglnorst]m?\.?[abjmtu]?[kprux]?)?|Best Buy|Booking\.com|eBay|eDreams|Lenovo US|Trip\.com|Tripadvisor|Walmart)$/))
 hentaiforce.net##[id$="-agsy"]
 gelbooru.com##[style$="height: 250px; "]
 zerochan.net##[style$="min-height: 300px !important; "]
@@ -7404,9 +7404,9 @@ new.lewd.ninja##div[class^="box ~!@$%^&*()_+-=,./';:?><[]"]
 hentaistream.com##div[style$="width:100%;height:768px;overflow:hidden;visibility:hidden;"]
 scrolller.com##.vertical-view__column > .vertical-view__item:has(> div[style$="overflow: hidden;"])
 rule34.paheal.net##section[id$="main"] > .blockbody:has(> div[align="center"] > ins)
-4wank.com#?#.video-holder > center > :-abp-contains(/^Advertisement$/)
-reddxxx.com#?#.items-center:-abp-contains(/^ad$/)
-reddxxx.com#?#[role="gridcell"]:-abp-contains(/^AD$/)
+4wank.com#?#.video-holder > center > :has-text(/^Advertisement$/)
+reddxxx.com#?#.items-center:has-text(/^ad$/)
+reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 @@||2mdn.net/instream/html5/ima3.js$script,domain=earthtv.com|zdnet.com
 @@||4cdn.org/adv/$image,xmlhttprequest,domain=4channel.org
 @@||4channel.org/adv/$image,xmlhttprequest,domain=4channel.org
@@ -14483,8 +14483,8 @@ _social_badge_$~xmlhttprequest
 ||cookielaw.org^$domain=aarrelehti.fi|aiheenasyopa.fi|antwerpdiamonds.direct|boxrox.com|callawaygolfpreowned.com|cdon.fi|elisaviihde.fi|finder.fi|findit.fi|findus.fi|intel.com|koneviesti.fi|maaseuduntulevaisuus.fi|metrotukku.fi|mtv.fi|mtvyritys.fi|ouka.fi|rollingstone.com|skanska.fi|sponda.fi|suomela.fi|suomi24.fi|urbandictionary.com|viestimedia.fi
 ||cdn.trustcommander.net/privacy/$script
 ||cookiepro.com^$domain=urbandictionary.com
-tinder.com##.C\(\$c-ds-text-secondary\):has-text(We value your privacy.)
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
+tinder.com#?#.C\(\$c-ds-text-secondary\):has-text(We value your privacy.)
 ||consentmanager.net^$important,script,domain=mediaite.com
 mikkelinyt.fi##.ng-scope[ng-if$="customConsentManagement"]
 scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
