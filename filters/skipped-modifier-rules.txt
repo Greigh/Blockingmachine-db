@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-03-18T19:42:30.017Z
-# Count: 18232
+# Generated: 2026-03-19T19:03:55.977Z
+# Count: 18235
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -8410,6 +8410,7 @@ _view_pixel&$image
 /shoutout.wix.com/*$image
 /sli.*/imp?$image
 /t.ifly.southwest.com/*$image
+/t.notificationmail.microsoft.com/r/?id=$image
 /t.paypal.com/*$image
 /t.yesware.com/t/*$image
 /T/OFC4/*$image
@@ -12800,7 +12801,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||addthis.com/js/*/addthis_widget.js$script,domain=stagecoachbus.com
 @@||admin.corrata.com/console/dcconsolews/event-log?$~third-party
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
-@@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
+@@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com|westjet.com
 @@||adobedtm.com/launch-$script,xmlhttprequest
 @@||adobedtm.com^*/launch-$script,xmlhttprequest
 @@||adobedtm.com^*/s-code-$script
@@ -16827,6 +16828,8 @@ hotcopper.com.au##+js(acs, $, blockAds)
 ||cc.ashemaletube.com/*/header-black.jpg$image
 ||cc.ashemaletube.com/*/black-main.jpg$image,1p
 @@/key=$media,domain=ashemaletube.com
+||ashemaletube.*/ads/$xhr
+||ashemaletube.*/ast/b/$frame
 ||hotscope.tv^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: https://disqus.com *.disqus.com *.google-analytics.com *.disquscdn.com
 ||hotscope.tv/_next/static/chunks/pages/go-$script,1p
 */wp-content/plugins/deadblocker/*$script,1p
