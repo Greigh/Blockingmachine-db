@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-03-22T18:42:40.302Z
-! Rules count: 341549
+! Last updated: 2026-03-22T19:19:07.990Z
+! Rules count: 341583
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -3085,6 +3085,7 @@ browsershots.org#@#.advert_area
 ||admjmp.com^
 ||admob.com^
 ||admobe.com^
+||admonishconcentrate.com^
 ||admonishfistgipsy.com^
 ||admonishmentfastest.com^
 ||admothreewallent.com^
@@ -5163,6 +5164,7 @@ browsershots.org#@#.advert_area
 ||bcpnsajrgrlop.online^
 ||bcprm.com^
 ||bcsfpwmjulcxw.site^
+||bcsnuyrwyfddx.space^
 ||bcswwwzqophyk.site^
 ||bctuafpdwarbm.site^
 ||bcwpdvigokzca.space^
@@ -9037,6 +9039,7 @@ browsershots.org#@#.advert_area
 ||csfisihvtyobt.site^
 ||csfsotltxhsdn.online^
 ||csfuiuwdubtyr.online^
+||cshviclkocuzh.space^
 ||csjdhxlelvqpa.site^
 ||csjggncfpbhnq.space^
 ||csjokezuqdbdy.online^
@@ -25457,6 +25460,7 @@ browsershots.org#@#.advert_area
 ||lcqrlecxeqqnk.website^
 ||lcrakyzahrjqs.site^
 ||lcshrbjwbanzo.website^
+||lctaidhfetp.com^
 ||lcuaerlknisgy.space^
 ||lcuaxgcuso.in^
 ||lcumxhquenoqh.online^
@@ -48053,6 +48057,7 @@ browsershots.org#@#.advert_area
 ||valuesuffering.com^
 ||valueswajangsplotch.cyou^
 ||valuethemarkets.info^
+||valvacollarshot.cyou^
 ||valvyre.com^
 ||valxutydijoem.online^
 ||vamgggllztusk.love^
@@ -52992,6 +52997,7 @@ browsershots.org#@#.advert_area
 ||yswmdyyqioulk.space^
 ||yswncfxgwgcuiqk.com^
 ||yswpcoftefaes.site^
+||yswrwlzzbhqjs.site^
 ||yswtfwilpkxud.space^
 ||ysxyrcojiqvwj.store^
 ||ysyskedunnkuo.online^
@@ -87502,6 +87508,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||webgames.io/imp/
 ||webmasters.ksalsocial.online/pixel/
 ||websdk.appsflyer.com^
+||wa.appsflyersdk.com^
+||websdk.appsflyersdk.com^
+||banner.appsflyersdk.com^
+||fvalid.appsflyersdk.com^
+||onelinksmartscript.appsflyersdk.com^
 ||webservices.websitepros.com^
 ||webstats.thaindian.com^
 ||websuccess-data.com/tracker.js
@@ -89835,6 +89846,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||grabify.link/api/js
 ||graylog.prod.cams.run^
 ||grgnsht.nzxt.com^
+||grok.com/_data/v1/a/
+||grok.com/_data/v1/experiment/exposure
+||grok.com/_data/v1/events
+||grok.com/api/log_metric
 ||grokipedia.com/api/analytics
 ||grokipedia.com/api/ev
 ||grokipedia.com/api/stats
@@ -183744,6 +183759,7 @@ browsershots.org#@#.advert_area
 ||bemobtrk.com^
 ||bemocksmunched.com^
 ||bemottoincord.com^
+||benamednidulus.cyou^
 ||benchsuited.com^
 ||bendaysroit.com^
 ||beneficial-airport.pro^
@@ -185706,6 +185722,7 @@ browsershots.org#@#.advert_area
 ||chilimonoxidesalary.com^
 ||chilinaalogism.help^
 ||chillimagepublisher.com^
+||chillychisels.cfd^
 ||chillydiscovered.com^
 ||chiltebesnuff.cyou^
 ||chilversignatehiera.qpon^
@@ -191612,6 +191629,7 @@ browsershots.org#@#.advert_area
 ||envigorbuds.cyou^
 ||envious-attention.com^
 ||enviousrootery.cfd^
+||enviromengreen.cfd^
 ||enviromentalspace.cyou^
 ||environmental3x.fun^
 ||environmentimpedimentthorny.com^
@@ -196040,6 +196058,7 @@ browsershots.org#@#.advert_area
 ||gomyonis.com^
 ||gondmemhoolpdd.xyz^
 ||gondolathumbs.cfd^
+||gonginggangue.shop^
 ||gongmanquothloki.cfd^
 ||gongsusednt.shop^
 ||gonophoint.cyou^
@@ -196277,6 +196296,7 @@ browsershots.org#@#.advert_area
 ||grandiose-glove.pro^
 ||grandparentsfortunes.com^
 ||grandshinyinsert.com^
+||granitebocks.shop^
 ||graniterelief.com^
 ||grankenstate.cfd^
 ||grantdk-1.online^
@@ -199442,6 +199462,7 @@ browsershots.org#@#.advert_area
 ||ikppduisfudho.online^
 ||ikqgzcculojvu.space^
 ||ikqhdccrihdyr.online^
+||ikquaycaaygib.space^
 ||ikqyazeadzqvo.space^
 ||ikryuq39ceqgjxnq87k52.cfd^
 ||iksgypgyj.com^
@@ -203243,6 +203264,7 @@ browsershots.org#@#.advert_area
 ||ktldjkvzcxpmv.online^
 ||ktlwulkjhxmhb.space^
 ||ktmetgsblsr.xyz^
+||ktmvzffnawzug.space^
 ||ktnwsfisfbvjl.space^
 ||ktocmwvtlivyq.site^
 ||ktperlnfnadgz.website^
@@ -204139,6 +204161,7 @@ browsershots.org#@#.advert_area
 ||levantsjarrypleon.cyou^
 ||levantsnankeen.cfd^
 ||levelborrowingo.com^
+||levellykilned.cyou^
 ||leversnumb.qpon^
 ||levfyrqglxvkl.space^
 ||levierstwizzle.qpon^
@@ -205541,6 +205564,7 @@ browsershots.org#@#.advert_area
 ||lzaihaylxgnwe.online^
 ||lzb3n16ymryfg5f9q8k6h3i8.cfd^
 ||lzbwprvfzvbdx.website^
+||lzfljpsjzvokm.space^
 ||lzgnhoihefevf.website^
 ||lzgphgjwywmnu.site^
 ||lzhkkgtzlksfd.space^
@@ -209404,6 +209428,7 @@ browsershots.org#@#.advert_area
 ||ntgdwjrbgmocn.website^
 ||nthkmosujmuo.net^
 ||ntiljustetyerec.org^
+||ntjumvumqzufo.space^
 ||ntjwqifgsswvk.space^
 ||ntjyphdufktui.website^
 ||ntkgkyalavlcs.space^
@@ -209837,6 +209862,7 @@ browsershots.org#@#.advert_area
 ||obaerrs.cfd^
 ||obakkaqbwcnlh.global^
 ||obavfairnmarw.website^
+||obbpynvgqolcf.space^
 ||obcswpfk.xyz^
 ||obdkeieufzyyr.website^
 ||obedieval.my.id^
@@ -210737,6 +210763,7 @@ browsershots.org#@#.advert_area
 ||oooxizemrslcq.site^
 ||oophiwherou.net^
 ||oophoreperiost.cyou^
+||ooplastspirlie.cfd^
 ||oopscorrido.cfd^
 ||oopuhuenext.cyou^
 ||oopuhuetheoric.cfd^
@@ -212540,6 +212567,7 @@ browsershots.org#@#.advert_area
 ||pftufoszjdneq.online^
 ||pfugzccdqenfw.online^
 ||pfuxksjzeccih.top^
+||pfwqgmkdaqrav.com^
 ||pfwufhoblovfz.website^
 ||pfytpzssrhyah.website^
 ||pg5yzy71z4xc8mi454.cfd^
@@ -213818,6 +213846,7 @@ browsershots.org#@#.advert_area
 ||precipitationsphererobots.com^
 ||precisionclick.com^
 ||precmd.com^
+||precurelapins.cfd^
 ||precursortrimrequest.com^
 ||precursorwhiskeyleak.com^
 ||predatorvernonforefather.com^
@@ -214627,6 +214656,7 @@ browsershots.org#@#.advert_area
 ||punosy.com^
 ||punprrulfs.xyz^
 ||punrbligpisll.life^
+||punterstrebly.cyou^
 ||puntoutetnean.qpon^
 ||puntshaunter.qpon^
 ||punysafety.com^
@@ -215686,6 +215716,7 @@ browsershots.org#@#.advert_area
 ||quanticmucinyameo.qpon^
 ||quantoz.xyz^
 ||quaocns.xyz^
+||quarionymca.cfd^
 ||quarredirride.help^
 ||quarreljaggedloathe.com^
 ||quarrelsome-development.com^
@@ -218642,6 +218673,7 @@ browsershots.org#@#.advert_area
 ||sangopportunity.com^
 ||sanguinecocky.com^
 ||sanguineslang.com^
+||sanifylinga.cfd^
 ||saningblazy.cfd^
 ||sanitybead.com^
 ||sanjaksrearmed.help^
@@ -224561,6 +224593,7 @@ browsershots.org#@#.advert_area
 ||tuszunaf.in^
 ||tuthsand.qpon^
 ||tutmenkopis.cfd^
+||tuttissecuredferris.cfd^
 ||tutvp.com^
 ||tuudibopjoxmy.site^
 ||tuusjwrgtxigs.space^
@@ -224992,6 +225025,7 @@ browsershots.org#@#.advert_area
 ||ufbpqmryrrctn.site^
 ||ufbspzgoirfha.website^
 ||ufcxoaidboqxt.site^
+||ufdnysonfvwnj.space^
 ||ufdxzbxnnkulz.online^
 ||ufecyfanfekys.site^
 ||ufeoukrwowmoj.site^
@@ -341429,7 +341463,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-03-22T18:42:40.311Z
+! Last updated: 2026-03-22T19:19:07.999Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
