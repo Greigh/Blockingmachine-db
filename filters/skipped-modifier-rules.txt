@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-03-23T19:00:53.277Z
-# Count: 18214
+# Generated: 2026-03-23T19:41:22.675Z
+# Count: 18215
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -11668,6 +11668,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||p24.hu^$third-party
 ||modernus.is^$third-party
 ||analytic.rocks^$third-party
+||meiro.io^$third-party
 ||props.id^$third-party
 ||0stats.com^$third-party
 ||24log.it^$third-party
