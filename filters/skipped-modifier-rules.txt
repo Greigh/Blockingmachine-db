@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-03-23T19:41:22.675Z
-# Count: 18215
+# Generated: 2026-03-24T19:08:39.551Z
+# Count: 18220
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -343,6 +343,7 @@
 /exowb/froload.js$script
 /exowb/fronload.js$script
 /exowb/frontload.js$script
+/exowb/frotload.js$script
 /exports/tour/*$third-party
 /exports/tour_20/*$subdocument
 /external/ad.$script
@@ -7063,6 +7064,7 @@ _468_60-$~script
 ||backgrounds.wetransfer.net$image
 ||backgrounds.wetransfer.net/*.mp4$media
 ||booking.com/flexiproduct.html?product=banner$domain=happywayfarer.com
+||castoola.tv^*/ads/$domain=sabc-plus.com
 ||cd.thecontentserver.com^$domain=ratemyprofessors.com
 ||cdn.dmtgvn.com/wrapper/js/manager.js$domain=rt.com
 ||cdn.http.anno.channel4.com/m/1/$media,domain=uktvplay.co.uk
@@ -7856,7 +7858,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 @@||googleads.g.doubleclick.net/ads/preferences/$domain=googleads.g.doubleclick.net
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|4029tv.com|bet.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|cc.com|clickorlando.com|digi24.ro|gbnews.com|history.com|kcci.com|kcra.com|ketv.com|kmbc.com|koat.com|koco.com|ksbw.com|mynbc5.com|paramountplus.com|s.yimg.jp|sbs.com.au|sonyliv.com|tv.rakuten.co.jp|vk.sportsbull.jp|wapt.com|watchcharge.com|wbaltv.com|wcvb.com|wdsu.com|wesh.com|wgal.com|wisn.com|wjcl.com|wlky.com|wlwt.com|wmtw.com|wmur.com|worldsurfleague.com|wpbf.com|wtae.com|wvtm13.com|wxii12.com|wyff4.com
 @@||pubads.g.doubleclick.net/ondemand/hls/$domain=history.com
-@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument
+@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~airtelxstream.in|~danet.vn|~spotify.com
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=pluto.tv|stirr.com|tunein.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=brightcove.net|cbsnews.com|embed.sportsline.com|insideedition.com|pch.com|utsports.com
 @@||pagead2.googlesyndication.com/tag/js/gpt.js$script,domain=wunderground.com
@@ -8094,6 +8096,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 /api/collect|$ping,xmlhttprequest
 /api/front/v2/observability$ping
 /api/pageview/*$ping
+/api/sentry/tunnel$xmlhttprequest
 /api/video/stats/*$xmlhttprequest
 /assets/smarttag-$script
 /awin?awc=$image
@@ -8116,6 +8119,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 /fp2.min.js$domain=~spweb.auction.co.kr|~spweb.gmarket.co.kr
 /ga.jsp?$image
 /ga.php?$image
+/get/live/web/_/*$script,~third-party
 /google_analytics_gtag.js$script
 /gosquared.js$script
 /graphql/track-pageview$xmlhttprequest
@@ -14679,6 +14683,7 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 @@||launchpad-wrapper.privacymanager.io/*/launchpad-liveramp.js$script,domain=atresplayer.com
 @@||leanlibrary.com/wp-content/plugins/complianz-gdpr/assets/js/cookieconsent.min.js$~third-party
 @@||learn.inesdi.com/webapps/privacy-disclosure/js/cookieconsent.js$~third-party
+@@||learner.mycreds.ca/assets/*/cookiesConsent.json$xmlhttprequest
 @@||lightningmaps.org^*/cookieconsent.$script,stylesheet
 @@||linuxcareers.com/_cachebusted/_resx/common/js/cookie-notice-$~third-party
 @@||lockwood-avenue.com^*/cookielaw/$~third-party
