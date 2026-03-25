@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-03-25T19:00:58.763Z
-! Rules count: 219671
+! Last updated: 2026-03-25T19:39:42.379Z
+! Rules count: 219678
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -6739,6 +6739,7 @@ browsershots.org#@#.advert_area
 ||bypassduehardly.com^
 ||bypasspickupfaculty.com^
 ||bypathsohingintice.cyou^
+||byqxpmummjet.com^
 ||byryqaysgfpwz.website^
 ||byslwvetrxrxv.site^
 ||byssinsuzukiepochs.cfd^
@@ -26023,6 +26024,7 @@ browsershots.org#@#.advert_area
 ||leadsleap.net^
 ||leadx.cfd^
 ||leadzu.com^
+||leafageerugatelagarto.qpon^
 ||leafletstoesimplicity.com^
 ||leafstriaxon.cfd^
 ||leafy-feel.com^
@@ -32445,6 +32447,7 @@ browsershots.org#@#.advert_area
 ||ohooftaux.net^
 ||ohpongdizra.com^
 ||ohpovre7p9e6mt7.cfd^
+||ohpstyhhoo.in^
 ||ohqaqxurdpnmv.site^
 ||ohqvhohqkcu3933fxpo.cfd^
 ||ohqyvfinftokk.space^
@@ -38199,6 +38202,7 @@ browsershots.org#@#.advert_area
 ||qzaijhdclqlfg.site^
 ||qzebbfqzgtrtx.space^
 ||qzedtifkkkgsa.site^
+||qzegnuijgrxtf.online^
 ||qzeibuevhxeac.online^
 ||qzekshyorjbdi.site^
 ||qzfcqddxkdliy.top^
@@ -38392,6 +38396,7 @@ browsershots.org#@#.advert_area
 ||raoqsxotweorm.online^
 ||raosmeac.net^
 ||rapacityoutnumbersunglasses.com^
+||rapbyxaipylsx.site^
 ||rapepush.net^
 ||rapfeely.shop^
 ||raphidewakener.com^
@@ -46664,6 +46669,7 @@ browsershots.org#@#.advert_area
 ||trytestifysupply.com^
 ||tryxmehamxmfv.website^
 ||trzedcvdrbuvg.online^
+||trzjglkfnypnz.space^
 ||tsapphires.buzz^
 ||tsapphiresand.info^
 ||tsazdxinqmano.love^
@@ -47015,6 +47021,7 @@ browsershots.org#@#.advert_area
 ||twosomedolleystarr.cfd^
 ||twpasol.com^
 ||twpeosoaprnhi.site^
+||twqcylkvuahqk.space^
 ||twqwlzdqgqiad.online^
 ||twrdzmduxxfjm.world^
 ||twrmnd.com^
@@ -219551,7 +219558,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-03-25T19:00:58.769Z
+! Last updated: 2026-03-25T19:39:42.385Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
