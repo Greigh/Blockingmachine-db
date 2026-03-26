@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-03-25T19:39:43.717Z
-# Count: 18221
+# Generated: 2026-03-26T19:13:16.867Z
+# Count: 18227
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -708,6 +708,8 @@ _reklama_$domain=~youtube.com
 /d3d3LnNtaXRoc29uaWFubWFnLmNvbQ.js$third-party
 /d3d3Lnplcm9ncHQuY29t.js$third-party
 /dGhlZnJlZWJpZWd1eS5jb20.js$third-party
+://0.*.*.com/papi/$script,xmlhttprequest
+://0.*.*.com/player/$script,xmlhttprequest
 ://0.www.*/player/*/a/$third-party,xmlhttprequest
 ://0.www.*/player/*/m/$script,third-party
 ://0.www.*/players/*/-1/$script,third-party,xmlhttprequest
@@ -5263,6 +5265,7 @@ _468_60-$~script
 ||riowrite.com^$popup
 ||riverhit.com^$popup
 ||rizzomdaledh.top^$popup
+||rm358.com^$popup
 ||rmaticalacm.info^$popup
 ||rmhfrtnd.com^$popup
 ||rmzsglng.com^$popup
@@ -9642,7 +9645,6 @@ omni.soundestlink.com$image
 ||landingpg.com^$third-party
 ||lasagneandands.com^$third-party
 ||lasso.link^$third-party
-||ldoverseas.com^$third-party
 ||lead-123.com^$third-party
 ||leadberry.com^$third-party
 ||leadbi.com^$third-party
@@ -9815,6 +9817,7 @@ omni.soundestlink.com$image
 ||minewhat.com^$third-party
 ||minkatu.com^$third-party
 ||mirabelsmarketingmanager.com^$third-party
+||mirakl.net^$third-party
 ||mixi.mn^$third-party
 ||mixpanel.com^$third-party
 ||mkt3261.com^$third-party
@@ -12759,6 +12762,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||tori.fi/img/none.gif$image
 ||ts.fi/Statistics/Log$image
 ||services.haaretz.co.il^$ping
+||checkout.arukereso.hu^$ping
 /~shared/do/~/count/?$image
 ||leggo.it/index.php?$image
 ||tracking.donnemagazine.it^$script
@@ -14306,6 +14310,7 @@ _social_badge_$~xmlhttprequest
 /dist/gdpr-$domain=~express.co.uk
 /django_privacy_mgmt/*$script
 /eu_cookie_compliance.$script
+/plugins/humanoid-didomi/build/*$script
 /plugins/responsive-cookie-consent/*$script
 /plugins/uncode-privacy/*$script
 /plugins/webtoffee-gdpr-cookie-consent/*$script
@@ -14754,6 +14759,7 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 @@||static-kl.com/assets/cookie-banner/$script
 @@||static.axept.io/sdk-slim.js$script,domain=www.welcometothejungle.com
 @@||static.go3.tv/file/go3/resources/*/onetrust.html$domain=play.tv3.lt|tv3play.skaties.lv
+@@||static.mwomercs.com/js/cookieconsent/cookieconsent.min.js$script,~third-party
 @@||static.parastorage.com/services/cookie-consent-banner-for-uou/$script
 @@||statisticsanddata.org/wp-content/plugins/complianz-gdpr/$script,stylesheet
 @@||stayathomemum.com.au/wp-content/plugins/beautiful-and-responsive-cookie-consent/public/cookieNSCconsent.min.js$script,~third-party
