@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-03-26T19:50:20.698Z
-# Count: 18227
+# Generated: 2026-03-27T19:01:02.605Z
+# Count: 18223
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -708,8 +708,6 @@ _reklama_$domain=~youtube.com
 /d3d3LnNtaXRoc29uaWFubWFnLmNvbQ.js$third-party
 /d3d3Lnplcm9ncHQuY29t.js$third-party
 /dGhlZnJlZWJpZWd1eS5jb20.js$third-party
-://0.*.*.com/papi/$script,xmlhttprequest
-://0.*.*.com/player/$script,xmlhttprequest
 ://0.www.*/player/*/a/$third-party,xmlhttprequest
 ://0.www.*/player/*/m/$script,third-party
 ://0.www.*/players/*/-1/$script,third-party,xmlhttprequest
@@ -881,7 +879,6 @@ _468_60-$~script
 &zoneid=*&direct=$popup
 .co/ads/$popup
 .com/ads?$popup
-.com/smartpop/$popup,third-party
 .fuse-cloud.com/$popup
 .net/adx.php?$popup
 .prtrackings.com$popup
@@ -1608,6 +1605,7 @@ _468_60-$~script
 ||wewearegogogo.com^$document
 ||wheceelt.net^$document
 ||wintrck.com^$document
+||wonderadblock.com^$document
 ||wuujae.com^$document
 ||x2tsa.com^$document
 ||x3os.com^$document
@@ -15925,6 +15923,7 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||wewearegogogo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wheceelt.net^$dnsrewrite=ad-block.dns.adguard.com
 ||wintrck.com^$dnsrewrite=ad-block.dns.adguard.com
+||wonderadblock.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wuujae.com^$dnsrewrite=ad-block.dns.adguard.com
 ||x2tsa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||x3os.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -16531,9 +16530,6 @@ sponsor=$domain=mcfucker.com
 ||socialbars-web5.com/*/notifications/$script
 ||pornwatchers.com/sw.js$script,1p
 ||sotemnovinhas.com/*.gif$image
-@@||ondemandkorea.com^$ghide
-||ondemandkorea.com/*/*sponsor*300x250.jpg$image,redirect=32x32.png
-||google-analytics.com/collect$image,redirect=1x1.gif,domain=ondemandkorea.com
 ||googlesyndication.com^$script,important,domain=mypapercraft.net
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=supergames.com
 ||adservice.google.com.*/adsid/integrator.js?domain=player.tubia.com$xhr,redirect=nooptext
