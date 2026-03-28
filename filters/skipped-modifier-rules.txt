@@ -1,6 +1,6 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-03-27T19:35:59.397Z
+# Generated: 2026-03-28T18:47:44.267Z
 # Count: 18223
 
 &rb=&uuid=$third-party
@@ -399,7 +399,6 @@
 /istripper.gif$image
 /jquery.lazyload-ad-$script
 /js/ad_common.js$script
-/js/adpopup.js$script
 /js/advRotator.js$script
 /js/dfp.js$script
 /js/popunder.js$third-party
@@ -12823,6 +12822,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||analytics.casper.com/gtag/js$~third-party
 @@||analytics.casper.com/gtm.js$~third-party
 @@||analytics.edgekey.net/ma_library/html5/html5_malibrary.js$script,domain=mxplayer.in
+@@||analytics.google.com/analytics/$~third-party
 @@||analytics.itunes.apple.com^$~third-party
 @@||api-analytics.magstimconnect.net^$~third-party
 @@||api-js.datadome.co/js/$domain=sso.garena.com
