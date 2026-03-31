@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-03-30T19:48:14.815Z
-# Count: 18225
+# Generated: 2026-03-31T19:07:48.893Z
+# Count: 18228
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -8035,6 +8035,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 @@||ads.tiktok.com^$popup
 @@||ads.twitter.com^$popup
 @@||ads.vk.com^$popup
+@@||ads.vk.ru^$popup
 @@||ads.x.com^$popup
 @@||adv.asahi.com^$popup
 @@||adv.gg^$popup
@@ -8370,6 +8371,7 @@ _view_pixel&$image
 /github.com/notifications/beacon=$image
 /go.news.fly.io/e/o/*$image
 /gp/r.html?$image
+/ho.php?t=$image
 /i?aid=*&se_ac=open&$image
 /image.info.jr-odekake.net/lib/*$image
 /inbox.*/imp?$image
@@ -13214,7 +13216,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||google-analytics.com/plugins/ua/linkid.js$domain=ecmweb.com
 @@||google-analytics.com/ga.js$domain=meritonsuites.com.au|realpage.com
 @@||collect.igodigital.com/collect.js$domain=berkley-fishing.com|enoteca.co.jp|goodwillfinds.com|samash.com|viajeguanabara.com.br|vitalsource.com|wilsonparking.com.au
-@@||browser.sentry-cdn.com^$domain=acustica-audio.com|alphaxiv.org|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|members.bifa.film|menshealth.com|ocado.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
+@@||browser.sentry-cdn.com^$domain=acustica-audio.com|alphaxiv.org|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|members.bifa.film|menshealth.com|ocado.com|pocketguard.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 @@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=bestbuy.ca|identity.healthsafe-id.com|nbc.com|subwy.com|tatamotors.com|usanetwork.com
 ||assets.adobedtm.com/extensions/*/AppMeasurement$script,domain=medscape.com
 @@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|as.com|auspost.com.au|backcountry.com|bmw.com.au|canadapost-postescanada.ca|ceair.com|collegeboard.org|conad.it|costco.com|crackle.com|crackle.com.ar|crackle.com.br|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|crave.ca|crimewatchdaily.com|dhl.de|directline.com|elgiganten.se|elkjop.no|eonline.com|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|gigantti.fi|godigit.com|hellobank.fr|hgtv.com|hrw.com|ilsole24ore.com|jeep.com|laredoute.be|laredoute.ch|laredoute.co.uk|laredoute.com|laredoute.es|laredoute.fr|laredoute.it|laredoute.pl|laredoute.pt|laredoute.ru|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|myaetnasupplemental.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|nrj.fr|oprah.com|oracle.com|pnc.com|poweredbycovermore.com|radiko.jp|realtor.com|redbull.tv|repco.co.nz|sbb.ch|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|sony.jp|stuff.co.nz|subaru.com|support.nec-lavie.jp|tatacliq.com|telegraph.co.uk|timewarnercable.com|tou.tv|usanetwork.com|vanityfair.com|verizon.com|vtr.com|wayin.com|wired.com
@@ -14637,6 +14639,7 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 @@||embedplus.com/iframe-cookie-consent.aspx$subdocument
 @@||emedicoz.com/src/view/PrivacyPolicy/Privacypolicy.jsx$~third-party
 @@||ems.entega.de/js/lib/cookieconsent.js$~third-party
+@@||energie-aanbiedingen.com/dist/assets/cookiebar.js$script,~third-party
 @@||eok.ee/javascripts/cookiebar.js$~third-party
 @@||erlebnissennerei-zillertal.at/typo3conf/ext/bh/Resources/*/cookie-popup.$~third-party
 @@||euromaster.de/v/$script,~third-party
@@ -14778,6 +14781,7 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 @@||tiom.pl/static/js/cookieconsent.min.js$~third-party
 @@||tiwag.at/typo3conf/ext/bh/Resources/*/cookie-popup.$~third-party
 @@||topocentras.lt/js/CookieConsent-$~third-party
+@@||tradefixdirect.com/app/plugins/upperdog-analytics/assets/js/cookie-popup.js$script,~third-party
 @@||trinitymedia.ai/player/$script,subdocument
 @@||tripcdn.com/modules/ibu/online-flight/common-cookie-banner.$domain=trip.com
 @@||tv.sibbo.net/v2/sibbo-cmp-core.js$script,domain=atresplayer.com
@@ -16290,7 +16294,6 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||xtraserp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xu2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xxxviijmp.com^$dnsrewrite=ad-block.dns.adguard.com
-||yggtorrent.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ztdog.com^$dnsrewrite=ad-block.dns.adguard.com
 ||altusmediagroupinc.go2cloud.org^$dnsrewrite=ad-block.dns.adguard.com
 ||buziol.pl^$dnsrewrite=ad-block.dns.adguard.com
