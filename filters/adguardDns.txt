@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-02T19:02:17.946Z
-! Rules count: 161517
+! Last updated: 2026-04-02T19:42:32.091Z
+! Rules count: 161523
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -5318,6 +5318,7 @@
 ||bvmcdn.com^
 ||bvmcdn.net^
 ||bvryckykikvhh.website^
+||bvsuswihg.com^
 ||bvtmvalgidefh.store^
 ||bvtpk.com^
 ||bvupjqkxxrgqr.space^
@@ -26023,6 +26024,7 @@
 ||lijqfqpdavjhs.store^
 ||likable-neat.pro^
 ||likable-negotiation.pro^
+||likable-spiritual.pro^
 ||likeableindispensableassault.com^
 ||likeads.com^
 ||likedgreetedrape.com^
@@ -27548,6 +27550,7 @@
 ||manlikelignegimpy.cfd^
 ||mannanbroeboe.qpon^
 ||mannersportalchart.com^
+||manniteocypodaobtuser.cyou^
 ||manoareca.cyou^
 ||manominsurwan.cyou^
 ||manorowlapprehension.com^
@@ -47001,6 +47004,7 @@
 ||trsdzvfmdqjqi.online^
 ||tru74hze5yu2m9.cfd^
 ||truanet.com^
+||trubazna.in^
 ||trucestaff.com^
 ||truckiecoagula.qpon^
 ||trucklowest.com^
@@ -53140,6 +53144,7 @@
 ||xgodpmdczzyza.com^
 ||xgolyqyfjuuwn.online^
 ||xgozhrjmwwgxf.site^
+||xgqdiziizrqcn.website^
 ||xgraph.net^
 ||xgsxkzscxapvj.online^
 ||xgszciooysvcj.site^
@@ -53147,6 +53152,7 @@
 ||xgtvhnyerfsqu.space^
 ||xgubwpvoyqgtd.online^
 ||xguphkzaezpqr.site^
+||xgvgjcesdrssk.site^
 ||xgvnuoxwwnfxs.website^
 ||xgwvtfjyklyyi.website^
 ||xgyamkbizucnd.store^
@@ -161525,7 +161531,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-04-02T19:02:17.950Z
+! Last updated: 2026-04-02T19:42:32.097Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes

@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-02T19:02:16.274Z
-! Rules count: 226942
+! Last updated: 2026-04-02T19:42:30.441Z
+! Rules count: 226948
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -6999,6 +6999,7 @@ browsershots.org#@#.advert_area
 ||bvmcdn.com^
 ||bvmcdn.net^
 ||bvryckykikvhh.website^
+||bvsuswihg.com^
 ||bvtmvalgidefh.store^
 ||bvtpk.com^
 ||bvupjqkxxrgqr.space^
@@ -27706,6 +27707,7 @@ browsershots.org#@#.advert_area
 ||lijqfqpdavjhs.store^
 ||likable-neat.pro^
 ||likable-negotiation.pro^
+||likable-spiritual.pro^
 ||likeableindispensableassault.com^
 ||likeads.com^
 ||likedgreetedrape.com^
@@ -29231,6 +29233,7 @@ browsershots.org#@#.advert_area
 ||manlikelignegimpy.cfd^
 ||mannanbroeboe.qpon^
 ||mannersportalchart.com^
+||manniteocypodaobtuser.cyou^
 ||manoareca.cyou^
 ||manominsurwan.cyou^
 ||manorowlapprehension.com^
@@ -48684,6 +48687,7 @@ browsershots.org#@#.advert_area
 ||trsdzvfmdqjqi.online^
 ||tru74hze5yu2m9.cfd^
 ||truanet.com^
+||trubazna.in^
 ||trucestaff.com^
 ||truckiecoagula.qpon^
 ||trucklowest.com^
@@ -54823,6 +54827,7 @@ browsershots.org#@#.advert_area
 ||xgodpmdczzyza.com^
 ||xgolyqyfjuuwn.online^
 ||xgozhrjmwwgxf.site^
+||xgqdiziizrqcn.website^
 ||xgraph.net^
 ||xgsxkzscxapvj.online^
 ||xgszciooysvcj.site^
@@ -54830,6 +54835,7 @@ browsershots.org#@#.advert_area
 ||xgtvhnyerfsqu.space^
 ||xgubwpvoyqgtd.online^
 ||xguphkzaezpqr.site^
+||xgvgjcesdrssk.site^
 ||xgvnuoxwwnfxs.website^
 ||xgwvtfjyklyyi.website^
 ||xgyamkbizucnd.store^
@@ -95067,8 +95073,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||pcoptimizedsettings.com/wp-content/plugins/koko-analytics/$important,redirect=noop.js,script
 ||pcoptimizedsettings.com/wp-content/uploads/breeze/google/gtag.js$important,redirect=noop.js,script
 ||d21y75miwcfqoq.cloudfront.net/436f3341$image,redirect=nooptext
-accuweather.com,acmemarkets.com,boston.com,capezio.com,chime.com,costco.com,crunchyroll.com,deezer.com,delta.com,dnb.co.uk,dnb.com,dollargeneral.com,engadget.com,espn.com,eventbrite.com,flyfrontier.com,formula1.com,geizhals.de,gladiatorgarageworks.com,harborfreight.com,hopwtr.com,jdsports.com,kkrt.com,lenscrafters.com,livewithkellyandmark.com,madewell.com,mazdausa.com,milesplit.live,monsterenergy.com,newyorker.com,norton.com,pandora.com,payment.nba.com,porsche.com,qobuz.com,rivals.com,soundcloud.com,spotify.com,subway.com,techcrunch.com,ticketmaster.*,tidal.com,tirerack.com,twitch.tv,twitter.com,uber.com,ubereats.com,usaa.com,vimeo.com,visible.com,weather.com,wunderground.com,www.yahoo.com,x.com##+js(set, Navigator.prototype.globalPrivacyControl, false)
-accuweather.com,acmemarkets.com,boston.com,capezio.com,chime.com,costco.com,crunchyroll.com,deezer.com,delta.com,dnb.co.uk,dnb.com,dollargeneral.com,engadget.com,espn.com,eventbrite.com,flyfrontier.com,formula1.com,geizhals.de,gladiatorgarageworks.com,harborfreight.com,hopwtr.com,jdsports.com,kkrt.com,lenscrafters.com,livewithkellyandmark.com,madewell.com,mazdausa.com,milesplit.live,monsterenergy.com,newyorker.com,norton.com,pandora.com,payment.nba.com,porsche.com,qobuz.com,rivals.com,soundcloud.com,spotify.com,subway.com,techcrunch.com,ticketmaster.*,tidal.com,tirerack.com,twitch.tv,twitter.com,uber.com,ubereats.com,usaa.com,vimeo.com,visible.com,weather.com,wunderground.com,www.yahoo.com,x.com##+js(set, navigator.globalPrivacyControl, false)
+accuweather.com,acmemarkets.com,boston.com,capezio.com,chime.com,costco.com,crunchyroll.com,deezer.com,delta.com,dnb.co.uk,dnb.com,dollargeneral.com,engadget.com,espn.com,eventbrite.com,filson.com,flyfrontier.com,formula1.com,geizhals.de,gladiatorgarageworks.com,harborfreight.com,hopwtr.com,jdsports.com,kkrt.com,lenscrafters.com,livewithkellyandmark.com,madewell.com,mazdausa.com,milesplit.live,monsterenergy.com,newyorker.com,norton.com,pandora.com,payment.nba.com,porsche.com,qobuz.com,rivals.com,soundcloud.com,spotify.com,subway.com,techcrunch.com,ticketmaster.*,tidal.com,tirerack.com,twitch.tv,twitter.com,uber.com,ubereats.com,usaa.com,vimeo.com,visible.com,weather.com,wunderground.com,www.yahoo.com,x.com##+js(set, Navigator.prototype.globalPrivacyControl, false)
+accuweather.com,acmemarkets.com,boston.com,capezio.com,chime.com,costco.com,crunchyroll.com,deezer.com,delta.com,dnb.co.uk,dnb.com,dollargeneral.com,engadget.com,espn.com,eventbrite.com,filson.com,flyfrontier.com,formula1.com,geizhals.de,gladiatorgarageworks.com,harborfreight.com,hopwtr.com,jdsports.com,kkrt.com,lenscrafters.com,livewithkellyandmark.com,madewell.com,mazdausa.com,milesplit.live,monsterenergy.com,newyorker.com,norton.com,pandora.com,payment.nba.com,porsche.com,qobuz.com,rivals.com,soundcloud.com,spotify.com,subway.com,techcrunch.com,ticketmaster.*,tidal.com,tirerack.com,twitch.tv,twitter.com,uber.com,ubereats.com,usaa.com,vimeo.com,visible.com,weather.com,wunderground.com,www.yahoo.com,x.com##+js(set, navigator.globalPrivacyControl, false)
 madewell.com##+js(cookie-remover, dns_cookie)
 visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 usaa.com##+js(set-cookie, GPC, 1, , reload, 1)
