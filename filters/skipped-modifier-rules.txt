@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-04-01T19:52:11.452Z
-# Count: 18212
+# Generated: 2026-04-02T19:02:17.870Z
+# Count: 18214
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -7413,6 +7413,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 @@||ad.linksynergy.com^$image,domain=extrarebates.com
 @@||addicted.es^*/ad728-$image,~third-party
 @@||adjust.com/adjust-latest.min.js$domain=anchor.fm
+@@||adlyticmarketing.com/s/portfoliofilter.$script,stylesheet,domain=lightningkeyboards.com
 @@||adm.fwmrm.net^*/TremorAdRenderer.$object,domain=go.com
 @@||adm.fwmrm.net^*/videoadrenderer.$object,domain=cnbc.com|go.com|nbc.com|nbcnews.com
 @@||adnxs.com/ast/ast.js$domain=zone.msn.com
@@ -7686,7 +7687,6 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 @@||zeebiz.com/ads/$image,~third-party
 @@||zohopublic.com^*/ADManager_$subdocument,xmlhttprequest,domain=manageengine.com|zohopublic.com
 @@||challenges.cloudflare.com/turnstile/$script
-@@||gmail.com^$generichide
 @@||google.com/recaptcha/$csp,subdocument
 @@||hcaptcha.com/captcha/$script,subdocument
 @@||recaptcha.net/recaptcha/$script
@@ -7703,6 +7703,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 @@||adsmanager.facebook.com^$generichide
 @@||apple.com^$generichide
 @@||atlassian.net^$generichide
+@@||bing.com^$generichide
 @@||bitbucket.org^$generichide
 @@||browserbench.org^$generichide
 @@||builder.io^$generichide
@@ -7735,6 +7736,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 @@||github.com^$generichide
 @@||github.io^$generichide
 @@||gitlab.com^$generichide
+@@||gmail.com^$generichide
 @@||icloud.com^$generichide
 @@||instagram.com^$generichide
 @@||instapundit.com^$generichide
@@ -7906,7 +7908,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 @@||catchapp.net/ad/img/$~third-party
 @@||cdn.jsdelivr.net/npm/*/videojs-contrib-ads.min.js$domain=24ur.com
 @@||cinema.pia.co.jp/img/ad/$image,~third-party
-@@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl
+@@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl|zeam.com
 @@||copilog2.jp/*/webroot/ad_img/$domain=ikkaku.net
 @@||core.windows.net^*/annonser/$image,domain=kmauto.no
 @@||discordapp.com/banners/$image
