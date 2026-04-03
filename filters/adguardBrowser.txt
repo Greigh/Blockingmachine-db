@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-03T18:53:56.724Z
-! Rules count: 227328
+! Last updated: 2026-04-03T19:32:48.250Z
+! Rules count: 227333
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -31627,6 +31627,7 @@ browsershots.org#@#.advert_area
 ||myronicbrulzie.cyou^
 ||myrosinurlaraivr.cyou^
 ||myrrhbehorn.com^
+||myrrhstymiesjolted.qpon^
 ||myselguggles.cfd^
 ||mysellbeamy.cyou^
 ||mysmbkoapuust.website^
@@ -33129,6 +33130,7 @@ browsershots.org#@#.advert_area
 ||ntewpiodbt.in^
 ||ntgdwjrbgmocn.website^
 ||nthkmosujmuo.net^
+||nthvlfevepo.com^
 ||ntiljustetyerec.org^
 ||ntjumvumqzufo.space^
 ||ntjwqifgsswvk.space^
@@ -33798,6 +33800,7 @@ browsershots.org#@#.advert_area
 ||odjxpyyhmuvfj.website^
 ||odkgfxjtkzbuv.online^
 ||odkgyurmdcgkc.space^
+||odlarjaqx.in^
 ||odldzgdjzbksz.site^
 ||odlospxkipf.com^
 ||odlpxnvgroltc.online^
@@ -47496,6 +47499,7 @@ browsershots.org#@#.advert_area
 ||tfbwbzmzisbif.online^
 ||tfcbxsqfwkmtb.space^
 ||tfeableandwo.org^
+||tfeyerniy.com^
 ||tfflrmlygarjj.online^
 ||tfgobrmdifipn.online^
 ||tfgpmpiozb8zhjv4zq3g6p9v53gbc4g.cfd^
@@ -56628,6 +56632,7 @@ browsershots.org#@#.advert_area
 ||ytkaktsfmkmte.site^
 ||ytlsppuzpf.club^
 ||ytmrujsfokpvb.space^
+||ytmvizhokmrtqf.com^
 ||ytmwqfftkvood.store^
 ||ytngvcarcmocw.website^
 ||ytoeesaeuulcy.website^
@@ -227208,7 +227213,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-04-03T18:53:56.731Z
+! Last updated: 2026-04-03T19:32:48.257Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important

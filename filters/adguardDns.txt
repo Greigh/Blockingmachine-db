@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-03T18:53:58.211Z
-! Rules count: 161943
+! Last updated: 2026-04-03T19:32:49.826Z
+! Rules count: 161948
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -29944,6 +29944,7 @@
 ||myronicbrulzie.cyou^
 ||myrosinurlaraivr.cyou^
 ||myrrhbehorn.com^
+||myrrhstymiesjolted.qpon^
 ||myselguggles.cfd^
 ||mysellbeamy.cyou^
 ||mysmbkoapuust.website^
@@ -31446,6 +31447,7 @@
 ||ntewpiodbt.in^
 ||ntgdwjrbgmocn.website^
 ||nthkmosujmuo.net^
+||nthvlfevepo.com^
 ||ntiljustetyerec.org^
 ||ntjumvumqzufo.space^
 ||ntjwqifgsswvk.space^
@@ -32115,6 +32117,7 @@
 ||odjxpyyhmuvfj.website^
 ||odkgfxjtkzbuv.online^
 ||odkgyurmdcgkc.space^
+||odlarjaqx.in^
 ||odldzgdjzbksz.site^
 ||odlospxkipf.com^
 ||odlpxnvgroltc.online^
@@ -45813,6 +45816,7 @@
 ||tfbwbzmzisbif.online^
 ||tfcbxsqfwkmtb.space^
 ||tfeableandwo.org^
+||tfeyerniy.com^
 ||tfflrmlygarjj.online^
 ||tfgobrmdifipn.online^
 ||tfgpmpiozb8zhjv4zq3g6p9v53gbc4g.cfd^
@@ -54945,6 +54949,7 @@
 ||ytkaktsfmkmte.site^
 ||ytlsppuzpf.club^
 ||ytmrujsfokpvb.space^
+||ytmvizhokmrtqf.com^
 ||ytmwqfftkvood.store^
 ||ytngvcarcmocw.website^
 ||ytoeesaeuulcy.website^
@@ -161951,7 +161956,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-04-03T18:53:58.216Z
+! Last updated: 2026-04-03T19:32:49.831Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
