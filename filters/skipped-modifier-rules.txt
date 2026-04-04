@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-04-03T19:32:49.751Z
-# Count: 18216
+# Generated: 2026-04-04T18:49:54.928Z
+# Count: 18220
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -1006,6 +1006,7 @@ _468_60-$~script
 ||appslime.com^$document
 ||appthe.click^$document
 ||argrowlitheor.com^$document
+||asosub.org^$document
 ||astjigglypuffchan.com^$document
 ||atp.revistamuchomas.com^$document
 ||atsg.me^$document
@@ -2625,6 +2626,7 @@ _468_60-$~script
 ||sceno.ru^$third-party
 ||scootloor.com^$third-party
 ||scrap.me^$third-party
+||scriptwrapper.com^$third-party
 ||sedoparking.com^$third-party
 ||seedtag.com^$third-party
 ||selectad.com^$third-party
@@ -12273,6 +12275,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||insight.rapid7.com^$third-party
 ||intercomcdn.com/intercom*.js$domain=unblocked.la
 ||io.narrative.io/?$third-party
+||ip-check-perf.radar.cloudflare.com^$third-party
 ||ipstatp.com/growth/fe_sdk/reportsdk/$third-party
 ||ipstatp.com/static_magic/pgc/tech/collect/$third-party
 ||iqzone.com^$third-party
@@ -15351,6 +15354,7 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||appslime.com^$dnsrewrite=ad-block.dns.adguard.com
 ||appthe.click^$dnsrewrite=ad-block.dns.adguard.com
 ||argrowlitheor.com^$dnsrewrite=ad-block.dns.adguard.com
+||asosub.org^$dnsrewrite=ad-block.dns.adguard.com
 ||astjigglypuffchan.com^$dnsrewrite=ad-block.dns.adguard.com
 ||atp.revistamuchomas.com^$dnsrewrite=ad-block.dns.adguard.com
 ||atsg.me^$dnsrewrite=ad-block.dns.adguard.com
