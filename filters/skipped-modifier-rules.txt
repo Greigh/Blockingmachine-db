@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-04-04T19:25:00.117Z
-# Count: 18220
+# Generated: 2026-04-05T18:51:45.476Z
+# Count: 18199
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -1059,8 +1059,6 @@ _468_60-$~script
 ||cddtsecure.com^$document
 ||ceramicturtleremnant.com^$document
 ||checkcdn.net^$document
-||choogeet.net^$document
-||choosingoffer.lol^$document
 ||chpadblock.com^$document
 ||ciencia.ao^$document
 ||clearwatch.tv^$document
@@ -1083,7 +1081,6 @@ _468_60-$~script
 ||coolserving.com^$document
 ||coosync.com^$document
 ||coticoffee.com^$document
-||countertrck.com^$document
 ||cpacrack.com^$document
 ||cradaygo.com^$document
 ||crockadilla.com^$document
@@ -1096,27 +1093,21 @@ _468_60-$~script
 ||date2024.com^$document
 ||date4sex.pro^$document
 ||datedeskads.com^$document
-||datesassistant.com^$document
 ||dateyou2024.com^$document
 ||datingforyour4.site^$document
 ||debaucky.com^$document
 ||deepsathegoh.com^$document
-||degg.site^$document
 ||degreedistance.cfd^$document
-||deluxe-download.com^$document
 ||demowebcode.online^$document
 ||di7stero.com^$document
 ||diagramjawlineunhappy.com^$document
 ||dianomi.com^$document
 ||directdexchange.com^$document
-||disable-adverts.com^$document
 ||displayvertising.com^$document
 ||dithodackee.com^$document
 ||dlrectdates.com^$document
 ||domainparkingmanager.it^$document
 ||donkeyflower.xyz^$document
-||doostozoa.net^$document
-||downloading-addon.com^$document
 ||dpuppers.com^$document
 ||dreamteamaffiliates.com^$document
 ||drsmediaexchange.com^$document
@@ -1127,11 +1118,9 @@ _468_60-$~script
 ||easelegbike.com^$document
 ||easyconverts.com^$document
 ||eeco.xyz^$document
-||eetognauy.net^$document
 ||efficientorbit.co^$document
 ||emancytal.com^$document
 ||endlessloveonline.online^$document
-||enframement.pics^$document
 ||enrtx.com^$document
 ||escortlist.pro^$document
 ||evil-candle.pro^$document
@@ -12284,6 +12273,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jotform.io/getReferrer/$third-party
 ||kbb.com/partner/$third-party
 ||klarnaservices.com^$image,third-party
+||klickly.com^$third-party
 ||kochava.com/track/$third-party
 ||kxcdn.com/actor/$third-party
 ||l.fairblocker.com^$third-party
@@ -13475,7 +13465,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||sail-horizon.com/spm/spm.v1.min.js$script,domain=voguegirl.jp
 @@||sankei.co.jp/js/analytics/skd.Analysis.js$script
 @@||sanspo.com/parts/chartbeat/$xmlhttprequest
-@@||snva.jp/javascripts/reco/$script,domain=store.charle.co.jp
+@@||snva.jp/javascripts/reco/$script,domain=abc-mart.net|store.charle.co.jp
 @@||suumo.jp/sp/js/beacon.js$script,~third-party
 @@||tm.r-ad.ne.jp/128/ra346756.js$script,domain=hpdsp.net
 @@||toweroffantasy-global.com/events/accounttransfer/public/js/fingerprint.js$~third-party
@@ -15406,8 +15396,6 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||cddtsecure.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ceramicturtleremnant.com^$dnsrewrite=ad-block.dns.adguard.com
 ||checkcdn.net^$dnsrewrite=ad-block.dns.adguard.com
-||choogeet.net^$dnsrewrite=ad-block.dns.adguard.com
-||choosingoffer.lol^$dnsrewrite=ad-block.dns.adguard.com
 ||chpadblock.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ciencia.ao^$dnsrewrite=ad-block.dns.adguard.com
 ||clearwatch.tv^$dnsrewrite=ad-block.dns.adguard.com
@@ -15430,7 +15418,6 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||coolserving.com^$dnsrewrite=ad-block.dns.adguard.com
 ||coosync.com^$dnsrewrite=ad-block.dns.adguard.com
 ||coticoffee.com^$dnsrewrite=ad-block.dns.adguard.com
-||countertrck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cpacrack.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cradaygo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crockadilla.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -15443,27 +15430,21 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||date2024.com^$dnsrewrite=ad-block.dns.adguard.com
 ||date4sex.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||datedeskads.com^$dnsrewrite=ad-block.dns.adguard.com
-||datesassistant.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dateyou2024.com^$dnsrewrite=ad-block.dns.adguard.com
 ||datingforyour4.site^$dnsrewrite=ad-block.dns.adguard.com
 ||debaucky.com^$dnsrewrite=ad-block.dns.adguard.com
 ||deepsathegoh.com^$dnsrewrite=ad-block.dns.adguard.com
-||degg.site^$dnsrewrite=ad-block.dns.adguard.com
 ||degreedistance.cfd^$dnsrewrite=ad-block.dns.adguard.com
-||deluxe-download.com^$dnsrewrite=ad-block.dns.adguard.com
 ||demowebcode.online^$dnsrewrite=ad-block.dns.adguard.com
 ||di7stero.com^$dnsrewrite=ad-block.dns.adguard.com
 ||diagramjawlineunhappy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dianomi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||directdexchange.com^$dnsrewrite=ad-block.dns.adguard.com
-||disable-adverts.com^$dnsrewrite=ad-block.dns.adguard.com
 ||displayvertising.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dithodackee.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dlrectdates.com^$dnsrewrite=ad-block.dns.adguard.com
 ||domainparkingmanager.it^$dnsrewrite=ad-block.dns.adguard.com
 ||donkeyflower.xyz^$dnsrewrite=ad-block.dns.adguard.com
-||doostozoa.net^$dnsrewrite=ad-block.dns.adguard.com
-||downloading-addon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dpuppers.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dreamteamaffiliates.com^$dnsrewrite=ad-block.dns.adguard.com
 ||drsmediaexchange.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -15474,11 +15455,9 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||easelegbike.com^$dnsrewrite=ad-block.dns.adguard.com
 ||easyconverts.com^$dnsrewrite=ad-block.dns.adguard.com
 ||eeco.xyz^$dnsrewrite=ad-block.dns.adguard.com
-||eetognauy.net^$dnsrewrite=ad-block.dns.adguard.com
 ||efficientorbit.co^$dnsrewrite=ad-block.dns.adguard.com
 ||emancytal.com^$dnsrewrite=ad-block.dns.adguard.com
 ||endlessloveonline.online^$dnsrewrite=ad-block.dns.adguard.com
-||enframement.pics^$dnsrewrite=ad-block.dns.adguard.com
 ||enrtx.com^$dnsrewrite=ad-block.dns.adguard.com
 ||escortlist.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||evil-candle.pro^$dnsrewrite=ad-block.dns.adguard.com
