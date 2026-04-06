@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-06T19:07:17.263Z
-! Rules count: 160514
+! Last updated: 2026-04-06T19:45:28.612Z
+! Rules count: 160516
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -27072,6 +27072,7 @@
 ||mobiledevel.com^
 ||mobileoffers-dld-download.com^
 ||mobilesbrawlerinvars.cyou^
+||mobilessequinsonicolo.cfd^
 ||mobiletracking.ru^
 ||mobipromote.com^
 ||mobiright.com^
@@ -31031,6 +31032,7 @@
 ||oovfishxpbvu.com^
 ||oovlimddkfspl.online^
 ||oovmqnpruaqtk.online^
+||oovseemnoi.com^
 ||oowavfddpvuzo.space^
 ||oowqcmolqtwai.online^
 ||oowvaygribfhj.space^
@@ -160522,7 +160524,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-04-06T19:07:17.269Z
+! Last updated: 2026-04-06T19:45:28.617Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes

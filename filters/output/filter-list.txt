@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-06T19:07:15.650Z
-! Rules count: 225945
+! Last updated: 2026-04-06T19:45:27.046Z
+! Rules count: 225947
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -28756,6 +28756,7 @@ browsershots.org#@#.advert_area
 ||mobiledevel.com^
 ||mobileoffers-dld-download.com^
 ||mobilesbrawlerinvars.cyou^
+||mobilessequinsonicolo.cfd^
 ||mobiletracking.ru^
 ||mobipromote.com^
 ||mobiright.com^
@@ -32715,6 +32716,7 @@ browsershots.org#@#.advert_area
 ||oovfishxpbvu.com^
 ||oovlimddkfspl.online^
 ||oovmqnpruaqtk.online^
+||oovseemnoi.com^
 ||oowavfddpvuzo.space^
 ||oowqcmolqtwai.online^
 ||oowvaygribfhj.space^

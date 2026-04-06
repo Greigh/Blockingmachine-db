@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-06T19:07:15.814Z
-! Rules count: 225904
+! Last updated: 2026-04-06T19:45:27.222Z
+! Rules count: 225906
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -28756,6 +28756,7 @@ browsershots.org#@#.advert_area
 ||mobiledevel.com^
 ||mobileoffers-dld-download.com^
 ||mobilesbrawlerinvars.cyou^
+||mobilessequinsonicolo.cfd^
 ||mobiletracking.ru^
 ||mobipromote.com^
 ||mobiright.com^
@@ -32715,6 +32716,7 @@ browsershots.org#@#.advert_area
 ||oovfishxpbvu.com^
 ||oovlimddkfspl.online^
 ||oovmqnpruaqtk.online^
+||oovseemnoi.com^
 ||oowavfddpvuzo.space^
 ||oowqcmolqtwai.online^
 ||oowvaygribfhj.space^
@@ -225784,7 +225786,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-04-06T19:07:15.819Z
+! Last updated: 2026-04-06T19:45:27.227Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
