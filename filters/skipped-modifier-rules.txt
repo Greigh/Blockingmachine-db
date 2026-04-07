@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-04-06T19:45:28.530Z
-# Count: 18199
+# Generated: 2026-04-07T19:10:41.286Z
+# Count: 18189
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -1128,25 +1128,20 @@ _468_60-$~script
 ||exclkplat.com^$document
 ||exclplatmain.com^$document
 ||expdirclk.com^$document
-||extension-ad-stopper.com^$document
 ||extsoft.info^$document
 ||exxtended-access.com^$document
 ||eyewondermedia.com^$document
 ||fantabro.com^$document
 ||fascespro.com^$document
 ||fastdntrk.com^$document
-||fbpqvs.com^$document
 ||finanvideos.com^$document
 ||finder2024.com^$document
-||flowldsb.online^$document
 ||flowldsf.online^$document
 ||flyingadvert.com^$document
 ||foerpo.com^$document
 ||foflf.com^$document
-||forooqso.tv^$document
 ||freetrckr.com^$document
 ||frequentjam.com^$document
-||freshpops.net^$document
 ||fstsrv9.com^$document
 ||fuck-ads.vercel.app^$document
 ||fuse-cloud.com^$document
@@ -1158,7 +1153,6 @@ _468_60-$~script
 ||gb1aff.com^$document
 ||gemfowls.com^$document
 ||gensonal.com^$document
-||gentwoleads.top^$document
 ||get-gx.co/*sub2=$document
 ||get-gx.net^$document
 ||getsthis.com^$document
@@ -2478,6 +2472,7 @@ _468_60-$~script
 ||offerforge.net^$third-party
 ||offerserve.com^$third-party
 ||okanjo.com^$third-party
+||omni-dex.io^$third-party
 ||onetag-sys.com^$third-party
 ||onlyalad.net^$third-party
 ||onscroll.com^$third-party
@@ -7747,6 +7742,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 @@||myaccount.google.com^$generichide
 @@||nebula.tv^$generichide
 @@||netflix.com^$generichide
+@@||notebooklm.google.com^$generichide
 @@||notion.so^$generichide
 @@||oisd.nl^$generichide
 @@||onedrive.live.com^$generichide
@@ -15465,25 +15461,20 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||exclkplat.com^$dnsrewrite=ad-block.dns.adguard.com
 ||exclplatmain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||expdirclk.com^$dnsrewrite=ad-block.dns.adguard.com
-||extension-ad-stopper.com^$dnsrewrite=ad-block.dns.adguard.com
 ||extsoft.info^$dnsrewrite=ad-block.dns.adguard.com
 ||exxtended-access.com^$dnsrewrite=ad-block.dns.adguard.com
 ||eyewondermedia.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fantabro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fascespro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fastdntrk.com^$dnsrewrite=ad-block.dns.adguard.com
-||fbpqvs.com^$dnsrewrite=ad-block.dns.adguard.com
 ||finanvideos.com^$dnsrewrite=ad-block.dns.adguard.com
 ||finder2024.com^$dnsrewrite=ad-block.dns.adguard.com
-||flowldsb.online^$dnsrewrite=ad-block.dns.adguard.com
 ||flowldsf.online^$dnsrewrite=ad-block.dns.adguard.com
 ||flyingadvert.com^$dnsrewrite=ad-block.dns.adguard.com
 ||foerpo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||foflf.com^$dnsrewrite=ad-block.dns.adguard.com
-||forooqso.tv^$dnsrewrite=ad-block.dns.adguard.com
 ||freetrckr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||frequentjam.com^$dnsrewrite=ad-block.dns.adguard.com
-||freshpops.net^$dnsrewrite=ad-block.dns.adguard.com
 ||fstsrv9.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fuck-ads.vercel.app^$dnsrewrite=ad-block.dns.adguard.com
 ||fuse-cloud.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -15494,7 +15485,6 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||gb1aff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gemfowls.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gensonal.com^$dnsrewrite=ad-block.dns.adguard.com
-||gentwoleads.top^$dnsrewrite=ad-block.dns.adguard.com
 ||get-gx.net^$dnsrewrite=ad-block.dns.adguard.com
 ||getsthis.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gkrtmc.com^$dnsrewrite=ad-block.dns.adguard.com
