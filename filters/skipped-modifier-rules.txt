@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-04-07T19:51:09.002Z
-# Count: 18189
+# Generated: 2026-04-08T19:23:14.519Z
+# Count: 18183
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -14715,9 +14715,9 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 @@||oddschecker.com/cookie-policy-banner/$~third-party
 @@||omniplex.ie/script/modules/cookiecuttr.js$~third-party
 @@||onepage.io/api/v1/cookie-service/lib/$script
-@@||onetrust.com/consent/$domain=airnewzealand.co.nz|bt.com|groceries.asda.com|konami.com|nintendolife.com|panasonic.com|paramountplus.com|posti.fi|pushsquare.com|technics.com|timeextension.com|uw.co.uk
+@@||onetrust.com/consent/$domain=airnewzealand.co.nz|bt.com|groceries.asda.com|konami.com|nectar.com|nintendolife.com|panasonic.com|paramountplus.com|posti.fi|pushsquare.com|technics.com|timeextension.com|uw.co.uk
 @@||onetrust.com/request/$xmlhttprequest
-@@||onetrust.com/scripttemplates/$domain=airnewzealand.co.nz|bt.com|groceries.asda.com|konami.com|milliescookies.com|nintendolife.com|panasonic.com|paramountplus.com|posti.fi|pushsquare.com|technics.com|timeextension.com
+@@||onetrust.com/scripttemplates/$domain=airnewzealand.co.nz|bt.com|groceries.asda.com|konami.com|milliescookies.com|nectar.com|nintendolife.com|panasonic.com|paramountplus.com|posti.fi|pushsquare.com|technics.com|timeextension.com
 @@||onetrust.com/vendorlist/$domain=groceries.asda.com|nintendolife.com|paramountplus.com|pushsquare.com|timeextension.com
 @@||onetrust.com/webform/$subdocument
 @@||onlineservice.ewr-gmbh.de/ui.components.extended/material/nli-cookie-banner/$script,~third-party
@@ -16423,11 +16423,6 @@ dailyuploads.net##+js(acs, $, window.open)
 @@||ultrahorny.com^$ghide
 @@||ajax.googleapis.com^$script,domain=ultrahorny.com
 ||contributor.google.com/scripts/*/loader.js$script,domain=citationmachine.net
-@@*$script,1p,domain=mylink.*|my1ink.*|myl1nk.*|myli3k.*
-@@||in-page-push.com^$script,domain=mylink.*|my1ink.*|myl1nk.*|myli3k.*
-@@||googleads.g.doubleclick.net/pagead/test_domain.js$script,domain=mylink.*|my1ink.*|myl1nk.*|myli3k.*
-*$script,redirect-rule=noopjs,domain=mylink.*|my1ink.*|myl1nk.*|myli3k.*
-*$script,3p,denyallow=cloudflare.com|cloudflare.net|consensu.org|google.com|googleapis.com|gstatic.com|hcaptcha.com|hwcdn.net|recaptcha.net|twitter.com|x.com,domain=mylink.*|my1ink.*|myl1nk.*|myli3k.*|~mylink.tel
 @@||anghami.com^$ghide
 androidrepublic.org##+js(acs, $, samInitDetection)
 ||biqle.ru/swp.js$script,1p
@@ -17319,7 +17314,6 @@ sendvid.com##+js(nowoif, !/^https:\/\/sendvid\.com\/[0-9a-z]+$/)
 *$script,3p,domain=imgdawgknuttz.com
 @@||iphonetweak.fr^$ghide
 @@||duden.de^$ghide
-||www.duden.de/utilities/includes/$script,css,1p
 ||hitcashtag.com^$3p
 ||techcdn.com^$3p
 ||desiremovies.*/sw.js$script,1p
