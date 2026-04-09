@@ -1,6 +1,6 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-04-09T19:13:33.607Z
+# Generated: 2026-04-09T19:58:36.386Z
 # Count: 18185
 
 &rb=&uuid=$third-party
@@ -12983,7 +12983,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||ipv4.seeip.org/jsonip$domain=empire-streaming.app
 @@||js-agent.newrelic.com^$domain=alliantcreditunion.com|giftcards.com|kapwing.com|live.griiip.com
 @@||js-cdn.dynatrace.com/jstag/$domain=fido.ca
-@@||js.datadome.co/tags.js$script,domain=monster.ca|serasa.com.br|sso.garena.com|thefork.at|thefork.be|thefork.ch|thefork.co.uk|thefork.com|thefork.de|thefork.es|thefork.fr|thefork.it|thefork.nl|thefork.pt|thefork.se|ugg.com
+@@||js.datadome.co/tags.js$script,domain=monster.ca|rvtrader.com|serasa.com.br|sso.garena.com|thefork.at|thefork.be|thefork.ch|thefork.co.uk|thefork.com|thefork.de|thefork.es|thefork.fr|thefork.it|thefork.nl|thefork.pt|thefork.se|ugg.com
 @@||js.sentry-cdn.com^$script,domain=app.homebinder.com|bolt.new|book.dmm.com|etsy.com|interacty.me|jobs.ch|pizzahut.com.au
 @@||jsrdn.com/s/$script,domain=distro.tv
 @@||kameleoon.eu/kameleoon.js$script,domain=buttercloth.com|jules.com
