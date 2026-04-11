@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-11T18:52:22.740Z
-! Rules count: 159107
+! Last updated: 2026-04-11T19:29:12.121Z
+! Rules count: 159112
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -6539,6 +6539,7 @@
 ||cijoorsairgusa.com^
 ||cijoyfhiacneg.online^
 ||cikorloimlxct.website^
+||cikpbymahuipgp.com^
 ||ciksolre.net^
 ||ciliiummyatony.qpon^
 ||ciliumspinate.com^
@@ -26832,6 +26833,7 @@
 ||ndroip.com^
 ||ndroundhertouc.com^
 ||ndtheyeiedm.info^
+||ndtkxygpdzcdq.website^
 ||ndtlhvhfeokmc.website^
 ||ndtvbcxhvmtde.site^
 ||ndvqhobnheivh.club^
@@ -27116,6 +27118,7 @@
 ||ngjmbezvfwwmf.website^
 ||ngknqtrhhlnqm.website^
 ||nglmedia.com^
+||nglqmotpfinwq.website^
 ||ngmamfwwpqzny.site^
 ||ngmdyqmrfvdzp.space^
 ||ngmzhidifnrls.site^
@@ -30832,6 +30835,7 @@
 ||pasttrust.com^
 ||pastureoriental.com^
 ||pasxfixs.com^
+||patabsobdotr.in^
 ||patacajabia.com^
 ||patakaendymal.top^
 ||patapatankhweevers.qpon^
@@ -47747,6 +47751,7 @@
 ||vofgpnpufdsbt.online^
 ||vogtmoff.cyou^
 ||vogueoval.com^
+||voguesebkhabrucina.cyou^
 ||voguishurds.qpon^
 ||vohaukrass.net^
 ||voicedstart.com^
@@ -159115,7 +159120,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-04-11T18:52:22.745Z
+! Last updated: 2026-04-11T19:29:12.126Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
