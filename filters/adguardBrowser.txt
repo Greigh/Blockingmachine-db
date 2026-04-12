@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-12T18:56:25.849Z
-! Rules count: 224938
+! Last updated: 2026-04-12T19:33:29.136Z
+! Rules count: 224943
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -12873,6 +12873,7 @@ browsershots.org#@#.advert_area
 ||etjrkgaqrkfad.space^
 ||etkybhmigxoyt.site^
 ||etobeasasile.org^
+||etoefwatm.com^
 ||etonwhekauwino.qpon^
 ||etotreatwithdify.com^
 ||etphoneme.com^
@@ -23061,6 +23062,7 @@ browsershots.org#@#.advert_area
 ||kuazennmquins.site^
 ||kubicadza.xyz^
 ||kubicserves.icu^
+||kubqfszekybaw.website^
 ||kucelglfptill.site^
 ||kucihozvusyxg.space^
 ||kudblrvbqkyru.site^
@@ -28578,6 +28580,7 @@ browsershots.org#@#.advert_area
 ||ncb8686wbj42wz6wqnm8z23ue.cfd^
 ||ncbvfmyonigkhh.com^
 ||nccxucybvgh.com^
+||ncdplvdquspma.online^
 ||nceneverdreamsofc.org^
 ||ncetdrzpalozq.space^
 ||ncgalnwnsscde.website^
@@ -33689,6 +33692,7 @@ browsershots.org#@#.advert_area
 ||pixgallery.xyz^
 ||pixiessikatch.qpon^
 ||pixxur.com^
+||piyeaztpdsmaj.space^
 ||pizbidjinqaq.com^
 ||pizelvtnqvgcl.space^
 ||pizinegxgdrgx.store^
@@ -36897,6 +36901,7 @@ browsershots.org#@#.advert_area
 ||qwubjdcxzwwpw.site^
 ||qwuomggalxp.in^
 ||qwvqbeqorrobv.top^
+||qwwfiqkwwmvah.com^
 ||qwwgofjgyrtyv.website^
 ||qwwicwtadrszn.site^
 ||qwwrqxlbplpws.website^
@@ -42889,6 +42894,7 @@ browsershots.org#@#.advert_area
 ||startusdating.com^
 ||starvalue-4.online^
 ||starvedesolatesaturday.com^
+||starwfondlytannoid.qpon^
 ||stashessnouter.cfd^
 ||stat-rock.com^
 ||statantbuttony.cyou^
@@ -190262,7 +190268,6 @@ lighterusa.com#@##shopify-section-age-gate
 ||marineingredientinevitably.com^
 ||marinerattest.com^
 ||marinerpassionate.com^
-||marissasharecareer.com^
 ||maritalparliamentary.com^
 ||maritaltrousersidle.com^
 ||maritaluntidynegotiate.com^
@@ -224818,7 +224823,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-04-12T18:56:25.855Z
+! Last updated: 2026-04-12T19:33:29.143Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
