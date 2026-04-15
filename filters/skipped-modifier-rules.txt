@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-04-14T20:00:19.313Z
-# Count: 18181
+# Generated: 2026-04-15T19:23:15.439Z
+# Count: 18184
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -3218,6 +3218,7 @@ _468_60-$~script
 ||athletedurable.com^$popup
 ||atinsolutions.com^$popup
 ||atsg.me^$popup
+||attacheatableoverlabor.com^$popup
 ||attachedkneel.com^$popup
 ||attirecideryeah.com^$popup
 ||audrte.com^$popup
@@ -3598,6 +3599,7 @@ _468_60-$~script
 ||crjpgate.com^$popup
 ||crjpingate.com^$popup
 ||crjugate.com^$popup
+||crn77.com^$popup
 ||crockuncomfortable.com^$popup
 ||crt.livejasmin.com^$popup
 ||cruel-love.com^$popup
@@ -5468,6 +5470,7 @@ _468_60-$~script
 ||stardomcoit.com^$popup
 ||starmobmedia.com^$popup
 ||starry-galaxy.com^$popup
+||starsallowyear.com^$popup
 ||startd0wnload22x.com^$popup
 ||statistic-data.com^$popup
 ||statsmobi.com^$popup
@@ -13722,7 +13725,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||instaemail.net^$third-party
 ||instapaper.com/e2$third-party
 ||instapaper.com/javascript/$third-party
-||instiengage.com^$third-party
 ||intelligems.io^$third-party
 ||intern.forskning.no^$third-party
 ||internetdefenseleague.org^$third-party
@@ -15091,6 +15093,7 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||ageverif.com^$third-party
 ||lifteragecheck.com^$third-party
 ||editmysite.com/app/marketing/js/dist/lead$script,domain=blueandwhitebottleshop.com|weebly.com
+||go.gsrv.dev^$dnsrewrite=ad-block.dns.adguard.com
 ||kjfmvnuri.click^$dnsrewrite=ad-block.dns.adguard.com
 ||host69k.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||druggedrat.com^$dnsrewrite=ad-block.dns.adguard.com
