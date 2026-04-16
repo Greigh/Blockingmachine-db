@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-04-15T19:58:19.194Z
-# Count: 18184
+# Generated: 2026-04-16T19:22:13.262Z
+# Count: 18189
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -10746,6 +10746,7 @@ omni.soundestlink.com$image
 ||uptrendsdata.com^$third-party
 ||uralweb.ru^$third-party
 ||urlbrief.com^$third-party
+||urldefense.com^$third-party
 ||usabilitytools.com^$third-party
 ||usabilla.com^$third-party
 ||useinsider.com^$third-party
@@ -11085,7 +11086,9 @@ omni.soundestlink.com$image
 ||xmrpool.net^$third-party
 ||zlx.com.br^$third-party
 ||acustomizedgift.com^$~xmlhttprequest
-||blushingbread.com^$~script
+||kindhush.com^$~xmlhttprequest
+||acustomizedgift.com^$redirect=noopjson,xmlhttprequest
+||kindhush.com^$redirect=noopjson,xmlhttprequest
 ||actirinius.com^$third-party
 ||aimtell.com^$third-party
 ||alertme.news^$third-party
@@ -14496,6 +14499,7 @@ _social_badge_$~xmlhttprequest
 ||cookielaw.org^$domain=aarrelehti.fi|aiheenasyopa.fi|antwerpdiamonds.direct|boxrox.com|callawaygolfpreowned.com|cdon.fi|elisaviihde.fi|finder.fi|findit.fi|findus.fi|intel.com|koneviesti.fi|maaseuduntulevaisuus.fi|metrotukku.fi|mtv.fi|mtvyritys.fi|ouka.fi|rollingstone.com|skanska.fi|sponda.fi|suomela.fi|suomi24.fi|urbandictionary.com|viestimedia.fi
 ||cdn.trustcommander.net/privacy/$script
 ||cookiepro.com^$domain=urbandictionary.com
+speedway.com##.fixed:has(a[href$="privacy-policy"])
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
 tinder.com#?#.C\(\$c-ds-text-secondary\):has-text(We value your privacy.)
 ||consentmanager.net^$important,script,domain=mediaite.com
@@ -14529,6 +14533,7 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 ||cmp.idg.pl^$script
 ||cmp.pcworld.pl^$script
 ||sicredi.io/lgpd-consentimento-coleta-cookies-$script
+||lmcdn.ru/static/*/assets/x-cookie-notify$domain=lamoda.by|lamoda.kz|lamoda.ru
 ||amazonaws.com/sc-tagmanager/nox-formulatv.js$domain=formulatv.com
 ||ct-stc.com^*/cookie-consent.bundle.min.js$domain=computrabajo.com
 @@/complianz-gdpr-premium/cookiebanner/$script,~third-party
