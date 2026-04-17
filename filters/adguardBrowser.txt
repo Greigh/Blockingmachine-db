@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-17T19:06:39.858Z
-! Rules count: 346119
+! Last updated: 2026-04-17T19:52:12.463Z
+! Rules count: 346123
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -30338,6 +30338,7 @@ browsershots.org#@#.advert_area
 ||personalparcelmarker.com^
 ||personalskillsex.org^
 ||personifyproposition.com^
+||perspectivebriefing.com^
 ||perstoppedsunken.com^
 ||pertauthentic.com^
 ||pertawee.net^
@@ -50798,6 +50799,7 @@ browsershots.org#@#.advert_area
 ||xwsixfdmrazgs.site^
 ||xwswadpmljmpj.com^
 ||xwtpdmsgkfbrz.online^
+||xwvtqtsrlgedu.space^
 ||xwwmfgqqifvdbh.com^
 ||xwwnlmicmcmly.website^
 ||xwxfocmndqvar.website^
@@ -51791,6 +51793,7 @@ browsershots.org#@#.advert_area
 ||ysgvhmiwrvsvt.website^
 ||yshfyhfhzvcik.club^
 ||ysjffeahkpzeb.online^
+||yskfsvgksetur.online^
 ||yslntvnwrqoqu.site^
 ||yslsymovnkkjl.site^
 ||ysnlkyfjswepg.online^
@@ -338019,6 +338022,7 @@ lighterusa.com#@##shopify-section-age-gate
 @@||cloudmail*.netcore.co.in^
 @@||cltr.wargaming.net^
 @@||cm.naukri.com^
+@@||cmail19.com^
 @@||cmodul.solutenetwork.com^
 @@||commander1.com^
 @@||commission-junction.com^
@@ -345999,7 +346003,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-04-17T19:06:39.868Z
+! Last updated: 2026-04-17T19:52:12.474Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important

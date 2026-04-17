@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-17T19:06:42.313Z
-! Rules count: 220564
+! Last updated: 2026-04-17T19:52:14.914Z
+! Rules count: 220568
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -28654,6 +28654,7 @@
 ||personalparcelmarker.com^
 ||personalskillsex.org^
 ||personifyproposition.com^
+||perspectivebriefing.com^
 ||perstoppedsunken.com^
 ||pertauthentic.com^
 ||pertawee.net^
@@ -49114,6 +49115,7 @@
 ||xwsixfdmrazgs.site^
 ||xwswadpmljmpj.com^
 ||xwtpdmsgkfbrz.online^
+||xwvtqtsrlgedu.space^
 ||xwwmfgqqifvdbh.com^
 ||xwwnlmicmcmly.website^
 ||xwxfocmndqvar.website^
@@ -50107,6 +50109,7 @@
 ||ysgvhmiwrvsvt.website^
 ||yshfyhfhzvcik.club^
 ||ysjffeahkpzeb.online^
+||yskfsvgksetur.online^
 ||yslntvnwrqoqu.site^
 ||yslsymovnkkjl.site^
 ||ysnlkyfjswepg.online^
@@ -219915,6 +219918,7 @@
 @@||cloudmail*.netcore.co.in^
 @@||cltr.wargaming.net^
 @@||cm.naukri.com^
+@@||cmail19.com^
 @@||cmodul.solutenetwork.com^
 @@||commander1.com^
 @@||commission-junction.com^
@@ -220572,7 +220576,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-04-17T19:06:42.320Z
+! Last updated: 2026-04-17T19:52:14.919Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
