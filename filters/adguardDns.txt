@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-18T18:57:27.702Z
-! Rules count: 221343
+! Last updated: 2026-04-18T19:34:35.440Z
+! Rules count: 221348
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -11591,6 +11591,7 @@
 ||eswpfkuwyovtm.space^
 ||esydixdtagncd.online^
 ||esyeqegjjxuwr.website^
+||esyopnuacdidw.site^
 ||eszdvidrksqop.site^
 ||esznfqrpeivdr.website^
 ||etacismbaroccoteachy.qpon^
@@ -11679,6 +11680,7 @@
 ||euvzpxozrlhtmt.com^
 ||euwdsqkrxwhwu.online^
 ||euwwoleald.com^
+||euxifwwuodhwx.website^
 ||ev7tw2puqz9luy.cfd^
 ||evadereprimand.com^
 ||evadesickness.com^
@@ -15524,6 +15526,7 @@
 ||hbstrifyesshz.website^
 ||hbudqnvaytwdc.world^
 ||hbutwehaveinour.com^
+||hbvgidhsgmjrz.website^
 ||hbwztfpirtboe.site^
 ||hbxpjlbmhffda.space^
 ||hbygyhcgjvclv.online^
@@ -25173,6 +25176,7 @@
 ||novemberassimilate.com^
 ||novemberbore.com^
 ||novemberinstallsplucky.com^
+||novenassmilerferity.cfd^
 ||novibet.partners^
 ||novicechickenlouisa.com^
 ||novicedragged.com^
@@ -41293,6 +41297,7 @@
 ||tlcpvkkboxamm.website^
 ||tldiozcisbbbu.site^
 ||tldkjwsmrjhlu.space^
+||tlertcjjelu.com^
 ||tlfdnmipkqp.com^
 ||tlfeivdeybass.store^
 ||tlhargslcdwpk.space^
@@ -221351,7 +221356,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-04-18T18:57:27.709Z
+! Last updated: 2026-04-18T19:34:35.445Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
