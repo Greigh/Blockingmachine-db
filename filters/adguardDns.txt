@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-21T19:18:29.965Z
-! Rules count: 218768
+! Last updated: 2026-04-21T19:59:40.374Z
+! Rules count: 218783
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -18264,6 +18264,7 @@
 ||ixdxyerfgeljb.online^
 ||ixehvtycykhik.store^
 ||ixflv6oin5853xul.rest^
+||ixgommzgtesvq.online^
 ||ixgyezjgpsnob.store^
 ||ixjqbrjolgrmf.store^
 ||ixjqjoscayasz.website^
@@ -18605,6 +18606,7 @@
 ||jetsoctroyblusht.cyou^
 ||jettedmitch.cfd^
 ||jettonpeeredodalman.cyou^
+||jevmcmyyokaza.space^
 ||jevvfcpopjvhc.com^
 ||jevybnmrhousp.site^
 ||jewacgufesztu.space^
@@ -112591,6 +112593,7 @@
 ||corporaldispleased.com^
 ||corporalgelnobles.com^
 ||corpsenoodleflakes.com^
+||corpspatrol.cfd^
 ||corramba.lol^
 ||correapiddles.qpon^
 ||correctdilutetrophy.com^
@@ -115468,6 +115471,7 @@
 ||ecef83eaa0.com^
 ||echeonycha.com^
 ||echevinseckel.qpon^
+||echitesbubblessita.cfd^
 ||echoflaresoap.com^
 ||echopixelwave.net^
 ||ecidjfjtiyxmg.website^
@@ -121554,6 +121558,7 @@
 ||hxkrtvwprsuut.space^
 ||hxmcaugiqijkz.store^
 ||hxoewq.com^
+||hxrcpiuqjdnyjrv.com^
 ||hxrvukhtvix.com^
 ||hxtvpdjsjgvvk.site^
 ||hxuaodojgvxbt.website^
@@ -124895,6 +124900,7 @@
 ||kustiforwarn.qpon^
 ||kutchviably.qpon^
 ||kuti8iar.xyz^
+||kutpadog.in^
 ||kuvirixa.com^
 ||kuxibbprpctsb.website^
 ||kuzpqknxmvcai.site^
@@ -127595,6 +127601,7 @@
 ||mltdiyzprltqk.website^
 ||mltrapzhhfoir.space^
 ||mlxniwjfsxefz.site^
+||mlxr5meug2gc89j5.rest^
 ||mlzcakscicnqn.website^
 ||mlzzgrruuvwd.com^
 ||mm-cgnews.com^
@@ -128160,6 +128167,7 @@
 ||mumblercameraephoebus.cyou^
 ||mummersclitic.cfd^
 ||mummifiedpatienceunknowing.com^
+||mummifypaps.shop^
 ||mumpercodo.com^
 ||mumpersquitely.qpon^
 ||muncherkarbi.cyou^
@@ -128254,6 +128262,7 @@
 ||mvjfgryarlnbh.online^
 ||mvjigogkqlgxo.icu^
 ||mvovblzjltyec.online^
+||mvptqo39pgz5369z49ve28k.cfd^
 ||mvrptblhcuehu.website^
 ||mvsdejyifaudl.space^
 ||mvstmjowjtxij.site^
@@ -129986,6 +129995,7 @@
 ||ofcuboneom.com^
 ||ofcukorporatefi.com^
 ||ofdoyluowkolk.website^
+||ofdpmoabbtak.in^
 ||offalsfetusduffers.qpon^
 ||offalsswelled.com^
 ||offbeat-function.pro^
@@ -130776,6 +130786,7 @@
 ||oucpambrmtexm.online^
 ||oudjmuimzsshw.space^
 ||oueltdoqctddl.online^
+||ouepihbzwdvrj.space^
 ||ouffjumlsqcss.space^
 ||ougnflauhyluf.online^
 ||ouhgvifdh.com^
@@ -132716,6 +132727,7 @@
 ||pkhtedxfloany.xyz^
 ||pkiagqasgbgqx.online^
 ||pkiigvaxvcsqe.online^
+||pkjevvtqkxuqe.space^
 ||pklmwmmzztxgs.space^
 ||pkmcfszxcwawg.online^
 ||pkmexmrmihp.com^
@@ -134894,6 +134906,7 @@
 ||q9efyh4bhwyiyp6.rest^
 ||qaccptvhxmhfq.site^
 ||qacrkaopng.com^
+||qacwnujgnoxmh.site^
 ||qaeadnlcctjvh.online^
 ||qaflyqanumeji.online^
 ||qahbicohgac.in^
@@ -139989,6 +140002,7 @@
 ||sesquiflushes.cyou^
 ||sessfetchio.com^
 ||sessionerect.com^
+||sessionlagvegetation.com^
 ||sessionnewspaperthirteenth.com^
 ||sestihjdtwokp.space^
 ||set-push.net^
@@ -143017,6 +143031,7 @@
 ||svirbuepmsnkn.online^
 ||svjpghwlxvmgv.online^
 ||svlitnlsrnrfg.website^
+||svljbpyjjnmkj.site^
 ||svmjnmmvxntru.site^
 ||svn-defender.pro^
 ||svngbsxtotzsd.online^
@@ -218776,7 +218791,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-04-21T19:18:29.971Z
+! Last updated: 2026-04-21T19:59:40.379Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
