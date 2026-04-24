@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-24T18:59:15.786Z
-! Rules count: 220895
+! Last updated: 2026-04-24T19:44:20.499Z
+! Rules count: 220901
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -24600,6 +24600,7 @@
 ||nhsjidkublhxy.site^
 ||nhsociwjxnapi.space^
 ||nhspperkjwbzr.online^
+||nhsvzsdvbsfzw.space^
 ||nhtkdwffnlgvl.store^
 ||nhtosawxpqjxu.site^
 ||nhtt2yebnxbemt.cfd^
@@ -25790,6 +25791,7 @@
 ||ogpnpauyoknvc.online^
 ||ogpriuleifns.com^
 ||ogpzwntwkuwyr.space^
+||ogqatvqilm.in^
 ||ogqbkcfyvycna.space^
 ||ogscumkte.com^
 ||ogsdmamkeamq.in^
@@ -33225,6 +33227,7 @@
 ||rfihub.com^
 ||rfihub.net^
 ||rfilmuhipsfdh.online^
+||rfjleunftkwbm.online^
 ||rfjqkgnnuouma.space^
 ||rfjqujxaued.net^
 ||rfknvbmz.com^
@@ -37160,6 +37163,7 @@
 ||snxqmwjwvyvbg.online^
 ||snyedslaps.shop^
 ||snzbaoijdyonz.website^
+||snzoszebakrrs.website^
 ||snzypsrjqdzrj.com^
 ||so-gr3at3.com^
 ||so1cool.com^
@@ -47040,6 +47044,7 @@
 ||wkrqvffpntjzm.store^
 ||wksdimozlhixl.site^
 ||wkszmjufkecij.online^
+||wkthujbsletu.com^
 ||wktjygrwvobcr.space^
 ||wktowncuthsvf.site^
 ||wktyyxtvwthxp.one^
@@ -50950,6 +50955,7 @@
 ||zonfbjtqyykqo.website^
 ||zonjdpdkswtna.online^
 ||zontqiwjmdzbv.space^
+||zonulassacaespaer.cfd^
 ||zonupiza.com^
 ||zoofaubogaujoo.net^
 ||zoologicalmanufacture.com^
@@ -220903,7 +220909,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-04-24T18:59:15.792Z
+! Last updated: 2026-04-24T19:44:20.505Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
