@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-04-26T19:39:53.640Z
-# Count: 18187
+# Generated: 2026-04-27T19:28:41.600Z
+# Count: 18186
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -11923,7 +11923,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mailinbox.com.br^$third-party
 ||marktest.pt^$third-party
 ||percycle.com^$third-party
-||pmweb.com.br^$third-party
 ||retargeter.com.br^$third-party
 ||sambaads.com^$third-party
 ||shoptarget.com.br^$third-party
