@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-04-27T20:03:46.801Z
-# Count: 18186
+# Generated: 2026-04-28T19:46:13.677Z
+# Count: 18187
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -8774,7 +8774,6 @@ omni.soundestlink.com$image
 ||blogreaderproject.com^$third-party
 ||bluecava.com^$third-party
 ||blueconic.net^$third-party
-||bluecore.com^$third-party
 ||blueknow.com^$third-party
 ||blvdstatus.com^$third-party
 ||bm23.com^$third-party
@@ -16380,6 +16379,7 @@ web.facebook.com,www.facebook.com##:matches-path(/marketplace/item) a[attributio
 ||bild.de^$doc,replace=/"adBlockWallEnabled":true/"adBlockWallEnabled":false/
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,xhr,domain=spiele.bild.de
 ||servedby.adbility-media.com^$3p
+*/www.bild.de/$media,redirect=noopmp3-0.1s
 *$script,3p,denyallow=googleapis.com,domain=skidrowcodexgames.com
 faz.net##+js(acs, $, _sp_._networkListenerData)
 ||adition.com^$important,domain=spiegel.de
@@ -17721,6 +17721,7 @@ fangraphs.com##+js(acs, $, Math.random)
 ||adnxs.com^$xhr,domain=welt.de,important
 ||asadcdn.com^$script,domain=welt.de,important
 ||amazonaws.com/homad-global-configs.schneevonmorgen.com/global_config.json$xhr,redirect=nooptext,domain=n-tv.de|golem.de
+@@||aud.springserve.com^$xhr,domain=welt.de
 ||damoh.gmx.*/*$media,redirect=noop-0.1s.mp3,1p
 ||united-infos.net^$domain=gmx.*|web.de
 *$media,redirect-rule=noop-0.1s.mp3,3p,domain=gmx.*|web.de
