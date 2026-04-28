@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-04-28T19:46:13.752Z
-! Rules count: 159432
+! Last updated: 2026-04-28T20:09:57.603Z
+! Rules count: 159434
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -2702,6 +2702,7 @@
 ||altarrousebrows.com^
 ||altcoin.care^
 ||alterassumeaggravate.com^
+||alteredlutist.com^
 ||alternatewavyrid.com^
 ||alternativecpmgate.com^
 ||althorncymbals.qpon^
@@ -9881,6 +9882,7 @@
 ||dimessing-parker.com^
 ||dimkfzxyvzhej.website^
 ||dimmerlingowashable.com^
+||dimmingtumming.com^
 ||dimmockvanglo.com^
 ||dimnessslatecosmetic.com^
 ||dimorganization.pro^
@@ -159440,7 +159442,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-04-28T19:46:13.757Z
+! Last updated: 2026-04-28T20:09:57.608Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
