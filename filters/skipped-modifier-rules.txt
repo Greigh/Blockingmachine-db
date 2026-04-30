@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-04-29T20:07:01.575Z
-# Count: 18184
+# Generated: 2026-04-30T19:28:08.109Z
+# Count: 18183
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -7361,6 +7361,7 @@ twitter.com,x.com##div[data-testid="UserCell"]:has(path[d$="10H8.996V8h7v7z"])
 twitter.com,x.com##div[data-testid="eventHero"]:has(path[d$="10H8.996V8h7v7z"])
 twitter.com,x.com##div[data-testid="placementTracking"]:has(div[data-testid$="-impression-pixel"])
 twitter.com,x.com##div[data-testid="trend"]:has(path[d$="10H8.996V8h7v7z"])
+streeteasy.com##li[class^="ListingCardsList_listCardWrapper_"]:has(a[href$="?infeed=1"])
 tripadvisor.*##section[data-automation$="_AdPlaceholder"]:has(.txxUo)
 amazon.*###faceoutContainer:has(> [class$="sponsored-label"])
 www.google.*##html[itemtype="http://schema.org/SearchResultsPage"] #cnt div[class$="sh-sr__bau"]
@@ -11091,7 +11092,6 @@ omni.soundestlink.com$image
 ||zlx.com.br^$third-party
 ||acustomizedgift.com^$~xmlhttprequest
 ||inventorycache.com^$~xmlhttprequest
-||kindhush.com^$~xmlhttprequest
 ||oceancloudhosts.com^$~xmlhttprequest
 ||actirinius.com^$third-party
 ||aimtell.com^$third-party
@@ -12713,7 +12713,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||static.chartbeat.com/js/chartbeat_mab.js$redirect=chartbeat.js,script
 ||acustomizedgift.com^$redirect=noopjs,script
 ||inventorycache.com^$redirect=noopjs,script
-||kindhush.com^$redirect=noopjson,xmlhttprequest
 ||oceancloudhosts.com^$redirect=noopjson,xmlhttprequest
 ||ubiquitoussea.com^$redirect=noopjs,script
 ||void.nicopr.fr/rec$method=POST
