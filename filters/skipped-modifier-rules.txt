@@ -1,6 +1,6 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-04-30T20:04:52.446Z
+# Generated: 2026-05-01T19:17:33.217Z
 # Count: 18183
 
 &rb=&uuid=$third-party
@@ -7335,6 +7335,7 @@ manhwabtt.com,tennismajors.com##[style$="min-height: 250px;"]
 neoseeker.com##[style$="min-height:355px;clear:both"]
 livejournal.com##[style$="width: 300px;"]
 imginn.com##div[class$="-money"]
+tribuna.com##div[class$="_ads-container"]
 azuremagazine.com##div[class$="azoa"]
 filehorse.com##div[class^="dx-"][class$="-1"]
 spiegel.de##div[data-advertisement$=":mobile"]
@@ -12731,7 +12732,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||galaxus.com/_next/static/chunks/rum.$script
 ||glomex.com^$ping
 ||otto.de^$ping
-||pons.com/pons-site-website-int/_astro/website-analytics.$script
 ||redaktionstest.net/cdn/$ping
 ||tarnkappe.info^$ping
 ||teltarif.de^$ping
@@ -13493,7 +13493,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||useinsider.com/ins.js$domain=pizzahut.jp
 @@||user.userguiding.com/sdk/identify$xmlhttprequest,domain=xaris.ai
 @@||webcdn.stream.ne.jp^*/referrer.js$domain=stream.ne.jp
-@@||wf.typesquare.com^$font,domain=morisawafonts.com
+@@||wf.typesquare.com^$font,domain=app.studio.design|morisawafonts.com
 @@||yjtag.yahoo.co.jp/tag?$script,domain=bousai.yahoo.co.jp
 @@||yu.xyz.mn/images/event.gif?$image,~third-party
 @@||naver.net/wcslog.js$domain=fragpunk.com|m.tv.naver.com
