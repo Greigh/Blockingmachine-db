@@ -1,6 +1,6 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-05-03T19:46:13.496Z
+# Generated: 2026-05-04T19:45:22.609Z
 # Count: 18188
 
 &rb=&uuid=$third-party
@@ -7097,7 +7097,7 @@ $third-party,xmlhttprequest,domain=mega4upload.net
 ||manytoon.com/script/$script
 ||mas.martech.yahoo.com^$domain=mail.yahoo.com
 ||media-amazon.com/images/S/apesafeframe/ape/sf/$script
-||media-amazon.com/images/S/sash/$domain=imdb.com
+||media-amazon.com/images/S/sash/$domain=www.imdb.com
 ||media.max.com/*/dash.mpd^$domain=cnn.com
 ||media.max.com/*/main.mpd^$domain=cnn.com
 ||mictests.com/myshowroom/view.php$subdocument
@@ -12718,6 +12718,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||static.chartbeat.com/js/chartbeat_mab.js$redirect=chartbeat.js,script
 ||acustomizedgift.com^$redirect=noopjs,script
 ||inventorycache.com^$redirect=noopjs,script
+||kindhush.com^$redirect=noopjs,script
 ||oceancloudhosts.com^$redirect=noopjson,xmlhttprequest
 ||ubiquitoussea.com^$redirect=noopjs,script
 ||void.nicopr.fr/rec$method=POST
@@ -16382,7 +16383,6 @@ web.facebook.com,www.facebook.com##:matches-path(/marketplace/item) a[attributio
 ||bild.de^$doc,replace=/"adBlockWallEnabled":true/"adBlockWallEnabled":false/
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,xhr,domain=spiele.bild.de
 ||servedby.adbility-media.com^$3p
-*/www.bild.de/$media,redirect=noopmp3-0.1s
 *$script,3p,denyallow=googleapis.com,domain=skidrowcodexgames.com
 faz.net##+js(acs, $, _sp_._networkListenerData)
 ||adition.com^$important,domain=spiegel.de
