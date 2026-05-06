@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-05-05T20:02:38.022Z
-# Count: 18190
+# Generated: 2026-05-06T19:50:59.778Z
+# Count: 18191
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -189,7 +189,7 @@
 /adsdelivery/*$subdocument
 /adserv.$script
 /adserve/*$script
-/adserver.$~stylesheet,~xmlhttprequest
+/adserver.$~stylesheet,~xmlhttprequest,domain=~konograma.com
 /adserver3.$image,script
 /adsforwp-front.min.css$stylesheet
 /adsimage/*$image,domain=~kamaz-service.kz|~theatreticketsdirect.co.uk
@@ -12899,6 +12899,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||cdn.matomo.cloud/tekuchi.matomo.cloud/matomo.js$domain=berkeleygroup.digital
 @@||cdn.mxpnl.com/libs/$script,domain=get.pumpkin.care
 @@||cdn.perfops.net/rom3/rom3.min.js$domain=cdnperf.com
+@@||cdn.petametrics.com/*-nbc.js$script,domain=bringmethenews.com
 @@||cdn.segment.com/analytics.js/$script,domain=abstractapi.com|accounts-bc.com|app.cryptotrader.tax|app.joinhandshake.com|driversed.com|fender.com|finerdesk.com|foxbusiness.com|foxnews.com|givingassistant.org|inxeption.io|reuters.com|squaretrade.com|swatches.interiordefine.com
 @@||cdn.sophi.io/assets/$script,domain=nationalpost.com
 @@||cdn.usefathom.com/script.js$domain=sharpen-free-design-generator.netlify.app
