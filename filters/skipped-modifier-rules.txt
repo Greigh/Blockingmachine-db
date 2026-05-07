@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-05-07T19:47:04.203Z
-# Count: 26751
+# Generated: 2026-05-07T20:08:34.990Z
+# Count: 26753
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -16889,7 +16889,7 @@ http://www.ads.$3p
 /^https:\/\/d[0-9a-z]{12,13}\.cloudfront\.net\/loader\.min\.js$/$script,3p,match-case,header=etag:/^W\/"[0-9a-f]{32}"$/
 /^https:\/\/[a-z]{3,4}\.[0-9a-z-]{6,}\.com\/script\/(?=[0-9a-z]{0,29}[A-Z])[0-9A-Za-z]{10,30}\.js$/$script,3p,match-case
 /^https:\/\/www\.[0-9a-z-]{6,}\.xyz\/script\/[-.0-9A-Za-z]+\.[A-Za-z-]{2,30}\.js$/$script,3p,match-case
-||html-load.com^$important,domain=nikkansports.com|j-cast.com|picksandparlays.net|ranking.net|minkou.jp|aucfree.com|motor-talk.de|373news.com|northantstelegraph.co.uk|tavovaikas.lt|agriculture.com|travelandleisure.com|learnreligions.com|verywellhealth.com|statecollege.com|dayspedia.com|aussieaudiomart.com|ukaudiomart.com|usaudiomart.com|canuckaudiomart.com|thestreet.com|kurashiru.com|micechat.com|seriouseats.com|followfollow.com|financialpost.com|vancouversun.com|driving.ca|theprovince.com|calgaryherald.com|edmontonsun.com|athlonsports.com|leaderpost.com|thestarphoenix.com|parade.com|elnacional.cat|livescience.com|saikyo-jump.com|torontosun.com|robbreport.com|thelayoff.com|preventionrd.com|meteo60.fr|cybertruckownersclub.com|jlwranglerforums.com|yorkshirepost.co.uk|hometalk.com|foodtalkdaily.com|ontariofarmer.com|all-nationz.com
+||html-load.com^$important,domain=nikkansports.com|j-cast.com|picksandparlays.net|ranking.net|minkou.jp|aucfree.com|motor-talk.de|373news.com|northantstelegraph.co.uk|tavovaikas.lt|agriculture.com|travelandleisure.com|learnreligions.com|verywellhealth.com|statecollege.com|dayspedia.com|aussieaudiomart.com|ukaudiomart.com|usaudiomart.com|canuckaudiomart.com|thestreet.com|kurashiru.com|micechat.com|seriouseats.com|followfollow.com|financialpost.com|vancouversun.com|driving.ca|theprovince.com|calgaryherald.com|edmontonsun.com|athlonsports.com|leaderpost.com|thestarphoenix.com|parade.com|elnacional.cat|livescience.com|saikyo-jump.com|torontosun.com|robbreport.com|thelayoff.com|preventionrd.com|meteo60.fr|cybertruckownersclub.com|jlwranglerforums.com|yorkshirepost.co.uk|hometalk.com|foodtalkdaily.com|ontariofarmer.com|all-nationz.com|broncosportforum.com|deltiasgaming.com
 /ybar/mail.yahoo.com/*adshield*$domain=mail.yahoo.com
 .com/script/*.js|$script,3p,domain=jmty.jp|dolldivine.com|knowt.com|thefreebieguy.com|blogmura.com|gruene-zitate.de|myforecast.com|jawapos.com|picks.my|gamewith.jp|motor-talk.de|worldhistory.org|kr-weathernews.com|nikkan-gendai.com|newser.com|zerogpt.com|smithsonianmag.com|slickdeals.net|signupgenius.com|saabcentral.com|reneweconomy.com.au|newser.com|laposte.net|deckshop.pro|auone.jp|emojipedia.org|nicovideo.jp
 ://www.*.xyz/script/$script,3p,domain=jmty.jp|dolldivine.com|knowt.com|thefreebieguy.com|blogmura.com|gruene-zitate.de|myforecast.com|jawapos.com|picks.my|gamewith.jp|motor-talk.de|worldhistory.org|kr-weathernews.com|nikkan-gendai.com|newser.com|zerogpt.com|smithsonianmag.com|slickdeals.net|signupgenius.com|saabcentral.com|reneweconomy.com.au|newser.com|laposte.net|deckshop.pro|auone.jp|emojipedia.org
@@ -18354,6 +18354,8 @@ $script,3p,domain=wecima.show,badfilter
 $popup,3p,domain=fembed-hd.com,badfilter
 $popup,3p,domain=sbplay2.com,badfilter
 $popup,3p,domain=dood.ws,badfilter
+@@||tg1.aniview.com/api/adserver/spt?$domain=nuovavenezia.it
+@@||player.avplayer.com^$domain=nuovavenezia.it
 @@||pubads.g.doubleclick.net/ondemand/hls/content/$domain=play.aetv.com
 ||brittanyaheadnew.com^$badfilter
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=drugs.com
