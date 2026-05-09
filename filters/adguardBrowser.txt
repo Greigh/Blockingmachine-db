@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-05-09T19:08:02.368Z
-! Rules count: 223999
+! Last updated: 2026-05-09T19:50:53.635Z
+! Rules count: 224005
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -5369,6 +5369,7 @@ browsershots.org#@#.advert_area
 ||assoilnantle.cyou^
 ||assortamplitudeoctober.com^
 ||assortmentrestrictions.com^
+||assuagegeoside.qpon^
 ||assumeflippers.com^
 ||assumptiveslumber.com^
 ||assuranceapprobationblackbird.com^
@@ -10024,6 +10025,7 @@ browsershots.org#@#.advert_area
 ||congersfungidcorkir.qpon^
 ||congerstunish.com^
 ||congestprowessburger.com^
+||congresscaptainfatal.com^
 ||congruedupoxidize.cyou^
 ||congruousimplication.com^
 ||congruousthey.com^
@@ -31857,6 +31859,7 @@ browsershots.org#@#.advert_area
 ||plxfiacmbklhsk.com^
 ||plxpubyxarcjl.space^
 ||plxserve.com^
+||plxzszrhmyysq.site^
 ||plyfoni.ru^
 ||plyikilugzsvo.website^
 ||plywoodgrubs.cyou^
@@ -33996,6 +33999,7 @@ browsershots.org#@#.advert_area
 ||qvwvsajsiwmhb.site^
 ||qvyqbrawwrynf.online^
 ||qw9xp8f49f2pfby.cfd^
+||qwfmqkysepqin.online^
 ||qwgruwrtcyxft.store^
 ||qwikln.com^
 ||qwjxcvdzrafum.club^
@@ -36299,6 +36303,7 @@ browsershots.org#@#.advert_area
 ||sandflymoaning.qpon^
 ||sandhowl.com^
 ||sandierlemurtedium.qpon^
+||sandixchasmgul.cyou^
 ||sandmakingsilver.info^
 ||sandpitreviver.shop^
 ||sandracismaboveaverage.com^
@@ -43979,6 +43984,7 @@ browsershots.org#@#.advert_area
 ||ufirmirylfavb.online^
 ||ufjmjniirpxfm.site^
 ||ufjmxuzi.com^
+||ufjrbxhnnaqai.com^
 ||ufjrhcjmb9fz694f.cfd^
 ||ufjwqdmqzlquq.world^
 ||ufkfvnlbtldu.com^
@@ -223879,7 +223885,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-05-09T19:08:02.372Z
+! Last updated: 2026-05-09T19:50:53.641Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
