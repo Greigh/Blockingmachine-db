@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-05-12T19:58:25.430Z
-! Rules count: 159026
+! Last updated: 2026-05-12T20:25:50.291Z
+! Rules count: 159031
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -3773,6 +3773,7 @@
 ||asxtutrchzxpw.com^
 ||aszsfjntyvrbg.website^
 ||atableofcup.com^
+||atahtgwxv.com^
 ||ataiyalstrays.com^
 ||atajuvenal.cfd^
 ||atala-apw.com^
@@ -4588,6 +4589,7 @@
 ||bayamostem.qpon^
 ||bayardagleafgallons.cyou^
 ||baycuruik.com^
+||bayetareveriebehoney.cfd^
 ||baygpuglqgzoi.store^
 ||bayingavenida.digital^
 ||bayshorline.com^
@@ -28511,6 +28513,7 @@
 ||ooijwtxpvcuvd.space^
 ||oojnpzimufgpr.online^
 ||oojujkszfgqxq.space^
+||oojwuhhcdhvwb.space^
 ||ookawfkiguyoho.com^
 ||ooktgltucmhnf.site^
 ||oolakdarwesh.cyou^
@@ -33446,6 +33449,7 @@
 ||reliableguardianindifference.com^
 ||reliablemore.com^
 ||relicremote.com^
+||reliefraindues.com^
 ||relievebastafellest.qpon^
 ||relieved-conflict.pro^
 ||relieved-potential.pro^
@@ -44354,6 +44358,7 @@
 ||uwqtngztblbpt.site^
 ||uwrhqzftllepi.site^
 ||uwsmamsebynub.site^
+||uwsolnysivq.com^
 ||uwtybptzsqcvo.online^
 ||uwuypebetgkvr.online^
 ||uwvfubpjih.com^
@@ -159034,7 +159039,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-05-12T19:58:25.435Z
+! Last updated: 2026-05-12T20:25:50.295Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
