@@ -1,6 +1,6 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-05-13T20:26:45.576Z
+# Generated: 2026-05-14T19:51:12.411Z
 # Count: 18236
 
 &rb=&uuid=$third-party
@@ -7061,7 +7061,7 @@ $third-party,xmlhttprequest,domain=mega4upload.net
 ||amazon.com/aan/$subdocument
 ||amazonaws.com/dazeddigital.com/Ads-main.js$domain=dazeddigital.com
 ||amazonaws.com/jsstore/$domain=babylonbee.com
-||amazonaws.com^$domain=megaup.net|uploadhaven.com
+||amazonaws.com^$domain=mangakakalot.gg|nelomanga.net|uploadhaven.com
 ||api.production.k8s.y3o.tv/nevarro/video-ads/$domain=yallo.tv
 ||app.mps.vsnt.net/fetch/ext/load-rottentomatoes-web.js$domain=rottentomatoes.com
 ||b-cdn.net^$domain=bunkr-albums.io|bunkr.cr|bunkr.si|simpcity.cr
