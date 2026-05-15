@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-05-15T19:43:26.555Z
-! Rules count: 159811
+! Last updated: 2026-05-15T20:10:48.851Z
+! Rules count: 159815
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -3289,6 +3289,7 @@
 ||aotewsxzxbnzj.space^
 ||aoufmmunivdqv.com^
 ||aouwjgfy.com^
+||aowbwnomvpry.com^
 ||aoxvlbejkrvvh.online^
 ||aoybyddyyolidd.com^
 ||aoyptpffgxcjy.website^
@@ -4204,6 +4205,7 @@
 ||axmfakdgwrrep.website^
 ||axmmilepqvdyj.world^
 ||axmpahohqac.in^
+||axojwdxauwpaa.online^
 ||axolotlly.com^
 ||axonix.com^
 ||axoxktmvnhtav.site^
@@ -24436,6 +24438,7 @@
 ||lyhuuplvlsuii.site^
 ||lyingplungeshopping.com^
 ||lyjoyhqefqcd.com^
+||lyjxnozaga.com^
 ||lylowerhughe.com^
 ||lylufhuxqwi.com^
 ||lyophilhoolalgins.cyou^
@@ -48828,6 +48831,7 @@
 ||wringbible.com^
 ||wringfindon.cyou^
 ||wristample.com^
+||wristedbirdleterring.cfd^
 ||wristedcrawful.shop^
 ||wristicalit.com^
 ||wristouthiss.qpon^
@@ -159819,7 +159823,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-05-15T19:43:26.559Z
+! Last updated: 2026-05-15T20:10:48.855Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes

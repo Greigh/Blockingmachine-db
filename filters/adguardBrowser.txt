@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-05-15T19:43:25.031Z
-! Rules count: 225724
+! Last updated: 2026-05-15T20:10:47.346Z
+! Rules count: 225728
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -4972,6 +4972,7 @@ browsershots.org#@#.advert_area
 ||aotewsxzxbnzj.space^
 ||aoufmmunivdqv.com^
 ||aouwjgfy.com^
+||aowbwnomvpry.com^
 ||aoxvlbejkrvvh.online^
 ||aoybyddyyolidd.com^
 ||aoyptpffgxcjy.website^
@@ -5887,6 +5888,7 @@ browsershots.org#@#.advert_area
 ||axmfakdgwrrep.website^
 ||axmmilepqvdyj.world^
 ||axmpahohqac.in^
+||axojwdxauwpaa.online^
 ||axolotlly.com^
 ||axonix.com^
 ||axoxktmvnhtav.site^
@@ -26122,6 +26124,7 @@ browsershots.org#@#.advert_area
 ||lyhuuplvlsuii.site^
 ||lyingplungeshopping.com^
 ||lyjoyhqefqcd.com^
+||lyjxnozaga.com^
 ||lylowerhughe.com^
 ||lylufhuxqwi.com^
 ||lyophilhoolalgins.cyou^
@@ -50514,6 +50517,7 @@ browsershots.org#@#.advert_area
 ||wringbible.com^
 ||wringfindon.cyou^
 ||wristample.com^
+||wristedbirdleterring.cfd^
 ||wristedcrawful.shop^
 ||wristicalit.com^
 ||wristouthiss.qpon^
@@ -225604,7 +225608,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-05-15T19:43:25.038Z
+! Last updated: 2026-05-15T20:10:47.352Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
