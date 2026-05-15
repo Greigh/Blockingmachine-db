@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-05-14T20:23:48.702Z
-# Count: 18236
+# Generated: 2026-05-15T19:43:26.477Z
+# Count: 18238
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -6781,6 +6781,7 @@ _468_60-$~script
 ||saveit.us/img/$third-party
 ||sbitany.com^*/affiliate/$third-party
 ||secure.money.com^$third-party
+||servrg.com^$third-party
 ||shareasale.com/image/$third-party
 ||shopmyshelf.us^$third-party
 ||signup.asurion.com^$subdocument
@@ -6988,6 +6989,7 @@ _468_60-$~script
 ||sexei.net^$subdocument,xmlhttprequest
 ||sexy.fling.com^$third-party
 ||sexycams.com/exports/$third-party
+||sheeme.com/affiliates/$third-party
 ||skeeping.com/live/$subdocument,third-party
 ||skyprivate.com^*/external/$third-party
 ||smartmovies.net/promo_$third-party
@@ -7364,6 +7366,7 @@ mangaplus.shueisha.tv##[style$="height: 260px; position: relative; width: 680px;
 nyaa.land##[style$="max-width: 1365px;"]
 manhwabtt.com,tennismajors.com##[style$="min-height: 250px;"]
 neoseeker.com##[style$="min-height:355px;clear:both"]
+minerstat.com##[style$="min-height:90px;display:flex;justify-content:center;"]
 livejournal.com##[style$="width: 300px;"]
 imginn.com##div[class$="-money"]
 tribuna.com##div[class$="_ads-container"]
@@ -17653,7 +17656,6 @@ reverso.net##+js(acs, $, adblock)
 ||digiseller.ru^$3p,domain=leechall.com
 *$script,3p,redirect-rule=noopjs,domain=leechall.download|leechall.com
 *$script,3p,denyallow=bootstrapcdn.com|cloudflare.com|cloudflare.net|googleapis.com|jsdelivr.net|tawk.to,domain=leechall.*
-||newtoki*.net/*banner$image,1p
 ||movie4me.*/image/ad-$image
 @@||ustv247.tv^$ghide
 @@||aii.sh^$ghide
