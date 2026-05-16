@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-05-15T20:10:48.775Z
-# Count: 18238
+# Generated: 2026-05-16T19:10:26.194Z
+# Count: 18239
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -12661,6 +12661,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||reddit.com/static/pixel.png$image
 ||run.app/events$domain=imgur.com|worldstar.com|worldstarhiphop.com
 ||rv.modanisa.com^$script
+||s.yimg.com/rx/ev/*/pframe.html$domain=aol.com
 ||s.yimg.com/ss/analytics-$script,domain=yahoo.com
 ||scholar.google.com^$ping
 ||search.brave.com/api/feedback$~third-party
