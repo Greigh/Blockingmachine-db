@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-05-16T19:56:51.337Z
-# Count: 18239
+# Generated: 2026-05-17T19:14:45.921Z
+# Count: 18234
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -14963,6 +14963,7 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 ||form.jotform.com^$domain=premierchristian.news
 ||forms-content.sg-form.com^$domain=12tomatoes.com
 ||forms.aweber.com^$domain=thetruthaboutguns.com
+||forms.blackhawks.com/newsletter-signup$subdocument
 ||herokuapp.com/email$domain=peopleofcolorintech.com
 ||listrakbi.com^$script,domain=ruralking.com
 ||news.atptour.com/p/$subdocument
@@ -14974,6 +14975,7 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 ||sibforms.com/serve/$domain=maidenhead-advertiser.co.uk|sloughexpress.co.uk
 ||smartbrief.com/TheForecast?$subdocument
 ||subscriptions.cbc.ca^$xmlhttprequest
+||tdgardenapps.com/countdown/2024_Game_Clock.html$subdocument
 ||tinypass.com^$domain=artnews.com|bbc.com|bbcgoodfood.com|billboard.com|businessinsider.com.pl|deadline.com|hollywoodreporter.com|nationalobserver.com|npr.org|outsideonline.com|prospectmagazine.co.uk|rawstory.com|refinery29.com|rollingstone.com|sifted.eu|stuff.co.nz|telegraph.co.uk|the42.ie|thedailybeast.com|thelogic.co|thenation.com|variety.com|wwd.com
 ||widgets.cpr.org/embeds/$domain=denverite.com
 ||wisepops.com^$domain=grist.org|prospect.org
@@ -16476,13 +16478,6 @@ rule34hentai.net##section[id$="main"]:has(> .blockbody > .adsbyexoclick)
 ||fux.com/*banner$image
 .com/external/*?width=300&height=250$frame,1p
 .com/nativeexternal/$frame,1p
-@@player*.html$frame,1p,domain=slreamplay.*
-*$frame,denyallow=google.com,domain=slreamplay.*|streampiay.*
-ext=$script,1p,domain=slreamplay.*
-||*ontent.steamplay.*^$all
-||steamplay.*^$csp=worker-src 'none';
-*$xhr,frame,3p,domain=steanplay.*,denyallow=spcdn.cc
-||btent.stre4mpay.one^$popup
 ||torlock.*/sww.js$script,1p
 /script/bootstrap.js$script,3p,domain=torlock.*|torlock2.*
 ||googlesyndication.com^$xhr,redirect=noopjs,domain=9to5google.com|9to5mac.com|9to5toys.com|dronedj.com|electrek.co|marketrealist.com
