@@ -48,7 +48,7 @@ Use these raw GitHub URLs in your ad blocker or DNS tool:
 
 | Rules | Size | Last Updated |
 |----------|-------|------|--------------|
-| 346,370 | 11.3MB | 2026-05-20 |
+| 346,375 | 11.3MB | 2026-05-20 |
 
 > Statistics automatically updated daily
 
