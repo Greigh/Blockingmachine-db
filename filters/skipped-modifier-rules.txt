@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-05-22T20:28:32.137Z
-# Count: 26810
+# Generated: 2026-05-23T19:16:23.012Z
+# Count: 26813
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -12987,6 +12987,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
 @@||dd.auspost.com.au/tags.js$script,~third-party
 @@||delta.com/dlhome/ruxitagentjs$~third-party
+@@||dishtv.in/scripts/adobeAnalytics.js$~third-party
 @@||docs.google.com/*/viewdata$~third-party
 @@||driverfix.com^*/index_src.php?tracking=$~third-party
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|tv.com
@@ -14245,6 +14246,7 @@ xcandid.vip,afasiaarchzine.com,forexrw7.com,gold-24.net##+js(addEventListener-de
 fcportables.com,ps2-bios.com##div[id$="____equal"]:not(.ad)
 ||npttech.com/advertising.js$important,script,redirect=noop.js,domain=~vijesti.me
 @@/libs/advertisement.js$domain=getfree.co.in|bagi.co.in|aztecafaucet.space|multifaucet.org|dogestar.website|claimbits.io|i-bits.io|gobits.io|faucet.shorterall.com|simplyfaucet.xyz|tv3.lv
+@@||hidencloud.com^$generichide
 @@||cashbackmonitor.com/js/prebid3.21.21.js$domain=cashbackmonitor.com
 ||play.gamepix.com/player/assets/js/prebid.js$script,redirect=noop.js,domain=play.gamepix.com
 ||api.adinplay.com/libs/aiptag/*/tag.min.js$script,redirect=noop.js,domain=play.gamepix.com
@@ -16933,6 +16935,7 @@ http://www.ads.$3p
 /?&pid=*&subid=$redirect=noop.txt,important,image,media,subdocument,stylesheet,script,xhr,other
 /?&subid=*&pid=$redirect=noop.txt,important,image,media,subdocument,stylesheet,script,xhr,other
 ||shieldload.neoseeker.com^$badfilter
+||chzbgr.com/s/release*/js-bundle/moist.js$domain=cheezburger.com
 /^https:\/\/[a-z]{3,4}\.[a-z]{8,16}\.com\/loader\.min\.js$/$script,3p,match-case,header=etag:/^W\/"[0-9a-f]{32}-\d{13}"$/
 /^https:\/\/d[0-9a-z]{12,13}\.cloudfront\.net\/loader\.min\.js$/$script,3p,match-case,header=etag:/^W\/"[0-9a-f]{32}"$/
 /^https:\/\/(?:[a-z]{3,4}\.)?[0-9a-z-]{6,}\.com\/script\/(?=[0-9a-z]{0,29}[A-Z])[0-9A-Za-z]{10,30}\.js$/$script,3p,match-case
@@ -18350,7 +18353,7 @@ unblocked.*##div[class="hidden-xs hidden-sm"] > div[class$="-bordered"]
 /files/news/image/offer$domain=torbobit.net|trubobit.com
 /^https:\/\/[a-z-]{5,13}\.[a-z]{2,6}\/[a-z0-9]{1,20}\?[A-Za-z0-9]{15,26}=(?=.*[A-Z])[A-Za-z0-9%]{35,2000}$/$xhr,3p,match-case
 /^https:\/\/strumyk\.net\/assets\/[0-9]+.js$/$script,domain=strumyk.net
-/^https:\/\/(?:[0-9a-z]+\.){1,2}(?:cfd|rest)\/[a-z](?=[a-z]*[0-9A-Z])[0-9A-Za-z]{10,27}\/[A-Za-z]{5}$/$script,3p,match-case
+/^https:\/\/(?:[0-9a-z]+\.){1,2}(?:cfd|rest)\/[a-z](?=[a-z]*[0-9A-Z])[0-9A-Za-z]{10,27}\/(?:\d{6}|[A-Za-z]{5})$/$script,3p,match-case
 /^https:\/\/(?:[a-z]{2}\.)?[a-z]{7,14}\.com\/[a-z](?=[a-z]*[0-9A-Z])[0-9A-Za-z]{10,27}\/[A-Za-z]{4,5}$/$script,3p,match-case
 /^https:\/\/(?:[a-z]{2}\.)?[a-z]{7,14}\.shop\/[a-z](?=[a-z]*[0-9A-Z])[0-9A-Za-z]{10,27}\/[A-Za-z]{4,5}(?:[&?]param_\d=\d+)*$/$subdocument,3p,match-case
 /^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{3,6}(?:[&?][0-9_a-z]=[0-9A-Za-z-]+)*$/$subdocument,script,xhr,3p,match-case
