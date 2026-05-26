@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-05-25T20:19:35.439Z
-# Count: 18237
+# Generated: 2026-05-26T20:13:27.572Z
+# Count: 18238
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -109,7 +109,6 @@
 /ad_side.$~xmlhttprequest
 /ad_skyscraper.gif$image
 /ad_top.jpg$image
-/ad_top.js$script
 /adanalytics.js$script
 /adaptvadplayer.js$script
 /adasync.js$script
@@ -2632,6 +2631,7 @@ _468_60-$~script
 ||skyscrpr.com^$third-party
 ||skytraffix.net^$third-party
 ||slfpu.com^$third-party
+||slickstream.com^$third-party
 ||slikslik.com^$third-party
 ||slimspots.com^$third-party
 ||slopeaota.com^$third-party
@@ -14017,6 +14017,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bac-assets.com/spa/widgets/www-chat/$media,domain=bankofamerica.com
 ||camel1.tv/media/$media
 ||carchat24.com/inpagechat/audio/$media
+||cdn.24liveblog.com/audio/$media
 ||channel.io/plugin/$media
 ||chat.octadesk.services/embed/static/media/$media
 ||chatbot.denizbank.com/Content/media/$media
