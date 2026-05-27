@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-05-26T20:51:02.340Z
-# Count: 18238
+# Generated: 2026-05-27T20:22:56.354Z
+# Count: 18242
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -8337,6 +8337,7 @@ _view_pixel&$image
 .mjt.lu/oo/$image
 .mozilla.org/eos/$image
 .na1.hs-sales-engage.com/$image
+.na1.hubspotlinks.com/$image
 .netcologne.de/-open2/$image
 .nordvpn.com/q/$image
 .online.costco.com/t?$image
@@ -12755,6 +12756,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||acustomizedgift.com^$redirect=noopjs,script
 ||fishingtoolsbox.com^$redirect=noopjs,script
 ||fjordsand.com^$redirect=noopjs,script
+||glasscoyote.com^$redirect=noopjs,script
 ||goddesslamps.com^$redirect=noopjs,script
 ||inventorycache.com^$redirect=noopjs,script
 ||kindhush.com^$redirect=noopjs,script
@@ -15169,6 +15171,8 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||ageverif.com^$third-party
 ||lifteragecheck.com^$third-party
 ||editmysite.com/app/marketing/js/dist/lead$script,domain=blueandwhitebottleshop.com|weebly.com
+||happyleafmotion.com^$dnsrewrite=ad-block.dns.adguard.com
+||offer-extensions.com^$dnsrewrite=ad-block.dns.adguard.com
 ||frhiys.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trafficoza.com^$dnsrewrite=ad-block.dns.adguard.com
 ||kdmupcsngkdoz.website^$dnsrewrite=ad-block.dns.adguard.com
