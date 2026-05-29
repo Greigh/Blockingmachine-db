@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-05-28T21:03:37.823Z
-# Count: 18238
+# Generated: 2026-05-29T20:31:04.181Z
+# Count: 18239
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -15170,6 +15170,7 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||ageverif.com^$third-party
 ||lifteragecheck.com^$third-party
 ||editmysite.com/app/marketing/js/dist/lead$script,domain=blueandwhitebottleshop.com|weebly.com
+||lust-girls.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wizensbuphaga.sh^$dnsrewrite=ad-block.dns.adguard.com
 ||happyleafmotion.com^$dnsrewrite=ad-block.dns.adguard.com
 ||offer-extensions.com^$dnsrewrite=ad-block.dns.adguard.com
