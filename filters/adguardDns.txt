@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-05-30T19:22:21.407Z
-! Rules count: 160394
+! Last updated: 2026-05-30T20:03:22.443Z
+! Rules count: 160401
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -99,6 +99,7 @@
 ||10q6e9ne5.de^
 ||10sn95to9.de^
 ||11004potential.net^
+||110outambitious.net^
 ||1193d6426d.com^
 ||119dbc9238.com^
 ||11b5e84fb9.com^
@@ -17428,6 +17429,7 @@
 ||glyshalimu.com^
 ||gmads.net^
 ||gmaigshirczdk.site^
+||gmalsknazbgxg.online^
 ||gmaringpoliticism.org^
 ||gmdztiffhihsf.online^
 ||gmfcfejaqmkma.online^
@@ -18115,6 +18117,7 @@
 ||gttmehelya.cyou^
 ||gtuetxpyzuaeg.website^
 ||gtuxvjpwgyzob.online^
+||gtzlkagsbdukg.site^
 ||guaiacrinka.qpon^
 ||guanchelutrineconter.qpon^
 ||guarapototes.com^
@@ -19098,6 +19101,7 @@
 ||hiboowbrkegop.site^
 ||hichuboosts.cyou^
 ||hickishunbuskinkle.cyou^
+||hicnwrwfphkyz.website^
 ||hicoriatricia.qpon^
 ||hicrqskneechm.website^
 ||hidcolouredclink.com^
@@ -25840,6 +25844,7 @@
 ||lugirsbhpifnl.store^
 ||lugldnhhw.com^
 ||luglgf6r816982rr45f2.cfd^
+||lugtwzzerj.com^
 ||lugwzalsqvacb.one^
 ||luhbnpeabgeqf.online^
 ||luhikxgnhksf.com^
@@ -44703,6 +44708,7 @@
 ||upbeatshellos.cyou^
 ||upbindsswythe.com^
 ||upboresoutar.com^
+||upbuyreifslanista.cfd^
 ||upcdowmiysviw.site^
 ||upceiqujrwgsl.online^
 ||upcityarles.com^
@@ -50975,6 +50981,7 @@
 ||ykywmnqnokgck.site^
 ||ykyzppapcuhql.online^
 ||ykzzjyyshqniz.space^
+||yl2cpf8z89oheopz6pblc.rest^
 ||yl2zmpr5xermgw4itm4q9qx8v.cfd^
 ||yladihsmkopov.xyz^
 ||ylbcwkazxnmjp.online^
@@ -160402,7 +160409,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-05-30T19:22:21.412Z
+! Last updated: 2026-05-30T20:03:22.448Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
