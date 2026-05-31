@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-05-30T20:03:22.366Z
-# Count: 18239
+# Generated: 2026-05-31T19:22:26.439Z
+# Count: 18241
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -7065,7 +7065,7 @@ $third-party,xmlhttprequest,domain=mega4upload.net
 ||amazon.com/aan/$subdocument
 ||amazonaws.com/dazeddigital.com/Ads-main.js$domain=dazeddigital.com
 ||amazonaws.com/jsstore/$domain=babylonbee.com
-||amazonaws.com^$domain=mangakakalot.gg|nelomanga.net|uploadhaven.com
+||amazonaws.com^$domain=animeflv.net|mangakakalot.gg|nelomanga.net|uploadhaven.com
 ||api.production.k8s.y3o.tv/nevarro/video-ads/$domain=yallo.tv
 ||app.mps.vsnt.net/fetch/ext/load-rottentomatoes-web.js$domain=rottentomatoes.com
 ||b-cdn.net^$domain=bunkr-albums.io|bunkr.cr|bunkr.si|simpcity.cr
@@ -7174,7 +7174,7 @@ $third-party,xmlhttprequest,domain=mega4upload.net
 ||twt-assets.washtimes.com^$script,domain=washingtontimes.com
 ||usrfiles.com^$domain=melophobemusic.com
 ||weedmaps.com/seg/evs/$~third-party,xmlhttprequest
-||workers.dev^$domain=chessgames.com
+||workers.dev^$domain=chessgames.com|player.vidzee.wtf
 ||wpengine.com/wp-json/api/advanced_placement/new-in-article/?type=placement^$domain=androidauthority.com
 ||yimg.com/rq/darla/$domain=yahoo.com
 /^https?:\/\/.*\.(club|bid|biz|xyz|site|pro|info|online|icu|monster|buzz|website|biz|re|casa|top|one|space|network|live|systems|ml|world|life|co)\/.*/$~image,~media,~subdocument,third-party,domain=1cloudfile.com|adblockstreamtape.art|adblockstreamtape.site|bowfile.com|clipconverter.cc|desiupload.co|dood.la|dood.pm|dood.so|dood.to|dood.watch|dood.ws|dopebox.to|downloadpirate.com|drivebuzz.icu|embedstream.me|eplayvid.net|fmovies.ps|gospeljingle.com|kissanimes.net|movies2watch.tv|myflixer.today|myflixertv.to|powvideo.net|scloud.online|skidrowcodex.net|streamtape.com|theproxy.ws|vidembed.cc|vidembed.io|vidlii.com|vidoo.org|vipbox.lc
@@ -8255,6 +8255,8 @@ _view_pixel&$image
 /_static/deliver.js?nonce=$script,~third-party
 /munin/a/ls?t=$xmlhttprequest
 /sxp/i/*$script,third-party,domain=~linkvertise.com
+/DNSCheck.js$domain=~github.com
+/DNSChecker.js$domain=~github.com
 /cdn-cgi/apps/body/*$script,~third-party
 /cdn-cgi/apps/head/*$script,~third-party
 &pagegroup=*&url=$script
