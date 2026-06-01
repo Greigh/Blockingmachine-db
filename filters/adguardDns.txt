@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-06-01T21:37:20.213Z
-! Rules count: 161057
+! Last updated: 2026-06-01T21:57:30.673Z
+! Rules count: 161064
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -1271,6 +1271,7 @@
 ||8f998710bd.com^
 ||8fbfeb27e6.com^
 ||8giyhzqgxk2vyjcj21koo.rest^
+||8gl83jp7u9m9y5gffmx5f.rest^
 ||8hwnenz8w55hiu3zxe.cfd^
 ||8ip4v8jmjvn1vvuicm5bgly24wu.cfd^
 ||8iwyq46mqienxi81izfmcc51yrpnb.rest^
@@ -24601,6 +24602,7 @@
 ||l543tw3x9z6vb5m3mxohj.cfd^
 ||l59811372wc1gqfiim1y.rest^
 ||l5ejbe9k5hkkl5mqjbe8uftubnv.cfd^
+||l5i8c6vi5yupfh4.cfd^
 ||l5lhhe1pouki6n.cfd^
 ||l5mkolerlnc5v33kmwfrhljrwwb.rest^
 ||l6gl1j3x5hulpz73fh6ehe8utpt.cfd^
@@ -34047,6 +34049,7 @@
 ||previous-specific.pro^
 ||previouslyrightfulpry.com^
 ||previouslyvaluableexploit.com^
+||prevoidboulle.com^
 ||prevueseugonicjilting.cyou^
 ||prewarmritards.cfd^
 ||prewarmrushier.cfd^
@@ -35034,6 +35037,7 @@
 ||qcuwpicccoscr.online^
 ||qcvgwqvgwtpxf.website^
 ||qcwnfoqtqgvau.icu^
+||qcxpoulxosxnf.site^
 ||qcyfngmkrhcmg.website^
 ||qdbqdirohipeb.space^
 ||qdfifcifrcctr.website^
@@ -35269,6 +35273,7 @@
 ||qkxfqleua.com^
 ||qkxwhdgnpczur.space^
 ||qkxwtytuaybam.space^
+||qkxzzupsfotzb.website^
 ||qkywopumttfgd.com^
 ||qkzrybopigalg.site^
 ||qkzuoyocjmsgu.site^
@@ -42550,6 +42555,7 @@
 ||themselvespresentationfavourable.com^
 ||themselvessuit.com^
 ||thenpreservationticket.com^
+||theodisrobe.qpon^
 ||theonecdn.com^
 ||theonesstoodtheirground.com^
 ||theoreticalchatter.com^
@@ -47452,6 +47458,7 @@
 ||wargitom.in^
 ||warhealthy.com^
 ||warilyclickframes.com^
+||warilyencases.cfd^
 ||warineambatchgreeney.qpon^
 ||warkheels.com^
 ||warksparotia.cfd^
@@ -161065,7 +161072,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-06-01T21:37:20.218Z
+! Last updated: 2026-06-01T21:57:30.677Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
