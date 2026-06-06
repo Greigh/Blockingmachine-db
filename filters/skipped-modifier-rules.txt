@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-06-05T20:45:45.730Z
-# Count: 26832
+# Generated: 2026-06-06T19:28:51.318Z
+# Count: 26834
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -3119,6 +3119,7 @@ _468_60-$~script
 ||alitems.site^$popup
 ||alleviatepracticableaddicted.com^$popup
 ||allhypefeed.com^$popup
+||allowseshehasn.com^$popup
 ||allsportsflix.best^$popup
 ||allsportsflix.top^$popup
 ||allsporttv.com^$popup
@@ -4434,6 +4435,7 @@ _468_60-$~script
 ||livepromotools.com^$popup
 ||livezombymil.com^$popup
 ||lizebruisiaculi.info^$popup
+||ljline.com^$popup
 ||lkcoffe.com^$popup
 ||lkstrck2.com^$popup
 ||llpgpro.com^$popup
@@ -4886,6 +4888,7 @@ _468_60-$~script
 ||ougeechimp.net^$popup
 ||oulsaultaulert.com^$popup
 ||oulsools.com^$popup
+||oundhertobeconsist.org^$popup
 ||oungimuk.net^$popup
 ||ourcommonnews.com^$popup
 ||ourcommonstories.com^$popup
@@ -12791,7 +12794,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||xing.com^$ping
 ||email.nautiljon.com/oo/$image
 ||jscrambler.com^$script,domain=airfrance.fr
-||lemonde.fr^$ping
 ||lepoint.fr/img-l/$image
 ||t.7sur7.be^$image
 ||clewm.net/public/cli_analytics.js$domain=cli.im
@@ -13330,6 +13332,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||dd.blackhawknetwork.com.first-party-js.datadome.co^$domain=redeem.rewardlink.com
 @@||dd.qa.moneygram.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=moneygram.com
 @@||dd.wizzair.com.first-party-js.datadome.co^$domain=wizzair.com
+@@||dwt.soundcloud.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=soundcloud.com
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||mycleverpush.com/iframe?$domain=bsdex.de
 @@||n8s.jp^$script,domain=nikkei.com
@@ -16862,7 +16865,6 @@ _clickunder&pb=$popup
 .icu/*?zoneid=*&visitor_id=$all
 /?pid=*&subid=*&clickid=$popup
 /?tag=*&clickid=*&subid=$popup
-.com/f_lo.js|$script,~3p
 /phpbb_ads/*$~xhr
 /tghr.js$script
 /in/p/?spot_id=$document,popup
