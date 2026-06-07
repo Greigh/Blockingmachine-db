@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-06-07T19:28:45.947Z
-! Rules count: 220517
+! Last updated: 2026-06-07T20:06:20.974Z
+! Rules count: 220521
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -2399,6 +2399,7 @@
 ||agdakdhru.in^
 ||agdbaltzyo.com^
 ||agdqpqizyvmyx.online^
+||age810.net^
 ||aged-minor.pro^
 ||agedlysublid.qpon^
 ||agedycsmjwbtt.website^
@@ -2524,6 +2525,7 @@
 ||ahtcwbfctgvnk.site^
 ||ahtplqvbxkule.online^
 ||ahtycexk.com^
+||ahuieohwuk.com^
 ||ahukfcpfknenp.website^
 ||ahunchpewixod.website^
 ||ahungrybogomil.com^
@@ -9086,6 +9088,7 @@
 ||dazhantai.com^
 ||dazmmlkurukfj.space^
 ||daznpfkkuujek.online^
+||dazxkfkneqjnq.online^
 ||dazzlingdelay.com^
 ||dazzlingnoise.pro^
 ||dazzlingpriority.pro^
@@ -22200,6 +22203,7 @@
 ||lp6v4zimwtoj367wgwvj.cfd^
 ||lparket.com^
 ||lpcci9ue6qb5je4e.rest^
+||lpciuhqwcgdfp.space^
 ||lpcqrynsjihwr.site^
 ||lpcqyjyhfhets.space^
 ||lpdealnmphyj.com^
@@ -220525,7 +220529,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-06-07T19:28:45.953Z
+! Last updated: 2026-06-07T20:06:20.979Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
