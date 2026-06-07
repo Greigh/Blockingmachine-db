@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-06-06T20:04:27.171Z
-# Count: 26834
+# Generated: 2026-06-07T19:28:45.783Z
+# Count: 26837
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -1896,6 +1896,7 @@ _468_60-$~script
 ||afront.io^$third-party
 ||afy11.net^$third-party
 ||afyads.com^$third-party
+||agentio.com^$third-party
 ||aim4media.com^$third-party
 ||ainsyndication.com^$third-party
 ||airfind.com^$third-party
@@ -8908,6 +8909,7 @@ omni.soundestlink.com$image
 ||celebrus.com^$third-party
 ||center.io^$third-party
 ||cetrk.com^$third-party
+||cfmediaview.com^$third-party
 ||cftrack.com^$third-party
 ||chartaca.com^$third-party
 ||chartbeat.com^$third-party
@@ -16952,7 +16954,7 @@ http://www.ads.$3p
 /^https:\/\/d[0-9a-z]{12,13}\.cloudfront\.net\/loader\.min\.js$/$script,3p,match-case,header=etag:/^W\/"[0-9a-f]{32}"$/
 /^https:\/\/(?:[a-z]{3,4}\.)?[0-9a-z-]{6,}\.com\/script\/(?=[0-9a-z]{0,29}[A-Z])[0-9A-Za-z]{10,30}\.js$/$script,3p,match-case
 /^https:\/\/www\.[0-9a-z-]{6,}\.xyz\/script\/[-.0-9A-Za-z]+\.[A-Za-z-]{2,30}\.js$/$script,3p,match-case
-||html-load.com^$important,domain=nikkansports.com|j-cast.com|picksandparlays.net|ranking.net|minkou.jp|aucfree.com|motor-talk.de|373news.com|northantstelegraph.co.uk|tavovaikas.lt|agriculture.com|travelandleisure.com|learnreligions.com|verywellhealth.com|statecollege.com|dayspedia.com|aussieaudiomart.com|ukaudiomart.com|usaudiomart.com|canuckaudiomart.com|thestreet.com|kurashiru.com|micechat.com|seriouseats.com|followfollow.com|financialpost.com|vancouversun.com|driving.ca|theprovince.com|calgaryherald.com|edmontonsun.com|athlonsports.com|leaderpost.com|thestarphoenix.com|parade.com|elnacional.cat|livescience.com|saikyo-jump.com|torontosun.com|robbreport.com|thelayoff.com|preventionrd.com|meteo60.fr|cybertruckownersclub.com|jlwranglerforums.com|yorkshirepost.co.uk|hometalk.com|foodtalkdaily.com|ontariofarmer.com|all-nationz.com|broncosportforum.com|deltiasgaming.com|taycanforum.com|urbandictionary.com|lfpress.com|4runner6g.com|f150gen14.com|mavericktruckclub.com|tacoma4g.com|game8.jp
+||html-load.com^$important,domain=nikkansports.com|j-cast.com|picksandparlays.net|ranking.net|minkou.jp|aucfree.com|motor-talk.de|373news.com|northantstelegraph.co.uk|tavovaikas.lt|agriculture.com|travelandleisure.com|learnreligions.com|verywellhealth.com|statecollege.com|dayspedia.com|aussieaudiomart.com|ukaudiomart.com|usaudiomart.com|canuckaudiomart.com|thestreet.com|kurashiru.com|micechat.com|seriouseats.com|followfollow.com|financialpost.com|vancouversun.com|driving.ca|theprovince.com|calgaryherald.com|edmontonsun.com|athlonsports.com|leaderpost.com|thestarphoenix.com|parade.com|elnacional.cat|livescience.com|saikyo-jump.com|torontosun.com|robbreport.com|thelayoff.com|preventionrd.com|meteo60.fr|cybertruckownersclub.com|jlwranglerforums.com|yorkshirepost.co.uk|hometalk.com|foodtalkdaily.com|ontariofarmer.com|all-nationz.com|broncosportforum.com|deltiasgaming.com|taycanforum.com|urbandictionary.com|lfpress.com|4runner6g.com|f150gen14.com|mavericktruckclub.com|tacoma4g.com|game8.jp|windowscentral.com|tomshardware.com
 /ybar/mail.yahoo.com/*adshield*$domain=mail.yahoo.com
 .com/script/*.js|$script,3p,domain=jmty.jp|dolldivine.com|knowt.com|thefreebieguy.com|blogmura.com|gruene-zitate.de|myforecast.com|jawapos.com|picks.my|gamewith.jp|motor-talk.de|worldhistory.org|kr-weathernews.com|newser.com|zerogpt.com|smithsonianmag.com|slickdeals.net|signupgenius.com|saabcentral.com|reneweconomy.com.au|newser.com|laposte.net|deckshop.pro|auone.jp|emojipedia.org|nicovideo.jp|cpu-monkey.com
 ://www.*.xyz/script/$script,3p,domain=jmty.jp|dolldivine.com|knowt.com|thefreebieguy.com|blogmura.com|gruene-zitate.de|myforecast.com|jawapos.com|picks.my|gamewith.jp|motor-talk.de|worldhistory.org|kr-weathernews.com|newser.com|zerogpt.com|smithsonianmag.com|slickdeals.net|signupgenius.com|saabcentral.com|reneweconomy.com.au|newser.com|laposte.net|deckshop.pro|auone.jp|emojipedia.org|cpu-monkey.com
@@ -20458,6 +20460,7 @@ wss://www.*.xyz/ws^$3p
 ||afront.io^$3p
 ||afy11.net^$3p
 ||afyads.com^$3p
+||agentio.com^$3p
 ||aim4media.com^$3p
 ||ainsyndication.com^$3p
 ||airfind.com^$3p
@@ -23605,12 +23608,12 @@ scandinavianphoto.fi##div[style^="opacity: 1; height: "][style$="px;"]
 ||omnisnippet1.com^$domain=miuratakuya.store|yourcelebritymagazines.com
 ||p.ynet.co.il^$subdocument
 ||p2a.co/embed/widget/app/$domain=thefire.org
-||piano.io^$domain=artnews.com|bbc.com|bbcgoodfood.com|billboard.com|deadline.com|hollywoodreporter.com|nationalobserver.com|npr.org|outsideonline.com|prospectmagazine.co.uk|rawstory.com|refinery29.com|rollingstone.com|sifted.eu|stuff.co.nz|telegraph.co.uk|the42.ie|thedailybeast.com|thelogic.co|thenation.com|variety.com|wwd.com
+||piano.io^$domain=artnews.com|bbc.com|bbcgoodfood.com|billboard.com|connexionfrance.com|deadline.com|hollywoodreporter.com|nationalobserver.com|npr.org|outsideonline.com|prospectmagazine.co.uk|rawstory.com|refinery29.com|rollingstone.com|sifted.eu|stuff.co.nz|telegraph.co.uk|the42.ie|thedailybeast.com|thelogic.co|thenation.com|variety.com|wwd.com
 ||sibforms.com/serve/$domain=maidenhead-advertiser.co.uk|sloughexpress.co.uk
 ||smartbrief.com/TheForecast?$subdocument
 ||subscriptions.cbc.ca^$xmlhttprequest
 ||tdgardenapps.com/countdown/2024_Game_Clock.html$subdocument
-||tinypass.com^$domain=artnews.com|bbc.com|bbcgoodfood.com|billboard.com|businessinsider.com.pl|deadline.com|hollywoodreporter.com|nationalobserver.com|npr.org|outsideonline.com|prospectmagazine.co.uk|rawstory.com|refinery29.com|rollingstone.com|sifted.eu|stuff.co.nz|telegraph.co.uk|the42.ie|thedailybeast.com|thelogic.co|thenation.com|variety.com|wwd.com
+||tinypass.com^$domain=artnews.com|bbc.com|bbcgoodfood.com|billboard.com|businessinsider.com.pl|connexionfrance.com|deadline.com|hollywoodreporter.com|nationalobserver.com|npr.org|outsideonline.com|prospectmagazine.co.uk|rawstory.com|refinery29.com|rollingstone.com|sifted.eu|stuff.co.nz|telegraph.co.uk|the42.ie|thedailybeast.com|thelogic.co|thenation.com|variety.com|wwd.com
 ||widgets.cpr.org/embeds/$domain=denverite.com
 ||wisepops.com^$domain=grist.org|prospect.org
 ||api.pico.tools^$third-party
