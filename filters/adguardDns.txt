@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-06-12T20:15:40.500Z
-! Rules count: 212082
+! Last updated: 2026-06-12T20:59:48.935Z
+! Rules count: 212097
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -236,6 +236,7 @@
 ||1i8c0f11.de^
 ||1igare0jn.de^
 ||1inplatforms.net^
+||1instances.com^
 ||1itot7tm.de^
 ||1j5syuz0.xyz^
 ||1j771bhgi.de^
@@ -18568,6 +18569,7 @@
 ||ilpwrmtcbst.com^
 ||ilqtskaqbxdrj.website^
 ||ilrkcyoqtybaf.website^
+||ilrzzwgdvstdw.site^
 ||ilsdbeladkgaj.com^
 ||ilshiletterismype.org^
 ||ilvumysnmlrvr.space^
@@ -21557,6 +21559,7 @@
 ||krhuixsm.com^
 ||kri45879oupj5plpcl.cfd^
 ||krisydark.com^
+||krjlfefqxbwft.site^
 ||krjxhubmrumxk.online^
 ||krjxhvyyzp.com^
 ||krkstrk.com^
@@ -25013,6 +25016,7 @@
 ||mqutibglqfjmq.website^
 ||mqwdgnbntkgen.space^
 ||mqxbtsawpuulc.store^
+||mqzfvlchjfiki.com^
 ||mr2cnjuh34jb.com^
 ||mr9rxihn18wbh4pqkkjzb6go86.cfd^
 ||mraza2dosa.com^
@@ -100630,6 +100634,7 @@
 ||33ewu7kr.xyz^
 ||33f6zczi4x83l3n3.cfd^
 ||33fromsource.net^
+||33services.net^
 ||34-new-lambda.net^
 ||342imaging.com^
 ||3434849c2e.com^
@@ -111002,6 +111007,7 @@
 ||dskkye.com^
 ||dskkza.com^
 ||dskmoo.com^
+||dskrym.com^
 ||dskylp.com^
 ||dslcdd.com^
 ||dslgfw.com^
@@ -111147,6 +111153,7 @@
 ||dugksbcmvvxdf.site^
 ||dugrhmdlsdcop.website^
 ||dugxfuobfbm.in^
+||duhklcwbqcfbt.com^
 ||duhkxehelalch.store^
 ||duhxgrfaziemg.site^
 ||duidoaghteqgs.website^
@@ -112319,6 +112326,7 @@
 ||enthronediscovering.com^
 ||enthusiasticfibreassembly.com^
 ||enthusiasticinsanity.com^
+||enticeslabraspails.cfd^
 ||entire-positive.com^
 ||entiremain.com^
 ||entjgcr.com^
@@ -116526,6 +116534,7 @@
 ||gxzvrffzlfxyq.global^
 ||gybmppuezjtqe.space^
 ||gybtgfobmqoqw.website^
+||gycjygwxcm.com^
 ||gycrrespjfqwk.store^
 ||gyemolge.shop^
 ||gyfgwpqnkitsd.website^
@@ -119089,6 +119098,7 @@
 ||instantlyounceclubhouse.com^
 ||instantmemorize.com^
 ||instaruptilt.com^
+||insteadmodification.com^
 ||instinctiveicilywan.com^
 ||instinctradiatorrook.com^
 ||institutionnounreverend.com^
@@ -121835,6 +121845,7 @@
 ||kxvjkjhsvvniv.com^
 ||kxxyhjamtwozu.space^
 ||kxyg6l1brzpnlefqmt5yi.cfd^
+||kyatmilrind.qpon^
 ||kyggpktctzozd.space^
 ||kygwbcvevmaoz.store^
 ||kyikerhzcmleg.website^
@@ -126293,6 +126304,7 @@
 ||nnichsiydj.com^
 ||nniorecc.com^
 ||nnjizwcurchyp.online^
+||nnjlwnusijjjw.space^
 ||nnkkwfcnwkzud.space^
 ||nnkquvmzdsmso.website^
 ||nnlrssclsc.com^
@@ -133748,6 +133760,7 @@
 ||rwplxgii.com^
 ||rwqgiurep.com^
 ||rwqovmoezrvrv.top^
+||rwszfuomthhmi.website^
 ||rwulzuaqsafn.com^
 ||rwvfxkneipjnq.online^
 ||rwwmbymaezkla.top^
@@ -137602,6 +137615,7 @@
 ||tfmdrayepzgft.website^
 ||tfnbbnmx.com^
 ||tfnvuckb.pro^
+||tfnyipzwixwib.site^
 ||tfomxpkyvdzyi.space^
 ||tfosrv.com^
 ||tfqrifustrybg.store^
@@ -139987,6 +140001,7 @@
 ||uolqifcwfgbpl.site^
 ||uolzpczobcxmn.online^
 ||uooumilwtodnh.website^
+||uopmvsgtbesfl.online^
 ||uoqosmwekny.com^
 ||uorksewkwesln.space^
 ||uoturtnuibjitgj.com^
@@ -212090,7 +212105,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-06-12T20:15:40.506Z
+! Last updated: 2026-06-12T20:59:48.941Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
