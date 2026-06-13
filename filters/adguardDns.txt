@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-06-13T19:42:10.691Z
-! Rules count: 212874
+! Last updated: 2026-06-13T20:11:27.152Z
+! Rules count: 212879
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -4456,6 +4456,7 @@
 ||bagdigravy.com^
 ||baggageconservationcaught.com^
 ||baggersoutjet.shop^
+||baggerspaces.com^
 ||baggy-water.com^
 ||baggycrack.pro^
 ||baggydepreciate.com^
@@ -13496,6 +13497,7 @@
 ||fdpqgljmw.com^
 ||fdqzywhgrvgmo.store^
 ||fdxouczcmbwti.store^
+||fdzppmrptuxpm.site^
 ||fe7qygqi2p2h.com^
 ||fe8171c761.com^
 ||feableandworld.com^
@@ -15269,6 +15271,7 @@
 ||gdfkbvbifnncj.online^
 ||gdftfhlfnnbox.online^
 ||gdg4yih5.xyz^
+||gdgfmtrpducob.online^
 ||gdjurefuxajcg.site^
 ||gdjzrobyzulpx.site^
 ||gdlrfbdnmmwes.com^
@@ -22641,6 +22644,7 @@
 ||lidsaich.net^
 ||lidtcctobkneu.website^
 ||liduvxoyivocr.space^
+||liedloopful.com^
 ||lieezfgekiwgn.online^
 ||lieforepawsado.com^
 ||liegelygosport.com^
@@ -29018,6 +29022,7 @@
 ||pbwrt9qkobb5jlq.cfd^
 ||pbxagcahqree.com^
 ||pbxai.com^
+||pbxevgpiovprp.site^
 ||pbxphallus.qpon^
 ||pbyfqdlhzrrit.online^
 ||pbymqomcjgyqk.online^
@@ -212882,7 +212887,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-06-13T19:42:10.696Z
+! Last updated: 2026-06-13T20:11:27.158Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes

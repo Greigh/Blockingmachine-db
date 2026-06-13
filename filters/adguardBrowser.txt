@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-06-13T19:42:08.265Z
-! Rules count: 340113
+! Last updated: 2026-06-13T20:11:24.782Z
+! Rules count: 340118
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -6140,6 +6140,7 @@ browsershots.org#@#.advert_area
 ||bagdigravy.com^
 ||baggageconservationcaught.com^
 ||baggersoutjet.shop^
+||baggerspaces.com^
 ||baggy-water.com^
 ||baggycrack.pro^
 ||baggydepreciate.com^
@@ -15182,6 +15183,7 @@ browsershots.org#@#.advert_area
 ||fdpqgljmw.com^
 ||fdqzywhgrvgmo.store^
 ||fdxouczcmbwti.store^
+||fdzppmrptuxpm.site^
 ||fe7qygqi2p2h.com^
 ||fe8171c761.com^
 ||feableandworld.com^
@@ -16955,6 +16957,7 @@ browsershots.org#@#.advert_area
 ||gdfkbvbifnncj.online^
 ||gdftfhlfnnbox.online^
 ||gdg4yih5.xyz^
+||gdgfmtrpducob.online^
 ||gdjurefuxajcg.site^
 ||gdjzrobyzulpx.site^
 ||gdlrfbdnmmwes.com^
@@ -24328,6 +24331,7 @@ browsershots.org#@#.advert_area
 ||lidsaich.net^
 ||lidtcctobkneu.website^
 ||liduvxoyivocr.space^
+||liedloopful.com^
 ||lieezfgekiwgn.online^
 ||lieforepawsado.com^
 ||liegelygosport.com^
@@ -30705,6 +30709,7 @@ browsershots.org#@#.advert_area
 ||pbwrt9qkobb5jlq.cfd^
 ||pbxagcahqree.com^
 ||pbxai.com^
+||pbxevgpiovprp.site^
 ||pbxphallus.qpon^
 ||pbyfqdlhzrrit.online^
 ||pbymqomcjgyqk.online^
@@ -339993,7 +339998,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-06-13T19:42:08.275Z
+! Last updated: 2026-06-13T20:11:24.792Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
