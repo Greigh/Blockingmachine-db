@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-06-18T20:30:47.510Z
-! Rules count: 211948
+! Last updated: 2026-06-18T21:16:54.830Z
+! Rules count: 211959
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -5331,6 +5331,7 @@
 ||blasphemelong.com^
 ||blastcahs.com^
 ||blastedopiane.qpon^
+||blaykwakari.qpon^
 ||blaze-media.com^
 ||blazedwaypostrecoat.qpon^
 ||blazeteamlow.com^
@@ -18092,6 +18093,7 @@
 ||icunvveszpzxa.online^
 ||icwmsalkqywyp.fun^
 ||icxtalveexksf.space^
+||icxyqoonmogdn.online^
 ||icy-inside.pro^
 ||icyassimilateparchment.com^
 ||icynature.pro^
@@ -26436,6 +26438,7 @@
 ||nwvulrmtxesqh.space^
 ||nwwais.com^
 ||nwwrtbbit.com^
+||nwxrt9vpp3qjnxcu.cfd^
 ||nwyynvwwsxgif.online^
 ||nwzbxcfmseiyv.space^
 ||nwzjbkoxktjuk.site^
@@ -40203,6 +40206,7 @@
 ||vdopia.com^
 ||vdqdcjwecjcqy.store^
 ||vdqkegutiwxez.website^
+||vdtcltizlncqf.online^
 ||vdtmacbhiltpf.website^
 ||vdukpbmavzcne.store^
 ||vdulz.org^
@@ -41709,6 +41713,7 @@
 ||wendelstein-1b.com^
 ||wendicrouthy.com^
 ||wendxktstjx.net^
+||wengppoiyqsfd.site^
 ||wenniergds.cfd^
 ||wenog.com^
 ||wenoolgo.icu^
@@ -41745,6 +41750,7 @@
 ||wfcexmwunmimo.site^
 ||wffbdim.com^
 ||wfgcaeoechdds.online^
+||wfgntkujidpqj.website^
 ||wfhhsfxvnluft.website^
 ||wfhrjmzhzzlmw.space^
 ||wfiphsftezywo.space^
@@ -105664,6 +105670,7 @@
 ||bunksniff.com^
 ||bunningscapple.com^
 ||bunnyassetsworn.com^
+||buntersfrorenbiggies.cyou^
 ||bunterstty.com^
 ||bunth.net^
 ||buntypuddee.qpon^
@@ -116419,6 +116426,7 @@
 ||hfqsgcclxlvll.online^
 ||hfqxrivbvubyz.store^
 ||hftciwcfqrotx.online^
+||hfulicte.com^
 ||hfvn6kcfykruk79p337e69h8pnrw.cfd^
 ||hfvnpiiqyuyxw.online^
 ||hfxvwhstgitib.site^
@@ -117678,6 +117686,7 @@
 ||igvkixoxvsvih.space^
 ||igxxeysdlcbkb.space^
 ||igyswjdwkppmo.online^
+||igziincwubjyg.site^
 ||ih1k65g961twpctyhnw2841qi296qt.cfd^
 ||ihbvkyub.com^
 ||ihculppauwbhc.online^
@@ -119151,6 +119160,7 @@
 ||jeoawamqybkeb.top^
 ||jeopardizeangrydetrimental.com^
 ||jeopardpocking.qpon^
+||jeqmlfmvtpebl.space^
 ||jeqpqqqqwkmxk.store^
 ||jereanguschorism.cfd^
 ||jerkilyrebop.qpon^
@@ -122604,6 +122614,7 @@
 ||lzmvhfpfxidbv.website^
 ||lznomkovxtesn.site^
 ||lznpaqtbynhke.site^
+||lznuwluzkiyhk.space^
 ||lznzljcgtn.com^
 ||lzooxkoqvc.in^
 ||lzpiozkcngklw.site^
@@ -211956,7 +211967,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-06-18T20:30:47.516Z
+! Last updated: 2026-06-18T21:16:54.835Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
