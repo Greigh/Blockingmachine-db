@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-06-20T19:42:40.994Z
-! Rules count: 212921
+! Last updated: 2026-06-20T20:11:19.363Z
+! Rules count: 212925
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -1812,6 +1812,7 @@
 ||activemetering.com^
 ||activepoststale.com^
 ||activescheekercineol.qpon^
+||activinbirch.cyou^
 ||activitycrackleanalyze.com^
 ||actoryglutael.qpon^
 ||actpx.com^
@@ -10806,6 +10807,7 @@
 ||dqhepocpcwspj.space^
 ||dqhooyeampqsg.space^
 ||dqhvhpderqbsg.online^
+||dqoafivhpxpmo.site^
 ||dqorvlyh.com^
 ||dqqdbvsqatomy.space^
 ||dqqlkywzqpvoz.store^
@@ -34150,6 +34152,7 @@
 ||schedulerationally.com^
 ||schemastsuga.cyou^
 ||schemecontinuingwinning.com^
+||schemejobo.com^
 ||schemesplights.com^
 ||schermtictacs.cfd^
 ||schjmp.com^
@@ -45907,6 +45910,7 @@
 ||zxmkhbsmmuikc.online^
 ||zxnkmlwavdxo.com^
 ||zxnymrendoxms.space^
+||zxpvebhtojfvgu.com^
 ||zxqoyqtloykrc.website^
 ||zxrntgssqzdre.space^
 ||zxttvkshqbded.space^
@@ -212929,7 +212933,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-06-20T19:42:41.000Z
+! Last updated: 2026-06-20T20:11:19.370Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes

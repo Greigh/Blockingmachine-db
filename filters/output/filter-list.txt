@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-06-20T19:42:38.488Z
-! Rules count: 338839
+! Last updated: 2026-06-20T20:11:16.811Z
+! Rules count: 338843
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -3495,6 +3495,7 @@ browsershots.org#@#.advert_area
 ||activemetering.com^
 ||activepoststale.com^
 ||activescheekercineol.qpon^
+||activinbirch.cyou^
 ||activitycrackleanalyze.com^
 ||actoryglutael.qpon^
 ||actpx.com^
@@ -12491,6 +12492,7 @@ browsershots.org#@#.advert_area
 ||dqhepocpcwspj.space^
 ||dqhooyeampqsg.space^
 ||dqhvhpderqbsg.online^
+||dqoafivhpxpmo.site^
 ||dqorvlyh.com^
 ||dqqdbvsqatomy.space^
 ||dqqlkywzqpvoz.store^
@@ -35836,6 +35838,7 @@ browsershots.org#@#.advert_area
 ||schedulerationally.com^
 ||schemastsuga.cyou^
 ||schemecontinuingwinning.com^
+||schemejobo.com^
 ||schemesplights.com^
 ||schermtictacs.cfd^
 ||schjmp.com^
@@ -47593,6 +47596,7 @@ browsershots.org#@#.advert_area
 ||zxmkhbsmmuikc.online^
 ||zxnkmlwavdxo.com^
 ||zxnymrendoxms.space^
+||zxpvebhtojfvgu.com^
 ||zxqoyqtloykrc.website^
 ||zxrntgssqzdre.space^
 ||zxttvkshqbded.space^
