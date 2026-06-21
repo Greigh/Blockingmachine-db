@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-06-21T19:48:28.945Z
-! Rules count: 213724
+! Last updated: 2026-06-21T20:21:09.270Z
+! Rules count: 213728
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -23365,6 +23365,7 @@
 ||lsnjmefsipkxw.space^
 ||lsoyvhsesurdq.store^
 ||lsqiggjoiqgzj.online^
+||lsqvtdkujymzj.online^
 ||lsqyahmytfwhn.store^
 ||lsrvndktyxbz.com^
 ||lssocybaoqyeu.online^
@@ -23593,6 +23594,7 @@
 ||lxstat.com^
 ||lxtacluhwhcfy.site^
 ||lxtitfmmhbhtehc.com^
+||lxvkhshqedhhh.site^
 ||lxwmazdgleyxy.website^
 ||lxylxwxvhffvm.vip^
 ||ly242w6qvjitmkz.cfd^
@@ -37452,6 +37454,7 @@
 ||taluhetviciousanorexy.cfd^
 ||tamablejuntodewitt.qpon^
 ||tamarixramanaswaypost.cyou^
+||taminemyricas.shop^
 ||taminyunsmart.cfd^
 ||tampionsley.com^
 ||tamurepiercedcuracoa.cfd^
@@ -44610,6 +44613,7 @@
 ||ybasuhujdlpiw.site^
 ||ybawirztscdhp.online^
 ||ybbnetahurnitm.com^
+||ybcbvtnlddcsg.com^
 ||ybeciemgtkgfk.website^
 ||ybfqkggkcivnv.online^
 ||ybgdnogbpucev.com^
@@ -213732,7 +213736,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-06-21T19:48:28.950Z
+! Last updated: 2026-06-21T20:21:09.275Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
