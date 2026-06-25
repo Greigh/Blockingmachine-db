@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-06-25T20:05:57.173Z
-! Rules count: 341534
+! Last updated: 2026-06-25T20:52:22.670Z
+! Rules count: 341544
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -6714,6 +6714,7 @@ browsershots.org#@#.advert_area
 ||beraptthrusts.qpon^
 ||beratessnifterloafers.cyou^
 ||beratsighed.cfd^
+||berendearnfulinfame.qpon^
 ||berendogizzard.cyou^
 ||bergletonticfuril.qpon^
 ||beridefemceesorose.cyou^
@@ -20700,6 +20701,7 @@ browsershots.org#@#.advert_area
 ||ilwmxyuboh.com^
 ||ilxflobhpk.com^
 ||ilxfndokexkxi.online^
+||ilxhembbenvbcyj.com^
 ||ilyakhokani.cfd^
 ||ilyaoipntdyol.space^
 ||ilyf4amifh.com^
@@ -27952,6 +27954,7 @@ browsershots.org#@#.advert_area
 ||neatensmoods.cyou^
 ||neatenswreaksxviii.cfd^
 ||neatmadeiraairborne.com^
+||nebjzqajpngow.space^
 ||nebulasballed.cfd^
 ||nebulousfledwhy.com^
 ||necessary-catch.pro^
@@ -33988,6 +33991,7 @@ browsershots.org#@#.advert_area
 ||qunskbadgzcdx.site^
 ||quoddedelfdom.cfd^
 ||quodvmljwdqec.site^
+||quohogssopping.com^
 ||quohogssterinbeeish.cfd^
 ||quoinvoiles.qpon^
 ||quokkacheeks.com^
@@ -34650,6 +34654,7 @@ browsershots.org#@#.advert_area
 ||redressparity.com^
 ||redresspuddleprocedure.com^
 ||redrotou.net^
+||redsdegas.qpon^
 ||redsearoblates.com^
 ||redshieldcar.com^
 ||reduau.top^
@@ -37236,6 +37241,7 @@ browsershots.org#@#.advert_area
 ||shoverstrumeau.qpon^
 ||show-creative1.com^
 ||show-sb.com^
+||showilyaletap.com^
 ||showmebars.com^
 ||showyfee.pro^
 ||shpyxmtsqnsay.space^
@@ -40475,6 +40481,7 @@ browsershots.org#@#.advert_area
 ||tkwkrdsoaldaw.com^
 ||tkyjmfwjnzyov.site^
 ||tkytthdefsrmf.online^
+||tkzcgceruyjcz.online^
 ||tl2go.com^
 ||tl4575yjg4y2wbiqz7jbcm6zug1cnc5i.rest^
 ||tl7x928g7l3ppnqnc7ngy8wue3qgkvnb.cfd^
@@ -180610,6 +180617,7 @@ browsershots.org#@#.advert_area
 ||bcqmzvuvurmop.website^
 ||bcsfpwmjulcxw.site^
 ||bcswwwzqophyk.site^
+||bcsyfuhahnlmh.online^
 ||bct2gukt38ycb7ui.cfd^
 ||bctuafpdwarbm.site^
 ||bcvnlkjybkksk.com^
@@ -194573,6 +194581,7 @@ browsershots.org#@#.advert_area
 ||ieenhijxbigyt.space^
 ||ieeucpssxsepw.online^
 ||ieglcoaqlzesp.store^
+||iegzaknrowaju.online^
 ||iehbhejfnetvc.site^
 ||iehyqwcwt.com^
 ||ieiecooqvvmp.com^
@@ -214972,6 +214981,7 @@ browsershots.org#@#.advert_area
 ||tqridfwbrbvucae.com^
 ||tqrjalckwwhpd.com^
 ||tqrmlgjertjht.online^
+||tqswwgfjomczh.space^
 ||tqtlyzaztpngj.site^
 ||tqytbkhwrtyk.com^
 ||tqzdwtyaa.com^
@@ -341414,7 +341424,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-06-25T20:05:57.182Z
+! Last updated: 2026-06-25T20:52:22.681Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
