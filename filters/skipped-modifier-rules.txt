@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-06-25T20:52:24.778Z
-# Count: 25913
+# Generated: 2026-06-26T19:54:15.194Z
+# Count: 25918
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -6185,6 +6185,7 @@ _468_60-$~script
 ||fantasti.cc/ajax/gw.php?$popup
 ||fapcandy.com^$popup,third-party
 ||flirthits.com/landing/$popup
+||go.clickwhore.com^$popup
 ||go.xhamsterlive.com^$popup
 ||hentaiheroes.com/landing/$popup,third-party
 ||icgirls.com^$popup
@@ -7237,6 +7238,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 @@||ads.snapchat.com^$popup
 @@||ads.spotify.com^$popup
 @@||ads.taboola.com^$popup
+@@||ads.temu.com^$popup
 @@||ads.tiktok.com^$popup
 @@||ads.twitter.com^$popup
 @@||ads.vk.com^$popup
@@ -11824,6 +11826,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||scholar.google.com^$ping
 ||search.brave.com/api/feedback$~third-party
 ||sf-syn.com/conversion_outbound_tracker$subdocument,domain=sourceforge.net
+||share.9cdn.net/share/short_cache/js/tracking/$domain=nine.com.au
 ||shopee.*/__t__$xmlhttprequest
 ||solarwinds.com/ra-$script
 ||soundcloud.com^$ping
@@ -15434,6 +15437,7 @@ hij.com.pl###mvp-home-body > .clearfix + article > h1:contains(/^Reklama$/)
 hij.com.pl###mvp-home-body > .clearfix + article > h1:contains(/^Reklama$/) + .master-slider-parent
 ||pzgolf.pl/wp-content/ad/$subdocument
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=videotarget.pl
+||fixtures.onet.pl^$badfilter
 @@||ocdn.eu/ucs/static/*Piano/*/build/amd/floatingAd.js$domain=newsweek.pl
 lpg-forum.pl##+js(no-setTimeout-if, $('#overlay').fadeIn)
 niebezpiecznik.pl###sidebar > ul > li[id^="custom_html-"] > h2.widgettitle:contains(/^Reklama$/):upward(1)
@@ -16180,6 +16184,7 @@ $subdocument,3p,denyallow=disqus.com,domain=love4u.net
 ||luciferdonghua.in/*.html$subdocument,~3p
 /vast.php$domain=xnxx.com
 .php?*=*&*&$xhr,other,domain=vidmoly.biz|vidmoly.*
+/^https:\/\/[a-z]+[0-9]+\.[a-z]+\.cfd\/\?[a-z]+=[a-zA-Z0-9:_=-]+/$all,match-case
 /^https:\/\/[a-z]+[0-9]+\.host[0-9]+[a-z]\.cfd\/\?[a-z]+=[a-zA-Z0-9:_=-]+/$all,match-case
 ||goloot.io^$domain=usnews.com
 /wp-content/plugins/nn-snigel-*/$domain=pcgamesn.com|wargamer.com|pockettactics.com
@@ -17269,7 +17274,7 @@ tube8.com##.video_column_right > div[class$=" float-right"]
 ||popads.net/pop.js$script,redirect=noop.js,important
 ||gstatic.com/xads/$domain=myparcels.net
 sysnative.com###posts > ul > li:not([class$="old"])
-||i.imgur.com^$domain=oko.sh|stfly.me|netflav.com|up-load.io|vizcloud2.*
+||i.imgur.com^$domain=oko.sh|stfly.me|netflav.com|up-load.io|vizcloud2.*|flixtrz.com
 ||udvl.com/api/spots/*?host=$3p
 ||widget.crowdynews.com^$domain=forums.hardwarezone.com.sg
 ||dato.porn/*.php?$popup
