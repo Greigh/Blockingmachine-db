@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-07-04T19:19:14.100Z
-! Rules count: 200685
+! Last updated: 2026-07-04T20:05:36.127Z
+! Rules count: 200692
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -4964,6 +4964,7 @@
 ||biggerluck.com^
 ||biggingdevel.com^
 ||biggjjvxbgvjb.online^
+||bighearted-nasty.pro^
 ||bighearted-wedding.pro^
 ||bigheartedbeard.com^
 ||bigheartedregular.com^
@@ -13957,6 +13958,7 @@
 ||fuokxmhzdvolq.website^
 ||fuozidrjmtitj.space^
 ||fupbtabgzyprm.space^
+||fuphvfqqkzlgvy.com^
 ||fupqitrviyhbf.space^
 ||fuqemedzceklr.online^
 ||fuqkdijxnoqswf.com^
@@ -14691,11 +14693,13 @@
 ||giwmicgil.com^
 ||gixiluros.com^
 ||gixto.xyz^
+||gizgyjlxqmokh.online^
 ||gizokraijaw.net^
 ||gizzenlatiner.qpon^
 ||gjanudhvhdqcd.online^
 ||gjbczbgjon3v3mnql6l5t5f.cfd^
 ||gjbyu2t3lcco5we.cfd^
+||gjczwmseptnlo.space^
 ||gjfbkgcrmzcwt.site^
 ||gjfyeghpsuxmx.space^
 ||gjgnizagkfupg.space^
@@ -32682,6 +32686,7 @@
 ||sinnerhealthypoured.com^
 ||sinproductors.org^
 ||sinwhezjcvvch.online^
+||siondanged.cfd^
 ||siouxunhosejoyride.cyou^
 ||sipesglug.com^
 ||sippansy.com^
@@ -38303,6 +38308,7 @@
 ||vjrjvojuxlkhc.website^
 ||vjtbgysqkmngz.website^
 ||vjtpmzsmcwfko.online^
+||vjtwujdcntxgp.website^
 ||vjuenyeckagkz.site^
 ||vjvkhhhhchstp.site^
 ||vjwnqxbxvvcng.space^
@@ -39082,6 +39088,7 @@
 ||wcwxkbakmbtct.space^
 ||wcwysdfmiznik.online^
 ||wcxgvwihfoimx.site^
+||wcydaouuykhnp.space^
 ||wcydtrbulrgob.online^
 ||wcyvjdpduqxym.site^
 ||wdbecodqxlyuu.site^
@@ -200693,7 +200700,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-07-04T19:19:14.104Z
+! Last updated: 2026-07-04T20:05:36.133Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
