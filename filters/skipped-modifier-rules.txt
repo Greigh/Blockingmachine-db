@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-07-03T20:10:46.502Z
-# Count: 25849
+# Generated: 2026-07-04T19:19:14.010Z
+# Count: 25861
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -953,6 +953,7 @@ _468_60-$~script
 ||ads-blocker.app^$document
 ||ads4trk.com^$document
 ||adsco.re^$document
+||adsgateway.net^$document
 ||adskeeper.co.uk^$document
 ||adspredictiv.com^$document
 ||adsquasher.com^$document
@@ -1027,6 +1028,7 @@ _468_60-$~script
 ||bunth.net^$document
 ||byethost41.net^$document
 ||c3j7rk-rtbix.top^$document
+||camads.workers.dev^$document
 ||camliveshow.xyz^$document
 ||candellume.shop^$document
 ||candyai.love^$document
@@ -1190,6 +1192,7 @@ _468_60-$~script
 ||land.pixelsee.app^$document
 ||landerhq.com^$document
 ||leadgainz.com^$document
+||leadimmensely.com^$document
 ||leakvideos.live^$document
 ||leoyard.com^$document
 ||lindychat.com^$document
@@ -1199,6 +1202,7 @@ _468_60-$~script
 ||locooler-ageneral.com^$document
 ||locopar.com^$document
 ||lorymo.online^$document
+||lstgddss.com^$document
 ||lwnbts.com^$document
 ||lylufhuxqwi.com^$document
 ||madeupice.com^$document
@@ -1343,6 +1347,7 @@ _468_60-$~script
 ||r8bz.com^$document
 ||racunn.com^$document
 ||radiancerelaysacred.com^$document
+||ragan-qdr.com^$document
 ||rbtfit.com^$document
 ||rcdn-web.com^$document
 ||realsh.xyz^$document
@@ -6193,6 +6198,7 @@ $third-party,xmlhttprequest,domain=mega4upload.net
 ||cdnpk.net/sponsor/$domain=freepik.com
 ||cdnpk.net/v2/images/search?$domain=freepik.com
 ||celebstoner.com/assets/images/img/sidebar/$image
+||clashreport-storage.b-cdn.net/ads/$domain=clashreport.com
 ||cloudfront.net/ads/$domain=wdwmagic.com
 ||cloudfront.net/j/wsj-prod.js$domain=wsj.com
 ||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.br|amazon.com.mx|amazon.com.tr|amazon.de|amazon.eg|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.nl|amazon.pl|amazon.sa|amazon.se|amazon.sg
@@ -6283,7 +6289,7 @@ $third-party,xmlhttprequest,domain=mega4upload.net
 ||totalcsgo.com/site-takeover/$image
 ||truepeoplesearch.com/search/widgets?$xmlhttprequest
 ||twt-assets.washtimes.com^$script,domain=washingtontimes.com
-||usrfiles.com^$domain=melophobemusic.com
+||usrfiles.com^$domain=melophobemusic.com|utterlyinteresting.com
 ||weedmaps.com/seg/evs/$~third-party,xmlhttprequest
 ||workers.dev^$domain=chessgames.com|player.vidzee.wtf
 ||wpengine.com/wp-json/api/advanced_placement/new-in-article/?type=placement^$domain=androidauthority.com
@@ -16148,6 +16154,7 @@ http://www.ads.$3p
 $script,3p,denyallow=tvableon.me|mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|doodcdn.io|intensedebate.com|vixcloud.co|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|jwplayer.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|imgsmail.ru|cloudflare.net|rabbitstream.net|x.com|ko-fi.com|wsimg.com|sharethis.com|utteranc.es|cloudflareinsights.com|tailwindcss.com|capo6play.com|jpg5.su|jpg6.su|tolstoycomments.com|code.iconify.design|alicdn.com|addtoany.com|waust.at|highcharts.com|workers.dev,_,domain=5mio.org|furry34.com|animeidhentai.com|nhplayer.com|anime-odcinki.pl
 $xhr,3p,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|doodcdn.io|intensedebate.com|vixcloud.co|cdn.plyr.io|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|imgsmail.ru|cloudflare.net|rabbitstream.net|x.com|pp.ua|discord.com,_,domain=everia.club|projectfreetv.cyou|skidrowreloaded.com|kickassanime.*|dlhd.*|nxbrew.net|ziperto.com|lilymanga.net|stly.link|bentomanga.top|bigcomics.bid|brmangas.top|cmoa1.top|janime.top|jpraw.xyz|kakuyomu.in|kkraw.com|komiku.win|lectormanga.top|lermanga.top|manga1000.top|manga1001.win|manga1001.xyz|mangajp.top|mangakl.su|mangaraw.bid|mangavy.com|mangaz.win|scanita.top|shinigami-id.top|sushiscan.top|worldsports.me|poscitechs.xyz|harimanga.com|movieshubweb.com|animeflv.net|techcabal.net|nextgencloudtools.com|soap2day.day|cricstreams.re|flixrave.me|audioz.download|playdede.link|canna-power.to|canna.to|filecrypt.cc|dlhd.dad|3isk.icu|3isk.info|animesrbija.com|yts.lt|totalsportek.*|totalsportek.army|ext.to|eztvx.to|bypass.city|fileditchfiles.me|furry34.com|filecrypt.co|yts.*|yts.gg|yts.bz
 $subdocument,3p,denyallow=disqus.com,domain=love4u.net
+||shorts.b-cdn.net/ads/$domain=shorts.xxx
 the-sun.com##div[class$="billboard"]
 ||anysex.com/*oio/|$script
 ||luciferdonghua.in/*.html$subdocument,~3p
@@ -23162,6 +23169,7 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||ads-blocker.app^$dnsrewrite=ad-block.dns.adguard.com
 ||ads4trk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adsco.re^$dnsrewrite=ad-block.dns.adguard.com
+||adsgateway.net^$dnsrewrite=ad-block.dns.adguard.com
 ||adskeeper.co.uk^$dnsrewrite=ad-block.dns.adguard.com
 ||adspredictiv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adsquasher.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -23233,6 +23241,7 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||bunth.net^$dnsrewrite=ad-block.dns.adguard.com
 ||byethost41.net^$dnsrewrite=ad-block.dns.adguard.com
 ||c3j7rk-rtbix.top^$dnsrewrite=ad-block.dns.adguard.com
+||camads.workers.dev^$dnsrewrite=ad-block.dns.adguard.com
 ||camliveshow.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||candellume.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||candyai.love^$dnsrewrite=ad-block.dns.adguard.com
@@ -23392,6 +23401,7 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||land.pixelsee.app^$dnsrewrite=ad-block.dns.adguard.com
 ||landerhq.com^$dnsrewrite=ad-block.dns.adguard.com
 ||leadgainz.com^$dnsrewrite=ad-block.dns.adguard.com
+||leadimmensely.com^$dnsrewrite=ad-block.dns.adguard.com
 ||leakvideos.live^$dnsrewrite=ad-block.dns.adguard.com
 ||leoyard.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lindychat.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -23401,6 +23411,7 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||locooler-ageneral.com^$dnsrewrite=ad-block.dns.adguard.com
 ||locopar.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lorymo.online^$dnsrewrite=ad-block.dns.adguard.com
+||lstgddss.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lwnbts.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lylufhuxqwi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||madeupice.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -23541,6 +23552,7 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||r8bz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||racunn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||radiancerelaysacred.com^$dnsrewrite=ad-block.dns.adguard.com
+||ragan-qdr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rbtfit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rcdn-web.com^$dnsrewrite=ad-block.dns.adguard.com
 ||realsh.xyz^$dnsrewrite=ad-block.dns.adguard.com
