@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-07-12T19:10:33.982Z
-! Rules count: 205205
+! Last updated: 2026-07-12T20:01:38.761Z
+! Rules count: 205214
 ||000491b06a.com^
 ||0019x.com^
 ||00427011ae.com^
@@ -9869,6 +9869,7 @@
 ||dhdebdmvzljbk.site^
 ||dheheagbmhdfk.space^
 ||dhgnzynmufgpc.site^
+||dhjapfgbrmawv.space^
 ||dhngawrhpigck.space^
 ||dhojmirptkwfy.website^
 ||dhootiepawed.com^
@@ -10866,6 +10867,7 @@
 ||dsmnpw.com^
 ||dsmtlxxmhsdea.site^
 ||dsmuvt.com^
+||dsmzyk.com^
 ||dsnbwt.com^
 ||dsnbym.com^
 ||dsndcg.com^
@@ -17588,6 +17590,7 @@
 ||humdrumquartshore.cyou^
 ||humeaviated.qpon^
 ||humflingenmity.com^
+||humicsceggerurnlike.cfd^
 ||humiliatedbreeches.com^
 ||humiliatemoot.com^
 ||humiliatingparking.com^
@@ -22564,6 +22567,7 @@
 ||lsjrlnwssqpm.com^
 ||lslapckmkdjvx.site^
 ||lslzloxntzczl.website^
+||lsndhpup.com^
 ||lsoyvhsesurdq.store^
 ||lsqiggjoiqgzj.online^
 ||lsqvtdkujymzj.online^
@@ -39643,6 +39647,7 @@
 ||villagerhurricane.com^
 ||villagersymphonypilgrim.com^
 ||villainindiscreetnewsletter.com^
+||villainous-track.pro^
 ||vilytaku.com^
 ||vimenjacky.cfd^
 ||vimentasissealet.cfd^
@@ -41659,6 +41664,7 @@
 ||wvhapsvllumwx.space^
 ||wvhba6470p.com^
 ||wvjzqrwhbvepc.space^
+||wvkhmysqclufx.site^
 ||wvlserrzyvspo.online^
 ||wvlwtsgbperzr.space^
 ||wvmvpjlguwapy.online^
@@ -41701,6 +41707,7 @@
 ||wwyoyuutoudbf.space^
 ||wwznejoelup4ylcfm6bozw7h.rest^
 ||wwzvxruceyuwh.online^
+||wxavndyxakpkh.site^
 ||wxcpjtdrckkld.website^
 ||wxcyfbbletwiu.site^
 ||wxgqtpqmvldip.space^
@@ -41777,6 +41784,7 @@
 ||wzuarqzexkjiy.website^
 ||wzutebvjpxwwu.site^
 ||wzwndbifflvvw.website^
+||wzwyavcyaxwlp.online^
 ||wzxxconhwowni.space^
 ||wzz46x8e.xyz^
 ||wzzbenxkreqpy.space^
@@ -42243,6 +42251,7 @@
 ||xptjbnlsaaeql.site^
 ||xptzbpajealib.website^
 ||xpuaujrqdqvsk.website^
+||xpugbeqsuplky.online^
 ||xpvewpanmkzis.site^
 ||xpvv0rkn.fun^
 ||xpvvtuccygqgv.site^
@@ -205213,7 +205222,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-07-12T19:10:33.988Z
+! Last updated: 2026-07-12T20:01:38.767Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
