@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-07-16T19:17:08.164Z
-! Rules count: 333130
+! Last updated: 2026-07-16T19:56:34.549Z
+! Rules count: 333135
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -10244,6 +10244,7 @@ browsershots.org#@#.advert_area
 ||cougarsblaflum.shop^
 ||couhagesignaryrotten.cfd^
 ||couijnmkgjdim.site^
+||coukpvrioimecb.com^
 ||couleefancifycalpul.cfd^
 ||councernedasesi.org^
 ||counciladvertising.net^
@@ -15015,6 +15016,7 @@ browsershots.org#@#.advert_area
 ||fandomsalauntapathic.cyou^
 ||fanegasinflue.shop^
 ||fangmoonlight.com^
+||fannersrhytinarandon.cyou^
 ||fantabro.com^
 ||fantastic-read.com^
 ||fantasticclosing.com^
@@ -30443,6 +30445,7 @@ browsershots.org#@#.advert_area
 ||peppermintthorpeguess.com^
 ||peppy2lon1g1stalk.com^
 ||peqfgslwvqndy.space^
+||peqwbqnjexjdf.site^
 ||perackwutexkp.site^
 ||perailamista.shop^
 ||peraurod.qpon^
@@ -30900,6 +30903,7 @@ browsershots.org#@#.advert_area
 ||pizp757rzt6f9k.cfd^
 ||pizzaapparenthalted.com^
 ||pizzlessclimb.top^
+||pjauhyjfuubqd.site^
 ||pjb9vnr3knxiewvuojr35fxlijeb31jmymj8x75.cfd^
 ||pjbgowoswnxul.website^
 ||pjbiopwnemoditc.com^
@@ -35523,6 +35527,7 @@ browsershots.org#@#.advert_area
 ||sblfdxsencirl.website^
 ||sblhp.com^
 ||sbndcrqwcfkvg.store^
+||sbnhctenrfzib.site^
 ||sboehtuuoyggh.space^
 ||sbqjioehjqnzb.site^
 ||sbsbetlinfevn.site^
@@ -333010,7 +333015,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-07-16T19:17:08.174Z
+! Last updated: 2026-07-16T19:56:34.557Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
