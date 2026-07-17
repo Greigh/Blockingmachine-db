@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-07-17T19:16:01.311Z
-! Rules count: 207436
+! Last updated: 2026-07-17T19:58:43.449Z
+! Rules count: 207442
 ||000491b06a.com^
 ||0017c6c37c.com^
 ||0019x.com^
@@ -23796,6 +23796,7 @@
 ||mapcawing.com^
 ||mapdevelopcleverness.com^
 ||maper.info^
+||mappenbastesoutlain.cfd^
 ||maprajna.cyou^
 ||mapwisemulder.qpon^
 ||mapxdidwwp.com^
@@ -27424,6 +27425,7 @@
 ||okcfdzfqcdemc.website^
 ||okdcrqtemifgo.online^
 ||okdigital.me^
+||okdqnljk.com^
 ||okeebobbedancre.cyou^
 ||okeezyxflelvs.website^
 ||okhzwjshcpqjz.site^
@@ -36551,6 +36553,7 @@
 ||stylecyberrose.com^
 ||stylish-airport.com^
 ||stylish-knife.com^
+||styronejurator.cfd^
 ||styvjlsjnubwt.space^
 ||stywardmartu.qpon^
 ||suamhsrqfuqle.website^
@@ -37310,6 +37313,7 @@
 ||taypwqoprmcap.space^
 ||tazlo.cloud^
 ||tb6ugk975vxc74xg3pxq6ett3qklnh.cfd^
+||tbaiatgrlgsdf.space^
 ||tbavixmkrnspx.space^
 ||tbcwxfln.com^
 ||tbdhrjsywgjcq.tech^
@@ -39038,6 +39042,7 @@
 ||txuqrrcpnnsye.online^
 ||txwkjktfojloy.online^
 ||txwonfqyncajg.site^
+||txymrnktjjhnv.website^
 ||txzaazmdhtw.com^
 ||txzbejxkynpvk.online^
 ||txzylleycallj.site^
@@ -39273,6 +39278,7 @@
 ||ufdnysonfvwnj.space^
 ||ufekeeoe.com^
 ||uferstreekseche.qpon^
+||ufidxaduyqqkq.site^
 ||ufirmirylfavb.online^
 ||uflbwgsviaueg.site^
 ||ufmdtcyprejjm.site^
@@ -207444,7 +207450,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-07-17T19:16:01.317Z
+! Last updated: 2026-07-17T19:58:43.455Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
