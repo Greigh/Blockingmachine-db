@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-07-19T19:11:38.798Z
-! Rules count: 335186
+! Last updated: 2026-07-19T20:02:32.755Z
+! Rules count: 335210
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -22541,6 +22541,7 @@ browsershots.org#@#.advert_area
 ||jsnooznxsbjxk.website^
 ||jsnryngvalfji.site^
 ||jsoggeqfmzzqi.website^
+||jsommcylpxzup.space^
 ||jsotpyjprlcaz.website^
 ||jsretra.com^
 ||jssckcpqylmzc.site^
@@ -35662,6 +35663,7 @@ browsershots.org#@#.advert_area
 ||ruecaeeedvyel.online^
 ||ruehofmdhvu.com^
 ||ruezikydyynqk.website^
+||rufboelehec.com^
 ||rufcdstpjdcrd.site^
 ||rufdbymsjiwsg.website^
 ||rufturszak.in^
@@ -41589,6 +41591,7 @@ browsershots.org#@#.advert_area
 ||ukjrlefiioqmn.online^
 ||ukjugjhigvcax.site^
 ||ukjygwcfaawce.online^
+||ukkbgnuejhhbc.site^
 ||uklzsvaglwcuz.website^
 ||ukmlastityty.info^
 ||ukmtendationfo.org^
@@ -42310,6 +42313,7 @@ browsershots.org#@#.advert_area
 ||usingstrikingindoors.com^
 ||usjbwvtqwv.com^
 ||usjeardahfoqc.online^
+||usjzvfljxtaxm.space^
 ||uskokvolutin.com^
 ||uslqdimcuxehp.store^
 ||usmajesticrake.com^
@@ -142953,6 +142957,7 @@ roweroweporady.pl#@#.ad_container
 ||cdn.files.smcloud.net/t/adquesto_beszamel_se_pl.js
 ||weszlo.com/wp-content/themes/weszlo/questpass.js
 ||lib.wtg-ads.com/prebid/prebid_*.js$xhr,redirect=noop.txt
+dobrzemieszkaj.pl##.sad
 biznesenter.pl##.post-ad-content
 pcformat.pl##.pcf-ad-slot-wrap
 pcformat.pl##.pcf-sidebar-ad-top
@@ -178118,6 +178123,7 @@ browsershots.org#@#.advert_area
 ||afflat3e1.com^
 ||afflat3e3.com^
 ||affluentarmyequator.com^
+||affodkxacc.com^
 ||affordedseasick.com^
 ||affordpeat.com^
 ||affordregents.cfd^
@@ -178350,6 +178356,7 @@ browsershots.org#@#.advert_area
 ||aidthewallowtoh.org^
 ||aidvcdsla.com^
 ||aiecrhvddyaqb.website^
+||aieefqmejhsnj.space^
 ||aieryduetto.com^
 ||aifgjdcarlmow.space^
 ||aifmpdaqommzn.store^
@@ -178673,6 +178680,7 @@ browsershots.org#@#.advert_area
 ||alterassumeaggravate.com^
 ||alternatewavyrid.com^
 ||alternativecpmgate.com^
+||althornboatmen.shop^
 ||althorncymbals.qpon^
 ||althornpukekodrewite.qpon^
 ||altinblucher.cfd^
@@ -180401,6 +180409,7 @@ browsershots.org#@#.advert_area
 ||beach-vacation.site^
 ||beachesdixit.cfd^
 ||beafuelerlazary.qpon^
+||beajlyqczgv.com^
 ||beakfuljato.com^
 ||beaksuccisa.qpon^
 ||bealafulup.com^
@@ -181200,6 +181209,7 @@ browsershots.org#@#.advert_area
 ||blowingwind.xyz^
 ||blowsemaze.shop^
 ||blowsgollsaline.cfd^
+||blowsystamba.cyou^
 ||blpigisjqbykc.site^
 ||blqikljpimpgr.online^
 ||blrwsnwnvkqzh.online^
@@ -184735,6 +184745,7 @@ browsershots.org#@#.advert_area
 ||cubbyskyful.qpon^
 ||cubitalgigget.qpon^
 ||cubyvsstoehos.online^
+||cuchanbietle.shop^
 ||cuchiaarsleaquerne.cyou^
 ||cuckoldbeeswaxballoon.cyou^
 ||cuckooretire.com^
@@ -186941,6 +186952,7 @@ browsershots.org#@#.advert_area
 ||dstsjj.com^
 ||dsttpi.com^
 ||dstvpc.com^
+||dsufzy.com^
 ||dsughf.com^
 ||dsuhyg.com^
 ||dsuije.com^
@@ -189124,6 +189136,7 @@ browsershots.org#@#.advert_area
 ||fallowdoll.cfd^
 ||fallowrationyew.qpon^
 ||fallsceriapanter.cfd^
+||falmgdqwcnhmq.site^
 ||falsestbumwood.shop^
 ||falsifymagpieopenminded.com^
 ||falsifyprobable.com^
@@ -198499,6 +198512,7 @@ browsershots.org#@#.advert_area
 ||likenewvids.online^
 ||likensdosers.cfd^
 ||liklojigctaog.space^
+||liknontutin.cfd^
 ||lilacdazedawe.com^
 ||lilialfcycorach.qpon^
 ||liliumleashed.qpon^
@@ -199165,8 +199179,10 @@ browsershots.org#@#.advert_area
 ||ltxuroxvga.com^
 ||ltymvdqtbywss.site^
 ||ltzgjfndaglxc.space^
+||lu4mh9er4bbmj4.rest^
 ||luazaabatpsva.space^
 ||lubbardzeedduer.qpon^
+||lubetvguojavi.online^
 ||lubjakntiafcl.space^
 ||lucentanxiouslyfleeting.com^
 ||lucentjosephs.cfd^
@@ -200059,6 +200075,7 @@ browsershots.org#@#.advert_area
 ||menrdrxjpdvky.space^
 ||mensakapurbleakly.cyou^
 ||mensasavara.qpon^
+||mensissubaid.shop^
 ||mentaryrabanna.qpon^
 ||mentaryrewet.qpon^
 ||menthalegati.shop^
@@ -201874,6 +201891,8 @@ browsershots.org#@#.advert_area
 ||newthuads.com^
 ||newton.pw^
 ||newtsqwcijlti.website^
+||newxmjoijgfrd.site^
+||newzlofcvktbd.online^
 ||nexahub.co.in^
 ||nexium33bv.com^
 ||nexium530.com^
@@ -203956,6 +203975,7 @@ browsershots.org#@#.advert_area
 ||oupgcgnevtqjm.site^
 ||ouphouch.com^
 ||oupvfjtyxfxky.site^
+||ouqlqo1r2oueeip.cfd^
 ||ouqnsrtmguuyd.site^
 ||oursrestrict.com^
 ||ourtecads.com^
@@ -204404,6 +204424,7 @@ browsershots.org#@#.advert_area
 ||palpatecricketmajesty.com^
 ||palpateshakedecoy.com^
 ||palpedrecramp.qpon^
+||palpimisos.shop^
 ||palsybecamedislike.com^
 ||palsybrush.com^
 ||paluinho.cloud^
@@ -204868,6 +204889,7 @@ browsershots.org#@#.advert_area
 ||pensionflutter.com^
 ||pensivedean.com^
 ||pensterpotions.com^
+||pentacehousesed.cyou^
 ||pentailcutlery.cyou^
 ||pentalime.com^
 ||pentosephycic.shop^
@@ -210689,6 +210711,7 @@ browsershots.org#@#.advert_area
 ||shakydeploylofty.com^
 ||shakysummonedtriumph.com^
 ||shalesobiisms.cfd^
+||shaliercassian.cfd^
 ||shallbuilds.com^
 ||shallowconsumeconstrain.com^
 ||shamalabjures.cfd^
@@ -236956,6 +236979,7 @@ top.gg##[class*="__AdContainer-"]
 everydaykoala.com,playjunkie.com##[class*="__adspot-title-container"]
 everydaykoala.com,playjunkie.com##[class*="__adv-block"]
 gamezop.com##[class*="_ad_container"]
+chatgpt.com##[class*="_assistantAds"]
 crazygames.*##[class*="_leaderboardContainer_"]
 onlymyhealth.com##[class*="_omh_banner_"]
 cointelegraph.com,doodle.com##[class*="ad-slot"]
@@ -253683,8 +253707,8 @@ ruijie.com##.cke2022fr
 stayinwales.co.uk##.ckinfo-panel
 computercity.com##.cky-box-top-right
 anyclip.com,ignitedfitness.com##.cky-consent-bar
-adresowo.pl,becleverwithyourcash.com,betplay.com.co,click2pharmacy.co.uk,controlup.com,delfi.ee,edhardyoriginals.com,extra.ie,johnryanbydesign.co.uk,kadencewp.com,oiq.qc.ca,publitas.com,qcs.co.uk,scuffers.com,staples.ca##.cky-consent-container
-adresowo.pl,becleverwithyourcash.com,betplay.com.co,bluebird.hu,bluebirdinternational.com,click2pharmacy.co.uk,controlup.com,delfi.ee,extra.ie,johnryanbydesign.co.uk,kadencewp.com,oiq.qc.ca,publitas.com,qcs.co.uk,scuffers.com,staples.ca##.cky-overlay
+adresowo.pl,becleverwithyourcash.com,betplay.com.co,click2pharmacy.co.uk,controlup.com,delfi.ee,edhardyoriginals.com,extra.ie,johnryanbydesign.co.uk,kadencewp.com,oiq.qc.ca,publitas.com,qcs.co.uk,scuffers.com,staples.ca,vertaa.fi##.cky-consent-container
+adresowo.pl,becleverwithyourcash.com,betplay.com.co,bluebird.hu,bluebirdinternational.com,click2pharmacy.co.uk,controlup.com,delfi.ee,extra.ie,johnryanbydesign.co.uk,kadencewp.com,oiq.qc.ca,publitas.com,qcs.co.uk,scuffers.com,staples.ca,vertaa.fi##.cky-overlay
 jackjones.com##.cky-overlay-custom
 clineva.com##.clineva-cookies-info
 oipc.bc.ca##.clsPopupContainer
@@ -335066,7 +335090,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-07-19T19:11:38.808Z
+! Last updated: 2026-07-19T20:02:32.765Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
