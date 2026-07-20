@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-07-20T19:47:56.064Z
-! Rules count: 209095
+! Last updated: 2026-07-20T20:17:10.090Z
+! Rules count: 209100
 ||000491b06a.com^
 ||0017c6c37c.com^
 ||0019x.com^
@@ -4184,6 +4184,7 @@
 ||avmviiih.com^
 ||avnhqqqoljvgf.space^
 ||avnwqayeafuve.website^
+||avoihmaitkpln.online^
 ||avouchuramil.com^
 ||avourpimlicodoping.cyou^
 ||avowcosmo.cfd^
@@ -11261,6 +11262,7 @@
 ||dsbuzs.com^
 ||dsccgm.com^
 ||dscenn.com^
+||dscgcu.com^
 ||dscjbq.com^
 ||dscjnr.com^
 ||dsckgc.com^
@@ -14231,6 +14233,7 @@
 ||firstlyignorantbasis.com^
 ||firstmake.pro^
 ||firstosama.com^
+||firstresponsibility.pro^
 ||firtaips.com^
 ||firvmamosigpu.website^
 ||fiscalexplanation.com^
@@ -21640,6 +21643,7 @@
 ||khdiamondcdn.space^
 ||khedassphene.com^
 ||khehpukitab.in^
+||kheogvlmmulir.website^
 ||khetzeketostao.cyou^
 ||khezmsrqwmnxm.space^
 ||khgawzlfmtajq.online^
@@ -23294,6 +23298,7 @@
 ||llglxmzxsmcgo.space^
 ||llhobralwmgcc.website^
 ||llhxhipo.com^
+||llipdqmmdvmpu.online^
 ||lljoetsjbpukj.online^
 ||llllhshgscfda.site^
 ||llnakdvnqoghu.site^
@@ -209103,7 +209108,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-07-20T19:47:56.069Z
+! Last updated: 2026-07-20T20:17:10.096Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
