@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-07-21T19:28:44.952Z
-! Rules count: 336343
+! Last updated: 2026-07-21T20:13:48.580Z
+! Rules count: 336347
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -4845,6 +4845,7 @@ browsershots.org#@#.advert_area
 ||amateurcouplewebcam.com^
 ||amativefaying.qpon^
 ||amatolsaerage.cyou^
+||amavxzfcnzpwq.space^
 ||amazesbobet.cfd^
 ||amazingblackened.com^
 ||amazingmeaning.com^
@@ -22959,6 +22960,7 @@ browsershots.org#@#.advert_area
 ||jvqlisbixnxaz.space^
 ||jvrbmsrtvpzst.site^
 ||jvsrqsqh.com^
+||jvtmhnrkgrrnk.site^
 ||jvve6uvwcozj1yvk.rest^
 ||jvwuejwrelcst.space^
 ||jvxlfrzupukvh.online^
@@ -42358,6 +42360,7 @@ browsershots.org#@#.advert_area
 ||unknotfixable.cyou^
 ||unknowndeliquencydeliquencypenthouse.com^
 ||unknownpermission.com^
+||unlameostyakcowhorn.cfd^
 ||unlashchaule.qpon^
 ||unlawfuldamage.com^
 ||unlawfulpattern.pro^
@@ -46485,6 +46488,7 @@ browsershots.org#@#.advert_area
 ||xvayntirbqohr.space^
 ||xvcefcdyvbyyx.website^
 ||xvcwbxjzdecpi.store^
+||xvdcxksslnjgy.online^
 ||xvegvlkqovqqr.online^
 ||xvenqhybvuwqw.online^
 ||xvfarnkhampqi.space^
@@ -336223,7 +336227,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-07-21T19:28:44.963Z
+! Last updated: 2026-07-21T20:13:48.590Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
