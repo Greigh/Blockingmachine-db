@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-07-22T19:26:34.022Z
-! Rules count: 210569
+! Last updated: 2026-07-22T20:07:20.407Z
+! Rules count: 210573
 ||000491b06a.com^
 ||0017c6c37c.com^
 ||0019x.com^
@@ -24888,6 +24888,7 @@
 ||melgeminid.cfd^
 ||mellodur.net^
 ||mellow-habit.com^
+||mellowwatch.pro^
 ||melodic-mess.com^
 ||melodramaticquery.com^
 ||melongatesdexterity.com^
@@ -46348,6 +46349,7 @@
 ||zhffvzqowuoos.space^
 ||zhgcahjbqiiuu.website^
 ||zhhmkiottyxgn.space^
+||zhhykcijtjehl.space^
 ||zhiqzwrcnh3vu1on2blo.cfd^
 ||zhiyhsya.com^
 ||zhmsgznkpenng.space^
@@ -46581,6 +46583,7 @@
 ||zogmfiyljbdvf.space^
 ||zogrepsili.com^
 ||zohlikopegrdz.space^
+||zohmerfhmsdqa.website^
 ||zohoptortibsi.net^
 ||zoifwejzptmea.store^
 ||zoiixfvrxcxlp.online^
@@ -46643,6 +46646,7 @@
 ||zpjivmwnrhiwd.site^
 ||zplxavnqigfrp.site^
 ||zpnfabznyzmuc.site^
+||zpomgsqyppbpx.online^
 ||zpqfqxoczrwfq.space^
 ||zpuavdcswqnml.online^
 ||zpv7v3olgl7el9b.rest^
@@ -210577,7 +210581,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-07-22T19:26:34.027Z
+! Last updated: 2026-07-22T20:07:20.412Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
