@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-07-23T19:23:27.327Z
-! Rules count: 211211
+! Last updated: 2026-07-23T20:08:37.784Z
+! Rules count: 211216
 ||000491b06a.com^
 ||0017c6c37c.com^
 ||0019x.com^
@@ -9802,6 +9802,7 @@
 ||damagingfiles.com^
 ||damansgaleas.cyou^
 ||damedamehoy.xyz^
+||damericantpast.org^
 ||damewaltzed.shop^
 ||damiaavert.shop^
 ||damiaevilest.shop^
@@ -18435,6 +18436,7 @@
 ||hoppykyries.cyou^
 ||hopsysdhmstab.online^
 ||hoptopboy.com^
+||hoqagfdlnizuh.online^
 ||hoqodd.com^
 ||horacereciprocalvaccination.com^
 ||hordeumconveth.qpon^
@@ -39523,6 +39525,7 @@
 ||tolledakund.cfd^
 ||tollmensakiyeh.cfd^
 ||toltanax.cyou^
+||toltnjfbtlhvr.site^
 ||toluidspiranha.cyou^
 ||tomandligula.com^
 ||tomandrooped.cyou^
@@ -42902,6 +42905,7 @@
 ||vuwgityuhrcvf.online^
 ||vuwofoeszqiby.store^
 ||vuwrjobyhwbjn.site^
+||vuyjemuxrfesj.online^
 ||vv8h9vyjgnst.com^
 ||vvaervdbcntvs.online^
 ||vvcszpzpuceps.space^
@@ -51029,6 +51033,7 @@
 ||onecrow.net^
 ||onedropocean.com^
 ||onekindmarket.com^
+||onemorebump.com^
 ||onespecify.com^
 ||onioncomic.com^
 ||onlinestarten.net^
@@ -211219,7 +211224,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-07-23T19:23:27.333Z
+! Last updated: 2026-07-23T20:08:37.790Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes

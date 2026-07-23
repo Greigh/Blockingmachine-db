@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-07-23T19:23:24.378Z
-! Rules count: 337869
+! Last updated: 2026-07-23T20:08:35.349Z
+! Rules count: 337874
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -11476,6 +11476,7 @@ browsershots.org#@#.advert_area
 ||damagingfiles.com^
 ||damansgaleas.cyou^
 ||damedamehoy.xyz^
+||damericantpast.org^
 ||damewaltzed.shop^
 ||damiaavert.shop^
 ||damiaevilest.shop^
@@ -20111,6 +20112,7 @@ browsershots.org#@#.advert_area
 ||hoppykyries.cyou^
 ||hopsysdhmstab.online^
 ||hoptopboy.com^
+||hoqagfdlnizuh.online^
 ||hoqodd.com^
 ||horacereciprocalvaccination.com^
 ||hordeumconveth.qpon^
@@ -41199,6 +41201,7 @@ browsershots.org#@#.advert_area
 ||tolledakund.cfd^
 ||tollmensakiyeh.cfd^
 ||toltanax.cyou^
+||toltnjfbtlhvr.site^
 ||toluidspiranha.cyou^
 ||tomandligula.com^
 ||tomandrooped.cyou^
@@ -44578,6 +44581,7 @@ browsershots.org#@#.advert_area
 ||vuwgityuhrcvf.online^
 ||vuwofoeszqiby.store^
 ||vuwrjobyhwbjn.site^
+||vuyjemuxrfesj.online^
 ||vv8h9vyjgnst.com^
 ||vvaervdbcntvs.online^
 ||vvcszpzpuceps.space^
@@ -76981,6 +76985,7 @@ omni.soundestlink.com$image
 ||onecrow.net^
 ||onedropocean.com^
 ||onekindmarket.com^
+||onemorebump.com^
 ||onespecify.com^
 ||onioncomic.com^
 ||onlinestarten.net^
