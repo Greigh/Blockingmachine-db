@@ -1,6 +1,6 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-07-24T20:10:39.435Z
+# Generated: 2026-07-25T19:12:24.147Z
 # Count: 25864
 
 &rb=&uuid=$third-party
@@ -6582,7 +6582,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 @@||autotrader.co.uk^*/advert$~third-party
 @@||avclub.com^*/adManager.$script,~third-party
 @@||bankofamerica.com^*?adx=$~third-party,xmlhttprequest
-@@||bannersnack.com/banners/$document,subdocument,domain=adventcards.co.uk|charitychristmascards.org|christmascardpacks.co.uk|kingsmead.com|kingsmeadcards.co.uk|nativitycards.co.uk|printedchristmascards.co.uk
+@@||bannersnack.com/banners/$subdocument,domain=adventcards.co.uk|charitychristmascards.org|christmascardpacks.co.uk|kingsmead.com|kingsmeadcards.co.uk|nativitycards.co.uk|printedchristmascards.co.uk
 @@||bauersecure.com/dist/js/prebid/$domain=carmagazine.co.uk
 @@||bbc.gscontxt.net^$script,domain=bbc.com
 @@||betterads.org/hubfs/$image,~third-party
@@ -7560,6 +7560,7 @@ _view_pixel&$image
 /maillist.*/t/*$image
 /maling.roidusat.com/t/*$image
 /marketing.wrightentgroup.com/t/*$image
+/ml.bitcash.co.jp/c/*$image
 /newsletter/log/*$image
 /newsletter/read?s=$image
 /newslink.reuters.com/img/*$image
@@ -11432,7 +11433,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jennifersoft.com^$third-party
 ||jotform.io/getReferrer/$third-party
 ||kbb.com/partner/$third-party
-||klarnaservices.com^$image,third-party
 ||klickly.com^$third-party
 ||kochava.com/track/$third-party
 ||kxcdn.com/actor/$third-party
