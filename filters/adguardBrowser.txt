@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-07-26T19:16:46.115Z
-! Rules count: 339986
+! Last updated: 2026-07-26T20:05:04.504Z
+! Rules count: 339991
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -12267,6 +12267,7 @@ browsershots.org#@#.advert_area
 ||dfkkffjulbnec.space^
 ||dfndwfcwp.com^
 ||dfqbktlcmmcca.space^
+||dfrboadnvtecq.site^
 ||dfrgxsiydjbfj.space^
 ||dfrhgivzjpkil.site^
 ||dfuijqrojtvcb.site^
@@ -21031,6 +21032,7 @@ browsershots.org#@#.advert_area
 ||ibseniccamery.qpon^
 ||ibsenicopalish.cfd^
 ||ibsxnvottfiou.space^
+||ibughqxanhtuy.online^
 ||ibulvwytsbrmf.site^
 ||ibvaohvdhgypx.com^
 ||ibvrruekneixz.site^
@@ -21174,6 +21176,7 @@ browsershots.org#@#.advert_area
 ||ifdnzact.com^
 ||iffiestpolacca.qpon^
 ||ifhfsjtnrsrje.online^
+||ifhnzeobvtakt.online^
 ||ifigent.com^
 ||ifikexfkaskbn.online^
 ||iflfnermnmnhj.space^
@@ -25194,6 +25197,7 @@ browsershots.org#@#.advert_area
 ||leftieseyeshot.qpon^
 ||leftmany.pro^
 ||lefttongue.com^
+||legacyclerkbuffin.cyou^
 ||legalizeshort.com^
 ||legallydune.com^
 ||legendssagely.qpon^
@@ -332002,6 +332006,7 @@ lighterusa.com#@##shopify-section-age-gate
 @@||clck.wargaming.net^
 @@||clck.yandex.ru^
 @@||clckptrl.com^
+@@||clcktrck.com^
 @@||click*.redbrain.com^
 @@||click*.taobao.com^
 @@||click-tracking.klarna.net^
@@ -339866,7 +339871,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-07-26T19:16:46.124Z
+! Last updated: 2026-07-26T20:05:04.514Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
