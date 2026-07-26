@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-07-25T20:06:14.148Z
-# Count: 25864
+# Generated: 2026-07-26T19:16:48.103Z
+# Count: 25863
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -12208,7 +12208,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||mapquestapi.com/logger/$domain=hertz.com
 @@||maps.arcgis.com/apps/*/AppMeasurement.js$~third-party
 @@||maptiles.ping-admin.ru^$image,domain=ping-admin.com
-@@||martech.condenastdigital.com/lib/martech.js$script,domain=wired.com
+@@||martech.condenastdigital.com/lib/martech.js$script,domain=cntraveler.com|wired.com
 @@||matomo.miraheze.org/matomo.js$script,~third-party
 @@||maxmind.com/geoip/$xmlhttprequest,domain=ibanez.com
 @@||maxmind.com^*/geoip.js$domain=aljazeera.com|ballerstatus.com|bikemap.net|carltonjordan.com|cashu.com|dr.dk|everydaysource.com|fab.com|girlgames4u.com|ip-address.cc|qatarairways.com|sat-direction.com|sotctours.com|stoli.com|vibe.com
@@ -22371,7 +22371,6 @@ sostav.ru##div:has(> p>a[href$="/page/policy"])
 ||serviceform.com/serviceform-tools/privacy/sf-privacy-partner.js$script,domain=kotitesti.fi
 ||storage.googleapis.com/om-gravito-cmp/$script
 ||tapionverkkokauppa.fi^*/js.cookie.min.js$script
-||vpd.fi/datalayer/index/cookieContent/$xmlhttprequest,domain=vpd.fi
 ||beautydea.it^*/consent_$script
 ||cookierulez.sqrt64.it^$third-party
 ||cmp.computerworld.pl^$script
