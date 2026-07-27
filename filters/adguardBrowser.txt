@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-07-27T19:39:21.115Z
-! Rules count: 340731
+! Last updated: 2026-07-27T20:14:34.381Z
+! Rules count: 340706
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -14400,6 +14400,7 @@ browsershots.org#@#.advert_area
 ||eivhjpwzswyjx.website^
 ||eivtciyrmrgkx.online^
 ||eixgdeonnumrp.site^
+||eixypottzpleb.space^
 ||eiyyjstblubzo.website^
 ||eizcfqypdourg.online^
 ||eizgttovabu.com^
@@ -31354,6 +31355,7 @@ browsershots.org#@#.advert_area
 ||ougnflauhyluf.online^
 ||ouhoxibwjvwuz.site^
 ||ouiwfrtqcwjeu.online^
+||oujudpodmnumr.space^
 ||oulapoat.qpon^
 ||ounbiwssqohds.online^
 ||ounc4vqhukctmb4brcp6b3yftwqf.cfd^
@@ -152165,12 +152167,6 @@ $script,3p,denyallow=tvableon.me|mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|byt
 $xhr,3p,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|doodcdn.io|intensedebate.com|vixcloud.co|cdn.plyr.io|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|imgsmail.ru|cloudflare.net|rabbitstream.net|x.com|pp.ua|discord.com,_,domain=everia.club|projectfreetv.cyou|skidrowreloaded.com|kickassanime.*|dlhd.*|nxbrew.net|ziperto.com|lilymanga.net|stly.link|bentomanga.top|bigcomics.bid|brmangas.top|cmoa1.top|janime.top|jpraw.xyz|kakuyomu.in|kkraw.com|komiku.win|lectormanga.top|lermanga.top|manga1000.top|manga1001.win|manga1001.xyz|mangajp.top|mangakl.su|mangaraw.bid|mangavy.com|mangaz.win|scanita.top|shinigami-id.top|sushiscan.top|worldsports.me|poscitechs.xyz|harimanga.com|movieshubweb.com|animeflv.net|techcabal.net|nextgencloudtools.com|soap2day.day|cricstreams.re|flixrave.me|audioz.download|playdede.link|canna-power.to|canna.to|filecrypt.cc|dlhd.dad|3isk.icu|3isk.info|animesrbija.com|yts.lt|totalsportek.*|totalsportek.army|ext.to|eztvx.to|bypass.city|fileditchfiles.me|furry34.com|filecrypt.co|yts.*|yts.gg|yts.bz|streamtape.net
 $subdocument,3p,denyallow=disqus.com,domain=love4u.net
 ||linksconsole.com/ad-system/
-||boyfriendtv.com/bftv/bb/$subdocument
-boyfriend.tv##.info-block-wrapper
-boyfriend.tv##.side-content-block > div:contains(Advertisment)
-boyfriend.tv##.info-wrap > .zn-label
-boyfriend.tv##a[href^="https://go.janusaent.com/"]
-boyfriend.tv##a[href^="https://www.boyfriend.tv/link/out/"]
 xgroovy.com###top_links
 /^https?:\/\/xgroovy\.com\/[A-Za-z0-9]{16}\/$/$script,domain=xgroovy.com
 thunderstore.io##.community-promo
@@ -179006,7 +179002,6 @@ browsershots.org#@#.advert_area
 ||6lmt17r7m8kfvz21zc.rest^
 ||6mbzgf698fmquukl1.rest^
 ||6n61c39cvx4qq9n.rest^
-||6ogjwnhh885386q48xe.rest^
 ||6opo.com^
 ||6ped2nd3yp.com^
 ||6peiophcz6ccyfrw1tir9z.cfd^
@@ -181238,7 +181233,6 @@ browsershots.org#@#.advert_area
 ||amountdonutproxy.com^
 ||amoursspignet.cfd^
 ||amovingimsonicvlsi.cyou^
-||amoyyamulka.cfd^
 ||amphorabirken.qpon^
 ||ampmhcbehnapwt.com^
 ||ampxchange.com^
@@ -183308,7 +183302,6 @@ browsershots.org#@#.advert_area
 ||bfetpjdaebmzl.space^
 ||bffexpzjljesi.site^
 ||bffigvvwoyybr.website^
-||bffxulqslmiux.space^
 ||bfhrwqaroikoo.site^
 ||bfhspobdvajttb.com^
 ||bfirpqcbyfd.com^
@@ -185867,7 +185860,6 @@ browsershots.org#@#.advert_area
 ||chipnarrativefatherinlaw.com^
 ||chipspasteprowl.com^
 ||chiripapareses.shop^
-||chirkgiulio.cyou^
 ||chirpdescend.cyou^
 ||chirredyip.cfd^
 ||chitintzetze.com^
@@ -186953,7 +186945,6 @@ browsershots.org#@#.advert_area
 ||coryphstoma.com^
 ||coryzaproximarowport.cyou^
 ||coryzasdarat.cfd^
-||coscetfec.cfd^
 ||coseierblowstalipat.cfd^
 ||cosetengarb.com^
 ||coseymikra.cyou^
@@ -191155,7 +191146,6 @@ browsershots.org#@#.advert_area
 ||envoymusicianpaid.com^
 ||enwombssighing.com^
 ||enwraptboteinruned.cyou^
-||enwwoveprocess.qpon^
 ||enxjwxpa.com^
 ||enyfyltscarvo.online^
 ||enylhpdbexguq.website^
@@ -191324,7 +191314,6 @@ browsershots.org#@#.advert_area
 ||erasmusbhil.cfd^
 ||erateaster.cyou^
 ||erbiscusysexbu.org^
-||erbiumsuppowoc.qpon^
 ||erbqwgtbxifxz.online^
 ||ercpurdyiaicp.space^
 ||erdwas.com^
@@ -192351,7 +192340,6 @@ browsershots.org#@#.advert_area
 ||fellowshiplyricsceasless.com^
 ||felor.xyz^
 ||felterprefet.qpon^
-||feltluteal.cyou^
 ||feltyrewoken.cfd^
 ||felwnnkhshnqt.com^
 ||femalehunt.pro^
@@ -193162,7 +193150,6 @@ browsershots.org#@#.advert_area
 ||fordlouse.com^
 ||forearmthrobjanuary.com^
 ||forecaststepsixteen.com^
-||foredidkermis.qpon^
 ||foreignabnormality.com^
 ||foreignlozenge.com^
 ||forelaycampe.cyou^
@@ -194392,7 +194379,6 @@ browsershots.org#@#.advert_area
 ||ggtydxcv.com^
 ||ggvfcdgssrppa.store^
 ||ggvmgjyqbnbjy.website^
-||ggw4g8nev68pg6fyq9k.cfd^
 ||ggwktikqu.com^
 ||ggwoarzpalvlg.site^
 ||ggwwjflrkeabf.space^
@@ -199299,7 +199285,6 @@ browsershots.org#@#.advert_area
 ||jimmysindon.cfd^
 ||jimppocked.cfd^
 ||jingletronasbosons.cfd^
-||jingobreaths.cfd^
 ||jinniespottagy.com^
 ||jinraoiahbrhg.online^
 ||jiprgfzcpdjmp.online^
@@ -199364,7 +199349,6 @@ browsershots.org#@#.advert_area
 ||jkksrhdcyhhd.com^
 ||jklfhxxmxjcqi.space^
 ||jklpy.com^
-||jkluxjhnnbfka.online^
 ||jklxapwjjgyqb.space^
 ||jkmawumzebcim.space^
 ||jkmdfnarliyun.website^
@@ -203353,7 +203337,6 @@ browsershots.org#@#.advert_area
 ||mdienajibvwdc.space^
 ||mdjaqbmzrwrcx.space^
 ||mdjhrgdnrgxrb.site^
-||mdnttensive.qpon^
 ||mdockyrsaxayt.online^
 ||mdocqwipifyhu.buzz^
 ||mdoomngnidelo.store^
@@ -206789,7 +206772,6 @@ browsershots.org#@#.advert_area
 ||ogjybrolzwrhf.online^
 ||ogkydwllwcyks.online^
 ||ogle-0740lb.com^
-||ognovtfu.in^
 ||ogogymywuqiuz.website^
 ||ogopsmaoxxnfl.website^
 ||ogorwaste.com^
@@ -214922,7 +214904,6 @@ browsershots.org#@#.advert_area
 ||silklanguish.com^
 ||silkmanthanksdobson.qpon^
 ||silkrolesilicin.cyou^
-||sillagoposs.shop^
 ||sillaltica.cyou^
 ||sillierwills.shop^
 ||sillinessclearly.com^
@@ -216074,7 +216055,6 @@ browsershots.org#@#.advert_area
 ||squillabutenelofter.cyou^
 ||squintsstretta.cyou^
 ||squirestankie.com^
-||squirkverraykorunas.cyou^
 ||squirlbroddle.cfd^
 ||squirmdori.qpon^
 ||squirtdrsuccession.com^
@@ -216653,7 +216633,6 @@ browsershots.org#@#.advert_area
 ||sucnaegzvbrhu.site^
 ||suctiondecade.com^
 ||suczjwsoelppw.site^
-||sudanicknudsenorillon.cyou^
 ||sudariacueman.cyou^
 ||sudatejiberlauryl.cyou^
 ||suddersalinanmeteors.qpon^
@@ -216863,7 +216842,6 @@ browsershots.org#@#.advert_area
 ||sutrasrebbe.qpon^
 ||suttacen.qpon^
 ||sutzotlenmcem.store^
-||suumghyll.cfd^
 ||suuwomhpbkddv.space^
 ||suvloxmlkfier.online^
 ||suvntjrxksruf.space^
@@ -217905,7 +217883,6 @@ browsershots.org#@#.advert_area
 ||thunderous-army.com^
 ||thunderousprocess.pro^
 ||thunderousshirt.pro^
-||thuriofennecs.cyou^
 ||thurnflfant.com^
 ||thushandkerchiefcentered.com^
 ||thvkfixnszmmf.site^
@@ -224101,7 +224078,6 @@ browsershots.org#@#.advert_area
 ||xqwkfbmazxgwe.online^
 ||xqxgcdhfkccgg.site^
 ||xqxplqzqywvcj.website^
-||xqyxuyutqoxwr.online^
 ||xrbcmxuzmyfzj.website^
 ||xrbdcvkbhfiw.com^
 ||xrbtfev4hm5r7kk.cfd^
@@ -224133,7 +224109,6 @@ browsershots.org#@#.advert_area
 ||xsbjtmzcpqlst.space^
 ||xsbsfifapiemx.site^
 ||xsdsemgyxukwx.space^
-||xsepmeerroahk.website^
 ||xsfcgwydeqhuz.online^
 ||xshnaseqjbbyhch.com^
 ||xsjgqnzlbijnn.space^
@@ -340611,7 +340586,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-07-27T19:39:21.124Z
+! Last updated: 2026-07-27T20:14:34.392Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
