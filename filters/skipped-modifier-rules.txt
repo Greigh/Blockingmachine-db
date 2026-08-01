@@ -1,6 +1,6 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-08-01T19:13:38.316Z
+# Generated: 2026-08-01T20:06:02.615Z
 # Count: 25892
 
 &rb=&uuid=$third-party
@@ -3125,7 +3125,6 @@ _468_60-$~script
 ||blzz.xyz^$popup
 ||bmmads.com^$popup
 ||bmndx.com^$popup
-||bmtmicro.com^$popup
 ||bngpt.com^$popup
 ||bngtrak.com^$popup
 ||bobabillydirect.org^$popup
@@ -20537,6 +20536,7 @@ wss://www.*.xyz/ws^$3p
 ||adnanny.com^$popup,3p
 ||adnium.com^$popup,3p
 ||adx.io^$popup,3p
+||bmtmicro.com^$popup
 ||bongacams.com^$popup,3p
 ||contentabc.com^$popup,3p
 ||entainpartners.com^$popup,3p
