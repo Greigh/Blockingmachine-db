@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-07-31T20:15:28.072Z
-# Count: 25890
+# Generated: 2026-08-01T19:13:38.316Z
+# Count: 25892
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -2925,6 +2925,7 @@ _468_60-$~script
 ||aitsatho.com^$popup
 ||aj1070.online^$popup
 ||ajrkmx1.com^$popup
+||ajrkmx9.com^$popup
 ||ajump1.com^$popup
 ||ajump2.com^$popup
 ||ajxx98.online^$popup
@@ -5074,6 +5075,7 @@ _468_60-$~script
 ||vizoalygrenn.com^$popup
 ||vkcdnservice.com^$popup
 ||vkgtrack.com^$popup
+||vlmjm1.com^$popup
 ||vodobyve.pro^$popup
 ||vokut.com^$popup
 ||volform.online^$popup
@@ -17588,6 +17590,7 @@ $script,3p,denyallow=doodcdn.io|doodcdn.io|fastly.net|statically.io|sharecast.ws
 ||englishlightnovels.files.wordpress.com/*/amazonprime-banner.jpg$domain=englishlightnovels.com
 ||protoawe.com/vast/$redirect=noop.txt,domain=hdsex.org,image,media,subdocument,stylesheet,script,xhr,other
 ||syndication.exoclick.com/splash.php?$redirect=noop.txt,image,media,subdocument,stylesheet,script,xhr,other
+||bmtmicro.com^$popup,badfilter
 $popup,domain=cloudnestra.com,badfilter
 @@||cdn.ampproject.org^$domain=ettoday.net
 @@||bidder.criteo.com/amp/rtc$domain=ettoday.net
@@ -25751,7 +25754,6 @@ hentaipornpics.net##+js(acs, $, zendplace)
 @@||bolsanow.com^$ghide
 *$script,3p,denyallow=google.com|gstatic.com|recaptcha.net,domain=smoner.com
 vz.lt##+js(acs, $, adblock)
-*/player/plugins/vast-*.js$script
 ||tr.link/js/sweets.js$script,1p
 ||tr.link/*/sweet.js$script,1p
 ||tr.link/push/push.js$script,1p
