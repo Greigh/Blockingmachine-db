@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-08-07T19:44:49.117Z
-# Count: 17256
+# Generated: 2026-08-08T18:41:37.084Z
+# Count: 17259
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -7172,6 +7172,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 @@||przegladpiaseczynski.pl/wp-content/uploads/*-300x250-$image,~third-party
 @@||radiosun.fi/wp-content/uploads/*300x250$image,~third-party
 @@||redditinc.com/assets/images/site/*_300x250.$image,~third-party
+@@||rollercoin.com/static/img/referral_160-600.png$image
 @@||taipit-mebel.ru/upload/resize_cache/$image,~third-party
 @@||wavepc.pl/wp-content/*-500x100.png$image,~third-party
 @@||yimg.jp/images/news-web/all/images/jsonld_image_300x250.png$domain=news.yahoo.co.jp
@@ -7986,6 +7987,7 @@ omni.soundestlink.com$image
 ||browser-update.org^$third-party
 ||bstn-14-ma.com^$third-party
 ||btbuckets.com^$third-party
+||btmessage.com^$third-party
 ||btncdn.com^$third-party
 ||bttn.io^$third-party
 ||btttag.com^$third-party
@@ -14327,6 +14329,7 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||ageverif.com^$third-party
 ||lifteragecheck.com^$third-party
 ||editmysite.com/app/marketing/js/dist/lead$script,domain=blueandwhitebottleshop.com|weebly.com
+||supersedeaccolade.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gamengirls.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cno.jerkmate.net^$dnsrewrite=ad-block.dns.adguard.com
 ||arx8x.net^$dnsrewrite=ad-block.dns.adguard.com
