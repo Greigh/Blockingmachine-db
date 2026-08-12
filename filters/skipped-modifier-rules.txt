@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-08-12T19:05:15.399Z
-# Count: 25880
+# Generated: 2026-08-12T19:57:05.116Z
+# Count: 25879
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -24071,7 +24071,6 @@ www.youtube.com##+js(trusted-replace-xhr-response, /"adPlacements.*?("adSlots"|"
 */wp-adblock-$script,redirect=fuckadblock.js-3.2.0:5
 @@||tvtoday.de^$ghide
 @@||a.bf-ad.net/makabo/ads_fol_init.js$script,domain=chip.de
-||chip.de/*&$script,1p
 ||adnxs.com/*/sport1.js$script,redirect=noopjs,domain=sport1.de
 ||acdn.adnxs.com/as/1h/pages/sport1_mediathek.js$script,redirect=noopjs,domain=sport1.de
 ||asadcdn.com/adlib/*$script,redirect=noopjs,domain=sport1.de
