@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-08-11T19:55:08.517Z
-# Count: 25878
+# Generated: 2026-08-12T19:05:15.399Z
+# Count: 25880
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -1971,6 +1971,7 @@ _468_60-$~script
 ||carambo.la^$third-party
 ||carbonads.com^$third-party
 ||carbonads.net^$third-party
+||carbonatix.com^$third-party
 ||caroda.io^$third-party
 ||cdn.mcnn.pl^$third-party
 ||cdnreference.com^$third-party
@@ -12113,6 +12114,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
 @@||dc.services.visualstudio.com/v2/track$xmlhttprequest,domain=aiskillsnavigator.microsoft.com
 @@||dd.auspost.com.au/tags.js$script,~third-party
+@@||dekra-akademie.de/resource/*/eCom_FrontendV3/assets/js/gtm.js$~third-party
 @@||delta.com/dlhome/ruxitagentjs$~third-party
 @@||dishtv.in/scripts/adobeAnalytics.js$~third-party
 @@||docs.google.com/*/viewdata$~third-party
@@ -12453,6 +12455,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||dd.blackhawknetwork.com.first-party-js.datadome.co^$domain=redeem.rewardlink.com
 @@||dd.jaycar.com.au.first-party-js.datadome.co^$script,third-party,domain=jaycar.com.au
 @@||dd.qa.moneygram.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=moneygram.com
+@@||dd.thetrainline.com.first-party-js.datadome.co^$domain=thetrainline.com
 @@||dd.wizzair.com.first-party-js.datadome.co^$domain=wizzair.com
 @@||dwt.soundcloud.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=soundcloud.com
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
@@ -13690,7 +13693,6 @@ $stylesheet,redirect-rule=noop.css,domain=anisearch.*
 ||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,redirect=google-ima.js,domain=mtv.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cheersandgears.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=googlesyndication_adsbygoogle.js,domain=cheersandgears.com,important,script
-fixno.in##div[id][class^="popup"][class$="wrap"][style]
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,important,redirect=google-ima.js,domain=observatornews.ro
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=production-api.androidacy.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=production-api.androidacy.com
@@ -14370,7 +14372,6 @@ nulledteam.com##+js(abort-current-script, $, !document.getElementById(btoa)
 @@||direct-link.net^$generichide
 @@.gif#$domain=direct-link.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=classicalradio.com|di.fm|jazzradio.com|radiotunes.com|rockradio.com|zenradio.com
-@@||rulu.co/*.php$generichide
 @@||gvt1.com/videoplayback/id/*/source/gfp_video_ads/*/file.mp4$domain=rx.iscdn.net
 @@||pubads.g.doubleclick.net/gampad/live/ads?correlator=$domain=rx.iscdn.net
 @@||fforfree.net^$generichide
@@ -19816,6 +19817,7 @@ wss://www.*.xyz/ws^$3p
 ||capacitygrid.com^$3p
 ||carambo.la^$3p
 ||carbonads.com^$3p
+||carbonatix.com^$3p
 ||caroda.io^$3p
 ||cdn.mcnn.pl^$3p
 ||cdnreference.com^$3p
