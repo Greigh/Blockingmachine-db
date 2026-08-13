@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-08-13T19:06:23.987Z
-! Rules count: 202768
+! Last updated: 2026-08-13T19:52:02.063Z
+! Rules count: 202770
 ||000491b06a.com^
 ||0017c6c37c.com^
 ||0019x.com^
@@ -10645,6 +10645,7 @@
 ||dvfritvgogdkr.space^
 ||dvhbtwhmzlljw.site^
 ||dvjkexyijbjbg.site^
+||dvkjcqhgwdaig.com^
 ||dvkxhbcrrrrut.online^
 ||dvleaaamtruzl.site^
 ||dvmbarfzhhuyq.com^
@@ -10923,6 +10924,7 @@
 ||ebipqffahuiyc.online^
 ||eblastengine.com^
 ||ebmjaufmqljbw.site^
+||ebonisegorhenssnottie.cyou^
 ||ebonizerebake.com^
 ||eboxgiwwapmri.online^
 ||eboxrcvjhxgcm.online^
@@ -202776,7 +202778,7 @@
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-08-13T19:06:23.991Z
+! Last updated: 2026-08-13T19:52:02.068Z
 !
 ! Brave (brave.com) Browser Fixes
 ! Bank Fixes
