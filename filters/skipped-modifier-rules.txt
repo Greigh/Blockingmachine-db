@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-08-22T19:16:29.037Z
-# Count: 25880
+# Generated: 2026-08-23T18:34:14.883Z
+# Count: 25881
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -11754,6 +11754,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||maximise.nyc3.cdn.digitaloceanspaces.com/mxmse.min.js$domain=essentiallysports.com
 ||medal.tv^$ping
 ||miao.baidu.com/abdr?$image
+||micstatic.com/common/js/business/global/sensors_track.js$script,domain=made-in-china.com
 ||mixproxy.epoch.cloud^$domain=theepochtimes.com
 ||mps.nbcuni.com/request/page/json/params/*&adunits=$xmlhttprequest
 ||msg-intl.qy.net^$image
