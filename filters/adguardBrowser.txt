@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-08-24T18:44:23.397Z
-! Rules count: 335542
+! Last updated: 2026-08-24T19:23:23.119Z
+! Rules count: 335575
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -18150,6 +18150,7 @@ browsershots.org#@#.advert_area
 ||hinchlastageencycl.qpon^
 ||hindrancegate.com^
 ||hinneyupleg.cyou^
+||hinovpcxfqpic.site^
 ||hintbreakfastrather.com^
 ||hintfacto.shop^
 ||hinwwezapkyiu.website^
@@ -21614,6 +21615,7 @@ browsershots.org#@#.advert_area
 ||kgslcxtpctxru.online^
 ||kgsxcozeuccrs.website^
 ||kgtwbxiuepiyv.website^
+||kgtwgctkerhjd.space^
 ||kgvhlxcevwbsb.space^
 ||kgweejcwry.com^
 ||kgzfmbpkbydoj.online^
@@ -27751,6 +27753,7 @@ browsershots.org#@#.advert_area
 ||operatorhighsnake.com^
 ||operosehoodoes.cfd^
 ||opfourpro.org^
+||opfrltpdwmdvhe.com^
 ||ophcizitukjya.site^
 ||ophonlexhjaai.space^
 ||opi-nion.com^
@@ -149445,6 +149448,8 @@ hitomi.la##.top-content > div[class]:not([class*="-"]):style(min-height: 40px !i
 beermoneyforum.com###preloader
 triblive.com##.section.hex-sports + div:has(> div[data-type="float"])
 triblive.com###storyContent > div[data-type="float"][data-stn-player]
+sms24.me##+js(remove-node-text, script, ).join(String.fromCharCode)
+sms24.me##+js(remove-attr, onerror, script[id][onerror])
 index.hr##+js(set-constant, as_loader_version, 1)
 gamingbible.com,ladbible.com,sportbible.com,thecontentbible.com,tyla.com,unilad.com##+js(remove-node-text, script, "nowprocket")
 mandiner.hu##+js(set-constant, Object.prototype.htmlLoadScriptService.loadScript, noopFunc)
@@ -179022,6 +179027,7 @@ browsershots.org#@#.advert_area
 ||arimaspdeek.com^
 ||ariotgribble.com^
 ||arisingvinage.cyou^
+||aristolmangona.cfd^
 ||aristolsah.cfd^
 ||arithpouted.com^
 ||arjkyishfnbms.site^
@@ -180280,6 +180286,7 @@ browsershots.org#@#.advert_area
 ||benesfumous.cfd^
 ||benevolencecompromisefaint.com^
 ||bengbugger.qpon^
+||benilarve.cfd^
 ||beniluuxen.com^
 ||bennetguarantee.com^
 ||benrankwhence.com^
@@ -180701,6 +180708,7 @@ browsershots.org#@#.advert_area
 ||bkpmmpsqgluwj.online^
 ||bkprozoneludwig.cyou^
 ||bkqodnnsomnon.website^
+||bkstwfdfozser.site^
 ||bkuntihdhjwpd.site^
 ||bkuxigrmvndcr.site^
 ||bkvxjygccpkwk.space^
@@ -181239,6 +181247,7 @@ browsershots.org#@#.advert_area
 ||bracecherry.com^
 ||bracemascara.com^
 ||bracketauthorizedportray.com^
+||bracketelude.com^
 ||bragidylismtooken.cyou^
 ||brahmicassurer.qpon^
 ||brahmsflidge.com^
@@ -181750,6 +181759,7 @@ browsershots.org#@#.advert_area
 ||bxkhoojkyzdbn.website^
 ||bxlooftejvbac.website^
 ||bxmyyupyexyci.space^
+||bxnjlsganvahe.online^
 ||bxnmviazvodeo.space^
 ||bxolifojkkbue.space^
 ||bxrlptloondxl.space^
@@ -182455,6 +182465,7 @@ browsershots.org#@#.advert_area
 ||cfqrooirsgecg.space^
 ||cfszapashpahn.space^
 ||cfusionsys.com^
+||cfvqapvwftyle.online^
 ||cfxoaljlopydq.online^
 ||cgarrcofpmpxp.site^
 ||cgbgdgcdmahpd.space^
@@ -184120,6 +184131,7 @@ browsershots.org#@#.advert_area
 ||cuestasnopal.com^
 ||cuffeddimmer.com^
 ||cuffleverdunshipman.cyou^
+||cuffyfoxery.cyou^
 ||cuisineenvoyadvertise.com^
 ||cuivordvonnsy.site^
 ||cuizgelbtbdft.site^
@@ -188294,6 +188306,7 @@ browsershots.org#@#.advert_area
 ||fanegasinflue.shop^
 ||fanfishamania.qpon^
 ||fangmoonlight.com^
+||fanitbedim.qpon^
 ||fannersrhytinarandon.cyou^
 ||fanonzuni.cfd^
 ||fantabro.com^
@@ -189975,6 +189988,7 @@ browsershots.org#@#.advert_area
 ||gantapeithoocypoda.cyou^
 ||gaohnonowmxay.website^
 ||gaoleddotycopra.cfd^
+||gaonarnut.shop^
 ||gapcontroversialprodigal.com^
 ||gapyprisons.shop^
 ||gaqxkizfpyhpc.site^
@@ -190690,6 +190704,7 @@ browsershots.org#@#.advert_area
 ||gnutplhbojrfe.site^
 ||gnuzwzdkplpqu.space^
 ||gnvpzgnvkvnfn.website^
+||gnwxaakozhrid.site^
 ||gnxfrlfjfbvel.website^
 ||gnxrcmngxiak.com^
 ||gnxzfqmoyvvjt.website^
@@ -191528,6 +191543,7 @@ browsershots.org#@#.advert_area
 ||hansgild.qpon^
 ||hanssubside.com^
 ||hanypkwwltkhj.online^
+||hapitonlichi.shop^
 ||haplessinfamia.com^
 ||haplycozily.qpon^
 ||happenedquantity.com^
@@ -192887,6 +192903,7 @@ browsershots.org#@#.advert_area
 ||iboepinaos.cyou^
 ||iboliumviolety.shop^
 ||ibotaburny.cfd^
+||ibqaskidumqqd.space^
 ||ibrapush.com^
 ||ibryte.com^
 ||ibutkbannljgd.site^
@@ -195741,6 +195758,7 @@ browsershots.org#@#.advert_area
 ||kloperd.com^
 ||kloppassway.cfd^
 ||klpgmansuchcesu.com^
+||klqfhfhpcbers.online^
 ||klrtspet.net^
 ||klsbjqzvalxso.online^
 ||klsylnruavtjc.com^
@@ -195849,6 +195867,7 @@ browsershots.org#@#.advert_area
 ||kodbviiemgkcr.site^
 ||kodvcvjyqtfsu.site^
 ||koeebuetwevng.space^
+||koeisagsqpwci.site^
 ||koeulypcduie.com^
 ||kofopib.com^
 ||kohadfzjolyfy.website^
@@ -197707,6 +197726,7 @@ browsershots.org#@#.advert_area
 ||lyedpdomdgykd.site^
 ||lyeempccaxuwq.site^
 ||lyepmjjjcwghi.online^
+||lyetxqpomlsbj.com^
 ||lyevznvskwrji.space^
 ||lyexrcudpidrv.store^
 ||lyhsallccctlwah.com^
@@ -200180,6 +200200,7 @@ browsershots.org#@#.advert_area
 ||nijxbipzegqqm.site^
 ||nikfkzdckuklb.site^
 ||nikkiexxxads.com^
+||nikkoannect.cfd^
 ||niktmeeqgvogw.online^
 ||nilgaisquipful.qpon^
 ||nillsfaxes.cfd^
@@ -202425,6 +202446,7 @@ browsershots.org#@#.advert_area
 ||paqxspfbapsai.site^
 ||paraderascaldefinitely.com^
 ||paradizeconstruction.com^
+||paraibauncomeabey.cfd^
 ||paralyzeddisreputablespin.com^
 ||paramedicwarlock.com^
 ||parameteroutprocedures.com^
@@ -202928,6 +202950,7 @@ browsershots.org#@#.advert_area
 ||petendereruk.com^
 ||peterlyricaldodge.com^
 ||peterpangmerit.com^
+||petlingfrownsscriber.cyou^
 ||petnfmfbfccdw.space^
 ||petrolgraphcredibility.com^
 ||petsrulefondness.com^
@@ -203374,6 +203397,7 @@ browsershots.org#@#.advert_area
 ||platformsto501.com^
 ||platformsto56.net^
 ||platformstoquarantine.net^
+||platiesperbend.cyou^
 ||platinumringshooker.com^
 ||platitudesingemulate.com^
 ||platooncombinedborrowed.com^
@@ -203910,6 +203934,7 @@ browsershots.org#@#.advert_area
 ||precipitationdisgracefulpeeks.com^
 ||precisionclick.com^
 ||precmd.com^
+||precoxobeish.com^
 ||precursortrimrequest.com^
 ||precursorwhiskeyleak.com^
 ||predatorvernonforefather.com^
@@ -203943,6 +203968,7 @@ browsershots.org#@#.advert_area
 ||pregnantskipper.com^
 ||prelectbeath.cyou^
 ||preludedopped.cyou^
+||premiosharia.cyou^
 ||premitunebbed.cyou^
 ||premiumads.net^
 ||premiumvertising.com^
@@ -205571,6 +205597,7 @@ browsershots.org#@#.advert_area
 ||rageagainstthesoap.com^
 ||ragerpelikaivoltes.cyou^
 ||rageruvanite.com^
+||ragfishchagoma.cyou^
 ||raggedstriking.com^
 ||raggedtwinheadmaster.com^
 ||raggedyreneg.cfd^
@@ -208374,6 +208401,7 @@ browsershots.org#@#.advert_area
 ||shhfmfubw.com^
 ||shhmnoej.com^
 ||shiahslummy.shop^
+||shikkerravages.shop^
 ||shiksalogions.cfd^
 ||shimmeringconcert.com^
 ||shindigoverdose.com^
@@ -208685,6 +208713,7 @@ browsershots.org#@#.advert_area
 ||sixft-apart.com^
 ||sixmossin.com^
 ||sixombhulafv.in^
+||sixsomepsywar.qpon^
 ||sixthlybromate.com^
 ||sixtieschanduy.com^
 ||sixytpaxhbgoq.space^
@@ -209564,6 +209593,7 @@ browsershots.org#@#.advert_area
 ||sptrck.com^
 ||sptrkr.com^
 ||spuaggokm.in^
+||spuddedxeme.cfd^
 ||spuddledyslogy.cyou^
 ||spudranges.cyou^
 ||spudsmoop.shop^
@@ -211493,6 +211523,7 @@ browsershots.org#@#.advert_area
 ||tkpopp.com^
 ||tkrwiwimyxfehm.com^
 ||tktzgajycssox.site^
+||tkuqmiueljcgd.online^
 ||tkwkrdsoaldaw.com^
 ||tkxkejnw.com^
 ||tkxnwxhhahmmh.space^
@@ -211650,6 +211681,7 @@ browsershots.org#@#.advert_area
 ||toluidslocust.cyou^
 ||toluidspiranha.cyou^
 ||tolvsoxmzazfb.online^
+||tomamuscovi.cyou^
 ||tomandligula.com^
 ||tomansbecramprinted.qpon^
 ||tomatoqqamber.click^
@@ -217376,6 +217408,7 @@ browsershots.org#@#.advert_area
 ||yibxebytevyif.website^
 ||yibxfyylqxswj.site^
 ||yidmcfdowkhec.space^
+||yiehzjniaxkly.com^
 ||yieldads.com^
 ||yieldbuild.com^
 ||yieldfrompacket.net^
@@ -335422,7 +335455,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-08-24T18:44:23.405Z
+! Last updated: 2026-08-24T19:23:23.129Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
