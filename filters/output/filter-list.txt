@@ -2,8 +2,8 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-08-28T02:06:47.206Z
-! Rules count: 337859
+! Last updated: 2026-08-28T02:24:55.764Z
+! Rules count: 337860
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -31011,6 +31011,7 @@ browsershots.org#@#.advert_area
 ||psoviehyaena.cyou^
 ||psqfpgxqsyq.com^
 ||psqnvvhohipcm.site^
+||pssdizllddxeq.site^
 ||psshqlfxthaza.online^
 ||psslbjewrblbw.website^
 ||pstciayvpsmhj.site^
