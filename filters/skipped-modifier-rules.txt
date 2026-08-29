@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-08-29T01:58:53.713Z
-# Count: 25776
+# Generated: 2026-08-29T20:39:59.219Z
+# Count: 25777
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -23440,6 +23440,7 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||offergate-software20.com^$dnsrewrite=ad-block.dns.adguard.com
 ||offergate-software6.com^$dnsrewrite=ad-block.dns.adguard.com
 ||olopruy.com^$dnsrewrite=ad-block.dns.adguard.com
+||omaaz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||omegaadblock.net^$dnsrewrite=ad-block.dns.adguard.com
 ||omg10.com^$dnsrewrite=ad-block.dns.adguard.com
 ||omgt3.com^$dnsrewrite=ad-block.dns.adguard.com
