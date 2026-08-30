@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-08-29T21:23:39.444Z
-# Count: 25777
+# Generated: 2026-08-30T20:46:45.953Z
+# Count: 25782
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -11595,10 +11595,12 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||1win.com^$ping
 ||aax-eu-dub.amazon.com^$script
 ||aax-us-iad.amazon.com^$script
+||aeis.alicdn.com/awsc/fireyejs/$script,domain=alibaba.com
 ||amazon.com/1/events/$domain=~aws.amazon.com
 ||amazon.com/empty.gif?$image
 ||api.ffm.to/sl/e/$image
 ||api.takealot.com^$ping
+||aplus.aliexpress.$image,ping,~third-party
 ||assets.aliexpress-media.com/g/AWSC/*/collina.js$script,domain=aliexpress.com|aliexpress.us
 ||assets.aliexpress-media.com/g/AWSC/*/fireyejs.js$script,domain=aliexpress.com|aliexpress.us
 ||assets.prod.abebookscdn.com/cdn/com/scripts/abepixel-$domain=abebooks.com
@@ -23739,6 +23741,9 @@ zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ||xxxjmp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xxxmatch.com^$dnsrewrite=ad-block.dns.adguard.com
 ||zononi.com^$dnsrewrite=ad-block.dns.adguard.com
+||dteifi.com^$dnsrewrite=ad-block.dns.adguard.com
+||thtrck.com^$dnsrewrite=ad-block.dns.adguard.com
+||crmared.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pressms.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||sinehut.com^$dnsrewrite=ad-block.dns.adguard.com
 ||paintejuke.com^$dnsrewrite=ad-block.dns.adguard.com
