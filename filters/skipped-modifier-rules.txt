@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-09-14T22:13:11.858Z
-# Count: 25807
+# Generated: 2026-09-15T21:01:21.659Z
+# Count: 25803
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -1959,7 +1959,6 @@ _468_60-$~script
 ||caroda.io^$third-party
 ||cdn.mcnn.pl^$third-party
 ||cdnreference.com^$third-party
-||charltonmedia.com^$third-party
 ||chitika.com^$third-party
 ||cibleclick.com^$third-party
 ||cinarra.com^$third-party
@@ -4013,6 +4012,7 @@ _468_60-$~script
 ||moncoerbb.com^$popup
 ||monetag.com^$popup
 ||monsterofnews.com^$popup
+||moonlighthathel.org^$popup
 ||moonrocketaffiliates.com^$popup
 ||mordoops.com^$popup
 ||mosrtaek.net^$popup
@@ -4671,6 +4671,7 @@ _468_60-$~script
 ||stvbiopr.net^$popup
 ||stvkr.com^$popup
 ||sudukrirga.net^$popup
+||summertisaridicu.org^$popup
 ||sunflowerbright106.io^$popup
 ||superadexchange.com^$popup
 ||superfastcdn.com^$popup
@@ -7249,7 +7250,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 /~shared/do/api/plausible/?id=$xmlhttprequest
 /~shared/do/~/click/?$image
 ://a869.$~image
-://fathom.$domain=~fathom.care|~fathom.co.za|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.news|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
+://fathom.$domain=~fathom.care|~fathom.co.za|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.news|~fathom.org|~fathom.services|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://l.*/counter.php?id=$script,~third-party
 ://l.*/script.php?i=$script,~third-party
 ://matomo.$domain=~matomo.dhjensen.dk|~matomo.org
@@ -12207,6 +12208,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 @@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
 @@||static.cloud.coveo.com/coveo.analytics.js/$domain=cabelas.com
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
+@@||static.klaviyo.com/onsite/js/event_adapter.$domain=gear.blizzard.com
 @@||static.knowledgehub.com/global/images/ping.gif?$~third-party
 @@||static.myfinance.com/widget/$domain=savingspro.org
 @@||static.pinpoll.com^$subdocument,domain=iframely.net
@@ -13706,15 +13708,17 @@ xszav2.com##+js(no-setTimeout-if, $("body").html)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=iconmonstr.com,xhr
 cinemablind.com##div[id][class^="popup"][class$="wrap"]
 @@||cdn.snigelweb.com/adengine/imagetotext.info/loader.js$domain=imagetotext.info
+pussyspace.com,pussyspace.net##a[href$="/watch/tiktok/"]
 $image,3p,denyallow=cdn77.org|globalcdn.co|others-cdn.com|rncdn7.com|sb-cd.com|stream.highwebmedia.com|thumb.live.mmcdn.com|upsiloncdn.net|xvideos-cdn.com|youjizz.com|ypncdn.com,domain=pussyspace.com|pussyspace.net
 ||pussyspace.$image
-@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/20\d{4}\/\d{2}\/\d{9}\/(?:original|thumbs_\d{2})\/\d{0,2}(?:\(m=e[0-9A-Za-z]{5,7}(?:aaaa)?\)\(mh=[-_0-9A-Za-z]{16}\))?\d{0,2}\.jpg$/$image,~3p,domain=pussyspace.com|pussyspace.net
-@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/thumbs169l\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{32}(?:-\d)?\/[0-9a-f]{32}\.\d{1,2}\.jpg$/$image,~3p,domain=pussyspace.com|pussyspace.net
-@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/thumbs_5\/\d{1,2}(?:\(m=e[0-9A-Za-z]{5,7}aaaa\)\(mh=[-_0-9A-Za-z]{16}\))?\.jpg$/$image,~3p,domain=pussyspace.com|pussyspace.net
-@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/[a-z]?jz\/(?:[0-9a-f]\/){3,5}[0-9a-f]{42}-?(?:\d{2,3}|(?:(?:\d{3,4}-){3}h264)?\.(?:mp4-\d{1,2}|flv-\d))\.jpg$/$image,~3p,domain=pussyspace.com|pussyspace.net
-@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/sb\/t\/\d{6,8}\/\d\/\d\/w:300\/t\d{1,2}-enh\/(?:[0-9a-z]+-)*[0-9a-z]+\.jpg$/$image,~3p,domain=pussyspace.com|pussyspace.net
-@@/^https:\/\/st\.pussyspace\.(?:com|net)\/upload\/cat\.image\/[_3a-z]{2,16}\.jpg$/$image,~3p,domain=pussyspace.com|pussyspace.net
-@@/^https:\/\/st\.pussyspace\.(?:com|net)\/upload\/poster_img_url\/par\/c3Rhci9[%0-9A-Za-z]{16,32}&size_width\/par\/160\/l\.jpg$/$image,~3p,domain=pussyspace.com|pussyspace.net
+@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/xv7\/[0-9a-f]{8}-(?:[0-9a-f]{4}-){3}[0-9a-f]{12}\/\d\/xv_\d{1,2}_t\.jpg$/$image,domain=pussyspace.com|pussyspace.net
+@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/20\d{4}\/\d{2}\/\d{9}\/(?:original|thumbs_\d{2})\/\d{0,2}(?:\(m=e[0-9A-Za-z]{5,7}(?:aaaa)?\)\(mh=[-_0-9A-Za-z]{16}\))?\d{0,2}\.jpg$/$image,domain=pussyspace.com|pussyspace.net
+@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/thumbs169l\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{32}(?:-\d)?\/[0-9a-f]{32}\.\d{1,2}\.jpg$/$image,domain=pussyspace.com|pussyspace.net
+@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/thumbs_5\/\d{1,2}(?:\(m=e[0-9A-Za-z]{5,7}aaaa\)\(mh=[-_0-9A-Za-z]{16}\))?\.jpg$/$image,domain=pussyspace.com|pussyspace.net
+@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/[a-z]?jz\/(?:[0-9a-f]\/){3,5}[0-9a-f]{42}-?(?:\d{2,3}|(?:(?:\d{3,4}-){3}h264)?\.(?:mp4-\d{1,2}|flv-\d))\.jpg$/$image,domain=pussyspace.com|pussyspace.net
+@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/sb\/t\/\d{6,8}\/(?:\d|[0-9a-f]{2})\/(?:\d|[0-9a-f]{2})\/w:300\/t\d{1,2}-enh\/(?:[0-9a-z]+-)*[0-9a-z]+\.jpg$/$image,domain=pussyspace.com|pussyspace.net
+@@/^https:\/\/www\.pussyspace\.(?:com|net)\/upload\/cat\.image\/[_3a-z]{2,16}\.jpg$/$image,~3p,domain=pussyspace.com|pussyspace.net
+@@/^https:\/\/www\.pussyspace\.(?:com|net)\/upload\/poster_img_url\/par\/c3Rhci9[%0-9A-Za-z]{16,32}&size_width\/par\/160\/l\.jpg$/$image,domain=pussyspace.com|pussyspace.net
 @@||upfilesgo.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=falpus.com|fooak.com|upfiles-urls.com|upfiles.app|upfion.com
 @@||citynews.ca/*/get_ad_$domain=citynews.ca
@@ -13859,7 +13863,6 @@ beermoneyforum.com##+js(abort-current-script, $, initDetection)
 footy.to##+js(abort-current-script, $, ad-modal)
 @@/wp-content/plugins/imedia-basic/adserver-*.js$domain=sgxnifty.org|dollarindex.org|cacfutures.org|dowfutures.org|nasdaqfutures.org|spfutures.org|ftsefutures.org|daxfutures.org|nikkeifutures.org|comexlive.org|ncdexlive.org
 ||services.vlitag.com/adv$script,redirect=noop.js,domain=mangasco.com
-vaughn.live##div[class$="MvnAbvsLowerThirdWrapper"]:style(position: absolute !important; left: -3000px !important;)
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noop.js,domain=vrcmods.com
 ||a.pub.network^$script,redirect=noop.js,domain=vrcmods.com
 xtremestream.co##+js(abort-current-script, $, .height())
@@ -14501,7 +14504,6 @@ nulledteam.com##+js(abort-current-script, $, !document.getElementById(btoa)
 @@||pubads.g.doubleclick.net^$domain=twitch.tv
 @@||mapquest.com^$generichide
 @@||anime-loads.org^$generichide
-@@||hdbox.ws^$generichide
 @@||azdictionary.com^$generichide
 @@||tvarticles.org^$generichide
 ||video-ads.rubiconproject.com/video/*/vast.xml$redirect=noop.txt,important,image,media,subdocument,stylesheet,script,xhr,other
@@ -14917,6 +14919,7 @@ ashkelonim.co.il##+js(abort-current-script, $, setImageBanner)
 ||a7.org/*/*?func=Info.Insert&$domain=inn.co.il
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ynet.co.il
 @@/walla_vod/*$domain=walla.co.il
+@@/favicon.ico^$domain=cinefreak.nl
 ||kutchuday.in/wp-content/uploads/*/add-$image
 @@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$domain=timesnowhindi.com|timesnowmarathi.com
 @@||hindi.business-standard.com^$generichide
@@ -17069,7 +17072,7 @@ porntopic.com,sexwebvideo.com###kt_player > .fp-player + a[href$="/?play=true"][
 ||bebi.com/js^$redirect=noop.txt,image,media,subdocument,stylesheet,script,xhr,other
 ||static.livesport.ws/uploads/*240x400$image
 ||celebrity-leaks.net/*.php$script
-.com/ads/$domain=hdbraze.com
+.com/ads/$domain=hdbraze.com|livelive24.com
 /^https?:\/\/anysex\.com\/[a-zA-Z]{1,4}\/[a-zA-Z]+\.php$/$image,script,domain=anysex.com
 /simply-hentai.com\/javascripts\/[_-a-zA-Z0-9]{5,}.js/$domain=simply-hentai.com
 /pornrabbit.com\/[a-z0-9]{1,2}.php/$domain=pornrabbit.com
@@ -19755,7 +19758,6 @@ wss://www.*.xyz/ws^$3p
 ||caroda.io^$3p
 ||cdn.mcnn.pl^$3p
 ||cdnreference.com^$3p
-||charltonmedia.com^$3p
 ||chitika.com^$3p
 ||cibleclick.com^$3p
 ||cinarra.com^$3p
@@ -24222,13 +24224,7 @@ luxuretv.com##+js(acs, $, ltvModal)
 ||sexu.com^$frame,1p
 /click.php?$popup,3p,domain=pussyspace.com|pussyspace.net
 $image,3p,denyallow=cdn77.org|fpbns.net|globalcdn.co|others-cdn.com|rncdn7.com|sb-cd.com|stream.highwebmedia.com|thumb.live.mmcdn.com|upsiloncdn.net|xvideos-cdn.com|youjizz.com|ypncdn.com,from=pussyspace.com|pussyspace.net
-@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/20\d{4}\/\d{2}\/\d{9}\/(?:original|thumbs_\d{2})\/\d{0,2}(?:\(m=e[0-9A-Za-z]{5,7}(?:aaaa)?\)\(mh=[-_0-9A-Za-z]{16}\))?\d{0,2}\.jpg$/$image,1p,domain=pussyspace.com|pussyspace.net
-@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/thumbs169l\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{32}(?:-\d)?\/[0-9a-f]{32}\.\d{1,2}\.jpg$/$image,1p,domain=pussyspace.com|pussyspace.net
-@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/thumbs_5\/\d{1,2}(?:\(m=e[0-9A-Za-z]{5,7}aaaa\)\(mh=[-_0-9A-Za-z]{16}\))?\.jpg$/$image,1p,domain=pussyspace.com|pussyspace.net
-@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/[a-z]?jz\/(?:[0-9a-f]\/){3,5}[0-9a-f]{42}-?(?:\d{2,3}|(?:(?:\d{3,4}-){3}h264)?\.(?:mp4-\d{1,2}|flv-\d))\.jpg$/$image,1p,domain=pussyspace.com|pussyspace.net
-@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/sb\/t\/\d{6,8}\/\d\/\d\/w:300\/t\d{1,2}-enh\/(?:[0-9a-z]+-)*[0-9a-z]+\.jpg$/$image,1p,domain=pussyspace.com|pussyspace.net
-@@/^https:\/\/st\.pussyspace\.(?:com|net)\/upload\/cat\.image\/[_3a-z]{2,16}\.jpg$/$image,1p,domain=pussyspace.com|pussyspace.net
-@@/^https:\/\/st\.pussyspace\.(?:com|net)\/upload\/poster_img_url\/par\/c3Rhci9[%0-9A-Za-z]{16,32}&size_width\/par\/160\/l\.jpg$/$image,1p,domain=pussyspace.com|pussyspace.net
+@@/^https:\/\/www\.pussyspace\.(?:com|net)\/upload\/cat\.image\/[_3a-z]{2,16}\.jpg$/$image,domain=pussyspace.com|pussyspace.net
 ||propbigo.com/*.xml$xhr,redirect=nooptext
 ||porndig.com/sw$script,1p
 ||googlesyndication.com^$script,important,domain=incredibox.com
