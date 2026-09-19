@@ -1,7 +1,7 @@
 # Skipped modifier-bearing rules
 # These rules contain `$` modifiers and were not converted to host-style formats
-# Generated: 2026-09-18T21:22:40.960Z
-# Count: 25817
+# Generated: 2026-09-19T20:16:41.277Z
+# Count: 25825
 
 &rb=&uuid=$third-party
 &subaffid=%$subdocument,third-party
@@ -2519,6 +2519,7 @@ _468_60-$~script
 ||slimspots.com^$third-party
 ||slopeaota.com^$third-party
 ||smac-ad.com^$third-party
+||smadex.com^$third-party
 ||smalk.ai^$third-party
 ||smartasset.com^$third-party
 ||smartclip.net^$third-party,domain=~toggo.de
@@ -11592,6 +11593,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||amazon.com/1/events/$domain=~aws.amazon.com
 ||amazon.com/empty.gif?$image
 ||api.ffm.to/sl/e/$image
+||api.oaistatsig.com/v1/sdk_exception^$xmlhttprequest,domain=chatgpt.com
 ||api.takealot.com^$ping
 ||aplus.aliexpress.$image,ping,~third-party
 ||aplus.aliexpress.com^$ping
@@ -11608,6 +11610,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||capital.com^$ping
 ||cdn.gov.cfigroup.com/webmon/s/source/webmon/$domain=weather.gov
 ||cdn.jsdelivr.net/gh/bmhtech07/adTorch/js/collect.min.js$script,domain=propanefitness.com
+||chatgpt.com/awe/api/v2/rum^$ping,xmlhttprequest
+||chatgpt.com/backend-api/codex/app-download-signal^$xmlhttprequest
+||chatgpt.com/ces/v1/telemetry/intake^$ping,xmlhttprequest
+||chatgpt.com/unauth-mweb/events/$ping,xmlhttprequest
 ||classistatic.com^*/js/lib/prebid-7.5.0.min.js$script,domain=kijiji.ca
 ||click.aliexpress.com^$image
 ||connatix.com/scripts/$~third-party
@@ -20328,6 +20334,7 @@ wss://www.*.xyz/ws^$3p
 ||slimspots.com^$3p
 ||slopeaota.com^$3p
 ||smac-ad.com^$3p
+||smadex.com^$3p
 ||smalk.ai^$3p
 ||smartasset.com^$3p
 ||smartclip.net^$3p,domain=~toggo.de
@@ -22504,6 +22511,7 @@ sostav.ru##div:has(> p>a[href$="/page/policy"])
 @@||gouvernement.fr^*/tarteaucitron/$~third-party
 @@||group.vig/assets/js/modules/cookieconsent/cookieconsent.js$~third-party
 @@||gstatic.com/brandstudio/kato/cookie_choice_component/$script,domain=blog.google
+@@||gus.etsmtl.ca/c2atom/Scripts/Atom/Managers/CookiesManager.js$script,~third-party
 @@||hellenicbank.com/portalserver/*/cookies-consent.js$script
 @@||help-center-cdn.oaistatic.com/assets/cookie-consent-banner-$script,domain=help.openai.com
 @@||herzum.com/node_modules/.vite/deps/react-cookie-consent.js$~third-party
