@@ -2,7 +2,7 @@
 ! Description: Combined filter list from multiple sources
 ! Homepage: https://github.com/greigh/blockingmachine
 ! Version: 3.0.0
-! Last updated: 2026-09-25T21:55:46.861Z
+! Last updated: 2026-09-26T20:49:08.008Z
 ! Rules count: 222275
 [Adblock Plus 2.0]
 &rb=&uuid=$third-party
@@ -222155,7 +222155,7 @@ techdracula.com##ins.adsbygoogle
 ! BlockingMachine Rules
 ! Filters other filters miss or shouldn't be blocked
 ! This file is updated manually and is not automatically updated by the CLI.
-! Last updated: 2026-09-25T21:55:46.867Z
+! Last updated: 2026-09-26T20:49:08.014Z
 !
 ! Brave (brave.com) Browser Fixes
 @@||brave.com^$important
